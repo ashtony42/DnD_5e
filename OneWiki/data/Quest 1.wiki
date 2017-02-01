@@ -22,7 +22,7 @@ END AUGSBURG CINEMATIC
 
 
 Entities of interest:
--Marine Outpost: with 5 marines. Located near the docks so they can keep an eye on their small vessel. 
+-Marine Outpost: with 5 marines. Located near the docks so they can keep an eye on their small vessel (sailboat). 
     -Recruitment poster: "we want YOU! Help defend justice!"
 	-Marine vessel: not armed for combat, but is built sturdy for traveling far on the ocean.
 		Type: sloop
@@ -31,12 +31,12 @@ Entities of interest:
 		[Rex The Smasher](150 Gold)
 		[Redbeard The Unlucky]( 20 Gold)
 
--Docks:  run by Dock Master Mc Rock a task oriented person who likes to meet his deadlines. He is currently working on building another fishing boat for the town. He has Shipwright skill of level 3 and his 5 workers have a skill of level 2. 
-	-Dock Master Mc Rock will attempt to give strong characters some work in order to finish the boat by tomorrow, this will consume the rest of the day for the character. (+10 copper per point of strength is earned) 
+-Docks:  run by Dock Master Mc Rock a task oriented person who likes to meet his deadlines. He is currently working on building another fishing boat for the town. 
+	-Dock Master Mc Rock will attempt to give strong characters (14+) some work in order to finish the boat by tomorrow, this will consume the rest of the day for the character. (+2 silver per point of strength is earned) 
 
 -Market Square: Merchants include:  
 	Grocer for common foods and herbs. Run by Anabel, the mayor's daughter.
-		-fish, corn, bread, potatoes, beans, herbs	
+		-fish, corn, bread, potatoes, beans, herbs(dandelion, thistle)	
 	Farming Supply for tools and hardware supplies. Run by Lenny, a common man.
 		-pitch forks, scythes, tilling tools, seeds, hammers, nails
 	Pawn Shop for odd items. Run by the weird Mr. Maej, resembling a hunchback. 
@@ -47,23 +47,24 @@ Entities of interest:
 		-Headline "Another ship of [Don Kreig]'s pillages a shoreline village of Arabasta, Damage is devastating"
 	Greg's Grub a small restaurant run by Greg. Serving various type of fish and vegetables. Greg is an entrepreneur who believes in the fabled "All Blue" that has all a chef could ever want.
 	The Crying Clam a small bar that serves a few imported alcoholic beverages. Operated by Dave, a relaxed fellow.	Inside can be found [Redbeard The Unlucky] who the Marines were too unlucky to spot as he entered the town. He is depressed and drinking his sorrow away. His ship is located on the southern side of the island. 
-		Type: Naval Snow
+		Type: Sailboat
 
--Mayor Ubring's House: This is the major's house, he's a jolly man who enjoys the peaceful life of Augsburg. He has a son who works as a Dockworker, Jordan, and a daughter who works the town's Grocer, Anabel. In a safe located in his room, an Akuma Fruit can be aquired. Lockpicking difficulty 7 is needed to open it. Only the mayor has the combination. 
+-Mayor Ubring's House: This is the major's house, he's a jolly man who enjoys the peaceful life of Augsburg. He has a son who works as a Dockworker, Jordan, and a daughter who works the town's Grocer, Anabel. In a safe located in his room, an Akuma Fruit can be aquired. Lockpicking difficulty 25 is needed to open it. Only the mayor has the combination. 
 
 
 
 
 Day Two
-An unexpected raid by one of Don Kreig's Navy vessels attacks the island. The Heroes are awakened early in the morning by the shouting of a farmer running in on horseback through the town. (Perception Check of 3+] "HELP HELP! ITS DON KRIEGS MEN!" The total number of pirates raiding the farmland at this point is 25, scattered and plundering for valuables. A barn is shot by some of the cannons from Don's vessel and is set ablaze. Our heroes can see the smoke from the town on their side of the island. 
+An unexpected raid by one of Don Kreig's Navy vessels attacks the island. The Heroes are awakened early in the morning by the shouting of a farmer running in on horseback through the town. (Perception Check of 10] "HELP HELP! ITS DON KRIEGS MEN!" The total number of pirates raiding the farmland at this point is 20, scattered and plundering for valuables. A barn is shot by some of the cannons from Don's vessel and is set ablaze. Our heroes can see the smoke from the town on their side of the island. 
 
-There are also another 5 men stationed to guard their Vessel. Some are cooks and other non-combat related crew members. The Leader, Lieutenant Ned (stats under [Don Kreig], is in charge of the vessel.
-	Ship Type: Naval Snow
-	Loot: in a chest in the cargo hold, from a previously plundered island can be found several silver (6d6) and a randomized Akuma Fruit
+There are also another 3 men stationed to guard their Vessel. Some are cooks and other non-combat related crew members (Commoners). The Leader, Lieutenant Ned (stats under [Don Kreig], is in charge of the vessel.
+	Ship Type: Sail Boat
+	Loot: in a chest in the cargo hold, from a previously plundered island can be found several gold (10d6) and a randomized Akuma Fruit, random roll for trinket
+	   Barrels, rations, drink, 5gp worth of trade goods
 
-Upon hearing the shout, the 5 marines quickly mobilize with their short swords and head out to stop the attack. If the party hears and reacts to the Perception check, they react at the same time and will have an opportunity to join them. 
+Upon hearing the shout, the 5 marines (guards) quickly mobilize with their short swords and head out to stop the attack. If the party hears and reacts to the Perception check, they react at the same time and will have an opportunity to join them. 
 
-If unassisted they will die, killing 10 Krieg thugs before going down. 15 Thugs left. 
+If unassisted they will die, killing 10 Krieg thugs before going down. 10 Thugs left. 
 	Solider Stats => [Marines] 
 One will run back, bloody and wounded informing the rest of the village to flee on whatever vessels available before collapsing.
 
@@ -74,10 +75,8 @@ If heroes counter Krieg thugs, Krieg Thugs retreat
 if heroes are in a life threatening situation, [Redbeard The Unlucky] will save the day, if heroes fight alongside him, Redbeard will offer heroes to join his crew. 
 	(everyone nearby redbeard rerolls successful hits, they reroll twice if they are an enemy.)
 
-Opportunity Heroes may attempt to join Redbeard the Unlucky's crew, or persuade him to join THEIR crew (difficulty 3)
+Opportunity Heroes may attempt to join Redbeard the Unlucky's crew, or persuade him to join THEIR crew (difficulty 15)
 
 Opportunity Heroes may use a vessel to evacuate the island and form own crew.
 
-Opportunity Heroes may attempt to join Krieg Thugs via a persuasion skill (difficulty 5 using diplomacy, difficulty 6 otherwise)
-
-Rewards Resolving the Krieg Thug attack will result in quest credit.
+Opportunity Heroes may attempt to join Krieg Thugs via a persuasion skill (difficulty 20)
