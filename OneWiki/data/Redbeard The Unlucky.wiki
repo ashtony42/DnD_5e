@@ -7,9 +7,11 @@ Visual Description:
 A older looking man who has a large dirty redish colored beard. Wearing a large dark red trench coat
 
 Human 
-Leather Armour 
-Shield         
-Spear          
+HP 20
+STR 12 DEX 10 CON 12 INT 10 WIS 8 CHA 10
+AC 14 (leather & shield)         
+1d6+1 Spear
+1d8+1 Spear 2-handed           
 
 
  
