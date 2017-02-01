@@ -1,0 +1,19 @@
+﻿++ Marines
+
+A law enforcement force throughout the world, funded by the world government
+
+
+
+
+
+
++++Marine Soldier
+(use DND 5e Guard pg 347)
+Weapons:   
+    Short Sword 1D6  
+    Musket      1D12 miss turn to reload
+Chain Armor +4 DV
+
+Totals
+ 
+HP 20  DV 4  INIT 4

@@ -1,0 +1,9 @@
+﻿++ One Wiki
+
+[AkumaFruits]
+[Characters]
+[Towns]
+[Organizations]
+
+[Quests]
+	* WikiSettings

@@ -1,0 +1,28 @@
+﻿++ Don Kreig
+
+One of the most successful pirates currently alive. He operates a large fleet of pirates with about 10 ships and a total crew count of about 700. He himself is a rather rude and disgruntled man who wears a great set of plate armor.
+
+Current Bounty Issued by the marines: 200 Gold
+
++++Don Kreig
+Human 
+Platemail Armour 
+Shield           
+Spear         
+
+ 
++++Pirate Grunt
+(use DND 5e Bandit pg 343)
+Weapons:   
+    Dagger      
+    Short Sword 
+    Hatchet     
+    Mace        
+Leather Armor 
+
+
++++ Leutenant Ned
+(use DND 5e Thug pg350)
+Short Sword 1D6
+Chainmail
+
