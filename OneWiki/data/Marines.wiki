@@ -2,18 +2,20 @@
 
 A law enforcement force throughout the world, funded by the world government
 
+currently has bounties on
+		Pirate Admiral [Don Kreig](250 Gold)
+		[Rex The Smasher](150 Gold)
+		[Redbeard The Unlucky]( 20 Gold)  CLAIMED BY KEIRAN
 
 
-
-
+Ranks:
+Admiral (leader of the organization)
+Vice Admirals (leaders of regions)
+Captains (leaders of vessels)
+Officers (leaders of companies)
+Private (soliders)
 
 +++Marine Soldier
 (use DND 5e Guard pg 347)
-Weapons:   
-    Short Sword 1D6  
-    Musket      1D12 miss turn to reload
-Chain Armor +4 DV
 
-Totals
- 
-HP 20  DV 4  INIT 4
+

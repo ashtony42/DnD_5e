@@ -15,9 +15,7 @@ The first day is a common day on Augsburg, the city can be explored and is prima
 
 
 AUGSBURG CINEMATIC
-A nice fresh smell of a calm farming lifestyle fills your senses. The land here is flat and fertile. The people here work hard to tend to it, various crops are grown here including corn, wheat, lettuce, beans and potatoes.  Fishing is also a common practice here, as there are no raised livestock for meat in people's diet. The whole island probably is large enough to contain 30 crop fields run by several different farming families. Our heroes today find themselves at the start of on an off-day from work from their respective professions and can explore the town. The weather is sunny and nice. Everyone is currently at the town Bar/Inn, the Crying Clam where they each have a respective room.
-
-Interesting places in the town include the Crying Clam that everyone is current located, market square, the marine outpost, the shipping docks, the restaurant Greg's Grub, and the mayor's house.
+[Augsburg] description
 END AUGSBURG CINEMATIC
 
 
@@ -29,7 +27,7 @@ Entities of interest:
 	-Wanted posters in front of the marine outpost:  
 		Pirate Admiral [Don Kreig](250 Gold)
 		[Rex The Smasher](150 Gold)
-		[Redbeard The Unlucky]( 20 Gold) PAID OUT TO Kieran
+		[Redbeard The Unlucky]( 20 Gold)
 
 -Docks:  run by Dock Master Mc Rock a task oriented person who likes to meet his deadlines. He is currently working on building another fishing boat for the town. 
 	-Dock Master Mc Rock will attempt to give strong characters (14+) some work in order to finish the boat by tomorrow, this will consume the rest of the day for the character. (+2 silver per point of strength is earned) 
@@ -73,7 +71,6 @@ If heroes can take down at least 5 thugs, the rest will be defeated by other tow
 If heroes decide to flee the island, Krieg Thugs will loot and continue to attack the island, but not pursue heroes.
 If heroes counter Krieg thugs, Krieg Thugs retreat
 if heroes are in a life threatening situation, [Redbeard The Unlucky] will save the day, if heroes fight alongside him, Redbeard will offer heroes to join his crew. 
-	(everyone nearby redbeard rerolls successful hits, they reroll twice if they are an enemy.)
 
 Opportunity Heroes may attempt to join Redbeard the Unlucky's crew, or persuade him to join THEIR crew (difficulty 15)
 
