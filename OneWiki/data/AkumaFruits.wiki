@@ -1,5 +1,7 @@
 ﻿++ Akuma Fruits
 
+Devil fruits are said to be made from energy of the gods that the god [Tharizdun] then placed inside of fruits to play with mortals. Mortals are rarely able to handle the powers obtained by these fruits, but for those who do, great power can sometimes be bestowed. Many people don't believe in the existence of these fruits, that instead people are just naturally talented wizards instead. The general curse known by all who have consumed these is the innability to function in the ocean.  
+
 When Acquiring a new akuma fruit, the type of fruit is the result of a D6 roll by the player:
 6   Logia
 4-5 Paramecia
