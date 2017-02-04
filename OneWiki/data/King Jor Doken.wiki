@@ -1,0 +1,11 @@
+﻿++ King Jor Doken
+
+Jor Doken is a strong willed Dwarf, the king of Mayara.
+
+STR 18  DEX 10  CON 16   INT 12  WIS 14  CHR 12
+
+40hp
+AC 18 platemail 
+Warhammer (+6 to hit)
+1d8  1-handed
+1d10 2-handed

@@ -13,8 +13,11 @@ Lush green vegetation covers the large hill of an island. The sounds of all kind
     Fishing villages have about 3 commoners who catch fish, and will sell them at a discounted price if you buy them directly from the post (1cp per fish!)
       the commoners tend to have 1d20 copper on them.
        
-    Each outer island, if explored a chance to stumble upon a hidden acient elven ruin can happen. (diff 20)
+    Each outer island, if explored has a chance to stumble upon a hidden acient elven ruin can happen. (diff 20, diff 15 if [Legend of Regdar] has been read)
       -history check of 15 can identify the ruins as elven made
+      -druid will instantly see glowing druidic text of "Leave, do not cleave that which has been cleaved"
+      -there is a stone with a counter clockwise jagged spiral pattern on it, behind it of which is a mummified piece of Tharizdun
+        if 6 pieces are collected (head,torso,arm,arm,leg,leg) Tharizdun will be reborn
          
        
 Central island:
@@ -32,9 +35,10 @@ Places of interest in Mayara:
       Marine Embassy
       Mayara barracks
       King's palace
+        Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet build with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury.
     COMMON AREA
       Temple of Elysium
-        -dieties of the forgotten realms (pg 294 player handbook)
+        -dieties (pg 10 DM handbook)
       Market
         -blacksmith
         -herbalist
@@ -44,6 +48,10 @@ Places of interest in Mayara:
             2cp x lb of chicken (1d6) (5 at stall)
             1gp per goat (2 at stall)
             3gp per pig (2 at stall)
+      Carpenter's Guild (the Carps)
+        This guild is comprised mostly of elves who work indipendently of elegant wooden furniture and architecture, with other races amungst them, excluding dwarves.
+      Mason's Guild (the Masos)
+        This guild is comprised mostly of dwarves who work in a disciplined manner in teams making bricks and stone works of art. Other races are amungst them, excluding elves.
         
 A very happy pleasant fellow named Geth is a cartographer who has lived in the town for a long time and is quick to spot newcomers to sell is town maps to.
     2 silver for a map!        

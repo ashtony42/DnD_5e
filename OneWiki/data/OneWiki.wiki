@@ -4,6 +4,7 @@
 [Characters]
 [Towns]
 [Organizations]
+[Gods]
 
 [Quests]
 	* WikiSettings
