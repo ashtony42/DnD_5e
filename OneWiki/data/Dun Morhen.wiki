@@ -1,0 +1,38 @@
+﻿++ Dun Morhen
+
+This is a temperate forrested type of island that is rather large. It has no port towns, and it's residents tend to live self sustaining life styles. In the center of this island is the School of the Roc.
+
+The School of the Roc is an ancient elven ruin inhabited by the students of the School of the Roc. Highly skilled warriors.
+
+(use "Bandit Captain" stats for any one school member pg 344 of monster manual)
+
+Feronia Vie (High Elf)
+Wizard
+A runnaway queen of [Norrath]
+
+Nifle VanHivener (Human)
+Quarter staff
+Feronia's right hand man
+
+Marren (Human)
+Great Sword
+Hunter from [Fiore]
+
+Grund (Half Orc)
+Great Axe
+Refugee from [Luthadel]
+
+Varneth (Drow)
+Long Bow
+Former pirate captain
+
+Wildlife includes (monster book):
+    Griffon (pg 174)
+    Hippogriff (pg 184)
+    Wolves (pg 341)
+    Elk (pg 322)
+    Brown Bear (pg 319)
+    Gray Ooze (pg 243) looks like a wet rock
+    Owl Bear (pg 249)
+    
+    

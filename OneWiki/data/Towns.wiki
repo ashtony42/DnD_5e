@@ -1,11 +1,12 @@
 ﻿++ Towns
 
 [Augsburg] (starter town)
-Luthadel (mistborn luthadel)  diff 5  Beyond Nightbrook
+[Luthadel] (mistborn luthadel)  diff 5  Beyond Nightbrook
 Impell Down (One Piece prison)    diff 4
 [Fiore]  (magical peaceful island)    diff 1 
 Nightbrook  (mind games, nightvale)  diff 2
 Elbaf  (one piece land of giants)  diff 3
 Alexandria  (huge trade center, library) diff 2
 Arabasta (large desert island) diff 1
-Dun Morhen (temperate island of dwarvish monster hunters) diff 2
+[Dun Morhen] (temperate island of dwarvish monster hunters) diff 2
+[Norrath]
