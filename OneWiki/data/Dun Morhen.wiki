@@ -16,7 +16,7 @@ Feronia's right hand man
 
 Marren (Human)
 Great Sword
-Hunter from [Fiore]
+Hunter from [Fiore] wanting to be the best hunter, training in Dun Morhen.
 
 Grund (Half Orc)
 Great Axe
@@ -24,7 +24,7 @@ Refugee from [Luthadel]
 
 Varneth (Drow)
 Long Bow
-Former pirate captain
+Former pirate captain of the NightWraith pirates. A band of rogues who disbanded after the largest heist of their career against [Luthadel]
 
 Wildlife includes (monster book):
     Griffon (pg 174)

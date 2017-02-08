@@ -5,6 +5,7 @@
 [Towns]
 [Organizations]
 [Gods]
+[Books]
 
 [Quests]
 	* WikiSettings
