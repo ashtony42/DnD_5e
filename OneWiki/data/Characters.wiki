@@ -1,7 +1,24 @@
 ﻿++ Characters
-
+Pirates:
 [Don Kreig]
 [Golando David Rogers]
 [Redbeard The Unlucky]
 [Rex The Smasher]
+[Varneth]
+
+Legendary Heroes:
 [Regdar]
+
+World Leathers:
+[King Jor Doken]
+[Venril Sathir]
+
+Other:
+[Feronia Vie]
+[Nifle Vanhivener]
+[Marren]
+[Grund]
+
+
+NPC:
+[Daniel]

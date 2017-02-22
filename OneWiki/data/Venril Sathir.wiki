@@ -1,0 +1,33 @@
+﻿++ Venril Sathir
+
+The God King of [Luthadel]
+A very oppressive king who has undergone dragon mutations as well as having consumed the Etherium element akuma fruit.
+His very existence is for perpetuating the seal he has on the god [Gruumsh] through a synergystic process of using his own
+etherium existence to both extend his own life as well as power the seal.
+
+STR 20, DEX 20, CON 20, WIS 16, INT 16, CHA 12
+
+170hp
+AC 18+3 God King's Platemail (req str 16)
+Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook)
+Ring of Telekinesis
+Ring of Regeneration (pg 191 DM handbook) +1d6 HP per 10 minutes, body parts can regrow after a few days
+Ring of Jumping
+Rapier 1d8+5(+7 to hit)
+
+
+Spells: 
+Fireball: 8d6 damage to all creatures in a 20ft radius of target
+Detect Magic
+Dispell Magic (pg 234 player handbook)
+Dispell Good
+Speak with Dead
+
+Akumafruit:
+Etherium element
+    Damage Immunities:
+        Bludgeoning, Piercing, Poison, Slashing 
+    Damage Resistant:
+        Cold, Fire, Lightning, Thunder
+    Damage Vulnerable:
+        Necrotic, Psychic, Radiant, Force

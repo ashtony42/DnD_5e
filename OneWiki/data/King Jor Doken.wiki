@@ -4,8 +4,12 @@ Jor Doken is a strong willed Dwarf, the king of Mayara.
 
 STR 18  DEX 10  CON 16   INT 12  WIS 14  CHR 12
 
-40hp
+100hp
 AC 18 platemail 
-Warhammer (+6 to hit)
-1d8  1-handed
-1d10 2-handed
+Ring of Resistance Psychic (Jade)
+Ring of Resistance Cold (Tourmaline)
+Ring of Resistance Fire (Garnet)
+
+Warhammer +1 (+6 to hit)
+1d8+5  1-handed
+1d10+5 2-handed

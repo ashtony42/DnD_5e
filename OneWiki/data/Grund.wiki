@@ -1,0 +1,6 @@
+﻿++ Grund
+
+(use "Bandit Captain" pg 344 of monster manual)
+Half Orc - Barbarian
+Great Axe +5 to hit (1d12+3 slash)
+Refugee from [Luthadel]

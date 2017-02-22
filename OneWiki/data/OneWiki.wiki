@@ -9,3 +9,7 @@
 
 [Quests]
 	* WikiSettings
+
+
+[Players]
+[Special Creatures]

@@ -4,27 +4,11 @@ This is a temperate forrested type of island that is rather large. It has no por
 
 The School of the Roc is an ancient elven ruin inhabited by the students of the School of the Roc. Highly skilled warriors.
 
-(use "Bandit Captain" stats for any one school member pg 344 of monster manual)
-
-Feronia Vie (High Elf)
-Wizard
-A runnaway queen of [Norrath]
-
-Nifle VanHivener (Wood Elf)
-Quarter staff
-Feronia's right hand man
-
-Marren (Human)
-Great Sword
-Hunter from [Fiore] wanting to be the best hunter, training in Dun Morhen.
-
-Grund (Half Orc)
-Great Axe
-Refugee from [Luthadel]
-
-Varneth (Drow)
-Long Bow
-Former pirate captain of the NightWraith pirates. A band of rogues who disbanded after the largest heist of their career against [Luthadel]
+[Feronia Vie] (High Elf)
+[Nifle Vanhivener] (Wood Elf)
+[Marren] (Human)
+[Grund] (Half Orc)
+[Varneth] (Drow)
 
 Wildlife includes (monster book):
     Griffon (pg 174)
@@ -32,7 +16,8 @@ Wildlife includes (monster book):
     Wolves (pg 341)
     Elk (pg 322)
     Brown Bear (pg 319)
-    Gray Ooze (pg 243) looks like a wet rock
+    Gray Ooze (pg 243) looks like a wet rock, caused by ash drifted from [Luthadel]
     Owl Bear (pg 249)
+    Dire Wolves (pg 321)
     
     

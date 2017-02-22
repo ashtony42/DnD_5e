@@ -17,6 +17,6 @@ loot: 1d4 silver
 
 
 +++ Leutenant Ned
-(use DND 5e Thug pg350)
-loot: 1d4 gold
+(use DND 5e Thug pg350) or (bandit captain pg344 for higher level)
+loot: 1d4+4 gold
 

@@ -24,6 +24,7 @@ LOGIA
 11. Glue element
 12. Crystal element
 13. Shadow element [Gecko Moria]
+14. Etherium element [Venril Sathir]
 
 ZOAN
 1. Bear - Triggered by anger

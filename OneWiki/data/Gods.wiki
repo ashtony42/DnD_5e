@@ -4,3 +4,4 @@
 [Pelor]
 [Melora]
 [Gruumsh]
+[Asmodeus]
