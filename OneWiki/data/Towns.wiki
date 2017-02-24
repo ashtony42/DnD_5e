@@ -8,6 +8,7 @@ Elbaf  (one piece land of giants)  diff 3
 Alexandria  (huge trade center, library) diff 2
 Arabasta (large desert island) diff 1
 [Dun Morhen] 
+[Ak'anon] (city of invention)
 
 [Norrath]
     [Kunark]

@@ -47,7 +47,7 @@ Entities of interest:
 	The Crying Clam a small bar that serves a few imported alcoholic beverages. Operated by Dave, a relaxed fellow.	Inside can be found [Redbeard The Unlucky] who the Marines were too unlucky to spot as he entered the town. He is depressed and drinking his sorrow away. His ship is located on the southern side of the island. 
 		Type: Sailboat
 
--Mayor Ubring's House: This is the major's house, he's a jolly man who enjoys the peaceful life of Augsburg. He has a son who works as a Dockworker, Jordan, and a daughter who works the town's Grocer, Anabel. In a safe located in his room, an Akuma Fruit can be aquired. Lockpicking difficulty 25 is needed to open it. Only the mayor has the combination. 
+-[Mayor Ubring]'s House: This is the major's house, he's a jolly man who enjoys the peaceful life of Augsburg. He has a son who works as a Dockworker, Jordan, and a daughter who works the town's Grocer, Anabel. In a safe located in his room, an Akuma Fruit can be aquired. Lockpicking difficulty 25 is needed to open it. Only the mayor has the combination. 
 
 
 

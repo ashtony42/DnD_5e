@@ -3,19 +3,28 @@
 A law enforcement force throughout the world, funded by the world government
 
 currently has bounties on
-		Pirate Admiral [Don Kreig](250 Gold)
+		Pirate Admiral [Don Kreig](250 Gold) +20 from from against [Augsburg] 
 		[Rex The Smasher](150 Gold)
 		[Redbeard The Unlucky]( 20 Gold)  CLAIMED BY KEIRAN
 
 
-Ranks:
++++Ranks:
 Admiral (leader of the organization)
 Vice Admirals (leaders of regions)
 Captains (leaders of vessels)
+    [Bran C'Num] (half-orc) who oversees marine operations at the embassy in [Fiore]
 Officers (leaders of companies)
+    [Frank Nelson] (human) leads 5 marines stationed at [Augsburg]
+    [Artin Torbera] (dwarf F) officer of the south gate of [Mayara]
+    [Ivor Chernin] (human) officer of the west gate of [Mayara]
+    [Shava Caelynn] (elf F) officer of the east gate of [Mayara]
 Private (soliders)
+    [Daniel Milborne] (human) inspired by Keiran who saved his life to join the marines
 
 +++Marine Soldier
 (use DND 5e Guard pg 347)
-
++++Marine Officer
+(use DND 5e thug with 16 AC pg 350)
++++Marine Captain
+(use DND 5e Bandit Captain pg 344)
 

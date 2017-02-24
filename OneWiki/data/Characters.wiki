@@ -10,15 +10,23 @@ Legendary Heroes:
 [Regdar]
 
 World Leathers:
-[King Jor Doken]
 [Venril Sathir]
 
-Other:
-[Feronia Vie]
-[Nifle Vanhivener]
-[Marren]
-[Grund]
+[Dun Morhen]:
+    [Feronia Vie]
+    [Nifle Vanhivener]
+    [Marren]
+    [Grund]
 
+[Fiore]
+    [Martin Terratio]
+    [King Jor Doken]
+    [Geth]
+    [Harris Flennre]
+
+[Augsburg]
+    [Mayor Ubring]
+    [Daniel Milborne]
 
 NPC:
 [Daniel]

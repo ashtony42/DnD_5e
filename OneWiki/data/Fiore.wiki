@@ -2,7 +2,7 @@
 
 An archipalego of several islands. Most are sparsely populated whereas the majority of the people who live his are in the central town of Mayara (Elvish for Many).
 
-Outer islands:
++++Outer islands:
 Lush green vegetation covers the large hill of an island. The sounds of all kinds of birds can be heard, and many are seen flying around. Every other one seems to have a small fishing post established with usually a single home. Three islands have burnt down ruins from where raids from [Redbeard The Unlucky] had occurred.
 
     Ruined villages can be looted. Each have at least 1 rowboat. 
@@ -21,7 +21,7 @@ Lush green vegetation covers the large hill of an island. The sounds of all kind
          
     One of the outer islands has a griffon roost (pg 174 of monster manual) home to one griffon.     
        
-Central island:
++++Central island:
 A larger island with a respectively large hill in the center atop which the town of Mayara is established. From a distance, the walls can be seen even from the shore. There are four docking villages on the major North/South/East/West sides of the island. 
 
 Encounterable animals of Fiore:
@@ -37,21 +37,21 @@ Places of interest in Mayara:
       Marine Embassy
         A few captains and officers reside here, they help lead the Mayara soldiers in times of need.
       Mayara barracks
-        Home to a couple dozen soldiers. 
+        Home to a few dozen soldiers. 
       King's palace
         Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet build with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury.
     
-    COMMON ARE
+    COMMON AREA
       Temple of Elysium
         -dieties (pg 10 DM handbook)
-        -Ran by Head Cleric Martin Terratio, a very peaceful human
+        -Ran by Head Cleric [Martin Terratio], a very peaceful human
         -Book [Pantheon of the Dawn War] can be found here
       Market
         -blacksmith, Shirrong Bronzecore, hearty personality
             sells/buys all metal based weapons
             sells/buys all metal based armour
-            repairs all metal based armour and weapons 
-        -herbalist, Harris Flennre (half-elf), common personality
+            repairs all metal based armour and weapons (costs roughly 10% of the item's value)
+        -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
             wolfsbane (15g per lb) (smell that deters wolves)
             mint, tea (5s per lb)
             cloves (3g per lb)
@@ -60,9 +60,9 @@ Places of interest in Mayara:
             nightshade (15g per lb) (poisonous)
         -exotic food vendor, Elisha Vanesson (human)(knows of [AkumaFruits], but tries to be secretive)
             items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (5cp per item)          
-        -flectcher, Yanny McLougin (halfling), redneckish personality
+        -flectcher, Yanny McLougin (female halfling), redneckish personality
             items for sale short bow (25g), long bow(50g), arrows (20x 1g)
-        -animal vendor (chickens/pigs/goats)
+        -animal vendor, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice
             2cp x lb of chicken (1d6) (5 at stall)
             1gp per goat (2 at stall)
             3gp per pig (2 at stall)
@@ -75,5 +75,5 @@ Places of interest in Mayara:
         This guild is comprised mostly of dwarves who work in a disciplined manner in teams making bricks and stone works of art. Other races are amungst them, excluding elves. 
         The Mason's Guild is ran by the master mason Dirk Dagson, a stern disciplined dwarf who thinks good craftsmanship comes from colaborative learning and working with your peers. Lessons at the Mason's guild are passed down from master to students. Thinks poorly of the Carpenter's Guild. 
         
-A very happy pleasant fellow named Geth is a cartographer who has lived in the town for a long time and is quick to spot newcomers to sell is town maps to.
+A very happy pleasant fellow named [Geth] is a cartographer who has lived in the town for a long time and is quick to spot newcomers to sell is town maps to.
     2 silver for a map!        
