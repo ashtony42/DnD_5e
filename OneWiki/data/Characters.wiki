@@ -28,5 +28,8 @@ World Leathers:
     [Mayor Ubring]
     [Daniel Milborne]
 
+[Odus]
+    [Renegade Leader Kelsier]
+
 NPC:
 [Daniel]

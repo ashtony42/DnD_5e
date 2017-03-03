@@ -3,5 +3,5 @@
 Human Fighter Soldier
 
 -rank within the [Marines]: Officer
-    -order of the Gauntlet
--saved Daniel from firey death in [Augsburg]
+    -[Order of the Gauntlet]
+-saved [Daniel Milborne] from firey death in [Augsburg]

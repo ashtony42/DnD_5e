@@ -1,14 +1,15 @@
 ﻿++ Towns
 
 [Augsburg] (starter town)
-Impell Down (One Piece prison)    diff 4
+Impell Down (One Piece prison)
 [Fiore] 
-Nightbrook  (mind games, nightvale)  diff 2
-Elbaf  (one piece land of giants)  diff 3
-Alexandria  (huge trade center, library) diff 2
-Arabasta (large desert island) diff 1
+Nightbrook  (mind games, nightvale)
+Elbaf  (one piece land of giants) 
+Alexandria  (huge trade center, library)
+Arabasta (large desert island)
 [Dun Morhen] 
 [Ak'anon] (city of invention)
+[Odus] (Camp of refugees from Luthadel) 
 
 [Norrath]
     [Kunark]

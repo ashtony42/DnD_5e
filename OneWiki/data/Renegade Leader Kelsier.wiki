@@ -1,0 +1,9 @@
+﻿++ Renegade Leader Kelsier
+
+Renegade Leader of the escape from the [House of Zolis]
+
+He has connections within the criminal network of [Luthadel] who helped plan the escape of about 50 refugees with the hired help of the [Golden Hand] who agreed to help after convincing them he had pulled a heist worth a king's ransom from a noble house in Luthadel.
+
+(use DND 5e Thug pg350) 
+loot: 1d4+4 gold
+      -Notes on how to contact his informants in Luthadel 

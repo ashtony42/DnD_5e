@@ -11,10 +11,10 @@ Primarily speak Draconic, but speak common to Skaa.
 (use Lizardfolk pg 204 of monster handbook)
 
 Major noble houses:
-House Salazar (rich, powerful, largest militarized nobility, does specialized assassination work) 
-House Zasheir (rich, mining mithril and other metals with hundreds of skaa)
-House Zolis (rich, farming plantations with hundreds of skaa)
-House Stayanoga (rich, inter-continental trade employs many skaa)
+[House Salazar](rich, powerful, largest militarized nobility, does specialized assassination work) 
+[House Zasheir] (rich, mining mithril and other metals with hundreds of skaa)
+[House Zolis] (rich, farming plantations with hundreds of skaa)
+[House Stayanoga] (rich, inter-continental trade employs many skaa)
 
 Skaa are the poor people, often enslaved conquored people, or prisoners who are non-iksar common races. (commoners)
 Many live in underground criminal thieving groups, that are saught by the heavy eyes of Steel Inquisitors

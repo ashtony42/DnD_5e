@@ -1,5 +1,8 @@
 ﻿++ Organizations
 
 [Marines]
+    [Order of the Gauntlet]
+
 [World Government]
 [Order of Steel]
+[Golden Hand]
