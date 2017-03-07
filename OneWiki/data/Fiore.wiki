@@ -30,18 +30,19 @@ Encounterable animals of Fiore:
       Giant Fire Beetles (pg 325) (night only)
       Elk (pg 322)
       Brown Bear (pg 319)
+      Griffon ((pg 174)
       
 
 Places of interest in Mayara:
-    NOBLE AREA
-      Marine Embassy
+    *NOBLE AREA*
+      [Marines] Embassy
         A few captains and officers reside here, they help lead the Mayara soldiers in times of need.
       Mayara barracks
         Home to a few dozen soldiers. 
       King's palace
-        Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet build with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury.
+        Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet built with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury.
     
-    COMMON AREA
+    *COMMON AREA*
       Temple of Elysium
         -dieties (pg 10 DM handbook)
         -Ran by Head Cleric [Martin Terratio], a very peaceful human
@@ -59,13 +60,19 @@ Places of interest in Mayara:
             saffron (15g per lb)
             nightshade (15g per lb) (poisonous)
         -exotic food vendor, Elisha Vanesson (human)(knows of [AkumaFruits], but tries to be secretive)
-            items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (5cp per item)          
+            items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal))          
         -flectcher, Yanny McLougin (female halfling), redneckish personality
             items for sale short bow (25g), long bow(50g), arrows (20x 1g)
-        -animal vendor, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice
+        -animal vendor, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice, has a wanted poster out for the Fiore Griffin with the [Marines]
             2cp x lb of chicken (1d6) (5 at stall)
             1gp per goat (2 at stall)
             3gp per pig (2 at stall)
+      Inn/Bar
+        -5sp per night per room, includes meal for the day (modest)
+        -3sp for a meal
+        -2sp for common wine or ale
+        -A sad patron sits at the counter. This is a human woman (Loretta) who lost her husband (Kyle) during one of [Redbeard The Unlucky]'s raids, will treat whoever tells a story about Redbeard's demise to a drink.
+        -Group of traveling bards plays music on a slightly elevated platform. Has a tip jar out.
       
       Carpenter's Guild (the Carps)
         This guild is comprised mostly of elves who work indipendently of elegant wooden furniture and architecture, with other races amungst them, excluding dwarves. They have an extensive library of carpentry techniques and patterns, amungst the books the [Legend of Regdar] can be found, due to it's references of ancient elvish architectures. 

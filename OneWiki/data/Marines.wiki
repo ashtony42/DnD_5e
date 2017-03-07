@@ -3,9 +3,10 @@
 A law enforcement force throughout the world, funded by the world government
 
 currently has bounties on
-		Pirate Admiral [Don Kreig](250 Gold) +20 from from against [Augsburg] 
+		Pirate Admiral [Don Kreig](250 Gold) +20 from [Augsburg] 
 		[Rex The Smasher](150 Gold)
 		[Redbeard The Unlucky]( 20 Gold)  CLAIMED BY KEIRAN
+		[Fiore] Griffin (30 Gold) Posted in Mayara by the livestock merchant 
 
 
 +++Ranks:
@@ -21,10 +22,11 @@ Officers (leaders of companies)
 Private (soliders)
     [Daniel Milborne] (human) inspired by Keiran who saved his life to join the marines
 
-+++Marine Soldier
-(use DND 5e Guard pg 347)
-+++Marine Officer
-(use DND 5e thug with 16 AC pg 350)
 +++Marine Captain
 (use DND 5e Bandit Captain pg 344)
++++Marine Officer
+(use DND 5e thug with 16 AC pg 350)
++++Marine Soldier
+(use DND 5e Guard pg 347)
+
 
