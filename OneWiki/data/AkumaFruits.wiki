@@ -35,7 +35,7 @@ ZOAN
 6. Mammoth - Triggered by resolve
 7. Falcon - Triggered by intellect
 8. Ilzie  - Triggered by confusion
-9. Canupian - Triggered by intellect
+9. Iksar - Triggered by intellect (consumed be [Edan])
 10. Human - Triggered by social
 11. Turtle - Triggered by defensive
 12. Dragon - Triggered by rage

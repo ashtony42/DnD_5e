@@ -1,6 +1,13 @@
 ﻿++ Quests
 
+
+GOOD group
 [Quest 1]
 
 [Session 3 Notes]
 [Session 4 Notes]
+
+
+EVIL group
+
+[Evil Session 2 Notes]
