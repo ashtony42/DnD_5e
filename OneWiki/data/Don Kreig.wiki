@@ -5,6 +5,7 @@ One of the most successful pirates currently alive. He operates a large fleet of
 Has a bounty issued by the [Marines] 
 
 +++Don Kreig
+(use DND Gladiator pg 346)
 Human 
 Platemail Armour 
 Shield           
@@ -18,5 +19,5 @@ loot: 1d4 silver
 
 +++ Leutenant Ned
 (use DND 5e Thug pg350) or (bandit captain pg344 for higher level)
-loot: 1d4+4 gold
+loot: 3d6+4 gold
 

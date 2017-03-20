@@ -5,3 +5,4 @@
 [Melora]
 [Gruumsh]
 [Asmodeus]
+[Kord]
