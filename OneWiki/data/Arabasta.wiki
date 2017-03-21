@@ -4,13 +4,23 @@ A desert island that once was home to a weathly city of [Esna]. It was recently 
 
 Arabasta, known for it's wealth became a prime target [Don Kreig], who raided it with great force has crowned himself in recent history. Imprisoning the former Queen within her own prison.
 
+The wilderness of Arabasta is dry, hot, and without something to drink, an adventurer must make a constitution save of DC 10 each day or gain a point of exaustion.
+Monstrous skeletons of ancient creatures can occasionally be found in the desert. Sometimes creatures turn them into their shelters.
+
 Wildlife:
 Camel  (pg 320)
 Flying Snake (pg 322)
 Giant Constructor Snake (pg 324)
 Giant Scorpion (pg 327)
-Giant Vulture (pg pg 329)
-
-Buried underneath the sands out in the seeming middle of nowhere of Arabasta is an elven ruin where ancient druids sealed the god [Kord].
+Giant Vulture (pg 329)
+Purple Worm (pg 255)
 
 [Esna] is a seaside city whose architecture is finely masoned from the locally found sandstone. 
+
+
+Buried underneath the sands out in the seeming middle of nowhere of Arabasta is an elven ruin where ancient druids sealed the god [Kord].
+The entrance bears Kord's symbol, a sword with a lightning bolt cross guard, etched into ancient elven masoned stonework. Breaking this stone will open up the ruins where the Stone of Kord can be found. The general layout of the dungeon is a long and large passageway (25ft across) that goes for 500ft until reaching a 50ft by 50ft room that has a dormant Galeb Duhr. 
+    Dungeon Creatures:
+    -Galeb Duhr (pg 139) (when defeated, the Stone of Kord can be found within)
+    -Bone Naga (Guardian) (pg 233)
+    -Giant Spider (pg 328)

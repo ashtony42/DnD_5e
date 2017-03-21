@@ -1,0 +1,10 @@
+﻿++ Materials
+
+Wood - common
+Iron - common
+Steel - common
+Copper - common
+Glass - uncommon
+Silver - uncommon
+Gold - rare
+Dimeritium - very rare, magical properies

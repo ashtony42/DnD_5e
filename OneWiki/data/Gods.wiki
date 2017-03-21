@@ -1,4 +1,5 @@
 ﻿++ Gods
+(use Empyrean pg 130)
 
 [Tharizdun]
 [Pelor]
@@ -6,3 +7,4 @@
 [Gruumsh]
 [Asmodeus]
 [Kord]
+[Erathis]
