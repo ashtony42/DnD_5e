@@ -12,7 +12,7 @@ Primarily speak Draconic, but speak common to Skaa.
 
 Major noble houses:
 [House Salazar](rich, powerful, largest militarized nobility, does specialized assassination work) 
-[House Zasheir] (rich, mining mithril and other metals with hundreds of skaa)
+[House Zasheir] (rich, mining mithril and "other" metals with hundreds of skaa)
 [House Zolis] (rich, farming plantations with hundreds of skaa)
 [House Stayanoga] (rich, inter-continental trade employs many skaa)
 
@@ -25,4 +25,15 @@ several market areas run by skaa
     -squalor level inns
 city square
     -where occasional public executions happen
-temple of the [Order of Steel]    
+Temple of the [Order of Steel]   
+The God King's Palace     
+
+There are several groups of criminal skaa in Luthadel, one such group had close ties with [Renegade Leader Kelsier] who in recent history made an escape from [Kunark] with about 50 refugee skaa. A smuggler, [Dockson] was responsible for getting in touch with the [Golden Hand] who helped turn the tide and allow their escape.
+Other members of this group include: (use DnD thug pg 350)
+    -[Clubs] human, a weak wizard who has the ability to conceal magic
+    -[Spook] halfling, a weak wizard who has the ability to detect magic
+    -[Ham] half-orc fighter
+    -[Dockson] human smuggler rogue
+    -[Breeze] elf, a weak wizard who can quel emotion
+To be contacted, one must go to the butcher's shop, and ask for a "Hunk of beef" while tapping a pattern on the counter:   - - - - <pause> - - - - <pause> 
+then you'll be told it won't be ready for a while but you can wait inside. Proceed, and you will be concealed and allowed access to go inside and head to the sewers through the far-side cupboard. Leading to the group's hideout.

@@ -7,4 +7,5 @@ Copper - common
 Glass - uncommon
 Silver - uncommon
 Gold - rare
-Dimeritium - very rare, magical properies
+Dimeritium - very rare, anti-magical properties
+Etherium - very rare, magical properties
