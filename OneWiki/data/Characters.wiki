@@ -10,7 +10,8 @@ Legendary Heroes:
 [Regdar]
 
 World Leathers:
-[Venril Sathir]
+[Luthadel]
+    [Venril Sathir]
 
 [Dun Morhen]:
     [Feronia Vie]

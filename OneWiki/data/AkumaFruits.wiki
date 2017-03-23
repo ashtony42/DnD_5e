@@ -47,7 +47,7 @@ PARAMECIA
 4. Pillow - The user's body can absorb any and all blunt force.
 5. Spin - All joints of the users body can rotate as if on an axel. 
 6. Nutritious - The user no longer needs to eat or drink to live. Can also bestow nutritious properties to any object/material as well as cleansing toxic ingredients or chemicals. Immune to food poisoning.
-7. Smelly - The user can assume any scent of whatever potency desired, or spread this scent onto other objects.
+7. Smelly - The user can assume any scent of whatever potency desired, or spread this scent onto other objects. (consumed by [Kieran Maon])
 8. Rough - The user can make their skin extremely rough, much like sandpaper.
 9. Solid [Jacobson] - The user can control the desnsity of their body from normal human to unscathably dense.
 10. Door - can open most surfaces as if it was a hinged door. 
