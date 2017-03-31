@@ -33,7 +33,7 @@ Other members of this group include: (use DnD thug pg 350)
     -[Clubs] human, a weak wizard who has the ability to conceal magic
     -[Spook] halfling, a weak wizard who has the ability to detect magic
     -[Ham] half-orc fighter
-    -[Dockson] human smuggler rogue
+    -[Dockson] halfling smuggler rogue
     -[Breeze] elf, a weak wizard who can quel emotion
 To be contacted, one must go to the butcher's shop, and ask for a "Hunk of beef" while tapping a pattern on the counter:   - - - - <pause> - - - - <pause> 
 then you'll be told it won't be ready for a while but you can wait inside. Proceed, and you will be concealed and allowed access to go inside and head to the sewers through the far-side cupboard. Leading to the group's hideout.

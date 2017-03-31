@@ -8,3 +8,4 @@
 [Vulcan]
 [Cael Caemond]
 [Croaker]
+[Kronk]
