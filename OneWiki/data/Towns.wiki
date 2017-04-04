@@ -1,7 +1,7 @@
 ﻿++ Towns
 
 [Augsburg] (starter town)
-Impell Down (One Piece prison)
+[Marine HQ] also a large prison on top of a Dimeritium mine
 [Fiore] 
 Nightbrook  (mind games, nightvale)
 [Elbaf]  (one piece land of giants) 
@@ -9,7 +9,8 @@ Nightbrook  (mind games, nightvale)
 [Arabasta]
 [Dun Morhen] 
 [Ak'anon]
-[Odus] (Camp of refugees from Luthadel) 
+[Odus] (Camp of refugees from Luthadel)
+[Gorda] 
 
 [Norrath]
     [Kunark]

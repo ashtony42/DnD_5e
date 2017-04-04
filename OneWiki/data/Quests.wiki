@@ -1,12 +1,14 @@
 ﻿++ Quests
 
-
-GOOD group
++++GOOD CALENDAR
+1234567
+X
++++GOOD group
 [Quest 1]
 
 [Session 3 Notes]
 [Session 4 Notes]
-Session 5 Notes:
+++++Session 5 Notes:
 They got audience with the [King Jor Doken], and provided the music box and banner of [Luthadel] to him. He failed to see significance of the music box, and was curious about the story behind the banner, and suggested he would be willing to accept another audience with the party to hear the story.
 
 The group checked in with the aftermath of their vandalism of the Carpenter's guild, and attempted to sow the seeds of trouble by claiming the Mason's Guild was responsible. Showing a pulley they claimed to have found at the site of the incident as evidence.
@@ -15,18 +17,28 @@ They then set out to their boat, through the woods they first encountered the el
 
 They noticed the mummified arm of [Tharizdun] had re-merged together, and promptly chopped it into more pieces in response. They also spent two more days trying to brute force the safe open, and finally succeed. [Kieran Maon] ended up eating the fruit inside, obtain a smelly power of sorts and a lack of tolerance for salt water.
 
+++++Session 6:
+  pre-game notes: cross-game changes, another boat being worked on at the north dock via evil group.
+    
 
-EVIL group
++++EVIL CALENDAR
+1234567
+X
++++EVIL group
 
-[Evil Session 2 Notes]
+++++Evil Session 2 Notes:
+The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
 
-Evil Session 3 Notes:
+[Edan] started a fight that resulted in the death of the [Golden Hand] mercenary band that helped the refugee camp, as well as losing [Renegade Leader Kelsier] in the process.
+
+++++Evil Session 3 Notes:
 the group set sail, west to wherever the [Marines] were headed. They commandered the boat from them via murder, and also killed the fugitive [Redbeard The Unlucky] that they had on board.
 
 The next day, they broke out of the fog into a clear day, where they unfortunately encountered a boat of [Don Kreig]'s men that has just ransacked [Augsburg], on board, they had the pirsoner [Dockson], a halfling smuggler who was responsible for getting the help from the [Golden Hand], though, he fell in trouble with [Don Kreig]'s men when they overheard him talking of the heist [Renegade Leader Kelsier] had done against a noble house of [Luthadel] 
 
-Slaves: Kerri Anton
+Slaves: Kerri (husband slain in front of her during the raid), Anton (home was burned down, forced him out)
 Bandit survivor: slain
 [Dockson]: Befriended
 Reminder: [Cael Caemond] do level up - abilities - HP
 sold boat for 2400
+Dockson quoted slaves at 40g to pirates

@@ -1,0 +1,21 @@
+﻿++ Letho
+
+Massive 7-foot tall human (gladiator pg 346)
+    -his attacks will cause foes to be thrown back 10ft.
+    -Letho has seen much combat in his days, and is covered in many rather intimidating looking scars.
+    -reportedly has slain gyphons and bears by himself.
+    -carries 10d8 gold on his person
+    
+Sludge Fruit user
+    -smells foul, always, and thus prefered to work alone, but used to work with the main ranks of marines.
+    -still bears all of the scars from before he consumed the fruit.
+    -the fruit was found during a fight against the now incarcerated [Rumbar Pirates] aboard thier ship, consumed by accident.
+    -successful attacks against Letho cause a cumulative -1 to the weapons that strike him.
+    -successful un-armed attacks from Letho cause a cumulative -1 to the armor he strikes.
+    -can turn entire body into sludge.
+    
+Immune:  Piercing/Bludgeoning/Slashing/Poison
+
+Vulnerable: Fire
+    
+  -currently dispatched to investigate late arrival of the fugitive [Redbeard The Unlucky] to [Fiore]. Can be found at the Inn the morning before the departure.

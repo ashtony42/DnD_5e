@@ -17,7 +17,7 @@ Spear
 loot: 1d4 silver
 
 
-+++ Leutenant Ned
++++ Leutenant Ned (deceased) - killed at sea by evil group
 (use DND 5e Thug pg350) or (bandit captain pg344 for higher level)
 loot: 3d6+4 gold
 

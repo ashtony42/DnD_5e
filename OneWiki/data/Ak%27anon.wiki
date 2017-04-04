@@ -9,13 +9,19 @@ The small island that Ak'anon is built upon has been turned into a mine that man
 When an expected ship arrives to Ak'anon, the city can open up to reveal the internalized port for docking vessels.
 
 Ak'anon is well guarded by cannons and high walls. 
+-alleys are 12 ft tall, 10ft wide, open-topped, 80ft long
+-rooms are 10ftx10ft, open-topped
+-lower dock clearance is 4ft-6in
+-inner circle can rotate (low-pitch horn is sounded before rotation)
+-outer circle can rotate (high-pitch horn is sounded before rotation)
+-walls can be raised from the floor between rooms
 
 Ak'anon is not lead by a single ruler, but a council of influencial individuals.
     -Calwin (F), master shipwright and head of international trade
     -Bribis (F), master smelter and head of mining operations
     -Lanziver (M), architect of city construction
     -Zilkas (M), master of dimeritium constructs and machinery
-    -Ummorn (M), leader of defence and security
+    -Ummorn (M), leader of defence and security (guards use crossbows and daggers)
     -Briyur (F), master of the arts
     -Sellys (F), head provisions organizer
     

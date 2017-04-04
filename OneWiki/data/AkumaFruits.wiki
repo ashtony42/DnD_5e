@@ -14,7 +14,7 @@ LOGIA
 1. Fire element
 2. Gas element
 3. Lightning element
-4. Sludge element
+4. Sludge element [Letho]
 5. Iron element
 6. Glass element [Robert Culliford]
 7. Ice element [Aokiji]
@@ -23,8 +23,9 @@ LOGIA
 10. Wood element
 11. Glue element
 12. Crystal element
-13. Shadow element [Gecko Moria]
+13. Shadow element 
 14. Etherium element [Venril Sathir]
+15. Ethereal (exists in material and Ethereal plane simultaneously)
 
 ZOAN
 1. Bear - Triggered by anger
@@ -51,9 +52,9 @@ PARAMECIA
 8. Rough - The user can make their skin extremely rough, much like sandpaper.
 9. Solid [Jacobson] - The user can control the desnsity of their body from normal human to unscathably dense.
 10. Door - can open most surfaces as if it was a hinged door. 
-11. Love [Boa Hancock] - huge buffs to bluff rolls, seduction rolls, and most other social things.
-12. Repel [Kuma] - can repel objects from one's self with great force.
-13. String [Don Flamenco] - can create near invisible strings between objects
-14. Separation [Buggy The Clown] - body can deteach and reatach and be reconfigured at will, immune to being cut
+11. Love - huge buffs to bluff rolls, seduction rolls, and most other social things.
+12. Repel - can repel objects from one's self with great force.
+13. String - can create near invisible strings between objects
+14. Separation - body can deteach and reatach and be reconfigured at will, immune to being cut
 15. Unlucky [Redbeard The Unlucky] - bring poor luck to one's self and everyone around them. -1 to all rolls
 16. 

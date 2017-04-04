@@ -8,3 +8,5 @@
 [Asmodeus]
 [Kord]
 [Erathis]
+[Tiamat]
+[Bahamut]
