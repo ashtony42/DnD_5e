@@ -37,7 +37,7 @@ There are many points of interest in Ak'anon:
     -common wine - 2s
     -ale - 2s
     -see below food vendors for food
--Food vendors
+-Food vendors - Eldon - exotic   Zook - vegetables from Augsburg
     -fish - 5cp per lb
     -imported vegetables - 
     -imported meats - 3sp per lb
@@ -49,6 +49,9 @@ There are many points of interest in Ak'anon:
     - steel lock boxes (25 lb) - 20g
     - scale model of Ak'anon, with movable parts! - 15g
     - telescope - 5g
+    - balista - 500g
+    - cannon - 2000g
+    - big cannon - 8000g
 -Crafting [Materials] shop
     -imported wood - 1s per board 
     -glass - 1g per pound
