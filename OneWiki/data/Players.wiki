@@ -8,4 +8,5 @@
 [Vulcan]
 [Cael Caemond]
 [Croaker]
-[Kronk]
+[Kronk] DEAD
+[Krieger]

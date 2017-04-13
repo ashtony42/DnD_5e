@@ -7,6 +7,8 @@ currently has bounties on
 		[Rex The Smasher](150 Gold)
 		[Redbeard The Unlucky]( 20 Gold)  CLAIMED BY KEIRAN
 		[Fiore] Griffin (40 Gold) Posted in Mayara by the livestock merchant 
+		The Bandits of Deception (50 Gold) Posted in Mayara by the Carpenter's guild
+            -shows the faces of Vulcan, Edan, Croaker, Krieger
 
 
 +++Ranks:
@@ -29,4 +31,5 @@ Private (soliders)
 +++Marine Soldier
 (use DND 5e Guard pg 347)
 
-
+++Sub Division:
+[Order of the Gauntlet]

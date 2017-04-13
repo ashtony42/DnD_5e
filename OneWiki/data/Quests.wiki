@@ -2,7 +2,7 @@
 
 +++GOOD CALENDAR
 1234567
-X
+XX
 +++GOOD group
 [Quest 1]
 
@@ -19,7 +19,7 @@ They noticed the mummified arm of [Tharizdun] had re-merged together, and prompt
 
 ++++Session 6:
   pre-game notes: cross-game changes, another boat being worked on at the north dock via evil group.
-    
+  -the group has slain the Griffin Ghan Bopps requested killed, and are entitled to 40 gold  
 
 +++EVIL CALENDAR
 1234567

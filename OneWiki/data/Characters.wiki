@@ -5,6 +5,7 @@ Pirates:
 [Redbeard The Unlucky]
 [Rex The Smasher]
 [Varneth]
+[Rumbar Pirates]
 
 Legendary Heroes:
 [Regdar]
@@ -32,5 +33,3 @@ World Leathers:
 [Odus]
     [Renegade Leader Kelsier]
 
-NPC:
-[Daniel]
