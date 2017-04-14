@@ -24,6 +24,7 @@ They noticed the mummified arm of [Tharizdun] had re-merged together, and prompt
 +++EVIL CALENDAR
 1234567
 XXXXXXX
+XXXXXXX
 XXXXX
 +++EVIL group
 
@@ -52,8 +53,20 @@ Edan gives his name with Elisha the exotic food vendor.
 
 slew the snoody carpenter's guild member.
 
-11 HP, proficiency: spears +2
+11 HP, proficiency: spears
+Dmg + 1
+16 AC - Anton
 slave training days: XXXXXXX
-                     XXX
+                     XXXXXXX
+                     X
+
+6 HP, proficiency: medicine 
+Kerri
+slave training days : XXXXX
 
 40 population of refugee camp now - SLAUGHTERED
+
+sold refugee vessel for 2600
+slew 10 wolves, encountered harris flenre
+sent Anton (billy) into town to do chores)
+
