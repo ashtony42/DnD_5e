@@ -8,19 +8,43 @@ The wilderness of Arabasta is dry, hot, and without something to drink, an adven
 Monstrous skeletons of ancient creatures can occasionally be found in the desert. Sometimes creatures turn them into their shelters.
 
 Wildlife:
-Camel  (pg 320)
-Flying Snake (pg 322)
-Giant Constructor Snake (pg 324)
-Giant Scorpion (pg 327)
-Giant Vulture (pg 329)
-Purple Worm (pg 255)
+  Camel  (pg 320)
+  Flying Snake (pg 322)
+  Giant Constructor Snake (pg 324)
+  Giant Scorpion (pg 327)
+  Giant Vulture (pg 329)
+  Purple Worm (pg 255)
 
 [Esna] is a seaside city whose architecture is finely masoned from the locally found sandstone. 
 
+++++Places of Interest
+Coloseum
+    the large coloseum also houses [Don Kreig] who has recently taken up the position of king, by force.
+    players may find themselves invited to fight in the coloseum against Don Kreig's thugs, (reward 20 gold per fight won)
+    if a person is undefeated, Don Kreig may challenge them.
+    Don Kreig's quarters have a chest with 4000 gold in it.
+    
+Palace
+    the main gathering place for all of Don Kreig's brutish men who bask in the luxurious surroundings, getting heavily drunk off of
+    the large stash of wine in the cellars below. 
 
+Port
+    Houses usually about 8 to 10 vessels of Don Kreig's fleet. Each with a respective Leutenant.
+    Most are Keel boats except for Don Kreig's Warship. (mounted with 6 cannons)
+    Slaves here work hauling recently stolen goods to warehouses in the market area.
+    
+Market Area
+    If you're one of Don Kreig's men, it's pretty much a take whatever you need from warehouses type of market.     
+
+Former Barracks
+    A holding place for prisoners, including former [Queen Larissa] and other nobles from the previous government.
+
+++++Desert Place of Interest
 Buried underneath the sands out in the seeming middle of nowhere of Arabasta is an elven ruin where ancient druids sealed the god [Kord].
-The entrance bears Kord's symbol, a sword with a lightning bolt cross guard, etched into ancient elven masoned stonework. Breaking this stone will open up the ruins where the Stone of Kord can be found. The general layout of the dungeon is a long and large passageway (25ft across) that goes for 500ft until reaching a 50ft by 50ft room that has a dormant Galeb Duhr. 
+The entrance bears Kord's symbol, a sword with a lightning bolt cross guard, etched into ancient elven masoned stonework. 
+It has a glowing druidic script of "If raveled what is raveled, misfortune will be had by all"
+Breaking this stone will open up the ruins where the Stone of Kord can be found. The general layout of the dungeon is a long and large passageway (25ft across) that goes for 500ft until reaching a 50ft by 50ft room that has a dormant Galeb Duhr. 
     Dungeon Creatures:
-    -Galeb Duhr (pg 139) (when defeated, the Stone of Kord can be found within)
+    -Galeb Duhr (pg 139) (when defeated, the [Stone of Kord] can be found within)
     -Bone Naga (Guardian) (pg 233)
     -Giant Spider (pg 328)

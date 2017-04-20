@@ -38,7 +38,7 @@ the group set sail, west to wherever the [Marines] were headed. They commandered
 
 The next day, they broke out of the fog into a clear day, where they unfortunately encountered a boat of [Don Kreig]'s men that has just ransacked [Augsburg], on board, they had the pirsoner [Dockson], a halfling smuggler who was responsible for getting the help from the [Golden Hand], though, he fell in trouble with [Don Kreig]'s men when they overheard him talking of the heist [Renegade Leader Kelsier] had done against a noble house of [Luthadel] 
 
-Slaves: Kerri (husband slain in front of her during the raid), Anton (home was burned down, forced him out)
+Slaves: [Kerri], [Anton]
 Bandit survivor: slain
 [Dockson]: Befriended
 Reminder: [Cael Caemond] do level up - abilities - HP
@@ -52,17 +52,6 @@ redbeard probably overthrew the marine boat and murdered them, then went on to j
 Edan gives his name with Elisha the exotic food vendor.
 
 slew the snoody carpenter's guild member.
-
-11 HP, proficiency: spears
-Dmg + 1
-16 AC - Anton
-slave training days: XXXXXXX
-                     XXXXXXX
-                     X
-
-6 HP, proficiency: medicine 
-Kerri
-slave training days : XXXXX
 
 40 population of refugee camp now - SLAUGHTERED
 

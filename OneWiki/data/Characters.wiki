@@ -29,6 +29,8 @@ World Leathers:
 [Augsburg]
     [Mayor Ubring]
     [Daniel Milborne]
+    [Kerri]
+    [Anton]
 
 [Odus]
     [Renegade Leader Kelsier]

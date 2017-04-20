@@ -10,14 +10,19 @@ Human
 Platemail Armour 
 Shield           
 Spear         
-
+loot: 4D20 + 20 Gold
  
 +++Pirate Grunt
 (use DND 5e Bandit pg 343)       
 loot: 1d4 silver
 
 
-+++ Leutenant Ned (deceased) - killed at sea by evil group
++++ Leutenants
 (use DND 5e Thug pg350) or (bandit captain pg344 for higher level)
 loot: 3d6+4 gold
 
+Ned (deceased) - killed at sea by evil group
+Morgiana (strong human female)
+Ledian (skilled half orc male)
+Kyle (strong willed human male)
+Kharl (Turtle Fruit human male 

@@ -36,9 +36,9 @@ ZOAN
 6. Mammoth - Triggered by resolve
 7. Falcon - Triggered by intellect
 8. Ilzie  - Triggered by confusion
-9. Iksar - Triggered by intellect (consumed be [Edan])
+9. Iksar - Triggered by intellect (consumed by [Edan])
 10. Human - Triggered by social
-11. Turtle - Triggered by defensive
+11. Turtle - Triggered by defensive (consumed by Kharl, a [Don Kreig] Leutenant)
 12. Dragon - Triggered by rage
 
 PARAMECIA

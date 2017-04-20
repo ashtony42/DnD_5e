@@ -37,11 +37,13 @@ There are many points of interest in Ak'anon:
     -common wine - 2s
     -ale - 2s
     -see below food vendors for food
--Food vendors - Eldon - exotic   Zook - vegetables from Augsburg
+-Food vendors
     -fish - 5cp per lb
-    -imported vegetables - 
     -imported meats - 3sp per lb
-    -imported cheese - 1sp per lb
+    Zook - vegetables from Augsburg
+      -imported vegetables - 3 sp per lb
+    Eldon - exotic
+      -imported cheese - 1sp per lb
 -Inventor's shop
     - glass orb with clockwork fish (wind up) - 10g
     - music box (lacy melody) - 15g
@@ -74,3 +76,16 @@ There are many points of interest in Ak'anon:
     -Tinker's Tools - 50g
     -Weaver's Tools - 1g
     -Woodcarver's Tools - 1g
+-Alchemist's shop (pg 187 of DM book)
+    -Potion of Animal Friendship (able to cast animal friendship once)
+    -Potion of Gnomification (reduce to gnome size for 1d4 hours)    
+    -Potion of Healing 
+        -Weak   2d4+2
+        -Medium 4d4+4
+        -Strong 8d4+8
+    -Potion of Heroism (+10 Temp HP)
+    -Potion of Water Breathing (1 hour)
+    -
+        
+
+        

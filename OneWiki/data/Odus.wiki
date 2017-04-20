@@ -2,40 +2,28 @@
 
 This island sits on the edge of the dark waters of [Kunark] similarly to [Dun Morhen]
 
-The weather this day is stormy with a decent wind, and has been rainy and windy for the last 2 days straight. The ground has sparce foliage due to the contamination of the dark waters, but is in considerably better shape than the mainland of Kunark. The island has trees with fewer branches than one would expect, but they manage to grow alright.
+The weather tends to be stormy and foggy. The ground has sparce foliage due to the contamination of the dark waters, but is in considerably better shape than the mainland of Kunark. The island has trees with fewer branches than one would expect, but they manage to grow alright.
 
-A refugee camp is established here by about 50 refugees from a farmland of [Luthadel] owned by [House Zolis]. They've been here for about 3 months time. Many have taken to cultivating the land to produce food, as was the main profession they were enslaved into.
+There was once a refugee camp here, slaves that used to work the farmland of [Luthadel] owned by [House Zolis]. A pile of their rotting bodies can be found in the center of the camp.
 
 This escape was made possible by the efforts of the [Renegade Leader Kelsier] who through his criminal connections was able to recruit the mercenary band [Golden Hand] to aid with this exodus on a stolen sailing ship. Many lives were lost in the process, many loved ones too, but it was what had to be done for their freedom.
-
-The camp gets by on the yield of foragers, hunting on the island, and fishing. It's a rough living still, but it's being worked on.
-
-Our heros find themselves in a central area of the camp, inside a large tent that contains a bonfire, a gathering place for people to rest and warm themselves. 
 
 +Places of interest:
 
     The Bonfire Tent
-        This is a place where refugees gather to warm themselves and rest from their grueling lifestyle at the camp. 
-
+        logs and charcoal 
     The mess hall long tent
-        Food is of squalor level, but there's enough produced to keep people fed, the mess hall is run much like a soup kitchen where food is prepared and served here.
-    
+        empty barrels         
     Renegade Leader's Tent
-        The tent where Renegade Leader Kelsier resides. Currently troubled by trying to figure out how to come up with compensation for the [Golden Hand] mercenaries before they turn on the camp due to lack of pay for 3 months. The idea was to steal a safe from the nobles of Luthadel that contained a king's ransom worth of etherium, but they have yet to be able to unlock the safe (difficulty 25). And the Golden Hand isn't thrilled with empty promises.
-            If opened, the safe actually contains a random [AkumaFruits]
-        
+        note on how to contact criminal groups in Luthadel        
     Makeshift Docks
-        Made from some trees roughly processed over the last several months to easier make use of their boat they use as a glorified fishing boat. Players can offer their services of fishing in exchange for a guaranteed meal for the day. 
-        
+        Made from some trees roughly processed.        
     Golden Hand's tent
-        In a bit better shape than the rest of the tents, as they have supplied most of the supplies for the camp in recent times, apart from food which depleted faster than expected due to the number of refugees. They have a small smithing operation where they mostly repair weapons and armour and make tools that the camp is using to progressively build things with and till fields.
+        In a bit better shape than the rest of the tents.        
         
-        
-        
-+First Day:
-            Mid-day, a boat comes to dock containing 2 [Marines] and the fugitive [Redbeard The Unlucky] on board. Seeking to stay until the storm subsides. They are welcomed by the refugees, and in turn, the 2 marines see the poor state of things and offer to help however they can.
-        
-+Early Next Morning:
-            A raid by [Don Kreig]'s men. Catching wind through their criminal networks that a group of Golden Hands had been cooped up there for a while, (gold!) guarding something as valuable as a king's ransom. They would have it for themselves. The rain finally ceases during this time. 
-            
-        
+
+Wildlife:
+    Poisonous Snake (pg 334) CH 1/8
+    Hyena (pg 331) CH  0
+    Gray Ooze (pg 243) CH 1/2  (found in a central pond)
+    Giant Crocodile (pg 324) CH 5

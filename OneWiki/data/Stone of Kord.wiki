@@ -1,0 +1,7 @@
+﻿++ Stone of Kord
+
+A perfectly spherical stone with a transluscent glean like that of polished granite.
+
+AC 30
+
+when broken, the god [Kord] will emerge in a flash of blinding light and booming thunder, and challenge the foe(s) who managed to smash the stone.
