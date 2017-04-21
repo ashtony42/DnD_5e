@@ -19,3 +19,6 @@ Immune:  Piercing/Bludgeoning/Slashing/Poison
 Vulnerable: Fire
     
   -currently dispatched to investigate late arrival of the fugitive [Redbeard The Unlucky] to [Fiore]. Can be found at the Inn the morning before the departure.
+
+
+defeated once, now reforms as 6 foot tall until more sludge is accumulated.

@@ -14,4 +14,4 @@ Dmg + 1
 16 AC - chainmail
 slave training days: XXXXXXX
                      XXXXXXX
-                     X
+                     XX

@@ -25,6 +25,7 @@ They noticed the mummified arm of [Tharizdun] had re-merged together, and prompt
 1234567
 XXXXXXX
 XXXXXXX
+XXXXXXX
 XXXXX
 +++EVIL group
 
@@ -58,4 +59,20 @@ slew the snoody carpenter's guild member.
 sold refugee vessel for 2600
 slew 10 wolves, encountered harris flenre
 sent Anton (billy) into town to do chores)
+-paid 350g toward armor, 450g remaining 2 days left
 
+200g to Dockson to buy a diamond & blacksmith tools & brewer supplies & woodcarving tools & alchemist & disquise kit
+-smithing tools - 20g
+-woodcarving - 1g
+-brewing supplies - 20g
+-herbalism kit - 5g
+-diamond - 50g - 4s wine
+103g 6s
+78g 6s
+
+Kerri 25g => Temple of Elysium
+Dockson 20s
+        -5s innkeep
+        -5s innkeep  
+        -8s wine      
+        
