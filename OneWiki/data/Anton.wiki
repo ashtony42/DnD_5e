@@ -9,9 +9,9 @@ Anton's family in Augsburg includes:
 
 
 Human
-11 HP, proficiency: spears
-Dmg + 1
+12 HP, proficiency: spears
 16 AC - chainmail
+1d6+1 - spear
 slave training days: XXXXXXX
                      XXXXXXX
                      XX
