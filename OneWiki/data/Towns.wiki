@@ -12,6 +12,9 @@ Nightbrook  (mind games, nightvale)
 [Odus] (Camp of refugees from Luthadel)
 [Gorda] 
 
+dwarf town?
+wizard town?
+
 [Norrath]
     [Kunark]
       - [Luthadel] 

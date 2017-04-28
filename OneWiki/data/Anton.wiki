@@ -14,4 +14,4 @@ Human
 1d6+1 - spear
 slave training days: XXXXXXX
                      XXXXXXX
-                     XX
+                     XXX
