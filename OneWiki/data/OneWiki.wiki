@@ -16,4 +16,6 @@
 
 [Materials]
 
+[Enchantment]
+
 [Items of Importance]

@@ -6,6 +6,7 @@ Pirates:
 [Rex The Smasher]
 [Varneth]
 [Rumbar Pirates]
+[Robert Culliford]
 
 Legendary Heroes:
 [Regdar]

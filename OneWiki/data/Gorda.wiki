@@ -5,7 +5,72 @@ Be careful not to wander around alone at night.
 
 The wildlife of Gorda is that of plains/hills. Wild goats and boars roam the island, anything bigger has already been poached to extiction long ago.
 
+At night, there is a risk of theft, perception check of 15 required to catch crooks.
+
+Rules of Gorda:
+    1. Do not kill.
+    2. Do not steal.
+    3. If you do either, don't get caught.
+
 Frequent Visitors:
     -[Don Kreig]'s men
     -[Rex The Smasher]
     -[Robert Culliford]
+    
+Areas of Interest:
+
+The Blooming Orchid:
+        A brothel/bar/inn that's a very boisterous place.
+        Rose: is the mistress of the establishment. Elderly woman who knows everyone and everything that happens in Gorda. Wears a red sequin dress. Slick smooth long hair, and a very wrinkly face.
+        Saffron: wood elf from Kelethin, forced out when she was young. Caters to gentle customers. (10g)
+        Magnolia: half orc, born and raised in Gorda, proud daughter of Rose. Caters to the roughest of customers. (20g)
+        Dandelion: human, former slave of [Don Kreig]'s men. Beautiful singing voice. (20g)
+            https://www.youtube.com/watch?v=2bSk-8C76dc
+        Lavender: halfling, former fisherman in [Fiore] who seeked a more thrilling life. Caters to small customers. (10g)
+        Hellebores: tiefling, well adapted escaped citizen of Arabasta. Caters to exotic customers. (20g)    
+        -5sp per night per room, includes meal for the day (modest)
+        -3sp for a meal
+        -2sp for common wine or ale
+     
+Brawler's Ring
+        An area that has been used for brawling competition that the central circle area has worn into a decent sized trench. Gambling and brawling tournaments happen here. Use the following tiers if anyone enters the competition:
+        Announcer and organizer: David Coppercap, human
+          -Ron Schnopps(human) [Don Kreig] grunt- Guard pg 347
+          -Grom Mallamoog(half orc) orcish trash - Thug pg 350
+          -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344
+          -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350
+          -Nogg(half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
+        If gambling, 
+          -guessing the winning contestant will earn 10x what they wager
+          -guessing the runner up will earn 5x what they wager
+          -guessing third place will earn 2x what they wager
+          -else, wager is lost.
+          
+Shipwright drydocks
+        An area where people barter ship lumber, hardware and supplies with each other to improve their vessels.
+        Occasionally a ship building festival is held. A person or group may arrive with a bounty of ship materials that all who wish to participate gather together to build a grand ship with great character. The majority of the people in town are journeyman ship builders because of this festival.
+        Decker(human) - an incredibly buff, irritable man who is the best shipwright in town.
+        
+Boat Docks
+        An area where many varieties of ruffians have parked their vessels, guarded by members of their respective crews:
+        -[Robert Culliford]
+        -2 boats of [Don Kreig]'s fleet
+        -a wrecked empty ship
+        -2 normal trade vessels
+        
+The Sage's Cellar
+        A black market for magical items run by wizards. A ward guards the shop, lowering people's strength to 8 when they pass into the shop, as well as concealing the interior from being sensed magically. Items have enchantments on them that won't allow them to pass out of the warded space unless a respective sum of currency is bonded to with with another enchantment (by the store clerk), allowing the item to leave, but the currency to not, as if pressed against a wall. 
+        Shopkeep: Leeran, who only ever appears at the shop as an illusion.
+        -god fruit - 5000g each (2 in stock)
+        -potions - weak 20g each
+                 - normal 40g each
+                 - strong 80g each
+        -Pearl of Power 200g - pg 184 DM
+        -Etherium Ingot 100g 
+        -Gemstones 10g to 500g valued ones
+        -Onyx Dog 200g - pg 170 DM
+        -Sepentine Owl 150g - pg 170 DM
+        -Fine Parchment - 1s per sheet
+        -Blank spell books - 5g each      
+        -Book of Understanding 300g - pg 209   
+        -Sentient Rock - 50g
