@@ -77,15 +77,20 @@ There are many points of interest in Ak'anon:
     -Weaver's Tools - 1g
     -Woodcarver's Tools - 1g
 -Alchemist's shop (pg 187 of DM book)
-    -Potion of Animal Friendship (able to cast animal friendship once)
-    -Potion of Gnomification (reduce to gnome size for 1d4 hours)    
+    -Potion of Animal Friendship (able to cast animal friendship once) 20g
+    -Potion of Gnomification (reduce to gnome size for 1d4 hours) 20g   
     -Potion of Healing 
-        -Weak   2d4+2
-        -Medium 4d4+4
-        -Strong 8d4+8
-    -Potion of Heroism (+10 Temp HP)
-    -Potion of Water Breathing (1 hour)
-    -
+        -Weak   2d4+2 20g
+        -Medium 4d4+4 40g
+        -Strong 8d4+8 80g
+    -Potion of Heroism (+10 Temp HP) 40g
+    -Potion of Water Breathing (1 hour) 20g
+-Blacksmith
+    -cross-bows
+    -daggers
+    -short swords
+    -hatchet
+    -studded leather    
         
 
         
