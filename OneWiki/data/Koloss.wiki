@@ -1,5 +1,16 @@
 ﻿++ Koloss
 
-use orc (pg 246 of monster manual)
+Young Koloss:
+use Orog (pg 247 of monster manual)
+AC 14 - HP 42
+6+ to hit - 2 attacks
+1d12 + 4 damage - longsword
+
+Elder Koloss:
+use Gladiator (pg 346 of monster manual)
+AC 14 - HP 112
+7+ to hit - 3 attacks
+2d6 + 4 - longsowrd
+
 
 Koloss are highly agressive humanoids with blue skin. When young, their skin is loose and floppy, but as they age, their skin does not grow and tightens to the point of tearing as the internal organs and bones of the Koloss continue to grow.

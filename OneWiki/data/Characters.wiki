@@ -35,4 +35,7 @@ World Leathers:
 
 [Odus]
     [Renegade Leader Kelsier]
+    [Dockson]
 
+[Gorda]
+    [Taman]

@@ -1,5 +1,7 @@
 ﻿++ Luthadel
 
+https://www.youtube.com/watch?v=rICzaVlDxBU
+
 A dark gloomy city in [Norrath] 
 Luthadel is ruled by the God King [Venril Sathir]
 Speaks Draconic, common, dwarvish, elvish
@@ -10,22 +12,73 @@ A strong nobility of Iksar live here, almost all of them own slaves, a mixture o
 Primarily speak Draconic, but speak common to Skaa.
 (use Lizardfolk pg 204 of monster handbook)
 
-Major noble houses:
-[House Salazar](rich, powerful, largest militarized nobility, does specialized assassination work) 
-[House Zasheir] (rich, mining mithril and "other" metals with hundreds of skaa)
-[House Zolis] (rich, farming plantations with hundreds of skaa)
-[House Stayanoga] (rich, inter-continental trade employs many skaa)
-
 Skaa are the poor people, often enslaved conquored people, or prisoners who are non-iksar common races. (commoners)
 Many live in underground criminal thieving groups, that are saught by the heavy eyes of Steel Inquisitors
+
+Major noble houses:
+[House Salazar](rich, powerful, largest militarized nobility, does specialized assassination work) 
+  -blacksmith
+    -all weapons - (pg 149)
+      -traditional Iksar Longsword (+1) - 30g 
+    -all armors - (pg 145)
+      -Iksar Champion's Plate (Str 16 req) 18AC, Fire Resistance - 1700g
+  -black market
+    -assassination of a skaa - 20g
+    -assassination of a Luthadel noble - 200g
+    -assassination out of Kunark - 100g
+[House Zasheir] (rich, mining mithril and "other" metals with hundreds of skaa)
+  -metals
+    -gold 50g per pound
+    -silver - 5g per pound
+    -copper - 5s per pound
+    -iron - 1s per pound
+    -tin - 1s per pound
+    -zinc - 5s per pound
+    -bronze - 1g per pound
+    -brass - 2g per pound
+    -mithril - 100g per pound
+    -platinum - 500g per pound
+  -black market
+    -dimeritium - 20g per pound (anti-magic properties)
+    -etherium - 40g per pound (magic properties)
+[House Zolis] (rich, farming plantations with hundreds of skaa)
+  -medium to high quality food vendors
+  -slave auction house
+  -black market
+    -slave brothels
+[House Stayanoga] (rich, inter-continental trade employs many skaa)
+  -materials
+    -snake skin - 2s each
+    -crocodile skin - 1g each
+    -all non-metal "trade goods" (pg 157) (price x2)
+    -horses
+        -warhorse 500g
+        -draft 60g
+        -riding 90g
+        -pony 40g
+    -saddles
+        -traditional Iksar - 60g
+        -pack - 5g
+        -riding - 10g
+    -boats
+        -keelboat - 3100g
+        -longship - 11,000g
+  -black market
+        -Order of Steel Warship 20AC 300HP - 30,000g      
 
 Areas of interest:
 several market areas run by skaa
     -squalor level food stalls
     -squalor level inns
+    -general supplies
+       -clothes, shoes, brooms, other house supplies
 city square
     -where occasional public executions happen
 Temple of the [Order of Steel]   
+    -main one by the God King's Palace where [Head Bishop Skarjun] resides
+    -Skaa Temple North
+    -Skaa Temple South
+       -both have 3 [Steel Inquisitor]s and many Brothers from the Order of Steel
 The God King's Palace     
 
 There are several groups of criminal skaa in Luthadel, one such group had close ties with [Renegade Leader Kelsier] who in recent history made an escape from [Kunark] with about 50 refugee skaa. A smuggler, [Dockson] was responsible for getting in touch with the [Golden Hand] who helped turn the tide and allow their escape.
@@ -35,5 +88,5 @@ Other members of this group include: (use DnD thug pg 350)
     -[Ham] half-orc fighter
     -[Dockson] halfling smuggler rogue
     -[Breeze] elf, a weak wizard who can quel emotion
-To be contacted, one must go to the butcher's shop, and ask for a "Hunk of beef" while tapping a pattern on the counter:   - - - - <pause> - - - - <pause> 
+To be contacted, one must go to the butcher's shop at the southern skaa market, and ask for a "Hunk of beef" while tapping a pattern on the counter:   - - - - <pause> - - - - <pause> 
 then you'll be told it won't be ready for a while but you can wait inside. Proceed, and you will be concealed and allowed access to go inside and head to the sewers through the far-side cupboard. Leading to the group's hideout.

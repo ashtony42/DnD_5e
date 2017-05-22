@@ -19,7 +19,7 @@ Captains (leaders of vessels)
 Officers (leaders of companies)
     [Frank Nelson] (human) leads 5 marines stationed at [Augsburg]
     [Artin Torbera] (dwarf F) officer of the south gate of [Mayara]
-    [Ivor Chernin] (human) officer of the west gate of [Mayara]
+    [Ivor Chernin] (human) officer of the west gate of [Mayara] - killed by the Evil group when he pursued them
     [Shava Caelynn] (elf F) officer of the east gate of [Mayara]
 Private (soliders)
     [Daniel Milborne] (human) inspired by Keiran who saved his life to join the marines

@@ -19,5 +19,6 @@ Wildlife includes (monster book):
     Gray Ooze (pg 243) looks like a wet rock, caused by ash drifted from [Luthadel]
     Owl Bear (pg 249)
     Dire Wolves (pg 321)
+    Bulette (pg 34)
     
     

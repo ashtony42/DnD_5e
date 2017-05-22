@@ -4,4 +4,4 @@ have undergone a transformation to make them more dragonlike by the [Order of St
 (use half-dragon veteran ph 180 of monster handbook)
 100HP
 resistance: fire
-18 AC
+18 AC (natural)

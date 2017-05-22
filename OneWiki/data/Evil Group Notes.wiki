@@ -5,7 +5,8 @@
 XXXXXXX
 XXXXXXX
 XXXXXXX
-XXXXXX
+XXXXXXX
+XX
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -60,37 +61,40 @@ asked around augsburg for Kerri, spoke with Greg and came up empty.
 recruited Borivik who has lost his wife to slavery via Don Kreig's men.
 looking for Lander, a dockworker who has a thing out for Don Kreig.
 
-one day into sailing to Gorda from Arabasta
-
 +++++Session 7 notes:
-traveled back to fiore after defeating rex the smasher at sea
+traveled back to fiore after defeating [Rex The Smasher] at sea
 
 +++++Session 8 notes:
-carts borrowable for 15g, 5g returned when the cart is returned.
- acquired left arm of Therizdun
+ acquired left arm of [Tharizdun]
  acquired 3 wolf pups, 1 full grown one
  
  1 + 6 gnomes (bandit captain) (including security council member)
  1 Rimardo human - Fiore noble
- Taman human from Gorda
+ [Taman] human from [Gorda]
  
  knocked out the gnome council master and two of his companions, four got away.
  
  ++++Session 9 notes:
- Kieran staches 5g from Vulcan's bet
+ Kieran snatches 5g from Vulcan's bet
  
  burned down a fisherman's house near the north dock.
  knocked out the fisherman
  carved "Mohogany" in the arm of the fisherman.
- 
- Taman - 15g
- 
+  
  attacked by a pursuing marine vessel and killed the 10 men and officer
  
  Prisoners:
- gnome councilman - killed
+ gnome councilman Ummorn - killed
  gnome guard - killed
- marine officer - killed
+ marine officer [Ivor Chernin] - killed
  fisherman - thrown overboard
  
  at the outer islands
+ 
+ ++++Session 10 notes:
+ the next time the group goes to sea for an extended periods of time, they will encounter an [Order of Steel] Warship. 
+ A large, black-steel made ship with spiked and jagged architecture. This ship has no sails. It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
+ - 2 [Steel Inquisitor]s
+ - 6 Brothers
+ - 3 cannons - left, right and front
+ 
