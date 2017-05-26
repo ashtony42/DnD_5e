@@ -16,9 +16,10 @@ Admiral (leader of the organization)
 Vice Admirals (leaders of regions)
 Captains (leaders of vessels)
     [Bran C'Num] (half-orc) who oversees marine operations at the embassy in [Fiore]
-Officers (leaders of companies)
+Officers (leaders of companies) former resident of [Gorda] - killed by the Evil group at the battle of the north dock of Fiore
     [Frank Nelson] (human) leads 5 marines stationed at [Augsburg]
-    [Artin Torbera] (dwarf F) officer of the south gate of [Mayara]
+    [Artin Torbera] (dwarf F) officer of the south gate of [Mayara] -killed by the Evil group at the battle of the north dock
+      A proud former worker at the Mason's guild at Mayara, worked hard to build his family (2 daughters), protective dad.
     [Ivor Chernin] (human) officer of the west gate of [Mayara] - killed by the Evil group when he pursued them
     [Shava Caelynn] (elf F) officer of the east gate of [Mayara]
 Private (soliders)
