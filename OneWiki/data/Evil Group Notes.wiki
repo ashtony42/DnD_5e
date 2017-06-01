@@ -69,7 +69,7 @@ traveled back to fiore after defeating [Rex The Smasher] at sea
  acquired 3 wolf pups, 1 full grown one
  
  1 + 6 gnomes (bandit captain) (including security council member)
- 1 Rimardo human - Fiore noble
+ 1 Rimardo human - Fiore noble 40hp 16 AC +6 to hit, 1D8+3, 2 attack
  [Taman] human from [Gorda]
  
  knocked out the gnome council master and two of his companions, four got away.
@@ -104,3 +104,13 @@ the North dock will have 20 [Marines] + Captain [Bran C'Num] + Officer [Artin To
 leave behind kael, dockson at one of the outer islands with their main ship.
 
 need to write in admirals.
+
+++++Session 11 notes:
+Wagers: Taman- new guy kills 3 or less- 10
+       Vulcan- new guy kills 4 or more- 30
+       
+8 town guard + Rimardo on top the west wall.
+-Rimardo was killed
+8 town guard + 2 + Dock Master at south gate  
+
+group took over the west wall.     
