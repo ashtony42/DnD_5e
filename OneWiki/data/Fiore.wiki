@@ -46,7 +46,36 @@ Places of interest in Mayara:
       Mayara barracks
         Home to a few dozen soldiers. 
       King's palace
-        Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet built with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury.
+        Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet built with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury, vault.
+            -Armoury: armor stand for the King's platemail
+                      a Gifted Carpenter's made Quarterstaff(+1)
+                      a Gifted Mason's gem imbued Chisel(+1)
+                      Town Guard chain, swords and shields
+                      Jewelers Kit
+            -King's room: map of the darkwaters ([Faydwer] + [Kunark])
+                          Book: [Legend of Regdar]
+                          Book: [The Resignation of Kord]
+                          Book: [Pantheon of the Dawn War]
+                          Chest with 1000g
+            -Kitchen: The best Mead and Ale
+                      40lbs of Luxurious Food
+                      4 kitchen staff commoners
+                      Cook's Utensils
+            -Servant Quarters: 2 servant commoners
+                               8 beds
+                               4d6 gold
+            -Vault: Ak'anon crafted lock. Requires combination: 2-2-0-4-6-12 or DC 22 Lockpicking
+                    Found behind 
+                    -[AkumaFruits]x1
+                    -20,000g
+                    -gemstones: (pg 134 DM book)
+                       1000gp x1
+                       500gp x2
+                       100gp x3
+                       50gp x10
+                       10gp x20
+                    -1 etherium ingot - soft like hard butter greenish sheen
+                    -1 dimeritium ingot - very hard bluish sheen   
     
     *COMMON AREA*
       Temple of Elysium
@@ -66,7 +95,7 @@ Places of interest in Mayara:
             cinnamon (2g per lb)
             saffron (15g per lb)
             nightshade (15g per lb) (poisonous)
-        -exotic food vendor, Elisha Vanesson (human)(knows of [AkumaFruits], but tries to be secretive)
+        -exotic food vendor, [Elisha Vanesson] (human)(knows of [AkumaFruits], but tries to be secretive)
             items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal))          
         -flectcher, Yanny McLougin (female halfling), redneckish personality
             items for sale short bow (25g), long bow(50g), crossbow bolts/arrows (20x 1g), SOLD OUT: gryphon feather arrows (+1 to hit) 20x 4g)

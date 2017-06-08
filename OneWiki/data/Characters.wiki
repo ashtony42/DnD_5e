@@ -26,6 +26,7 @@ World Leathers:
     [King Jor Doken]
     [Geth]
     [Harris Flennre]
+    [Elisha Vanesson]
 
 [Augsburg]
     [Mayor Ubring]

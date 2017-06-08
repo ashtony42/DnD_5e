@@ -6,7 +6,7 @@ XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
-XX
+XXXXXXX
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -41,19 +41,8 @@ sent Anton (billy) into town to do chores)
 -paid 350g toward armor, 450g remaining 2 days left
 
 200g to Dockson to buy a diamond & blacksmith tools & brewer supplies & woodcarving tools & alchemist & disquise kit
--smithing tools - 20g
--woodcarving - 1g
--brewing supplies - 20g
--herbalism kit - 5g
--diamond - 50g - 4s wine
-103g 6s
-78g 6s
 
-Kerri 25g => Temple of Elysium
-Dockson 20s
-        -5s innkeep
-        -5s innkeep  
-        -8s wine      
+Kerri 25g => Temple of Elysium 
         
 ++++Session 6? Notes:     
 asked around augsburg for Kerri, spoke with Greg and came up empty.
@@ -77,9 +66,7 @@ traveled back to fiore after defeating [Rex The Smasher] at sea
  ++++Session 9 notes:
  Kieran snatches 5g from Vulcan's bet
  
- burned down a fisherman's house near the north dock.
- knocked out the fisherman
- carved "Mohogany" in the arm of the fisherman.
+ burned down a fisherman's house near the north dock. knocked out the fisherman. carved "Mohogany" in the arm of the fisherman.
   
  attacked by a pursuing marine vessel and killed the 10 men and officer
  
@@ -89,23 +76,19 @@ traveled back to fiore after defeating [Rex The Smasher] at sea
  marine officer [Ivor Chernin] - killed
  fisherman - thrown overboard
  
- at the outer islands
- 
  ++++Session 10 notes:
- the next time the group goes to sea for an extended periods of time, they will encounter an [Order of Steel] Warship. 
- A large, black-steel made ship with spiked and jagged architecture. This ship has no sails. It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
- - 2 [Steel Inquisitor]s
- - 6 Brothers
- - 3 cannons - left, right and front (pg 255 DM handbook)
- 
 the North dock will have 20 [Marines] + Captain [Bran C'Num] + Officer [Artin Torbera] 
 4 trained gnomish guards (thugs)
 
 leave behind kael, dockson at one of the outer islands with their main ship.
 
-need to write in admirals.
-
 ++++Session 11 notes:
+ the next time the group goes to sea for an extended periods of time, they will encounter an [Order of Steel] Warship. 
+ A large, black-steel made ship with spiked and jagged architecture. This ship has no sails. It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
+ - 2 [Steel Inquisitor]s
+ - 6 Brothers
+ - 3 cannons - left, right and front (pg 255 DM handbook)
+
 Wagers: Taman- new guy kills 3 or less- 10
        Vulcan- new guy kills 4 or more- 30
        
@@ -114,3 +97,20 @@ Wagers: Taman- new guy kills 3 or less- 10
 8 town guard + 2 + Dock Master at south gate  
 
 group took over the west wall.     
+
+++++Session 12 notes:
+Group of nobles coming from the noble quarter to the west wall:
+[King Jor Doken]
+-8 town guard 
+
+Group that is stealthily placed on rooftop closer to the center of town (16 Perception check to see): 
+Officer [Shava Caelynn]
+   HP 40, AC 16, Carpenter's Longbow, +6 Hit, 1D8+4 dmg 
+-4 [Marines]      
+
+Last group to arrive from the south on the ground, melee:
+-8 town guards
+
+Other Events:
+-[Martin Terratio] and [Kerri] escape through the south wall when it's known where the party is.
+-[Elisha Vanesson] will be in an alley bawling her eyes out after witnessing the murders at the west wall. (10 Perception check to see)

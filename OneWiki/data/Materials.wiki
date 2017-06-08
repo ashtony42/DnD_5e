@@ -7,5 +7,5 @@ Copper - common
 Glass - uncommon
 Silver - uncommon
 Gold - rare
-Dimeritium - very rare, anti-magical properties
-Etherium - very rare, magical properties
+Dimeritium - very rare, anti-magical properties - soft like hard butter greenish sheen
+Etherium - very rare, magical properties - very hard bluish sheen
