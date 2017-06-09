@@ -114,3 +114,5 @@ Last group to arrive from the south on the ground, melee:
 Other Events:
 -[Martin Terratio] and [Kerri] escape through the south wall when it's known where the party is.
 -[Elisha Vanesson] will be in an alley bawling her eyes out after witnessing the murders at the west wall. (10 Perception check to see)
+
+Slew [King Jor Doken], [Elisha Vanesson] and [Shava Caelynn] and many guards, citizens have fled
