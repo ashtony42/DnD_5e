@@ -56,3 +56,12 @@ Keiran aprehended for stealing from the Alchemist shop.
 
 ++++Session 9:
 REMEMBER: heroes need to add their 100 adventuring experience.
+
+THE JUDGEMENT
+Offense Witness: Orryn
+Offense Prosecutor: Alchemist Gerbo
+Offense Lawyer: Warren
+
+Defence Witness (if they join): [Jack the Slumberjack], [Kyra Usagi]
+Defence Prosecuted: [Kieran Maon]
+Defence Lawyer: Beren

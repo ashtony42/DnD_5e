@@ -1,12 +1,21 @@
 ﻿++ Players
 
-[Kyra Usagi]
-[Jack the Slumberjack]
-[Kieran Maon]
 
-[Edan]
-[Vulcan]
-[Cael Caemond]
-[Croaker]
-[Kronk] DEAD
-[Krieger]
+[Good Group Notes]
+  [Kyra Usagi]
+  [Jack the Slumberjack]
+  [Kieran Maon]
+
+[Evil Group Notes]
+  [Edan]
+  [Vulcan]
+  [Cael Caemond]
+  [Croaker]
+  [Kronk] DEAD
+  [Krieger]
+  [Grogar]
+  
+
+[Serana]
+[Whap]
+[Quinn]  
