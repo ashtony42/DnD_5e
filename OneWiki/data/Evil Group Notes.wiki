@@ -83,12 +83,6 @@ the North dock will have 20 [Marines] + Captain [Bran C'Num] + Officer [Artin To
 leave behind kael, dockson at one of the outer islands with their main ship.
 
 ++++Session 11 notes:
- the next time the group goes to sea for an extended periods of time, they will encounter an [Order of Steel] Warship. 
- A large, black-steel made ship with spiked and jagged architecture. This ship has no sails. It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
- - 2 [Steel Inquisitor]s
- - 6 Brothers
- - 3 cannons - left, right and front (pg 255 DM handbook)
-
 Wagers: Taman- new guy kills 3 or less- 10
        Vulcan- new guy kills 4 or more- 30
        
@@ -103,9 +97,8 @@ Group of nobles coming from the noble quarter to the west wall:
 [King Jor Doken]
 -8 town guard 
 
-Group that is stealthily placed on rooftop closer to the center of town (16 Perception check to see): 
+Group that is stealthily placed on rooftop closer to the center of town
 Officer [Shava Caelynn]
-   HP 40, AC 16, Carpenter's Longbow, +6 Hit, 1D8+4 dmg 
 -4 [Marines]      
 
 Last group to arrive from the south on the ground, melee:
@@ -113,6 +106,13 @@ Last group to arrive from the south on the ground, melee:
 
 Other Events:
 -[Martin Terratio] and [Kerri] escape through the south wall when it's known where the party is.
--[Elisha Vanesson] will be in an alley bawling her eyes out after witnessing the murders at the west wall. (10 Perception check to see)
+-[Elisha Vanesson] will be in an alley bawling her eyes out after witnessing the murders at the west wall. (Slain)
 
 Slew [King Jor Doken], [Elisha Vanesson] and [Shava Caelynn] and many guards, citizens have fled
+
+++++Session 13 notes:
+the next time the group goes to sea for an extended periods of time, they will encounter an [Order of Steel] Warship. 
+ A large, black-steel made ship with spiked and jagged architecture. This ship has no sails. It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
+ - 2 [Steel Inquisitor]s
+ - 6 Brothers
+ - 3 cannons - left, right and front (pg 255 DM handbook)

@@ -4,7 +4,7 @@ good Ak'anon music: https://www.youtube.com/watch?v=_-fkM4K_26U
 
 Ak'anon is a busy bustling city of gnomes. It once, long ago started as a small island, and their mechanations and city expanded to encompass the entire island until there was no more land visible. It's a very busy and bustling place, the shape of the city often changes from day to day as mechanisms shift things around, but and local gnome is well accustomed. Foreigners tend to have difficulty navigating, especially since most things are sized for gnome usage.
 
-The small island that Ak'anon is built upon has been turned into a mine that many rare metals are mined from. Including trace amounts of a [Materials] called Dimeritium. The magical properies of it power much of the city as well as small devices that are invented and crafted here.
+The small island that Ak'anon is built upon has been turned into a mine that many rare metals are mined from. Including trace amounts of a [Materials] called Etherium. The magical properies of it power much of the city as well as small devices that are invented and crafted here.
 
 When an expected ship arrives to Ak'anon, the city can open up to reveal the internalized port for docking vessels.
 
@@ -21,7 +21,7 @@ Ak'anon is not lead by a single ruler, but a council of influencial individuals.
     -Bribis (F), master smelter and head of mining operations
     -Lanziver (M), architect of city construction
     -Zilkas (M), master of dimeritium constructs and machinery
-    -Ummorn (M), leader of defence and security (guards use crossbows and daggers)
+    -Ummorn (M), leader of defence and security (guards use crossbows and daggers) (Killed by evil group)
     -Briyur (F), master of the arts
     -Sellys (F), head provisions organizer
     
@@ -92,5 +92,7 @@ There are many points of interest in Ak'anon:
     -hatchet
     -studded leather    
         
+++++Underground
+[Ak'anon Mines]        
 
         

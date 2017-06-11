@@ -1,0 +1,24 @@
+﻿++ Ak'anon Mines
+
+Lifts are all lever operated with counter-weight mechanisms, clockwork machinery.
+
+Warden Tomson Mugroe (Dwarf) oversees the prison operations (drill seargent personality)
+-Platemail 18AC, 80HP, +5 to hit, Flail 1D8+4, 2 attacks
+
+The Warden's room has 
+5 levers to lock down the lifts
+  -"Main L"
+  -"Smeltery"
+  -"Quarry 1"
+  -"Quarry 2"
+  -"Warden"
+5 sets of Dimeritium Shackles
+Desk, prisoner records  
+
+
+
+
+Guard rooms contain 6 Guards each (Gnomes)
+Guard Barracks has 10 Guards
+-Chainmail 16AC, 30HP, +3 to hit, 1D6+2, 1 attack (short sword or crossbow)
+

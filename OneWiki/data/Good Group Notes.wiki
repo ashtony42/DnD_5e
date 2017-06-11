@@ -2,7 +2,8 @@
 
 +++CALENDAR
 1234567
-XXXX
+XXXXXXX
+X
 
 [Quest 1]
 
@@ -44,16 +45,14 @@ They noticed the mummified arm of [Tharizdun] had re-merged together, and prompt
 26 yrs old Kosef
 2 on group's vessel
 
-XXXX
-
 "what kind of insight can you offer?"
 "can you give me pants?"
 "dear hand i wish to be carried away to Luthadel"
-
 "definitely not stolen" + carpenter's guild
 
-Gnome - Orryn
+Gnome - Orryn helped the group navigate around, cried for the guards when Keiran stole a potion
 
 Keiran aprehended for stealing from the Alchemist shop.
 
+++++Session 9:
 REMEMBER: heroes need to add their 100 adventuring experience.
