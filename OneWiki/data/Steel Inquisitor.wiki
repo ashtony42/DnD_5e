@@ -2,6 +2,9 @@
 
 have undergone a transformation to make them more dragonlike by the [Order of Steel]. They are lawful evil and are responsible for keeping order and apprehending mages in [Luthadel]. Can sense metal and usage of magic.
 (use half-dragon veteran ph 180 of monster handbook)
-100HP
+120HP
 resistance: fire
 18 AC (natural)
++8 to hit
+
+20 STR (+5) 1000xp
