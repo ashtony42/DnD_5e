@@ -15,7 +15,7 @@
   [Krieger]
   [Grogar]
   
-
-[Serana]
-[Whap]
-[Quinn]  
+[Group Three Notes]
+  [Serana]
+  [Whap]
+  [Quinn]  
