@@ -64,7 +64,7 @@ Places of interest in Mayara:
             -Servant Quarters: 2 servant commoners
                                8 beds
                                4d6 gold
-            -Vault: Ak'anon crafted lock. Requires combination: 2-2-0-4-6-12 or DC 22 Lockpicking, AC 20, HP 200, Dimeritium
+            -Vault: Ak'anon crafted lock. Requires combination: 2-2-0-4-6-12 or DC 22 Lockpicking, AC 20, HP 200, DMG thresh 20 Dimeritium
                     Found behind 
                     -[AkumaFruits]x1
                     -20,000g
