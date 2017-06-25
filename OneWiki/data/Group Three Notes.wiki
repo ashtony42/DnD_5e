@@ -14,10 +14,11 @@ Three people:
   1D6 copper each
 1 [Marines] private
   1D6 copper, private's badge, short sword, shield, leather armour
-  
-2 boars are nearby sniffing at the newly landed food.
 
-XXXXXX Boars
-XXXXXXX Crab
-    
+++++Session 1
+2 boars are nearby sniffing at the newly landed food.    
 encountered a Blink Dog    
+
+++++Session 2
+encounter a hunter from the [Nowa Huta], [Daniel Milborne] - Human(M) - Former [Marines]
+    -short bow, 5 arrows, leather armor, dagger

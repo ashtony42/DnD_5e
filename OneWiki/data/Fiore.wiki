@@ -47,7 +47,8 @@ Places of interest in Mayara:
         Home to a few dozen soldiers. 
       King's palace
         Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet built with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury, vault.
-            -Armoury: armor stand for the King's platemail
+            -Armoury: [Royal Armoror Grix] works here
+                      armor stand for the King's platemail
                       a Gifted Carpenter's made Quarterstaff(+1)
                       a Gifted Mason's gem imbued Chisel(+1)
                       Town Guard chain, swords and shields

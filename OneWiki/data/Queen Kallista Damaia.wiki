@@ -1,0 +1,27 @@
+﻿++ Queen Kallista Damaia
+
+Tiefling F
+A beautifully embroidered padded garb. A golden crown with golden trees adorning the rim. 
+
+STR (+1) DEX (+3) CON(+2) INT(+5) WIS(+5) CHR(+2)
+
+HP 100 AC 13 (Padded)
+ +7 TH - Quarterstaff 1d6+4
+ +8 TH - Longbow 1d8+5
+
+Spell Cast Modifier (+8)
+Spells:
+  Charm Person (pg 221)
+  Death Ward  (pg 230)
+  Enlarge/Reduce (pg 237)
+  True Polymorph (pg 283) Into dryad if rating (3 or less)/ into treant if rating (3 or more)
+  Cure Wounds 8D8 (pg 230)
+  Reincarnate (pg 271)
+
+[AkumaFruits]
+Yesterday
+  Defensive: damage, healing, ailments all occur 24 hours from the time they take place.
+  Offensive: all spells and attacks dealt deal their damage 24 hours from the time they take place.
+  
+If defeated:
+    all charmed/polymorphed fey become their former selves (humans/dwarf/elves/halflings/gnomes/koloss/iksar)
