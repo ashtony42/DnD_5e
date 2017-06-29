@@ -4,4 +4,8 @@
 Wizard - knows all manner of illusion spells
 Quarter Staff
 
+STR(0) DEX(0) CON(0) INT(+4) WIS(+3) CHR(+3)
+HP 100 AC 16 
+Quarter Staff +5 TH, 1d8+3 
+
 A runnaway queen of [Norrath]

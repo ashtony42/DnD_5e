@@ -2,5 +2,8 @@
 
 (use "Bandit Captain" pg 344 of monster manual)
 Human - Fighter 
-Great Sword +5 to hit (2d6+3 slash)
+
+STR (+2) DEX(+2) CON(+2) INT(+1) WIS(+1) CHR(+2)
+HP 80, 18 AC
+Great Sword +7 TH, 2d6+3 slash, 2 attacks
 Hunter from [Fiore] wanting to be the best hunter, training in [Dun Morhen].

@@ -1,6 +1,9 @@
 ﻿++ Varneth
 
 (use "Bandit Captain" pg 344 of monster manual)
-Longbow +5 to hit (1d8+3 damage)
+
+STR(+1) DEX(+4) CON(+1) INT(+1) WIS(+2) CHR(+1)
+HP 80, AC 18
+Longbow +7 TH, 1d8+5 damage, 2 attacks
 
 Former pirate captain of the NightWraith pirates. A band of rogues who disbanded after the largest heist of their career against [Luthadel]
