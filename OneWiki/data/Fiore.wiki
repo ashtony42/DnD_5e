@@ -68,7 +68,7 @@ Places of interest in Mayara:
             -Vault: Ak'anon crafted lock. Requires combination: 2-2-0-4-6-12 or DC 22 Lockpicking, AC 20, HP 200, DMG thresh 20 Dimeritium
                     Found behind 
                     -[AkumaFruits]x1
-                    -20,000g
+                    -2,000p
                     -gemstones: (pg 134 DM book)
                        1000gp x1
                        500gp x2
