@@ -2,5 +2,6 @@
 
 (sunbladeish pg 205 of DM book)
 
-must attune to use
+must attune to use (1 hour)
+lvl 1 slot (or equivalent), 10 HP
 +4 dmg Radiant damage
