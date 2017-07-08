@@ -30,7 +30,7 @@ LOGIA
 ZOAN
 1. Bear - Triggered by anger
 2. Ginko - Triggered by sloth
-3. Blue Footed Dodo - Triggered by hilarity
+3. Blue Footed Dodo - Triggered by hilarity (consumed by [Grogar] )
 4. Mouse - Triggered by shyness
 5. Wolf - Triggered by anger
 6. Mammoth - Triggered by resolve

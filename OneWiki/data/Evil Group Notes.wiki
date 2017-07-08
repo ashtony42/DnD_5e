@@ -1,5 +1,7 @@
 ﻿++ Evil Group Notes
 
+[3 Helms Deep]
+
 +++CALENDAR
 1234567
 XXXXXXX
@@ -7,7 +9,7 @@ XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
-X
+XXXXXXX
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -186,11 +188,7 @@ Carpenters completed the cannon mounts on the Sailing ship
   4 escaped archers+  XXXX
   20 normies   XXXXXX 
   keelboat 100HP 57
-  
-  Refugees:
-  harris flenre
-  shirrong bronzecore
-  
+   
   Taman given anarchy to "check out"
   
   Draconic - child slave trade "Koloss fruit"

@@ -1,0 +1,40 @@
+﻿++ 3 Helms Deep
+
+Formerly known as Mayara, the Bandits of Deception slew the [King Jor Doken] and claimed it as their own.
+
+Populous:
+    [Royal Armoror Grix] - Royal Adviser and in charge when King Tri-Helm is away
+    Nobleman [Garney] - In charge of real estate and establishments
+    Carpenters Jerrod Louverre and 2 fellow carpenters still run the carpenter's guild
+    Servant [Marta] and [Prescilla]
+    
+Migrating from Augsburg:
+    Mayor Ubring and daughter Anabel
+    
+    
+-Market Square: Merchants include:  
+	-Farming Supply for tools and hardware supplies. Run by Lenny, a common man.
+		-pitch forks, scythes, tilling tools, seeds, hammers, nails
+	-Pawn Shop for odd items. Run by the weird Mr. Maej, resembling a hunchback. 
+		-Used swords, Used shields, music boxes, jewelry, rare seashells, luthadel tapestry
+	-Fishing Supply for fishing supplies. Run by Henry, a common man. 
+		-nets, rods, bait, sails, rope. 
+	-News Stand run by a child named Gabe 	
+		
+	-blacksmith, Shirrong Bronzecore, hearty personality
+            sells/buys all metal based weapons
+            sells/buys all metal based armour
+            repairs all metal based armour and weapons (costs roughly 10% of the item's value)
+    -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
+            wolfsbane (15g per lb) (smell that deters wolves)
+            mint, tea (5s per lb)
+            cloves (3g per lb)
+            cinnamon (2g per lb)
+            saffron (15g per lb)
+            nightshade (15g per lb) (poisonous)
+    -animal vendor, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice, had a wanted poster out for the Fiore Griffin with the [Marines] - 436 Gold
+            2cp x lb of chicken (1d6) (5 at stall)
+            1gp per goat (2 at stall)
+            3gp per pig (2 at stall)        
+            
+    

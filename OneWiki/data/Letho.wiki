@@ -1,6 +1,6 @@
 ﻿++ Letho
 
-Massive 7-foot tall human (gladiator pg 346)
+Massive 8-foot tall human (gladiator pg 346)
     -his attacks will cause foes to be thrown back 10ft.
     -Letho has seen much combat in his days, and is covered in many rather intimidating looking scars.
     -reportedly has slain gyphons and bears by himself.
@@ -14,11 +14,23 @@ Sludge Fruit user
     -successful un-armed attacks from Letho cause a cumulative -1 to the armor he strikes.
     -can turn entire body into sludge.
     
-Immune:  Piercing/Bludgeoning/Slashing/Poison
-
-Vulnerable: Fire
-    
   -currently dispatched to investigate late arrival of the fugitive [Redbeard The Unlucky] to [Fiore]. Can be found at the Inn the morning before the departure.
 
 
 defeated once, now reforms as 6 foot tall until more sludge is accumulated.
+
+Reformed and went to [Dun Morhen] to train at the secret School of the Roc
+now 8 foot tall
+
+STR 20(+5) DEX 14(+2) CON 18(+4) WIS 10(0) INT 10(0) CHR 4(-3)
+
+150HP 17AC 
+Dimeritium LongSword 1D8+6, +8 TH, 2 attacks
+
+Sludge Throw - 1D6, +8 TH, 1 per turn, 40/80ft range, -1 AC on hit
+Sludge Wave - 20ft radius is difficult terrain (2 additional steps), -1 AC per turn in it
+Sludge Grapple - STR check dif 20, 1d6+3 per turn while grappled, -1 AC per turn while grapped 
+
+Immune:  Piercing/Bludgeoning/Slashing/Poison
+
+Vulnerable: Fire

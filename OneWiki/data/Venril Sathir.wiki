@@ -5,18 +5,19 @@ A very oppressive king who has undergone dragon mutations as well as having cons
 His very existence is for perpetuating the seal he has on the god [Gruumsh] through a synergystic process of using his own
 etherium existence to both extend his own life as well as power the seal.
 
-STR 20, DEX 20, CON 20, WIS 16, INT 16, CHA 12      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
-    +5      +5      +5      +3      +3      +1                 20                   +7                    +7
+STR 20, DEX 20, CON 20, WIS 18, INT 20, CHA 12      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
+    +5      +5      +5      +4      +5      +1                 20                  +11                   +11
 
-250hp
-AC 18+3 God King's Platemail (req str 16)
+275hp
+AC 18+3 God King's Platemail (req str 18)
 Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook)
 Ring of Telekinesis (pg 280 player handbook)
 Ring of Regeneration (pg 191 DM handbook) +1d6 HP per 10 minutes, body parts can regrow after a few days
 Ring of Jumping
-Rapier 1d8+5(+10 to hit)
+Rapier 1d8+5(+11 to hit)
 
 Actions: 3 per round
+Bonus Actions: 2 per round
 
 Spells: 
 Fireball: 8d6 damage to all creatures in a 20ft radius of target

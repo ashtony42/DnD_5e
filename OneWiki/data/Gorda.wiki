@@ -23,12 +23,14 @@ Areas of Interest:
 The Blooming Orchid:
         A brothel/bar/inn that's a very boisterous place.
         Rose: is the mistress of the establishment. Elderly woman who knows everyone and everything that happens in Gorda. Wears a red sequin dress. Slick smooth long hair, and a very wrinkly face.
-        Saffron: wood elf from Kelethin, forced out when she was young. Caters to gentle customers. (10g)
-        Magnolia: half orc, born and raised in Gorda, proud daughter of Rose. Caters to the roughest of customers. (20g)
-        Dandelion: human, former slave of [Don Kreig]'s men. Beautiful singing voice. (20g)
+            -Charm Person (Diff 18 Wisdom check) - up to 3 people
+        Saffron: wood elf from Kelethin, forced out when she was young. Caters to gentle customers. (20g)
+        Magnolia: half orc, born and raised in Gorda, proud daughter of Rose. Caters to the roughest of customers. (40g)
+        Dandelion: human, former slave of [Don Kreig]'s men. Beautiful singing voice. (40g)
             https://www.youtube.com/watch?v=2bSk-8C76dc
-        Lavender: halfling, former fisherman in [Fiore] who seeked a more thrilling life. Caters to small customers. (10g)
-        Hellebores: tiefling, well adapted escaped citizen of Arabasta. Caters to exotic customers. (20g)    
+        Lavender: halfling, former fisherman in [Fiore] who seeked a more thrilling life. Caters to small customers. (20g)
+        Apocynum: human stylish colorful makeup, formerly known as [Kerri] escaped from the [Bandits of Deception] (steals random thing from person) (20g)  
+        Hellebores: tiefling, well adapted escaped citizen of Arabasta. Caters to exotic customers. (40g)
         -5sp per night per room, includes meal for the day (modest)
         -3sp for a meal
         -2sp for common wine or ale
@@ -46,6 +48,7 @@ Brawler's Ring
           -guessing the runner up will earn 5x what they wager
           -guessing third place will earn 2x what they wager
           -else, wager is lost.
+        Arena: a 25ft by 25ft square  
           
 Shipwright drydocks
         An area where people barter ship lumber, hardware and supplies with each other to improve their vessels.
@@ -62,16 +65,17 @@ Boat Docks
 The Sage's Cellar
         A black market for magical items run by wizards. A ward guards the shop, lowering people's strength to 8 when they pass into the shop, as well as concealing the interior from being sensed magically. Items have enchantments on them that won't allow them to pass out of the warded space unless a respective sum of currency is bonded to with with another enchantment (by the store clerk), allowing the item to leave, but the currency to not, as if pressed against a wall. 
         Shopkeep: Leeran, who only ever appears at the shop as an illusion.
-        -god fruit - 5000g each (2 in stock)
-        -potions - weak 20g each
-                 - normal 40g each
-                 - strong 80g each
-        -Pearl of Power 200g - pg 184 DM
-        -Etherium Ingot 100g 
+        -god fruit - 6000g each (2 in stock in respective sized decorative metal boxes)
+        -potions - weak 20g each 2d4+2
+                 - normal 40g each 4d4+4
+                 - strong 80g each 8d4+8
+        -Pearl of Power 300g - pg 184 DM
+        -Etherium Ingot 200g 
         -Gemstones 10g to 500g valued ones
-        -Onyx Dog 200g - pg 170 DM
-        -Sepentine Owl 150g - pg 170 DM
+        -Onyx Dog 300g - pg 170 DM
+        -Sepentine Owl 250g - pg 170 DM
         -Fine Parchment - 1s per sheet
         -Blank spell books - 5g each      
-        -Book of Understanding 300g - pg 209   
+        -Book of Understanding 400g - pg 209   
         -Sentient Rock (Henry)- 50g
+        -Rope of Climbing - 200g pg197

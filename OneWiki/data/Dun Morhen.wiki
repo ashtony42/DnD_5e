@@ -9,6 +9,8 @@ The School of the Roc is an ancient elven ruin inhabited by the students of the 
 [Marren] (Human)
 [Grund] (Half Orc)
 [Varneth] (Drow)
+[Martin Terratio] (Human)
+[Letho] (Human)
 
 Wildlife includes (monster book):
     Griffon (pg 174)
@@ -17,8 +19,10 @@ Wildlife includes (monster book):
     Elk (pg 322)
     Brown Bear (pg 319)
     Gray Ooze (pg 243) looks like a wet rock, caused by ash drifted from [Luthadel]
+    Galeb Duhr (pg 139) looks like a boulder)
     Owl Bear (pg 249)
     Dire Wolves (pg 321)
     Bulette (pg 34)
+    Wyvern (pg 303)
     
     

@@ -26,8 +26,4 @@ encountered a Blink Dog
 encounter a hunter from the [Nowa Huta], [Daniel Milborne] - Human(M) - Former [Marines]
     -short bow, 5 arrows, leather armor, dagger
     
-captured a Blink Dog and are deeping it asleep with the use of nightshade    
-    
-slew giant boar X
-blink dog X    
-crab XXXXXXXX
+captured a Blink Dog and are keeping it asleep with the use of nightshade    

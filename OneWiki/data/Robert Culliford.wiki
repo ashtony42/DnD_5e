@@ -1,3 +1,20 @@
 ﻿++ Robert Culliford
 
 The glass man, captain of a pirate crew
+Has no ship, but creates it from sand on the fly as needed.
+
+STR 16(+3) DEX 18(+4) CON 10(0) WIS 12(+1) INT 14(+2) CHR 14(+2)
+HP 120  AC 18
+
+Glass Blade (Dual Wield) - +8 TH, 1D8+8, 3 attacks
+Glass Blade (Two Hander) - +9 TH, 1D12+12, 2 attacks
+
+Resistance
+   - Cold, Fire
+Immune
+   - Lightning
+Vulnerable
+   - bludgeoning
+   
+
+When shattered by a bludgeoning attack, attacker must pass a 16 Dex check or take 1D6+1 slashing damage from shards   

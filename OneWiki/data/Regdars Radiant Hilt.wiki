@@ -2,6 +2,16 @@
 
 (sunbladeish pg 205 of DM book)
 
-must attune to use (1 hour)
-lvl 1 slot (or equivalent), 10 HP
-+4 dmg Radiant damage
+must attune to use (1 hour per attune level)
+
+COST: lvl 1 slot (or equivalent), -10 Max HP, -1 CON 
+ +4 dmg Radiant damage, gives off light when wielded
+
+ADDITIONAL: lvl 2 slot (or equivalent), -20 Max HP, -1 CON 
+ +8 dmg Radiant damage, gives off light when wielded
+ 
+ADDITIONAL: lvl 3 slot (or equivalent), -30 Max HP, -1 CON 
+ +12 dmg Radiant damage, gives off light when wielded
+ 
+ADDITIONAL: lvl 4 slot (or equivalent), -40 Max HP, -1 CON 
+ +16 dmg Radiant damage, gives off light when wielded, any existing blade melts away
