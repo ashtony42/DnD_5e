@@ -23,10 +23,12 @@ Coloseum
     players may find themselves invited to fight in the coloseum against Don Kreig's thugs, (reward 20 gold per fight won)
     if a person is undefeated, Don Kreig may challenge them.
     Don Kreig's quarters have a chest with 4000 gold in it.
+    70ft by 70ft
     
 Palace
     the main gathering place for all of Don Kreig's brutish men who bask in the luxurious surroundings, getting heavily drunk off of
     the large stash of wine in the cellars below. 
+    gems: 10x3 50x2 100x1
 
 Port
     Houses usually about 8 to 10 vessels of Don Kreig's fleet. Each with a respective Leutenant.
