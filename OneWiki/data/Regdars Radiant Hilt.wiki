@@ -8,10 +8,14 @@ COST: lvl 1 slot (or equivalent), -10 Max HP, -1 CON
  +4 dmg Radiant damage, gives off light when wielded
 
 ADDITIONAL: lvl 2 slot (or equivalent), -20 Max HP, -1 CON 
- +8 dmg Radiant damage, gives off light when wielded
+ +8 dmg Radiant damage, +1 TH, gives off light when wielded
+ (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stack up to 3 times, 10 minute ritual) 
  
 ADDITIONAL: lvl 3 slot (or equivalent), -30 Max HP, -1 CON 
- +12 dmg Radiant damage, gives off light when wielded
+ +12 dmg Radiant damage, +2 TH, gives off light when wielded
+ (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stack up to 9 times, 10 minute ritual)
  
 ADDITIONAL: lvl 4 slot (or equivalent), -40 Max HP, -1 CON 
- +16 dmg Radiant damage, gives off light when wielded, any existing blade melts away
+ +16 dmg Radiant damage, +3 TH, gives off light when wielded, any existing blade melts away
+ (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stack up to 20 times, 10 minute ritual)
+ hilt is destroyed along with user if used a maximum capacity.

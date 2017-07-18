@@ -8,6 +8,7 @@ STR (+1) DEX (+3) CON(+2) INT(+5) WIS(+5) CHR(+2)
 HP 100 AC 13 (Padded)
  +7 TH - Quarterstaff 1d6+4
  +8 TH - Longbow 1d8+5
+ 2 attacks
 
 Spell Cast Modifier (+8)
 Spells:

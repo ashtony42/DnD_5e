@@ -1,6 +1,7 @@
 ﻿++ Evil Group Notes
 
 [3 Helms Deep]
+[Evil Group Crew]
 
 +++CALENDAR
 1234567
@@ -8,8 +9,10 @@ XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
+
 XXXXXXX
 XXXXXXX
+XXX
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -19,14 +22,10 @@ The crew had supplied food to tide over the refugee camp for a few days before t
 ++++Evil Session 3 Notes:
 the group set sail, west to wherever the [Marines] were headed. They commandered the boat from them via murder, and also killed the fugitive [Redbeard The Unlucky] that they had on board.
 
-The next day, they broke out of the fog into a clear day, where they unfortunately encountered a boat of [Don Kreig]'s men that has just ransacked [Augsburg], on board, they had the pirsoner [Dockson], a halfling smuggler who was responsible for getting the help from the [Golden Hand], though, he fell in trouble with [Don Kreig]'s men when they overheard him talking of the heist [Renegade Leader Kelsier] had done against a noble house of [Luthadel] 
+The next day, they broke out of the fog into a clear day, where they unfortunately encountered a boat of [Don Kreig]'s men that has just ransacked [Augsburg], on board, they had the prisoner [Dockson]
 
-Slaves: [Kerri], [Anton]
-Bandit survivor: slain
 [Dockson]: Befriended
-Reminder: [Cael Caemond] do level up - abilities - HP
 sold boat for 2400
-Dockson quoted slaves at 40g to pirates
 
 ++++Session 4 notes:
 story to marine officers of mayara:
@@ -39,9 +38,7 @@ slew the snoody carpenter's guild member.
 40 population of refugee camp now - SLAUGHTERED
 
 sold refugee vessel for 2600
-slew 10 wolves, encountered harris flenre
-sent Anton (billy) into town to do chores)
--paid 350g toward armor, 450g remaining 2 days left
+encountered harris flenre
 
 200g to Dockson to buy a diamond & blacksmith tools & brewer supplies & woodcarving tools & alchemist & disquise kit
 
@@ -62,13 +59,8 @@ traveled back to fiore after defeating [Rex The Smasher] at sea
  
  1 + 6 gnomes (bandit captain) (including security council member)
  1 Rimardo human - Fiore noble 40hp 16 AC +6 to hit, 1D8+3, 2 attack
- [Taman] human from [Gorda]
- 
- knocked out the gnome council master and two of his companions, four got away.
- 
+
  ++++Session 9 notes:
- Kieran snatches 5g from Vulcan's bet
- 
  burned down a fisherman's house near the north dock. knocked out the fisherman. carved "Mohogany" in the arm of the fisherman.
   
  attacked by a pursuing marine vessel and killed the 10 men and officer
@@ -82,8 +74,6 @@ traveled back to fiore after defeating [Rex The Smasher] at sea
  ++++Session 10 notes:
 the North dock will have 20 [Marines] + Captain [Bran C'Num] + Officer [Artin Torbera] 
 4 trained gnomish guards (thugs)
-
-leave behind kael, dockson at one of the outer islands with their main ship.
 
 ++++Session 11 notes:
 Wagers: Taman- new guy kills 3 or less- 10
@@ -201,10 +191,10 @@ Carpenters completed the cannon mounts on the Sailing ship
   
   Edan gets attunement lvl 1 of Regdar's Radiant Hilt
   
-  Edan buys Darvin Human the former Marine private for 25g from Don Krieg's slave hold.
-  Kreiger buys Fargrim the Dwarf wizard for 35g who studied at Nowa Huta
-  Croaker buys Thia a Wood Elf Female charismatic for 40g
-  Grogar buys Yevelda a half orc female dockworker for 50g
+  Edan buys [Darvin] Human the former Marine private for 25g from Don Krieg's slave hold.
+  Kreiger buys [Fargrim] the Dwarf wizard for 35g who studied at Nowa Huta
+  Croaker buys [Thia] a Wood Elf Female charismatic for 40g
+  Grogar buys [Yevelda] a half orc female dockworker for 50g
   Vulcan buys half orc male farmer for 40g
   
   defeated Don Krieg in the arena, and the town is now fully aware. 
