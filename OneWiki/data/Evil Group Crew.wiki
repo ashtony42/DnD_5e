@@ -5,4 +5,22 @@
 [Taman]
 [Marta]
 
-[Kerri]
+[Kerri]  - not present
+
+[Darvin]
+[Fargrim]
+[Yevelda]
+[Thia]
+Unnamed Farmer
+[Queen Larissa]
+
+
+Kael
+Vulcan
+Croaker
+Kreiger
+Lightning
+Grogar
+
+3 pups
+1 wolf

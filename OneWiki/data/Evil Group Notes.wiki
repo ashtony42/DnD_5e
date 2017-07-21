@@ -191,10 +191,10 @@ Carpenters completed the cannon mounts on the Sailing ship
   
   Edan gets attunement lvl 1 of Regdar's Radiant Hilt
   
-  Edan buys [Darvin] Human the former Marine private for 25g from Don Krieg's slave hold.
+  Edan buys [Darvin] Human the former Marine private for 25g from Don Krieg's slave hold. - Proficient Short Sword
   Kreiger buys [Fargrim] the Dwarf wizard for 35g who studied at Nowa Huta
-  Croaker buys [Thia] a Wood Elf Female charismatic for 40g
-  Grogar buys [Yevelda] a half orc female dockworker for 50g
+  Croaker buys [Thia] a Wood Elf Female charismatic for 40g - Fiore - Fisher
+  Grogar buys [Yevelda] a half orc female dockworker for 50g - Sailing proficiency
   Vulcan buys half orc male farmer for 40g
   
   defeated Don Krieg in the arena, and the town is now fully aware. 
@@ -202,3 +202,20 @@ Carpenters completed the cannon mounts on the Sailing ship
   Announcer name is Stor
   
   Taking [Queen Larissa] from [Don Kreig]'s quarters at the colliseum. 
+  
+++++Session 18 notes:
+ Set bounties on [Marines] 
+ offering 25g for captains, 5g for officers, 2cp for privates  
+ 
+ Fargrim learning mage hand from kreiger
+ [Lightning] joins the crew envious of thier wealth
+ [Queen Larissa] thrown overboard between Arabasta and Gorda
+ 
+ 18g - kriegs men
+ 15g - [Taman]
+ 25g lightning
+ 
+ going to the blooming orchid, Anton, Lightning and Darvin head behind the brothel
+ 
+ Anton and Lightning gets charmed, and spend a night 20g each
+ Grogar gets charmed
