@@ -1,5 +1,7 @@
 ﻿++ Evil Group Crew
 
+19 people
+
 [Dockson]
 [Anton]
 [Taman]
@@ -12,7 +14,6 @@
 [Yevelda]
 [Thia]
 Unnamed Farmer
-[Queen Larissa]
 
 
 Kael

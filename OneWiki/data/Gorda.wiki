@@ -43,12 +43,13 @@ Brawler's Ring
           -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344
           -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350
           -Nogg(half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
+          -[Robert Culliford] (if in town)
         If gambling, 
           -guessing the winning contestant will earn 10x what they wager
           -guessing the runner up will earn 5x what they wager
-          -guessing third place will earn 2x what they wager
           -else, wager is lost.
-        Arena: a 25ft by 25ft square  
+        Arena: a 25ft by 25ft square 
+        Reward: 300g, a free night at the Blooming Orchid  
           
 Shipwright drydocks
         An area where people barter ship lumber, hardware and supplies with each other to improve their vessels.
@@ -69,13 +70,17 @@ The Sage's Cellar
         -potions - weak 20g each 2d4+2
                  - normal 40g each 4d4+4
                  - strong 80g each 8d4+8
-        -Pearl of Power 300g - pg 184 DM
+        X-Pearl of Power 300g - pg 184 DM
         -Etherium Ingot 200g 
         -Gemstones 10g to 500g valued ones
         -Onyx Dog 300g - pg 170 DM
         -Sepentine Owl 250g - pg 170 DM
         -Fine Parchment - 1s per sheet
         -Blank spell books - 5g each      
-        -Book of Understanding 400g - pg 209   
-        -Sentient Rock (Henry)- 50g
-        -Rope of Climbing - 200g pg197
+        X-Book of Understanding 400g - pg 209   
+        X-Sentient Rock (Henry)- 50g 10lb   
+        X-Rope of Climbing - 200g pg197
+        -lvl 1 Wizard spells: all 100g each scroll
+        -lvl 2 Wizard spells: all 200g each scroll
+        -lvl 3 Wizard spells: all 400g each scroll
+        -Undercommon formula for magic item
