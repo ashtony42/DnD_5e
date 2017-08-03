@@ -1,0 +1,47 @@
+﻿++ Cave of Gorda
+
+the Cave of Gorda is a layered onion-like dungeon where each layer is progressively more dangerous, where eventually at the end is the banished [Tiamat]
+
++LAYER 1
+a rather timid layer, currently used as a shelter for wild Draft Horses (pg 321) that roam the island.
+The path inward is blocked by a large boulder (STR 30 check to move)
+
++LAYER 2
+(lighting is alright, still able to see with the light from the entrance)
+Once removed, a long path that goes downward is behind the boulder. (200ft down, 400ft in, 20ft wide) 
+Mushrooms and other large boulders are found in here.
+When the end is reached, a stone door is found and when touched a loud rumbling will come from where the adventurer's came.
+-Galeb Duhr x5 (pg 139)
+
+The door has the Celetial language rune for "[Tiamat]" upon it.
+
++LAYER 3
+https://www.youtube.com/watch?v=a483kj0sR4c
+This layer is accessed if the stone door is smashed (HP 50, AC 16)
+
+(darkvision required to see or other means of light)
+inside is a network of ancient elven ruins 
+
+in a large chamber (40ft by 40ft) will be 5 pedistals with 3 Elven Mummys (pg 228) each, all in a sitting meditation position.
+Another more decorated Elven Mummy Lord (pg 229) sits meditating in the middle of the 5 pedistals
+(15 mummies and 1 lord)
+(use mummy lord lair rules on pg 228-229)
+
+Pedistals have the following finely cut Elemental Gems (pg 167) upon them:
+-Blue Sapphire
+-Yellow Diamond
+-Red Corundum
+-Emerald
+-Black Pearl (Black Pudding pg 241)
+
++LAYER 4
+The area of the stone floor where the Mummy Lord sat again bears the Celetial language rune for Tiamat.
+When smashed (HP 50 AC 16), it crumbles and falls into a deep dark 200ft pit.
+The base of the pit is 120ft by 120ft where at the bottom sleeps [Tiamat], chained to the walls, chains strengthed by the Mummys meditating above unless they were disrupted. 
+
+If Tiamat becomes visible, characters each must pass the Frightful presence of DC 26 WIS or be frightened.
+
+Tiamat remains resting unless disturbed however.
+(BATTLE)
+https://www.youtube.com/watch?v=TsNlhUxwGjU
+

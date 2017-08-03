@@ -3,7 +3,10 @@
 This island/city is a bustling town of anarchy and pirates. There's no governance other than your own might and wealth.
 Be careful not to wander around alone at night.
 
-The wildlife of Gorda is that of plains/hills. Wild goats and boars roam the island, anything bigger has already been poached to extiction long ago.
+The wildlife of Gorda is that of plains/hills.
+    - Goat (pg 330)
+    - Chickens
+    - Draft Horse (pg 321)
 
 At night, there is a risk of theft, perception check of 15 required to catch crooks.
 
@@ -41,7 +44,7 @@ Brawler's Ring
           -Ron Schnopps(human) [Don Kreig] grunt- Guard pg 347
           -Grom Mallamoog(half orc) orcish trash - Thug pg 350
           -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344
-          -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350
+          -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350 - came from the Assassins hideout in [Kalas]
           -Nogg(half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
           -[Robert Culliford] (if in town)
         If gambling, 

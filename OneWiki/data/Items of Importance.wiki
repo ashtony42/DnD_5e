@@ -2,3 +2,7 @@
 
 [Stone of Kord]
 [Regdars Radiant Hilt]
+Sending Stones Instructions
+    -Written in Undercommon
+    -Item Value: 500
+    -Backstory: used by underground mages to communicate, Henry was likely a failed attempt at crafting them.

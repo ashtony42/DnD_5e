@@ -171,9 +171,7 @@ Carpenters completed the cannon mounts on the Sailing ship
   Augsburg [Marines] presence:
   1 captain
   2 officers
-  4 escaped archers+  XXXX
-  20 normies   XXXXXX 
-  keelboat 100HP 57
+  10 privates
    
   Taman given anarchy to "check out"
   
@@ -187,11 +185,7 @@ Carpenters completed the cannon mounts on the Sailing ship
   
   Edan gets attunement lvl 1 of Regdar's Radiant Hilt
   
-  Edan buys [Darvin] Human the former Marine private for 25g from Don Krieg's slave hold. - Proficient Short Sword
-  Kreiger buys [Fargrim] the Dwarf wizard for 35g who studied at Nowa Huta
-  Croaker buys [Thia] a Wood Elf Female charismatic for 40g - Fiore - Fisher
-  Grogar buys [Yevelda] a half orc female dockworker for 50g - Sailing proficiency
-  Vulcan buys [Krusk] half orc male farmer for 40g
+  Edan buys [Darvin], Kreiger buys [Fargrim], Croaker buys [Thia], Grogar buys [Yevelda], Vulcan buys [Krusk] 
   
   defeated Don Krieg in the arena, and the town is now fully aware. 
   

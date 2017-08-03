@@ -9,11 +9,11 @@
 
 [Kerri]  - not present
 
-[Darvin]
-[Fargrim]
-[Yevelda]
-[Thia]
-Unnamed Farmer
+[Darvin] - Human slave, used to be marine private - Proficient short sword
+[Fargrim] - Dwarf Wizard, came from [Nowa Huta]
+[Yevelda] - Half orc dockworker - Proficient sailing
+[Thia] - Wood Elf from [Fiore] - Fisher
+[Krusk] - Half orc farmer
 
 
 Kael
