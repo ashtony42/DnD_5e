@@ -43,7 +43,7 @@ Brawler's Ring
         Announcer and organizer: David Coppercap, human
           -Ron Schnopps(human) [Don Kreig] grunt- Guard pg 347
           -Grom Mallamoog(half orc) orcish trash - Thug pg 350
-          -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344
+          -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344 - friend of Ron Schnopps
           -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350 - came from the Assassins hideout in [Kalas]
           -Nogg(half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
           -[Robert Culliford] (if in town)
@@ -76,7 +76,7 @@ The Sage's Cellar
         X-Pearl of Power 300g - pg 184 DM
         -Etherium Ingot 200g 
         -Gemstones 10g to 500g valued ones
-        -Onyx Dog 300g - pg 170 DM
+        X-Onyx Dog 300g - pg 170 DM
         -Sepentine Owl 250g - pg 170 DM
         -Fine Parchment - 1s per sheet
         -Blank spell books - 5g each      
@@ -86,4 +86,4 @@ The Sage's Cellar
         -lvl 1 Wizard spells: all 100g each scroll
         -lvl 2 Wizard spells: all 200g each scroll
         -lvl 3 Wizard spells: all 400g each scroll
-        -Undercommon formula for magic item
+        X-Undercommon formula for magic item - 250g

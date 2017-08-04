@@ -36,7 +36,7 @@ Pedistals have the following finely cut Elemental Gems (pg 167) upon them:
 
 +LAYER 4
 The area of the stone floor where the Mummy Lord sat again bears the Celetial language rune for Tiamat.
-When smashed (HP 50 AC 16), it crumbles and falls into a deep dark 200ft pit.
+When smashed (HP 50 AC 16), it crumbles and falls into a deep dark 300ft pit.
 The base of the pit is 120ft by 120ft where at the bottom sleeps [Tiamat], chained to the walls, chains strengthed by the Mummys meditating above unless they were disrupted. 
 
 If Tiamat becomes visible, characters each must pass the Frightful presence of DC 26 WIS or be frightened.

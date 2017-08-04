@@ -28,7 +28,7 @@ LOGIA
 15. Ethereal (exists in material and Ethereal plane simultaneously)
 
 ZOAN
-1. Bear - Triggered by anger
+1. Bear - Triggered by anger - (consumed by [Croaker]
 2. Ginko - Triggered by sloth
 3. Blue Footed Dodo - Triggered by hilarity (consumed by [Grogar] )
 4. Mouse - Triggered by shyness
@@ -39,7 +39,7 @@ ZOAN
 9. Iksar - Triggered by intellect (consumed by [Edan])
 10. Human - Triggered by social
 11. Turtle - Triggered by defensive (consumed by Kharl, a [Don Kreig] Leutenant)
-12. Dragon - Triggered by rage
+12. Dragon - Triggered by rage - (consumed by [Krieger])
 
 PARAMECIA
 1. Yesterday - The things that happen to the consumer will occur to their body 24 hours from the time they occur.  - [Queen Kallista Damaia]
