@@ -1,4 +1,5 @@
 ﻿++ Nowa Huta
+"Sanctuary" in elvish
 
 In the center of the island, is the tree ,[Corellon], a massive ancient tree that is easily over 3000ft tall. Larger than any redwood, with branches that span in at least a 1000ft radius. Under it's canopy is a wonderful city with possibly the nicest and happiest people to ever exist. With some structures so old the original constructors have been forgotten.
 Lead by [Queen Kallista Damaia] (Tiefling F)
@@ -57,6 +58,8 @@ Points of interest:
         
     Carpenters - Berea - Elf(F) (formerly from [Fiore])
         -craft, repair and sell furnature mostly
+        -Wife of Jerrod Louverre, the carpenter Guild Master in [Fiore] - 75yr marriage
+        -Quotes 4 days to add +1TH to a bow (cost 1 chicken)
         
     Masons - Geral - Dwarf(M) (formerly from [Fiore])   
         -do repair and maintenance to the ancient elvish style architecture around town, and sometimes construct new when needed
@@ -66,6 +69,7 @@ Points of interest:
         
     Hunting Supplies - Nanerdar - Elf(M) (formerly from [Kelethin])
         -Short-bows, Long-bows, arrows  
+        -Polished Long-bow +1 TH
         
 Wizard's School of Corellon
     Many classrooms with many apprentices, classes taught by:

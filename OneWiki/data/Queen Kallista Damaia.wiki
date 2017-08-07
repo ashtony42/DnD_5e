@@ -12,7 +12,7 @@ HP 100 AC 13 (Padded)
 
 Spell Cast Modifier (+8)
 Spells:
-  Charm Person (pg 221)
+  Charm Person (pg 221) - WIS Diff 28
   Death Ward  (pg 230)
   Enlarge/Reduce (pg 237)
   True Polymorph (pg 283) Into dryad if rating (3 or less)/ into treant if rating (3 or more)

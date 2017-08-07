@@ -4,7 +4,7 @@ CALENDAR
 XXXX
 
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
-Thier supply vessel had 3 other crewmates who are now washed ashore with them. Only these three manages to survive.
+Thier supply vessel had 3 other crewmates who are now washed ashore with them. Only these three managed to survive.
 You do not recall why or where you are, but by the looks of things, you were out for business.
 
 Near the center of the island is a massive tree like none you've ever seen, it's presence is unmissable even beyond the dense forest that you've crashed upon 
@@ -27,3 +27,15 @@ encounter a hunter from the [Nowa Huta], [Daniel Milborne] - Human(M) - Former [
     -short bow, 5 arrows, leather armor, dagger
     
 captured a Blink Dog and are keeping it asleep with the use of nightshade    
+
+++++Session 3
+upgrading a bow (3 days needed) + chicken
+Quinn slew 2 boars to exchange for bow upgrade
+100xp boarsx2
+
+Serana to be intimate with Nanderdar for a upgraded long bow.
+
+Quinns says to meet Namaine at the bar in 2 days
+
+Slew the druids Marden and Collette
+Faught Queen Kalista at the base of the tree Corellon
