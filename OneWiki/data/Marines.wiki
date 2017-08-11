@@ -25,11 +25,11 @@ Officers (leaders of companies) former resident of [Gorda] - killed by the Evil 
 Private (soliders)
     [Daniel Milborne] (human) inspired by Keiran who saved his life to join the marines
 
-+++Marine Captain
++++Marine Captain   (hired at 8g per day)
 (use DND 5e Bandit Captain pg 344)
-+++Marine Officer
++++Marine Officer   (hired at 4g per day)
 (use DND 5e thug with 16 AC pg 350)
-+++Marine Soldier
++++Marine Soldier   (hired at 2g per day)
 (use DND 5e Guard pg 347)
 
 ++Sub Division:
