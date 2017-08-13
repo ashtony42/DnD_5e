@@ -1,5 +1,12 @@
 ﻿++ 3 Helms Deep
 
+Population: 120
+Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
+    -population x2 for low, then x2 that for each higher bracket
+Marine Upkeep: 840g/month 
+Trade Routes: North Dock Only - [Ak'anon]    
+
+
 Formerly known as Mayara, the Bandits of Deception slew the [King Jor Doken] and claimed it as their own.
 
 Mayor Ubring receives word from [Marines] who came with him that have communicated with HQ that members of [Don Kreig]'s men have been increasingly attacking marine ships.
@@ -19,6 +26,7 @@ Migrating from Augsburg:
 	-Farming Supply for tools and hardware supplies. Run by Lenny, a common man.
 		-pitch forks, scythes, tilling tools, seeds, hammers, nails
 	-Pawn Shop for odd items. Run by the weird Mr. Maej, resembling a hunchback. 
+        (has an "eye" for the [Crones of Neriak], pg 176 monster book, varnish coated eyeball necklace)
 		-Used swords, Used shields, music boxes, jewelry, rare seashells, luthadel tapestry
 	-Fishing Supply for fishing supplies. Run by Henry, a common man. 
 		-nets, rods, bait, sails, rope. 

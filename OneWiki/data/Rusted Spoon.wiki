@@ -1,0 +1,7 @@
+﻿++ Rusted Spoon
+
+Rusted Spoon given to a player by a mysterious force. No matter how hard they might try, they can't seem to get rid of it.
+If they try to get rid of it, or don't use it, they will find themselves occasionally using it instead of their other weapons (Chance of this happening is up to the DM)
+Does 1d4+4 damage. If the wielder specifically goes for the eyes, it does 1d8+4.
+If the spoon is the killing blow against any creature with eyes, the wielder will find themselves scooping their foe's eyes out
+If anyone but the owner tries to pick up the rusted spoon, they will receive 1 damage and the spoon will disappear.

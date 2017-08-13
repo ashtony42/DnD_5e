@@ -20,7 +20,7 @@ Entities of interest:
 		-fish, corn, bread, potatoes, beans, herbs(dandelion, thistle)	
 	Farming Supply for tools and hardware supplies. Run by Lenny, a common man.
 		-pitch forks, scythes, tilling tools, seeds, hammers, nails
-	Pawn Shop for odd items. Run by the weird Mr. Maej, resembling a hunchback. 
+	Pawn Shop for odd items. Run by the weird Mr. Maej, resembling a hunchback. (an "eye" for the [Crones of Neriak])
 		-Used swords, Used shields, music boxes, jewelry, rare seashells.
 	Fishing Supply for fishing supplies. Run by Henry, a common man. 
 		-nets, rods, bait, sails, rope. 

@@ -11,3 +11,4 @@
 [Tiamat]
 [Bahamut]
 [Corellon]
+[Vecna]

@@ -3,7 +3,6 @@
 [Augsburg] (starter town)
 [Marine HQ] also a large prison on top of a Dimeritium mine
 [Fiore] 
-Nightbrook  (mind games, nightvale)
 [Elbaf]  (one piece land of giants) 
 [Alexandria]  (huge trade center, library)
 [Arabasta]
@@ -24,3 +23,5 @@ dwarf town?
       - [Felwithe] (ruins)
       - [Kaladim] (ruins)
       - [Kelethin] (ruins)
+      
+[Neriak]      

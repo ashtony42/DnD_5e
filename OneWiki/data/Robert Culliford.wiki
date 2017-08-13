@@ -24,3 +24,10 @@ When struck with a hard force, makes a DC 15 check or shatters a bit:
 
 Actions:
 Blinding Reflection - target passes a difficulty 15 CON save or be blinded
+
+
+
+
+Loot:
+map of new lands, Robert is well traveled
+lots of gold from winnings at [Gorda]

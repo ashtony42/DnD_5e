@@ -16,7 +16,7 @@ LOGIA
 3. Lightning element
 4. Sludge element [Letho]
 5. Iron element
-6. Glass element [Robert Culliford]
+6. Glass element [Robert Culliford] - Killed in Evil group
 7. Ice element [Aokiji]
 8. Light Element [Kizaru]
 9. Gold element
@@ -28,7 +28,7 @@ LOGIA
 15. Ethereal (exists in material and Ethereal plane simultaneously)
 
 ZOAN
-1. Bear - Triggered by anger - (consumed by [Croaker]
+1. Bear - Triggered by anger - (consumed by [Croaker]) (use pg 208 in monster book)
 2. Ginko - Triggered by sloth
 3. Blue Footed Dodo - Triggered by hilarity (consumed by [Grogar] )
 4. Mouse - Triggered by shyness
@@ -39,7 +39,7 @@ ZOAN
 9. Iksar - Triggered by intellect (consumed by [Edan])
 10. Human - Triggered by social
 11. Turtle - Triggered by defensive (consumed by Kharl, a [Don Kreig] Leutenant)
-12. Dragon - Triggered by rage - (consumed by [Krieger])
+12. Dragon - Triggered by rage - (consumed by [Krieger]) (use young bronze dragon pg 108 in monster book)
 
 PARAMECIA
 1. Yesterday - The things that happen to the consumer will occur to their body 24 hours from the time they occur.  - [Queen Kallista Damaia]
