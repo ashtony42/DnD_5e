@@ -78,6 +78,7 @@ Wizard's School of Corellon
        Heriet - Human(F) - level headed (born & raised here)
 
     Spells in the Library:
+        [Legend of Regdar] with blank pages pertaining to places
         Captrips: Blade Ward, Friends, Light, Mending
         Level 1: Alarm, Comprehend Languages, Feather Fall, Jump, 
         Level 2: Levitate, Darkvision, Locate Object
