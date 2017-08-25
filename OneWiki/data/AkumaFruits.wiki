@@ -15,7 +15,7 @@ LOGIA
 2. Gas element
 3. Lightning element
 4. Sludge element [Letho]
-5. Iron element
+5. Iron element [Eglath Kalagiano]
 6. Glass element [Robert Culliford] - Killed in Evil group
 7. Ice element [Aokiji]
 8. Light Element [Kizaru]

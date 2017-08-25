@@ -43,9 +43,9 @@ Migrating from Augsburg:
             cinnamon (2g per lb)
             saffron (15g per lb)
             nightshade (15g per lb) (poisonous)
+            
+-North Dock
     -animal vendor, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice, had a wanted poster out for the Fiore Griffin with the [Marines] - 436 Gold
             2cp x lb of chicken (1d6) (5 at stall)
             1gp per goat (2 at stall)
-            3gp per pig (2 at stall)        
-            
-    
+            3gp per pig (2 at stall) 

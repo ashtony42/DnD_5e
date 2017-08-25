@@ -1,0 +1,21 @@
+﻿++ Marine HQ
+
+Notes as a law enforcement agency, but rather operates as a lawful-good mercenary. 
+
+Contract Center
+  Privates, Officers and Captains can be hired for the rates listed on the [Marines] page
+  
+Admiral's Office of [Eglath Kalagiano]
+  A tall stone tower with a long spiral staircase that climbs up the inner edge of the tower to a large room.
+    
+North Barracks
+South Barracks
+West Barracks
+East Barracks
+    each holds about 30 marines
+    
+The Grand Dock
+    20 Keelboats
+    3 Warships
+    
+    
