@@ -6,3 +6,9 @@ Some fewer even say that this is the very reason that no one has ever seen one.
 This tome I have imbued that so long gods roam this world, one who is intelectual enough to read these words can extract it's blessing upon themself to end the tyranny.
 <book details the ways of scorcery>
 <can be attuned to once a century to acquire the scorcery affinity so long as gods exist in the current plane of existence>
+
+<includes obscure banishment rituals>
+-force
+-persuasion
+-satiation
+-trickery

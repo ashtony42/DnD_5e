@@ -9,8 +9,8 @@ total food 35
 [Taman]
 [Marta]
 
-[Kerri]
-[Greg]
+[Kerri] (4 CON)
+[Greg] (4 CON)
 
 [Darvin] - Human slave, used to be marine private - Proficient short sword
 [Fargrim] - Dwarf Wizard, came from [Nowa Huta]
