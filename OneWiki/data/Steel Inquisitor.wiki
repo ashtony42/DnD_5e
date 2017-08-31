@@ -5,6 +5,6 @@ have undergone a transformation to make them more dragonlike by the [Order of St
 130HP
 resistance: fire
 18 AC (natural)
-+8 to hit
++9 to hit
 
 20 STR (+5) 1000xp
