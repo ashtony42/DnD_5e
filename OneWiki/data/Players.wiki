@@ -19,3 +19,5 @@
   [Serana]
   [Whap]
   [Quinn]  
+  [Shay]
+  [Tessa]

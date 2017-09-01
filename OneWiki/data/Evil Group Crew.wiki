@@ -8,7 +8,7 @@ total food 15
 [Taman] - At the 3 Helms Deep Bar/Inn
 [Marta]
 
-[Kerri]
+[Kerri] (3 CON)
 [Greg] - DEAD
 
 [Darvin] - Human slave, used to be marine private - Proficient short sword - DEAD
