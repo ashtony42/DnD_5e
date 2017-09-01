@@ -3,8 +3,9 @@
 Population: 120
 Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
     -population x2 for low, then x2 that for each higher bracket
-Marine Upkeep: 840g/month 
+Marine Upkeep: 840g/month   -500G subsidy for Marine Upkeep to offer med taxes
 Trade Routes: North Dock Only - [Ak'anon]    
+Treasury: 3027
 
 
 Formerly known as Mayara, the Bandits of Deception slew the [King Jor Doken] and claimed it as their own.
@@ -14,7 +15,6 @@ Mayor Ubring receives word from [Marines] who came with him that have communicat
 Populous:
     [Royal Armoror Grix] - Royal Adviser and in charge when King Tri-Helm is away
     Nobleman [Garney] - In charge of real estate and establishments
-    Carpenters Jerrod Louverre and 2 fellow carpenters still run the carpenter's guild
     Servant [Marta] and [Prescilla]
     
 Migrating from Augsburg:
@@ -43,6 +43,7 @@ Migrating from Augsburg:
             cinnamon (2g per lb)
             saffron (15g per lb)
             nightshade (15g per lb) (poisonous)
+    -Carpenters Jerrod Louverre and 2 fellow carpenters still run the carpenter's guild        
             
 -North Dock
     -animal vendor, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice, had a wanted poster out for the Fiore Griffin with the [Marines] - 436 Gold
