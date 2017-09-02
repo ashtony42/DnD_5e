@@ -64,7 +64,7 @@ Points of interest:
     Masons - Geral - Dwarf(M) (formerly from [Fiore])   
         -do repair and maintenance to the ancient elvish style architecture around town, and sometimes construct new when needed
         
-    Brewers - Corbin McLougin - Halfling(M) - (Brother of Yanny from [Fiore]) 
+    Brewers - [Corbin McLougin] - Halfling(M) - (Brother of Yanny from [Fiore]) 
         -beer, wine, ale, mead, cider  
         
     Hunting Supplies - Nanerdar - Elf(M) (formerly from [Kelethin])

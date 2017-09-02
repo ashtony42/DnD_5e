@@ -1,0 +1,39 @@
+﻿++ Bahamuts Lair
+
+use map bahamut-dungeon.jpg
+
+Giant Centipedes can be found chilling on the walls of passageways - pg 323
+
+
+First Chamber (triagle circle room)
+    Corroded assortments of armor and weapons are scattered on the ground 
+    -2 Black Pudding dripping from the ceiling - pg 241
+
+Top Chamber
+    Accross a chasm of sewage, appears to be an armoury in good condition
+    -10 sets of Animated Armour - pg 19
+    -4 weapon racks with 5 Flying Swords each - pg 20
+    -1 Mimic chest - pg 220
+
+Left Chamber
+    -2 Grick Alpha - pg 173
+    -8 Grick - pg 173
+        -all stealthed on the rocky roof of the room
+    A small pile of shiny object lies on the far side
+        -3 Private Marine badges, 4 silver rings, swatch of chainmail, 1 plate from a platemail set, 5c, 7s, 3g
+
+The Cross-Ways
+    -3 Grick Alpha - pg 713
+    -12 Grick - ph 173
+    A small pile of shiny objects lies in the middle of the room
+        -2 Private and 1 Officer Marine badges, 3 broken swords, 2 plates from a platemail set, 8c, 10s, 5g
+
+Lower Chamber
+    -Behir pg 25
+      *Lightning Breath goes 2x distance when funnelled through a passageway
+      Has a Etherium Orb in it's gut, places there long ago by [Venril Sathir] to keep an eye on [Bahamut]
+
+Cave
+    This is where the enormous [Bahamut] sleeps
+    Bahamut can only be awoken when an Evil diety is left unchecked, and therefore must restore order again.
+    Dealing damage greater than 250 will also awaken him. 

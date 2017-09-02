@@ -10,6 +10,7 @@ East Barracks
     
 +++The Grand Dock
     Can build any ship as described in DM handbook PG 119 (building crew of 30 people) (150g worth per day)
+    Former Dock Master [Ghant] works as a normal shipwright worker.
     
     Marine Fleet:
     20 Keelboats
@@ -17,7 +18,7 @@ East Barracks
     
     
 +++The Refuge District
-    Dense residential for people of all kinds, people often flee here in times of trouble.
+    Dense residential for people of all kinds, people often flee here in times of trouble. When a group member is isolated from the rest of the group, they must pass a DC 16 Perception check or be pick-pocketed.
     
     Sorrowed Man's Comfort - Yeller, Human(M) (from [Arabasta])
         -ale 3c a pint
@@ -30,6 +31,14 @@ East Barracks
     Jester's Hand Square
         -a place where bored townsfolk gather to play card games and gamble
             (average person has 2g on them, often 8 or so people can be found here)
+            
+    Market
+        Refugees from other places can include:
+            [Harris Flennre] - herbalist
+            [Yanny McLougin] - fletcher
+            [Dirk Dagson] and fellow Masons
+            Carpenters (average skilled)
+             
     
 +++Marine District    
     Quatermaster - Hemlock, half-elf (local born, son of Remlock(human), son of Tenlock(human). Quarter master job has been ran by his family.)    
@@ -42,9 +51,16 @@ East Barracks
     Office of the [Order of the Gauntlet]
         Ran by Officer Jord, Male goliath. 
         -takes applications for being a member of the order
+            -must pass a sparing exam against a Captain
+            -pay 100g
+            -Formal written story to be approved by Admiral [Eglath Kalagiano]
         
     Admiral's Office of [Eglath Kalagiano]
         A tall stone tower with a long spiral staircase that climbs up the inner edge of the tower to a large room.    
+            -map of the known world with notes of the current Marine stations and outposts
+            -open box of 20 Iron Ingots
+            -Iron desk
+                      
         
     Contract Center
         Ran by Officer Yimir, Female goliath.
@@ -58,15 +74,33 @@ East Barracks
         Ran by Officer Temir
         -Messages can be sent and received here for 5c per message sent
         -Hawk Eggs can be baught here for 30g each
+        -20lbs of meat feed
         
         
-+++Prison District        
++++Prison District
+    Vault of Confiscated items
+        -Cast Iron Maiden pants - 50lbs
+        -2 Maces
+        -chest with 3000g of counterfiet coins
+        -5 sets of chainmail
+        -10 sets of leather armor
+        -12 short swords
+        -5 daggers
+        
     Wardens Office
         -manned by [Marines] 4 Captains, 8 Officers, 40 Privates
         
-    80 existing prisoners within, mostly pirates    
+    Prisoner's Privy
+        One of the foulest smelling places you may have encountered. Eww.
+        
+    80 existing prisoners within, mostly pirates, including some notable [Prisoners]    
+    -20 of [Don Kreig]'s men
+    -30 common thieves from the Refugee District
+    -10 Thugs from the Refugee District
     
-    
++++Prison Underground
+    Down the prison toilets in the vat of exrement, there's a wall with the symbol of [Bahamut] (Dragon's head, in profile, facing left) about 6 feet tall
+    If destroyed, a passageway is opened to [Bahamuts Lair]
     
     
     

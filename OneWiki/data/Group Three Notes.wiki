@@ -13,6 +13,9 @@ XXXX (time skip) XXXXX XXXXX XXXXX X
 Ship parking coverage
 XXXXXXX
 
+[Geth] Making Map of Known World
+XX
+
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
 Thier supply vessel had 3 other crewmates who are now washed ashore with them. Only these three managed to survive.
 You do not recall why or where you are, but by the looks of things, you were out for business.
@@ -94,11 +97,8 @@ keelboats = 3000g
 given a map with the location for food/oak wood on the back of the inventory ticket to Berea for crafting the keelboat
 
 Geral needs in exchange for 2 tons of elvish stone: repaired masons tools, 15lbs of food, ale, goat
-
 masons tools will be delivered to the Mason when repaired by Forem
-
 40lbs of vegetables for a goat
-
 Geral gives 500lbs of stone for what is given so far.
 
 day 5 - festival
@@ -121,7 +121,6 @@ traveling to Fiore 3 days
 
 Paid 3g for looking over the ship for the next week
 
-Daniel leads the group to Mayara
+Daniel (Not Milbourne) leads the group to Mayara
 
 [Geth] - sold the group a map of Mayara and contracted to make a map of the known world for 1g
--takes 2 days to make the map

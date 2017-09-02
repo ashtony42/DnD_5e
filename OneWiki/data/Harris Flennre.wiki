@@ -2,3 +2,15 @@
 
 (half-elf), common personality though a bit egotistical
 Works as the city Herbalist in Fiore, buys many herbs and grows a few himself, including Wolfsbane.
+
+    Common Shop Items:
+        wolfsbane (15g per lb) (smell that deters wolves)
+        mint, tea (5s per lb)
+        cloves (3g per lb)
+        cinnamon (2g per lb)
+        saffron (15g per lb)
+        nightshade (15g per lb) (poisonous)
+        
+        
+
+Evil Group Note: current refugee at [Marine HQ]        

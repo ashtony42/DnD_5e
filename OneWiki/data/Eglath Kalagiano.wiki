@@ -27,3 +27,4 @@ Iron Fruit Powers:
   -ranged attack (100ft) shoot an iron spike +8 TH, 1D8+5 damage
   -telekinetically move a metal object in site with great strength (15)
   -on a successfull gapple of an enemy, can put iron shackles on feet or hands of the target.
+  -can sense the movement of Iron
