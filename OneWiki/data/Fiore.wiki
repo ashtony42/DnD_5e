@@ -91,7 +91,8 @@ Places of interest in Mayara:
             repairs all metal based armour and weapons (costs roughly 10% of the item's value)
         -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
         -exotic food vendor, [Elisha Vanesson] (human)(knows of [AkumaFruits], but tries to be secretive)
-            items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal))          
+            items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal)) 
+            -griffon meat         
         -flectcher, [Yanny McLougin] (female halfling), redneckish personality
         -animal vendor, [Ghan Bopps] (dwarf) a bit smelly, but otherwise very nice, had a wanted poster out for the Fiore Griffin with the [Marines]
       Inn/Bar
