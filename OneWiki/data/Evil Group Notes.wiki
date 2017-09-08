@@ -10,18 +10,18 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 XXXXXXX XX|XXXXX       taxes of 3 helms deep
 
+XXXXXXX XXXXXXX
+XXXXXXX XX
 XXXXXXX
-X
+XXXXXXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
--20 days - 18 days crafting - 2 days enchanting
-XXXXXXXXXX X
+-20 days - 18 days crafting - 2 days enchanting - DONE
+ 
 150g given to Shirrong for doing an etherium inlay, and Tempren enchantment to Edan's shield
 -11 days - 9 days crafting - 2 days enchanting
 
-
-3 carpenters to repair it over the course of 6 days for 500g
-XXXXXX
+Griffon eggs hatch in 15 days - incubates by Brundy the fire beetle
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -322,7 +322,7 @@ leaving 17g in exchange for some boxes
 hunting elk on the main island, 4 killed, 2 knocked out.
 
 ++++Session 23
-Gryphons revisted and slain at the West island.
+Gryphons revisted at the West island.
 -captured and taken to the north dock minagerie
 -drained equality to radiance, (-2  14 CON left)
 -killed after deliberation with Croaker
@@ -347,8 +347,28 @@ Depart for Ak'anon
 Kerri down to 3 CON from another drain
 
 Kenku messenger of Venril Sathir gives message to the group to "Stop, my inquisitors will find you, you will die"
+-response "come meet me here"
 
 Get on the bad side of Ak'Anon and they open fire cannons
 -Carpenters repair the ship after the damage from Ak'Anon
 
 Rest for 6 days to have ship repaired
+
+++++Session 24
+damaged ship from [Arabasta] with [Don Kreig]s men arrives at the south docks with news of "3 black ships with cannons crewed by Iksar ruined the city!"
+they pleaded, but the Iksar didn't want anything other than the town's destruction.
+-Arabasta ruined
+-Augsburg burnt down
+-[Luthadel] "Tapestries" can be found flying in the center of each town/city, flying boldy 20ft in the air, 6ft by 6ft
+
+5 don krieg men intimidated into coming aboard the warship
+-one can read undercommon
+
+Sailing to [Arabasta] on their way to [Gorda]
+Sailing to [3 Helms Deep] after seeing the destruction of [Augsburg] and [Arabasta] - 5 days
+
+Tharizdun's head is in the 3 Helms Deep vault of the Palace
+
+Go to Dun Morhen and slay 4 Bulette.
+
+Camp on the ship for a long rest

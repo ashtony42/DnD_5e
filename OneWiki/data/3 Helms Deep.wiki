@@ -5,7 +5,7 @@ Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
     -population x2 for low, then x2 that for each higher bracket
 Marine Upkeep: 840g/month   -500G subsidy for Marine Upkeep to offer med taxes
 Trade Routes: North Dock Only - [Ak'anon]    
-Treasury: 3027
+Treasury: 2527
 
 
 Formerly known as Mayara, the Bandits of Deception slew the [King Jor Doken] and claimed it as their own.
