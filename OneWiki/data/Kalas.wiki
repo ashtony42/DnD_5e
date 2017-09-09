@@ -8,9 +8,32 @@ Has the desicated remains of gnomes, elves, high elves, humans and mostly, Iksar
 Areas of interest:
 
 The Shaman King's Palace
+    A large building that is mostly intact with a pointed roof
+    Filled with traps set by the Iksar Assassins that hideout in here. (pg 122)
+    -Locking pit trap in the main entry hall, DEX 18 save if trying to avoid falling
+        -has a shallow (2ft) black water pool at the bottom of the 40ft deep hole surrounded by 8 Gray Ooze (pg 243)
+         room is 25ftx25ft, several Kolloss bones that are still dissolving.
+         person falling takes 3d6 fall damage due to water breaking the fall a little.
+    -Trapped empty chests
+        -anyone who attempts to open it will trigger the trap, a needle delivers 1 damage and 2d10 poison damage.
+         if the person does not pass a DC 15 CON save, they will be poisoned for 1 hour
+    -2nd Floor Locking pit trap that is directly above the first floor locking put trap.
+
+
+    -Iksar Assassin's Hideout, 2nd floor
+        in what would be the king's quarters, is now the main room for Iksar Assassins.
+        the room has 2 Fire-Breathing Statue traps outside of it, DC 15 perception to spot the pressure plate
+            -30 foot cones, DC 13 DEX save to take half of 4d10 damage
+        -5 Iksar assassins (pg 343) inside that will have Light Crossbows pointed at the adventurer's    
+            -Rhogar (M), Kava (F), Perra (M), Donaar (M), Patrin (F)
 
 The Koloss slums
-
-Iksar Assassin's Hideout
+    An area of Kalas where the buildings are the most destroyed by Koloss fighting
+    -entire crocodiles are roticerating above large bon fires.
+    -Koloss randomly fighting each other
+    -non-orcish characters will be attacked on sight, lowest strength first
+    -might is right
+    -about 80 Koloss live here
 
 Ancient Cemetery
+    -hundreds of tombstones with names in Draconic written on them, showing dates from 4000 to 3000 years ago.

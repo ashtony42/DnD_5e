@@ -28,5 +28,6 @@ Grogar
 3 pups - Left with Grix
 1 wolf
 
-5 horses  (3 lbs per day) - left at the Menagerie
+4 horses  (3 lbs per day) - left at the Menagerie
+    -1 killed
 

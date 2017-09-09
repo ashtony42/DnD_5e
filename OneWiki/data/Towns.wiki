@@ -11,8 +11,8 @@
 [Odus] (Camp of refugees from Luthadel)
 [Gorda] 
 [Nowa Huta]
+[Neriak]  
 
-dwarf town?
 
 
 [Norrath]
@@ -24,4 +24,4 @@ dwarf town?
       - [Kaladim] (ruins)
       - [Kelethin] (ruins)
       
-[Neriak]      
+    

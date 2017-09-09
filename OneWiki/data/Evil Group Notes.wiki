@@ -185,17 +185,12 @@ Carpenters completed the cannon mounts on the Sailing ship
   Mayor Ubring agrees to have the town of [Augsburg] migrate to "3 Helms Deep"
   
 ++++Session 17 notes:
-  5 days to [Gorda] from [Augsburg] in the sailing ship  
-  
-  Edan gets attunement lvl 1 of Regdar's Radiant Hilt
-  
-  Edan buys [Darvin], Kreiger buys [Fargrim], Croaker buys [Thia], Grogar buys [Yevelda], Vulcan buys [Krusk] 
-  
-  defeated Don Krieg in the arena, and the town is now fully aware. 
-  
-  Announcer name is Stor
-  
-  Taking [Queen Larissa] from [Don Kreig]'s quarters at the colliseum. 
+  -5 days to [Gorda] from [Augsburg] in the sailing ship    
+  -Edan gets attunement lvl 1 of Regdar's Radiant Hilt
+  -Edan buys [Darvin], Kreiger buys [Fargrim], Croaker buys [Thia], Grogar buys [Yevelda], Vulcan buys [Krusk] 
+  -defeated Don Krieg in the arena, and the town is now fully aware. 
+  -Announcer name is Stor
+  -Taking [Queen Larissa] from [Don Kreig]'s quarters at the colliseum. 
   
 ++++Session 18 notes:
  Set bounties on [Marines] 
@@ -332,27 +327,23 @@ Greg fully drained in front of Kerri (4 CON)
 Ghan Bopps goes to put in a order for iron griffin cages
 -150g each due to high taxes
 -order was then canceled
+-pluck Gryphon feathers,mount head,claws
 
 Edan pants into the bed of his pup with Grix
 
 -request for a floating dock at the fjord by 3 Helms Deep 
 
-Ghan Bopps
--pluck Gryphon feathers,mount head,claws
-
 Taman to run the 3 Helms Deep bar/inn, sent with a letter from the king
-
-Depart for Ak'anon
 
 Kerri down to 3 CON from another drain
 
 Kenku messenger of Venril Sathir gives message to the group to "Stop, my inquisitors will find you, you will die"
 -response "come meet me here"
 
-Get on the bad side of Ak'Anon and they open fire cannons
+Depart for Ak'anon
+-Get on the bad side of Ak'Anon and they open fire cannons
 -Carpenters repair the ship after the damage from Ak'Anon
-
-Rest for 6 days to have ship repaired
+-Rest for 6 days to have ship repaired
 
 ++++Session 24
 damaged ship from [Arabasta] with [Don Kreig]s men arrives at the south docks with news of "3 black ships with cannons crewed by Iksar ruined the city!"
@@ -372,3 +363,5 @@ Tharizdun's head is in the 3 Helms Deep vault of the Palace
 Go to Dun Morhen and slay 4 Bulette.
 
 Camp on the ship for a long rest
+
+++++Session 25

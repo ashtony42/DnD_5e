@@ -14,3 +14,12 @@ AC 14 - HP 112
 
 
 Koloss are highly agressive humanoids with blue skin. When young, their skin is loose and floppy, but as they age, their skin does not grow and tightens to the point of tearing as the internal organs and bones of the Koloss continue to grow.
+
+
+
+Relentless, 
+    Can choose to attack with advantage, but the foe also gains advantage against them.
+    
+Enrage,
+    Gain resistance to slashing,bludgeoning,piercing 
+    +1 TH, +2 Damage
