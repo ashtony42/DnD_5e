@@ -9,12 +9,10 @@ XXXXXXX
 XXXX
 
 KEELBOAT WORK (of 20) - DONE
-XXXX (time skip) XXXXX XXXXX XXXXX X
+[Geth] Making Map of Known World - DONE
 
 Ship parking coverage
 XXXXX XXXXX
-
-[Geth] Making Map of Known World - DONE
 
 Payment given for crafting to Shirrong Bronzecore
 -Great Axe -2 days  - DONE
@@ -144,7 +142,7 @@ Payment given for crafting to Shirrong Bronzecore
 
 Gets advice for where to find an alchemist
 
-Ivor Chernin secretary at the counter [Marines]
+[Ivor Chernin] secretary at the counter [Marines]
 
 4 Privates, and an Officer head to the ship to investigate what happened.
 -poorly done investigation, not much suspicious
@@ -165,3 +163,17 @@ Officer Quinn and 2 Privates
 passenger fee for leaving to [Ak'anon] (5s each) (2g paid per day for guard work
 
 The group rests at the Inn/Bar of [Fiore]
+
+++++Session 7
+the group is to set sail tomorrow to [Ak'anon] in a trading keelboat from the north dock
+-crew
+    -2 Private
+    -4 Dock Workers
+-wares
+    -20lbs of common herbs
+    -200lbs of chicken/goat/pig/fish meat (50lbs each, 4 barrels)
+    -200lbs of Oak Boards
+-picking up
+    -200lbs of Iron ingots
+    -carpenters tools
+    -masons tools    

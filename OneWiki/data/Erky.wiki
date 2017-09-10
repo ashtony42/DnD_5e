@@ -1,0 +1,11 @@
+﻿++ Erky
+
+Runs a blacksmith shop in [Ak'anon] called Erky's Small Arms and Armor
+
+    Items for sale: (use book pricing)
+    -cross-bows
+    -daggers
+    -short swords
+    -hatchet
+    -studded leather 
+    -mining picks 20g

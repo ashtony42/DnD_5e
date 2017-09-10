@@ -29,12 +29,12 @@ Ak'anon is not lead by a single ruler, but a council of influencial individuals.
 Ak'anon has no wildlife, as there is no "wilderness"    
     
 There are many points of interest in Ak'anon:
--The Giant's Peak (bar/inn for travelers) - no food
+-The Giant's Peak (bar/inn for travelers) - no food - Frug(M)
     -8s per night ( comfortable )
     -common wine - 2s
     -fine wine - 10g
     -ale - 2s
--Bottled Inginuity (bar/inn for local gnomes) - food
+-Bottled Inginuity (bar/inn for local gnomes) - Duvamil(F) 
     -common wine - 2s
     -ale - 2s
     -see below food vendors for food
@@ -45,54 +45,14 @@ There are many points of interest in Ak'anon:
       -imported vegetables - 3 sp per lb
     Eldon - exotic
       -imported cheese - 1sp per lb
--Inventor's shop
-    - glass orb with clockwork fish (wind up) - 10g
-    - music box (lacy melody) - 15g
-    - brass keyed accordion (+1 CHA when playing music) - 10g
-    - steel lock boxes (25 lb) - 20g
-    - scale model of Ak'anon, with movable parts! - 15g
-    - telescope - 5g
-    - balista - 500g
-    - cannon - 2000g
-    - big cannon - 8000g
--Crafting [Materials] shop
-    -imported wood - 1s per board 
-    -glass - 1g per pound
-    -mined silver - 5g per pound
-    -mined copper - 5s per pound
-    -mined iron - 1s per pound
-    -mined tin - 1s per pound
-    -mined zinc - 5s per pound
-    -smelted bronze - 1g per pound
-    -smelted brass - 2g per pound
--Crafting Tools shop
-    -Carpenter's Tools - 8g
-    -Cartographer's Tools - 15g
-    -Cobbler's Tools - 5g
-    -Glassblower's Tools - 30g
-    -Jeweler's Tools - 25g
-    -Leatherworker's Tools - 5g
-    -Mason's Tools - 10g
-    -Smith's Tools - 20g
-    -Tinker's Tools - 50g
-    -Weaver's Tools - 1g
-    -Woodcarver's Tools - 1g
--Alchemist's shop (pg 187 of DM book)
-    -Potion of Animal Friendship (able to cast animal friendship once) 20g
-    -Potion of Gnomification (reduce to gnome size for 1d4 hours) 20g   
-    -Potion of Healing 
-        -Weak   2d4+2 20g
-        -Medium 4d4+4 40g
-        -Strong 8d4+8 80g
-    -Potion of Heroism (+10 Temp HP) 40g
-    -Potion of Water Breathing (1 hour) 20g
--Blacksmith
-    -cross-bows
-    -daggers
-    -short swords
-    -hatchet
-    -studded leather    
-        
+-Inventor's shop "Namfoodles Bamboozlements" - [Namfoodle](M)
+-Crafting [Materials] shop "Craftsman's Canvases" - [Orla](F)
+-Crafting Tools shop "Artisan's Enablers" - [Shamil](F)
+-Alchemist's shop "Potent Portables" (pg 187 of DM book) - [Gimble](M)  
+-Blacksmith "Erky's Small Arms and Armor" - [Erky](M)   
+-Enchanter's shop "Betterific" - [Breena](F)
+
+
 ++++Underground
 [Ak'anon Mines]        
 

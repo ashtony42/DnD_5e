@@ -1,0 +1,16 @@
+﻿++ Shamil
+
+Runs a shop in [Ak'anon] called Artisan's Enablers
+
+    Tools for sale:
+    -Carpenter's Tools - 8g
+    -Cartographer's Tools - 15g
+    -Cobbler's Tools - 5g
+    -Glassblower's Tools - 30g
+    -Jeweler's Tools - 25g
+    -Leatherworker's Tools - 5g
+    -Mason's Tools - 10g
+    -Smith's Tools - 20g
+    -Tinker's Tools - 50g
+    -Weaver's Tools - 1g
+    -Woodcarver's Tools - 1g

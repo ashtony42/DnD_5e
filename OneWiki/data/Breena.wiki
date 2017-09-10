@@ -1,0 +1,13 @@
+﻿++ Breena
+
+runs an Enchantment shop in [Ak'anon] called Betterific
+
+    Enchantments for sale:
+    - +2 fire damage for next 5 hits - 30g
+    - +2 cold damage for the next 5 hits - 30g
+    - light - object glows for the next week - 20g
+    - silent - makes an object unable to produce sound for the next week - 20g
+    - loud - the sounds an object makes are amplified for the next week - 20g
+    
+    -(other known enchantments not for sale)
+        -flatulence - applied to a food to make the consumer incredibly gassy

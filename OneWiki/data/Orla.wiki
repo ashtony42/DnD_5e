@@ -1,0 +1,14 @@
+﻿++ Orla
+
+Runs a shop in [Ak'anon] called Craftsman's Canvases
+
+    Materials for sale:
+    -imported wood - 2s per board 
+    -glass - 1g per pound
+    -mined silver - 5g per pound
+    -mined copper - 5s per pound
+    -mined iron - 1s per pound
+    -mined tin - 1s per pound
+    -mined zinc - 5s per pound
+    -smelted bronze - 1g per pound
+    -smelted brass - 2g per pound
