@@ -6,24 +6,22 @@ XXXXXXX
 XXXXXXX
 XXXXXXX
 
+XXXXXXX
 XXXX
 
 KEELBOAT WORK (of 20) - DONE
 [Geth] Making Map of Known World - DONE
 
 Ship parking coverage
-XXXXX XXXXX
+XXX 
 
 Payment given for crafting to Shirrong Bronzecore
--Great Axe -2 days  - DONE
--Half Plate -7 days - XXXXXXX
+-Great Axe -2 days -Half Plate -7 days - DONE - DONE
 
-Griffon Arrows x100 (20 per day)
-XXXXX
+Griffon Arrows x100 (20 per day) - DONE
 
 Sailing Ship Completion 20 days
-XXXXXXXXXXXXXXXXXXXX
-
+XXXXXXXXXXXXX
 
 
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
@@ -137,7 +135,6 @@ Daniel (Not Milbourne) leads the group to Mayara
 
 ++++Session 7
 Payment given for crafting to Shirrong Bronzecore
--Great Axe -2 days
 -Half Plate -7 days
 
 Gets advice for where to find an alchemist
@@ -177,3 +174,28 @@ the group is to set sail tomorrow to [Ak'anon] in a trading keelboat from the no
     -200lbs of Iron ingots
     -carpenters tools
     -masons tools    
+    
+Will encounter a Keelboat of [Don Kreig]'s navy on day 2
+12 privates + leutenant (Ned) 
+
+Shay pays 5s for the passenger fee
+Whap offers to help witht the dock work for passage  
+
+Sailing to [Ak'anon]
+-Thrasher has a Human "friend" from [Gorda]
+-enemy keelboat 400ft away 
+-Tessa Facepuncher announces herself as a pirate that now owns this sea to [Don Kreig]'s men
+250xp
+
+Traveling back from [Ak'anon] to [Fiore]
+-9 wolves - 450xp
+-Bring the injured marines to the Embassy and Thrasher to Ghan Bopps 
+
+Shay gets the [The Resignation of Kord] from the noble [Rimardo] 
+
+Disquised as Quinn:
+-the sad woman at the bar is comforted and thus she reveals where Redbeard has gone.
+-Arranges for a marine vessel to be prepared by tomorrow with 2 privates to pursue a lead on [Redbeard The Unlucky]
+
+Tessa goes to the south dock and around town looking for a spyglass
+Whap buys a whetstone 

@@ -8,7 +8,7 @@ Runs an inventors shop in [Ak'anon] called Namfoodles Bamboozlement
     - brass keyed accordion (+1 CHA when playing music) - 10g
     - steel lock boxes (25 lb) - 20g
     - scale model of Ak'anon, with movable parts! - 15g
-    - telescope - 5g
+    - spyglass - 1000g
     - balista - 500g
     - cannon - 2000g
     - big cannon - 8000g
