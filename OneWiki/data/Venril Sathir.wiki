@@ -5,10 +5,10 @@ A very oppressive king who has undergone dragon mutations as well as having cons
 His very existence is for perpetuating the seal he has on the god [Gruumsh] through a synergystic process of using his own
 etherium existence to both extend his own life as well as power the seal.
 
-STR 20, DEX 20, CON 20, WIS 18, INT 20, CHA 12      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
-    +5      +5      +5      +4      +5      +1                 20                  +11                   +11
+STR 20, DEX 20, CON 20, WIS 20, INT 20, CHA 18      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
+    +5      +5      +5      +5      +5      +4                 20                  +12                   +11
 
-275hp
+290hp
 AC 18+3 God King's Platemail (req str 18)
 Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook)
 Ring of Telekinesis (pg 280 player handbook)
@@ -31,10 +31,13 @@ Ethereal vision, can see into the ethereal plane.
 Ethereal presence, can interact with spirits as if they were material.
 -if a creature is grappled, he can roll to hit again, if successful, the soul of the creature is pulled from it's body.
 
+Legendary Actions (3):
+    -Dispell Magic as a reaction
+    -Telekinesis as a reaction
 
 Akumafruit:
 Etherium element
-    Damage Immunities:
+    Damage Immunities (unless magic weapon, then 1/2 damage):
         Bludgeoning, Piercing, Poison, Slashing 
     Damage Resistant:
         Cold, Fire, Lightning, Thunder

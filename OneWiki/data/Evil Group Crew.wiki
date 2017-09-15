@@ -8,8 +8,9 @@ total food 15
 [Taman] - At the 3 Helms Deep Bar/Inn
 [Marta]
 
-[Kerri] (3 CON)
+[Kerri] - DEAD 
 [Greg] - DEAD
+-both thrown overboard at [Dun Morhen]
 
 [Darvin] - Human slave, used to be marine private - Proficient short sword - DEAD
 [Fargrim] - Dwarf Wizard, came from [Nowa Huta]
