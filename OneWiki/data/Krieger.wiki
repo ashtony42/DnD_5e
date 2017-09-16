@@ -3,12 +3,13 @@
 Tiefling scorcerer who joined the evil group via the inn at Mayara
 
 consumed the Dragon [AkumaFruits]
+(use young bronze dragon pg 108 in monster book)
 
 his soul is held by the [Crones of Neriak]
 
 Kreiger soul memories:    
     Memories fill your mind of a foggy, dreary place in a dead-wooded area of Faydwer. 
-    Your parents, struggling for life as they were, hastily fleeing from a firey glow in the distance.  
+    Your parents, struggling for life, hastily fleeing from a firey glow in the distance.  
     Rowing out to sea. 
     For days.
     Rowing.
@@ -21,3 +22,4 @@ Kreiger soul memories:
     Pleading for magic.
     ...
     You then woke up in Luthadel some time later, alone.
+    Beloved parents nowhere to be found.

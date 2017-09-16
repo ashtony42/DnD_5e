@@ -1,7 +1,7 @@
 ﻿++ Evil Group Crew
 
-15 people
-total food 15
+17 people
+total food 17
 
 [Dockson]
 [Anton]
@@ -14,8 +14,8 @@ total food 15
 
 [Darvin] - Human slave, used to be marine private - Proficient short sword - DEAD
 [Fargrim] - Dwarf Wizard, came from [Nowa Huta]
-[Yevelda] - Half orc dockworker - Proficient sailing
-[Thia] - Wood Elf from [Fiore] - Fisher
+[Yevelda] - Half orc dockworker - Proficient sailing - DEAD died at [Dun Morhen]
+[Thia] - Wood Elf from [Fiore] - Fisher - DEAD died at [Dun Morhen]
 [Krusk] - Half orc farmer
 
 
@@ -26,9 +26,11 @@ Kreiger
 Lightning
 Grogar
 
+3 baby griffons
 3 pups - Left with Grix
 1 wolf
 
 4 horses  (3 lbs per day) - left at the Menagerie
-    -1 killed
 
+
+5 [Don Kreig] pirate grunts

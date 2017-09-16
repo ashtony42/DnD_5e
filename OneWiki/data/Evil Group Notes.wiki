@@ -11,7 +11,7 @@ XXXXXXX XXXXXXX
 XXXXXXX XX|XXXXX       taxes of 3 helms deep
 
 XXXXXXX XXXXXXX
-XXXXXXX XX
+XXXXXXX XXX
 XXXXXXX
 XXXXXXX
 
@@ -377,7 +377,7 @@ group hunted down some more bulettes
 -yvelda dies
 -thia die
 
-Kreiger polymorphed into a T-rex triggering some God Fruit to manifest
+[Krieger] polymorphed into a T-rex triggering someof his God Fruit to manifest
 -slew a group of 7 bullettes
 
 The group rests at the elven ruin again for the night

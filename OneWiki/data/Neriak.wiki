@@ -2,25 +2,25 @@
 
 https://www.youtube.com/watch?v=bQsI9_PMy2E
 
-Another island at the far edge of the dark waters, the plantlife is dark and dying and wildlife if slim
+Another island at the far edge of the dark waters, the plantlife is dark and dying and wildlife if slim.
+A rocky path leads to a cave near the center of the island that leads deep within.
+-Many Ravens and Rodents to be found, too many
+-Carved figurines of the island's visitors hang from the trees
+
 
 Wildlife includes
     [Mistwraith] (use flesh golem pg 169)
         Only comes out in the night during the mists, can't be found during the day.
         Appears as an abomination of many animals and humanoids
     Gray Ooze (pg 243) looks like a wet rock 
-
-A rocky path leads to a cave near the center of the island that leads deep within.
+    Ghosts that serve the crones (pg 147)
+        -Includes dead parents of [Krieger] and [Vulcan]
 
 [Crones of Neriak] - (use night hag pg 178) (use hag coven pg 176)
     Scylla
     Cyribdis
     Dis
-    
-The cave Gray Oozes and Ghosts that serve the crones (pg 147)
-    Includes dead parents of [Krieger] and [Vulcan]
-    
-   
+     
 there are several chambers that branch from a central area.
 
 -The bone chamber, filled with bones of all kinds of humanoids and creatures.  
@@ -32,9 +32,14 @@ there are several chambers that branch from a central area.
     5 limbless human torsos sit along one wall. 
 
 -The store room, behind Iron bars that have no gate
+    A 20ftx20ft trap door is right before the Iron Bars, when the bars are intereacted with, the trap door swings open.
+    Adventurer's will drop 40ft to the bottom of the pit where they will be confronted with 4-6 Gray Ooze.
+    The door springs closed.
+
     -[Rusted Spoon]
     -Bottle of a viscous milky-white substance, 1d6+1 ounces of Sovereign Glue (pg 200)
     -Jar of 25 preserved eyes
     -3 Jars of preserved ears
     -20 skulls
     -1 jar of Iksar scales 
+    -Investigation roll of DC 15 to find a hag object - pg 62 of Volo's
