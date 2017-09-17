@@ -33,7 +33,7 @@ there are several chambers that branch from a central area.
 
 -The store room, behind Iron bars that have no gate
     A 20ftx20ft trap door is right before the Iron Bars, when the bars are intereacted with, the trap door swings open.
-    Adventurer's will drop 40ft to the bottom of the pit where they will be confronted with 4-6 Gray Ooze.
+    Adventurers will drop 40ft to the bottom of the pit where they will be confronted with 4-6 Gray Ooze.
     The door springs closed.
 
     -[Rusted Spoon]

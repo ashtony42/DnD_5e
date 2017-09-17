@@ -10,3 +10,10 @@ Symbol: Dragon's head, in profile, facing left
 a massive, long and sinuous dragon with silver-white scales and blue, catlike eyes.
 
 About a quarter of the time, Bahamut wanders in the shape of a human or some other guise. He is said to have been encountered as a frail old hermit, with the seven great golden wyrms that accompany him disguised as seven canaries singing sweetly nearby.
+
+
+When Released:
+    -by an evil diety being present in the world:
+        -will peacefully leave his lair as a frail old hermit and begin doing what is needed to stop the evil.
+    -by an attack that deals more than 250 damage:
+        -will awaken and retaliate before going back to sleep.
