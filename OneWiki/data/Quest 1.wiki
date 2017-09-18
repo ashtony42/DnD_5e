@@ -56,7 +56,7 @@ Day Two
 An unexpected raid by one of Don Kreig's Navy vessels attacks the island. The Heroes are awakened early in the morning by the shouting of a farmer running in on horseback through the town. (Perception Check of 10] "HELP HELP! ITS DON KRIEGS MEN!" The total number of pirates raiding the farmland at this point is 20, scattered and plundering for valuables. A barn is shot by some of the cannons from Don's vessel and is set ablaze. Our heroes can see the smoke from the town on their side of the island. 
 
 There are also another 3 men stationed to guard their Vessel. Some are cooks and other non-combat related crew members (Commoners). The Leader, Lieutenant Ned (stats under [Don Kreig], is in charge of the vessel.
-	Ship Type: Sail Boat
+	Ship Type: Boat
 	Loot: in a chest in the cargo hold, from a previously plundered island can be found several gold (10d6) and a randomized Akuma Fruit, random roll for trinket
 	   Barrels, rations, drink, 5gp worth of trade goods
 

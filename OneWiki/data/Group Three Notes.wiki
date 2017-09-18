@@ -7,21 +7,21 @@ XXXXXXX
 XXXXXXX
 
 XXXXXXX
-XXXX
+XXXXXXX
+XX
 
 KEELBOAT WORK (of 20) - DONE
 [Geth] Making Map of Known World - DONE
 
-Ship parking coverage
-XXX 
+Ship parking coverage-OVERDUE X
 
 Payment given for crafting to Shirrong Bronzecore
 -Great Axe -2 days -Half Plate -7 days - DONE - DONE
 
-Griffon Arrows x100 (20 per day) - DONE
+Griffon Arrows x100 (20 per day) - DONE - ACQUIRED
 
 Sailing Ship Completion 20 days
-XXXXXXXXXXXXX
+XXXXXXXX
 
 
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
@@ -199,3 +199,25 @@ Disquised as Quinn:
 
 Tessa goes to the south dock and around town looking for a spyglass
 Whap buys a whetstone 
+
+++++Session 8
+Quinn picks up griffon arrows from Yanny
+
+Shay and Quinn go to Rimardo's to return the book.
+
+Quinn borrows [Elvish Ranger Book]
+
+Sails to [Augsburg], Tessa pays 2s for 2 days of docking fee.
+-go to the marine outpost for pirate news
+-Tessa sleeps on the boat
+-everyone else sleeps at the inn
+
+[Redbeard The Unlucky] picked up from the Crying Clam in [Augsburg]
+-heading back to Mayara
+
+Encounter with Don Kreig's men
+-Kills them all
+-Whap eats the Falcon [AkumaFruits] from [Don Kreig]'s men when traveling back to [Fiore] 
+-Corpses are burned at sea with their ship
+-taking one member of Don Kreig's grunts captive.
+    -interrogates him, the metal box was acquired from a trade vessel going from "the south" to [Ak'anon]

@@ -9,7 +9,7 @@ Entities of interest:
 -Marine Outpost: with 5 marines. Located near the docks so they can keep an eye on their small vessel (sailboat). 
     -Recruitment poster: "we want YOU! Help defend justice!"
 	-Marine vessel: not armed for combat, but is built sturdy for traveling far on the ocean.
-		Type: sloop
+		Type: keel boat
 	-Wanted posters in front of the marine outpost: see [Marines] page
 
 -Docks:  run by Dock Master Mc Rock a task oriented person who likes to meet his deadlines. He is currently working on building another fishing boat for the town. 
