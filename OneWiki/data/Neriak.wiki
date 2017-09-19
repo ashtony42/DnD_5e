@@ -37,6 +37,7 @@ there are several chambers that branch from a central area.
     The door springs closed.
 
     -[Rusted Spoon]
+    -[Way of the Woad]
     -Bottle of a viscous milky-white substance, 1d6+1 ounces of Sovereign Glue (pg 200)
     -Jar of 25 preserved eyes
     -3 Jars of preserved ears

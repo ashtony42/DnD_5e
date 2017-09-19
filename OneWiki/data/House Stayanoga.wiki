@@ -1,0 +1,24 @@
+﻿++ House Stayanoga
+
+Lead by Lord Stayanoga - the most reasonable of the Iksar lords
+Desires to leave [Luthadel] with his wife [Korinn] who is strictly held captive at [Venril Sathir]'s palace
+
+(rich, inter-continental trade employs many skaa)
+  -materials
+    -snake skin - 2s each
+    -crocodile skin - 1g each
+    -all non-metal "trade goods" (pg 157) (price x2)
+    -horses
+        -warhorse 500g
+        -draft 60g
+        -riding 90g
+        -pony 40g
+    -saddles
+        -traditional Iksar - 60g
+        -pack - 5g
+        -riding - 10g
+    -boats
+        -keelboat - 3100g
+        -longship - 11,000g
+  -black market
+        -Order of Steel Warship 20AC 300HP - 30,000g  

@@ -33,6 +33,7 @@ World Leathers:
     [Geth]
     [Harris Flennre]
     [Elisha Vanesson]
+    [Rimardo]
 
 [Augsburg]
     [Mayor Ubring]

@@ -3,3 +3,4 @@
 [Bahamuts Lair]
 [Ak'anon Mines] 
 [Wyverns Lair]
+[The God Kings Palace]

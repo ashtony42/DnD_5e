@@ -1,0 +1,20 @@
+﻿++ House Zasheir
+
+Lead by Lord Zasheir, a crude, tricky person
+-Wants the most extravagant palace in [Luthadel] owned by [House Salazar]
+
+(rich, mining mithril and "other" metals with hundreds of skaa)
+  -metals
+    -gold 50g per pound
+    -silver - 5g per pound
+    -copper - 5s per pound
+    -iron - 1s per pound
+    -tin - 1s per pound
+    -zinc - 5s per pound
+    -bronze - 1g per pound
+    -brass - 2g per pound
+    -mithril - 100g per pound
+    -platinum - 500g per pound
+  -black market
+    -dimeritium - 20g per pound (anti-magic properties)
+    -etherium - 40g per pound (magic properties)

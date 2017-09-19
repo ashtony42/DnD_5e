@@ -27,11 +27,11 @@ Private (soliders)
     [Daniel Milborne] (human) inspired by Keiran who saved his life to join the marines
 
 +++Marine Captain   (hired at 8g per day)
-(use DND 5e Bandit Captain pg 344)
+(use Champion, Volo's pg 212)
 +++Marine Officer   (hired at 4g per day)
-(use DND 5e thug with 16 AC pg 350)
+(use Bandit Captain with 16 AC pg 344)
 +++Marine Soldier   (hired at 2g per day)
-(use DND 5e Guard pg 347)
+(use Guard pg 347)
 
 ++Sub Division:
 [Order of the Gauntlet]

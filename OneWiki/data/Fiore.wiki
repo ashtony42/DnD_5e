@@ -1,6 +1,6 @@
 ﻿++ Fiore
 
-An archipalego of several islands. Most are sparsely populated whereas the majority of the people who live his are in the central town of Mayara (Elvish for Many).
+An archipalego of several islands. Most are sparsely populated whereas the majority of the people who live here are in the central town of Mayara (Elvish for Many).
 
 +++Outer islands:
 Lush green vegetation covers the large hill of an island. The sounds of all kinds of birds can be heard, and many are seen flying around. Every other one seems to have a small fishing post established with usually a single home. Three islands have burnt down ruins from where raids from [Redbeard The Unlucky] had occurred.
@@ -41,6 +41,7 @@ Encounterable animals of Fiore:
 
 Places of interest in Mayara:
     *NOBLE AREA*
+      [Rimardo]'s house
       [Marines] Embassy
         A few captains and officers reside here, they help lead the Mayara soldiers in times of need.
       Mayara barracks
@@ -57,7 +58,7 @@ Places of interest in Mayara:
                           Book: [Legend of Regdar]
                           Book: [The Resignation of Kord]
                           Book: [Pantheon of the Dawn War]
-                          Chest with 1000g 15 lock
+                          Chest with 1000g 15 DC lock
             -Kitchen: The best Mead and Ale
                       40lbs of Luxurious Food
                       4 kitchen staff commoners

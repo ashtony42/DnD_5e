@@ -1,0 +1,59 @@
+﻿++ The God Kings Palace
+
+[Order of Steel]
+Brother Members (Cult Fanatic pg 345)
+ -to hit +6
+ -often cast a +2 AC Shield of Faith spell on nearby Steel Inquisitors
+ -or inflict wounds spell in melee combat
+    -melee attack: 4d10 damage
+
+A. The Sanctuary
+    Giant 10ft doors open to a room with 5 rows of pews and a central altar, 40ftx45ft
+    -4 [Steel Inquisitor]s
+    -Several Brother Members
+    Iron spikes standing up on end are on each corner of the altar, a large 8x6 framed portrait of [Venril Sathir] behind it.
+    
+B. Crypt
+    Many former high ranking members of the Order of Steel are buried here. 
+    
+    In one tomb (at the top left) is a secret door in the back), the openings to these tombs are 2ftx3ft and are 6ft long. 
+    -Investigation of DC 15 will uncover the door
+    -Players make perception rolls while moving through the crypt.
+        -if failed on a DC 14, a Shadow (page 269) emerges and makes a surprise strike at the character with advantage.
+    A. a box containing a relic from one of the fallen Order of Steel members
+        -Staff of Fire (DM pg 201)
+        
+C. Dining/Ballroom
+    A large table with 10 dining chairs and a extravagant dull green metal chair at the head of the table (etherium), polished steel cutlery and dished upon it.
+    -4 [Steel Inquisitor]s
+    
+D. Study
+    2 large bookshelves are against 2 of the walls of the room. A lone desk in the center with a single chair.
+    -4 [Steel Inquisitor]s
+    -Books include:
+        [Pantheon of the Dawn War]
+        [The Resignation of Kord]
+        [Holy Tome of the Order of Steel]
+        
+E. Kitchen
+    oddly run by members of the [Order of Steel], very professional setup
+    -crocodile/snake meats (10lbs each)
+    -polished steel cutleries and utensils
+    -4 Brother Members
+    -wood stove vent connects to secret passage
+    
+F. [Steel Inquisitor] transformation ritual room
+    -33 iron spikes can be found piled in a corner
+    -A bloody table with a fresh Steel Inquisitor laying idle, unbreathing on a table in the center.
+    -When interacted with, the Steel Inquisitor comes alive and makes a surprise (advantage) attack against the character.
+    
+G. [Venril Sathir]'s room
+    -A room lit by a fireplace. A large bed to the left and a desk to the right, where Venril Sathir can be found sitting.
+    -A stack of 10 Etherium ingots are nicely stacked on his desk
+    -A row of 10 Etherium ingots are in a row under the foot of the bed
+    
+H. The Dungeon
+    -A. Wife of Lord Stayanoga, Korinn is held here, to ensure Stayanoga doesn't find motivation to leave [Luthadel]
+    -3 [Steel Inquisitor]s keep guard in here
+    -Iksar bones found in one of the cells
+    

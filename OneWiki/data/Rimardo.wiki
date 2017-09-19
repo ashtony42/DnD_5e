@@ -1,0 +1,24 @@
+﻿++ Rimardo
+
+A snoody Human Nobleman from [Fiore] who lives in the noble quarter.
+
+He is also a captain of the town guard. 
+
+Can train melee combat based classes
+    50xp per level per day (only to that character!)
+    -will only accept one "student" at a time, but can be persuaded DC 17 for another.
+    -player will eat 2x the amount of food they normally would
+    -after a player damages one of Rimardo's training dummies, he will charge the player accordingly (see DM book page 131) 
+
+
+(use bandit captain pg 344)
+
+70 HP, 15 AC
+
+3 attacks
+Weapons: 
+    Rapier: 1d8+3, +5 TH
+    Throwing Daggers (x10): 1d4+3, +5 TH  (20/60 range)
+    
+Reaction:
+    Parry - +3 AC to block a blow from an opponent he's engaged with.
