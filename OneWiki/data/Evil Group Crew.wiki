@@ -1,7 +1,7 @@
 ﻿++ Evil Group Crew
 
-17 people
-total food 17
+14 people
+total food 14
 
 [Dockson]
 [Anton]
@@ -33,4 +33,4 @@ Grogar
 4 horses  (3 lbs per day) - left at the Menagerie
 
 
-5 [Don Kreig] pirate grunts
+2 [Don Kreig] pirate grunts
