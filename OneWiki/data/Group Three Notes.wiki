@@ -8,7 +8,7 @@ XXXXXXX
 
 XXXXXXX
 XXXXXXX
-XX
+XXX
 
 KEELBOAT WORK (of 20) - DONE
 [Geth] Making Map of Known World - DONE
@@ -21,7 +21,7 @@ Payment given for crafting to Shirrong Bronzecore
 Griffon Arrows x100 (20 per day) - DONE - ACQUIRED
 
 Sailing Ship Completion 20 days
-XXXXXXXX
+XXXXXXX
 
 
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
@@ -221,3 +221,24 @@ Encounter with Don Kreig's men
 -Corpses are burned at sea with their ship
 -taking one member of Don Kreig's grunts captive.
     -interrogates him, the metal box was acquired from a trade vessel going from "the south" to [Ak'anon]
+    
+++++Session 9
+The group turns in the captive [Redbeard The Unlucky] and [Don Kreig] crewmember
+
+Whap runs into the aftermath of the [Bandits of Deception] murder at the carpenter's guild.    
+
+Heading north to follow the scent
+-Run into [Harris Flennre] 
+-Commodere a shipping Keelboat from the North Dock to persue the [Bandits of Deception]
+
+The group is defeated by the Bandits of Deception,
+-Tiefling and Elf die
+-Shay and Whap die
+-Quinn, Doof and Tessa live and wake up in a brig.
+-They are being taken to [Gorda] where they will be sold as slaves
+-The corpses of Shay and Whap are used as bait for sharks
+-all weapons/shields/arcane focuses/currency have been looted by the [Bandits of Deception]
+
+
+
+
