@@ -4,12 +4,35 @@ Notably is the evil group, but if encountered by another group:
 
 Wanted by the [Marines]
 
-4 Thugs
--Elf Ranger
+
+-Elf Ranger (use Archer from Volo's NPC)
     -Long Bow
--Human Warrior
-    -Dual Wielding Tank
+-Human Warrior (use Veteran from Beastiary NPC)
+    -Spear & Shield
+-Human Warrior (use Swashbuckler from Volo's NPC)
+    -Short Sword, Shield
+    -Golden armband from [Golden Hand]
 -Tiefling Scorcerer
-    -Chromatic Orbs
+    -Fine Clothes
+    -Quarterstaff
+    -Magic Missle
+    -Mage Armor
 -Half-Orc Druid
-    -Summons Pteridactles
+    -Quarterstaff
+    -Heal
+    -Barkskin
+    
+ 
+Loot:
+    -Brewing Kit
+    -Thieves Tools
+    -Map of known world (by [Geth])
+    -500g
+    -3 50g gems
+    -2 100g gems
+    -1 500g gem
+    -[Marines] flag
+    -[Don Kreig] flag
+    -Human Skull
+    -Scale Model of [Ak'anon] (map)
+    

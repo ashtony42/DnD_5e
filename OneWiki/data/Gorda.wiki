@@ -86,4 +86,4 @@ The Sage's Cellar
         -lvl 1 Wizard spells: all 100g each scroll
         -lvl 2 Wizard spells: all 200g each scroll
         -lvl 3 Wizard spells: all 400g each scroll
-        X-Undercommon formula for magic item - 250g
+        X-Undercommon crafting instructions for Sending Stones - 250g
