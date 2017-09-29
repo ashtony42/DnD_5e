@@ -90,6 +90,11 @@ Places of interest in Mayara:
             sells/buys all metal based weapons
             sells/buys all metal based armour
             repairs all metal based armour and weapons (costs roughly 10% of the item's value)
+            -Enchantments
+                -Maliabilis - 40g
+                -Tempren - 40g
+                -Vectorize - 10g per arrow
+                -Etherium Inlay (7 days) 110g
         -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
         -exotic food vendor, [Elisha Vanesson] (human)(knows of [AkumaFruits], but tries to be secretive)
             items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal)) 

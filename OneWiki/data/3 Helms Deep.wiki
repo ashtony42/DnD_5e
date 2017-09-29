@@ -36,6 +36,11 @@ Migrating from Augsburg:
             sells/buys all metal based weapons
             sells/buys all metal based armour
             repairs all metal based armour and weapons (costs roughly 10% of the item's value)
+            -Enchantments
+                -Maliabilis - 40g
+                -Tempren - 40g
+                -Vectorize - 10g per arrow
+                -Etherium Inlay (7 days) 110g
     -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
             wolfsbane (15g per lb) (smell that deters wolves)
             mint, tea (5s per lb)

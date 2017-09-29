@@ -11,6 +11,7 @@ enchantment effects must be based off of themes from spells the caster is able t
 enchantments based off of spells that require a material item to cast will require the target item to contain that component.
 
  +2 damage for next 5 hits when passing DC 15 Enchantment(INT) skill roll
+ +1 damage                              DC 12 Enchantment(INT) skill roll
 
 Arrows: can enchant an arrow with +2 damage of the type the enchanter can deal 
     DC 19+  (2 arrows)
@@ -23,3 +24,8 @@ Maliabilis
 Tempren
     DC 22+  15 Temporary HP
     DC 18+  10 Temporary HP
+    
+    
+
+
+ENCHANTMENT MISSHAP on a 1 pg 140
