@@ -1,5 +1,7 @@
 ﻿++ Legend of Regdar
 
+VALUE 10g
+
 BOOK, located in the carpenter's guild of Mayara library.
 It has been transcribed several times throughout history and it's assumed to no longer be an accurate tale.
 

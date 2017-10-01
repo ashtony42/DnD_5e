@@ -38,3 +38,12 @@ a wet chamber with a small pool of opaque black water with wet rocks surrounding
         -if the wet rocks are disturbed, Gray Ooze will drop from the ceiling (pg 243)
             -everyone must pass a Dex 13 save or take an opportunity attack and -1 AC corrosion 
              from an Ooze that dropped on them, else the ooze drops next to the player. 
+             
+BOTTOM LEFT CHAMBER
+    Wyvern-Owlbear-Bulette-Humanoid Mistwraith
+    A huge (3x3) hideous transparent skined creature that shows an internal anatomy of several Wyvern, Owlbear, Bulettes... and humanoids. Bone structures formed together in unnatural ways. Many legs protrude from it's underside, many wings from above, and it has 6 heads facing in different directions (2 human, 2 Wyvern, 1 Owlbear, 1 Bulette), and a couple of long tails.
+    USE PIT FIEND (pg 77)
+    
+BOTTOM CHAMBER
+        A hallway that curves around, leading to a ruined carved stone entryway 40ftx40ft that has a solid stone wall behind it. The stones are carved with patterns that do not flow, spirals and lumps, holes and spikes
+        Abbysal writing on the side columns say: "Tear way to Nessus. All fear Asmodeus."

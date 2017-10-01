@@ -68,22 +68,4 @@ Boat Docks
         
 The Sage's Cellar
         A black market for magical items run by wizards. A ward guards the shop, lowering people's strength to 8 when they pass into the shop, as well as concealing the interior from being sensed magically. Items have enchantments on them that won't allow them to pass out of the warded space unless a respective sum of currency is bonded to with with another enchantment (by the store clerk), allowing the item to leave, but the currency to not, as if pressed against a wall. 
-        Shopkeep: Leeran, who only ever appears at the shop as an illusion.
-        -god fruit - 6000g each (2 in stock in respective sized decorative metal boxes)
-        -potions - weak 20g each 2d4+2
-                 - normal 40g each 4d4+4
-                 - strong 80g each 8d4+8
-        X-Pearl of Power 300g - pg 184 DM
-        -Etherium Ingot 200g 
-        -Gemstones 10g to 500g valued ones
-        X-Onyx Dog 300g - pg 170 DM
-        -Sepentine Owl 250g - pg 170 DM
-        -Fine Parchment - 1s per sheet
-        -Blank spell books - 5g each      
-        X-Book of Understanding 400g - pg 209   
-        X-Sentient Rock (Henry)- 50g 10lb   
-        X-Rope of Climbing - 200g pg197
-        -lvl 1 Wizard spells: all 100g each scroll
-        -lvl 2 Wizard spells: all 200g each scroll
-        -lvl 3 Wizard spells: all 400g each scroll
-        X-Undercommon crafting instructions for Sending Stones - 250g
+        Shopkeep: [Leeran], who only ever appears at the shop as an illusion.

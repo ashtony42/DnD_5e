@@ -1,5 +1,7 @@
 ﻿++ The Resignation of Kord
 
+VALUE 10g
+
 A book that depicts how the god of strength and storms [Kord] became sealed.
 (Player Readable)
 

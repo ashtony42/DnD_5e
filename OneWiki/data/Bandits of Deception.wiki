@@ -27,7 +27,6 @@ Loot:
     -Brewing Kit
     -Thieves Tools
     -Map of known world (by [Geth])
-    -500g
     -3 50g gems
     -2 100g gems
     -1 500g gem
@@ -35,4 +34,6 @@ Loot:
     -[Don Kreig] flag
     -Human Skull
     -Scale Model of [Ak'anon] (map)
+Money:
+    4736g 21s 175c
     

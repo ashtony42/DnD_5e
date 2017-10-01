@@ -1,5 +1,8 @@
 ﻿++ Foresake the Gods
 
+VALUE 50g
+WRITTEN IN CELESTIAL
+
 There are few who are born with the affinity, but for those who find it within themselves to have it, can wield great power with time and dedication. 
 Some say this rite of training can even give an individual power over a god. 
 Some fewer even say that this is the very reason that no one has ever seen one. 
@@ -13,3 +16,5 @@ This tome I have imbued that so long gods roam this world, one who is intelectua
 -satiation
 -trickery
 -purpose deprevation
+
+<can sub-class as Scorcerer without prerequisite skills>
