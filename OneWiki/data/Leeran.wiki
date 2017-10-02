@@ -10,7 +10,8 @@ Leeran, who only ever appears at the shop in [Gorda] as an illusion.
         -books
             -[Legend of Regdar] -10g
             -[The Resignation of Kord] -10g
-            -[Foresake the Gods] -50g         
+            -[Foresake the Gods] -50g    
+            -[To Kill a Mocking Kenku] -20g      
         X-Pearl of Power 300g - pg 184 DM
         -Etherium Ingot 200g 
         Gemstones 

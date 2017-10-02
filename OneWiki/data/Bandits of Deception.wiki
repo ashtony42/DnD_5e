@@ -24,6 +24,9 @@ Wanted by the [Marines]
     
  
 Loot:
+    -8 private badges
+    -2 officer badges
+    -Carpenter's Tools
     -Brewing Kit
     -Thieves Tools
     -Map of known world (by [Geth])
@@ -36,4 +39,6 @@ Loot:
     -Scale Model of [Ak'anon] (map)
 Money:
     4736g 21s 175c
-    
+    592g per crew mate
+    claimed by new crew: XX
+    chest 1230g

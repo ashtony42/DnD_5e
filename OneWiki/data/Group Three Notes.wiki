@@ -247,22 +247,18 @@ Items sold at [Gorda]
     -[Legend of Regdar] -5g
     -[The Resignation of Kord] -5g
     -[Foresake the Gods] -30g
+    -[To Kill a Mocking Kenku] - 10g
     -Arcane Focus -10g
     -Obsidian Shard - 3g
     -potions 20g
     (73g total)
     
 Then later that day, they put on a "Sale", selling:
-    -Great Axe 30g
-    -Battle Axe 10g
-    -Shield x2 10g each 
-    -Quarter Staff 1g
-    -daggers x3 2g each
-    -Rapier 25g
-    -Short Sword x2 10g each
-    -Farshot Longbow +1 TH, 70g 
-    -Arrows x240 1g per 20
-    -silver arrows x20 - 100g (5g per arrow)
+    -Great Axe 30g               -Battle Axe 10g
+    -Shield x2 10g each          -Quarter Staff 1g
+    -daggers x3 2g each          -Rapier 25g
+    -Short Sword x2 10g each     -Farshot Longbow +1 TH, 70g 
+    -Arrows x240 1g per 20       -silver arrows x20 - 100g (5g per arrow)
     -griffon arrows (+1 TH) x94 - 50g per 20
     
 items will have been sold (or stolen) on a 4+ if the group tries to get them later
@@ -272,3 +268,22 @@ After a while, [Quinn] and [Tessa] will be brought top-side to be sold
 -Able bodied Quinn - 100g
 -The Warlock Tessa - 150g
 (if not sold, they will be put into the [Gorda] fighter's tournament to prove their value.) 
+
+Thrasher sold to Plosive for 45g
+
+Cael escapes from the conflict where Quinn and Tessa escaped from thier ship
+
+Tessa and Quinn loot the [Bandits of Deception] ship
+
+Plosive and Kyra find Trasher's old home, and find that he was part of a gambling dog fighting ring
+
+Quinn signs up for the Brawlers Ring of [Gorda] in 2 days
+-Quinn   -Kyra   -Plosive  -Tessa
+
+Quinn goes to the sages cellar and buys many magical items
+
+Tessa sells Gems to Robert Culliford at the doc, upselling each one as magic items, saying they were aquired from an island call Casassafrass
+-Robert will return in 3 days to buy the last Gem from Tessa
+
+Quinn looks around for his bow and arrows
+-encounters a master thief who acquired his silver arrows
