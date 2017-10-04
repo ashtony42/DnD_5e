@@ -12,3 +12,4 @@
 [Bahamut]
 [Corellon]
 [Vecna]
+[Avandra]

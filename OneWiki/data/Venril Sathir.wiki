@@ -25,6 +25,7 @@ Detect Magic
 Dispell Magic (pg 234 player handbook)
 Dispell Good
 Speak with Dead
+Mass Suggestion
 
 Abilities:
 Ethereal vision, can see into the ethereal plane.
