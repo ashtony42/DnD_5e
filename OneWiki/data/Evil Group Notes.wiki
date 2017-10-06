@@ -12,7 +12,7 @@ XXXXXXX XX|XXXXX       taxes of 3 helms deep
 
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
-XXXXXXX XXX
+XXXXXXX XXXXXX
 XXXXXXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
@@ -24,7 +24,6 @@ XXXXXXX
 Griffon eggs hatch in 15 days - incubates by Brundy the fire beetle
 
 Carpenter's Oak Longbow x2, 100g, 4 days - one done
-XX
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -417,4 +416,18 @@ Edan fully charges radiant by draining trees at the North Dock
 -adventured into the [Wyverns Lair]
 -slew 5 Owl Bears
 -slew 2 of the 8 Wyverns
--NEED TO GIVE EXP FOR THESE
+
+++++Session 28
+- 5 Owl Bears  3500
+- 6 Wyverns  13800
+
+The group retreats back to the boat to rest, and begin taming a Wyvern, Croaker rolls a perfect animal handling roll
+
+encountered the mistwraith, fled, ran into oozes
+-killed 1
+
+rest back at the ship
+
+traveling around [Kunark] to [Neriak] (6 days)
+
+next session will begin at Neriak

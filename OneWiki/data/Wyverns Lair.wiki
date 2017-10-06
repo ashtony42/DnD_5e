@@ -10,7 +10,7 @@ Wyvern - pg 303   5 to 8 are present (1D4 + 4)
 
 Use the wyvern-dyngeon.jpg
 
-Following the directions in the Roc Training Notebook, a cave with a large opening (40ftx40ft) is found.
+Following the directions in the Roc Training Notebook, a cave with a large opening (30ftx30ft) is found.
 It opens up even more as it delves deeper. 
 
 In the large open area are several Wyverns resting, darkvision required or other light source to see beyond the entry and Owl Bear chamber.
@@ -46,4 +46,9 @@ BOTTOM LEFT CHAMBER
     
 BOTTOM CHAMBER
         A hallway that curves around, leading to a ruined carved stone entryway 40ftx40ft that has a solid stone wall behind it. The stones are carved with patterns that do not flow, spirals and lumps, holes and spikes
-        Abbysal writing on the side columns say: "Tear way to Nessus. All fear Asmodeus."
+        Abbysal writing on the side columns say: 
+            -LEFT "Tear way to Nessus." 
+            -RIGHT "All fear [Asmodeus]."
+            -TOP scratched out and is no longer legible
+        -a waykeeper must attune to the stone entryway, and paint the entirety of the stones with their own blood to activate. 
+        
