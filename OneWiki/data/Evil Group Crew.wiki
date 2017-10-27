@@ -22,6 +22,8 @@ total food 14
 Kael
 Vulcan
 Croaker
+-Jor Doken Flame Skull (pg 134)
+  -"Follow and Protect Me"
 Kreiger
 Lightning
 Grogar
@@ -31,6 +33,6 @@ Grogar
 1 wolf
 
 4 horses  (3 lbs per day) - left at the Menagerie
-1 captured Wyvern (3 lbs per day)
+1 captured Wyvern, Wicket (3 lbs per day)
 
 2 [Don Kreig] pirate grunts
