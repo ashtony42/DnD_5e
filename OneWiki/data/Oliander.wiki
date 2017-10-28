@@ -1,0 +1,12 @@
+﻿++ Oliander
+
+(use warlord pg 220 of Volos)
+
+A humanoid [Mistwraith] that has the anatomy of an ancient High Elf, and can speak Elvish.
+
+Oliander only has one arm, wielding an ancient Greatsword. His transluscent body reveals the humanoid anatomy as well as several shoulder blades configured a bit like armour. 
+
+[AkumaFruits] - Repel (can be used as Legendary Actions)
+-Push: Range 50ft, With an action, he can swing his sword at a foe and Knock it back 30ft and deal 2d6+5 damage, half as much distance and damage if the target passes a CON DC 15 save.
+-Move: Double movement speed when moving in a straight line toward a foe, if the foe is then hit by a melee attack, deal an extra 1d10 to the target
+-Deflect: redirect a projectile at a foe instead with a +7 TH, dealing 1d6+3 damage

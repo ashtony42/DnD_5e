@@ -13,3 +13,4 @@
 [Corellon]
 [Vecna]
 [Avandra]
+[Kadi]

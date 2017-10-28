@@ -1,3 +1,22 @@
 ﻿++ Faydwer
 
 Mostly ruined large island north of [Kunark]
+
+Places of Interest:
+    - [Felwithe] (ruins)
+    - [Kaladim] (ruins)
+    - [Kelethin] (ruins)
+
+
+Wildlife of Faydwer (monster manual): 
+    [Mistwraith]
+        Only comes out in the night during the mists, can't be found during the day.
+        Appears as an abomination of many animals and humanoids
+    Gray Ooze (pg 243) looks like a wet rock
+    [Koloss]
+    Dire Wolves (pg 321)
+    Crocodile (pg 320) in the swampy regions of Kunark
+    Giant Crocodile (pg 324)
+    Giant Constrictor Snake (pg 324)
+    Giant Hyena (pg 326)
+    Hyena (pg 331)

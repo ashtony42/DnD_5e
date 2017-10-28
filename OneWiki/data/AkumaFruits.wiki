@@ -53,7 +53,7 @@ PARAMECIA
 9. Solid [Jacobson] - The user can control the desnsity of their body from normal human to unscathably dense.
 10. Door - can open most surfaces as if it was a hinged door. 
 11. Love - huge buffs to bluff rolls, seduction rolls, and most other social things.
-12. Repel - can repel objects from one's self with great force.
+12. Repel [Oliander] - can repel objects from one's self with great force.
 13. String - can create near invisible strings between objects
 14. Separation - body can deteach and reatach and be reconfigured at will, immune to being cut
 15. Unlucky [Redbeard The Unlucky] - bring poor luck to one's self and everyone around them. -1 to all rolls
