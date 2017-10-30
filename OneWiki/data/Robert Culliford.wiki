@@ -17,7 +17,7 @@ Resistance
 Immune
    - Lightning
 Vulnerable
-   - bludgeoning
+   - bludgeoning, force
    
 When struck with a hard force, makes a DC 15 check or shatters a bit:
   When shattered, nearby attackers must pass a 16 Dex check or take 1D6+5 slashing damage from shards, else half.   

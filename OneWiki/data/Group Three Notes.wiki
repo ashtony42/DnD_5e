@@ -8,12 +8,12 @@ XXXXXXX
 
 XXXXXXX
 XXXXXXX
-XXX
+XXXXXX
 
 KEELBOAT WORK (of 20) - DONE
 [Geth] Making Map of Known World - DONE
 
-Ship parking coverage-OVERDUE X
+Ship parking coverage-OVERDUE XXXX
 
 Payment given for crafting to Shirrong Bronzecore
 -Great Axe -2 days -Half Plate -7 days - DONE - DONE
@@ -21,7 +21,7 @@ Payment given for crafting to Shirrong Bronzecore
 Griffon Arrows x100 (20 per day) - DONE - ACQUIRED
 
 Sailing Ship Completion 20 days
-XXXXXXX
+XXXXX
 
 
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
@@ -275,7 +275,7 @@ Cael escapes from the conflict where Quinn and Tessa escaped from thier ship
 
 Tessa and Quinn loot the [Bandits of Deception] ship
 
-Plosive and Kyra find Trasher's old home, and find that he was part of a gambling dog fighting ring
+Plosive and Kyra find [Thrasher]'s old home, and find that he was part of a gambling dog fighting ring
 
 Quinn signs up for the Brawlers Ring of [Gorda] in 2 days
 -Quinn   -Kyra   -Plosive  -Tessa
@@ -287,4 +287,23 @@ Tessa sells Gems to Robert Culliford at the doc, upselling each one as magic ite
 
 Quinn looks around for his bow and arrows
 -encounters a master thief who acquired his silver arrows
+
+++++Session 11
+The group runs into [Nogg] and fight him until interuppted by David Coppercap.
+-Plosive cares for the unconcious drunk and gives him 20g to get back on his feet
+
+The group goes to the magic shop and [Tessa] steals the Wolf [AkumaFruits]
+-offers 500g in illusionary gold to hold it down until she comes back with the rest.
+
+Quinn searches town for his lost arrows and finds many
+
+DAY 2
+[Plosive] makes friends with [Nogg]  +1 repor
+[Quinn] finds more arrows
+
+DAY 3 
+Tournament day!
+Quinn wins and loots Nanderdar, getting an undercommon note about the assassins in [Kalas]
+-Robert Culliford wins! 
+-Quinn gets runner up
 

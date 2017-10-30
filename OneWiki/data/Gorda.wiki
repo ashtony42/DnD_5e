@@ -45,7 +45,7 @@ Brawler's Ring
           -Grom Mallamoog(half orc) orcish trash - Thug pg 350
           -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344 - friend of Ron Schnopps
           -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350 - came from the Assassins hideout in [Kalas]
-          -Nogg(half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
+          -[Nogg](half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
           -[Robert Culliford] (if in town)
         If gambling, 
           -guessing the winning contestant will earn 10x what they wager
@@ -69,3 +69,4 @@ Boat Docks
 The Sage's Cellar
         A black market for magical items run by wizards. A ward guards the shop, lowering people's strength to 8 when they pass into the shop, as well as concealing the interior from being sensed magically. Items have enchantments on them that won't allow them to pass out of the warded space unless a respective sum of currency is bonded to with with another enchantment (by the store clerk), allowing the item to leave, but the currency to not, as if pressed against a wall. 
         Shopkeep: [Leeran], who only ever appears at the shop as an illusion.
+
