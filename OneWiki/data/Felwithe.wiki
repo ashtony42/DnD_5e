@@ -19,3 +19,13 @@ A plaque with Draconic writing sloppily etched upon it sits at the base of the s
 A concecrated building, that does not see the wear and tear of the rest of the ruins, though in a demolished state. An ancient order of paladins once called this thier temple, and a paladin king, [Tearis Thex] home. Looting the kings corpse will yield:
 
 -Platemail of Tearis Thex, a holy armor that offers the wearer resistance to necrotic damage
+
+++++Ruined Wizard's Guild
+several class rooms with rotted wood desks, but their tarnished brass metal adornments protrude like bones in a carcas.
+
+A cabinet with a shattered window door holds many deteriorated lvl 1-3 Wizard scrolls
+-5 are still legible, roll to randomly select what is found
+
+A teacher's desk has a level 4 and 5 wizard scroll in it, still legible, roll randomly to select what is found
+-tarnished wand of lightning bolts (pg 211 DM book) can be found in another drawer
+

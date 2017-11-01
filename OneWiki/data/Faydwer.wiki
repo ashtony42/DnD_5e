@@ -20,3 +20,7 @@ Wildlife of Faydwer (monster manual):
     Giant Constrictor Snake (pg 324)
     Giant Hyena (pg 326)
     Hyena (pg 331)
+    
+Random encounters:
+-Koloss Patrol    
+-Nightime assassination visit
