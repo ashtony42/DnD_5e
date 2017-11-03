@@ -22,5 +22,13 @@ Wildlife of Faydwer (monster manual):
     Hyena (pg 331)
     
 Random encounters:
--Koloss Patrol    
--Nightime assassination visit
+-[Koloss] Patrol, a mix of young and old  
+    -about 10 Koloss
+-[Koloss] Camp
+    -entire crocodiles are roticerating above large bon fires.
+    -Koloss randomly fighting each other  
+    -about 30 Koloss
+    -sloppy tents made from piled Crocodile hides
+-Nightime assassination visit by assassins (pg 343) of [House Salazar]
+-Nightime grazing of an Elk-based [Mistwraith]
+-A thick fog that reduces vision to 30ft

@@ -1,6 +1,7 @@
 ﻿++ Oliander
 
 (use warlord pg 220 of Volos)
+-Contracted to [Venril Sathir] to let no one near the Husk of Kadi in [Felwithe]
 
 A humanoid [Mistwraith] that has the anatomy of an ancient High Elf, and can speak Elvish.
 

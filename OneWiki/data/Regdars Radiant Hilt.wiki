@@ -5,19 +5,35 @@
 must attune to use (1 hour per attune level)
 
 COST: lvl 1 slot (or equivalent), -10 Max HP, -1 CON 
- +4 dmg Radiant damage, gives off light when wielded
+ +4 DMG Radiant damage, gives off light when wielded
 
 ADDITIONAL: lvl 2 slot (or equivalent), -20 Max HP, -1 CON 
- +8 dmg Radiant damage, +1 TH, gives off light when wielded
+ +8 DMG Radiant damage, +1 TH, gives off light when wielded
  (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stack up to 3 times, 10 minute ritual) 
  
 ADDITIONAL: lvl 3 slot (or equivalent), -30 Max HP, -1 CON 
- +12 dmg Radiant damage, +2 TH, gives off light when wielded
+ +12 DMG Radiant damage, +2 TH, gives off light when wielded
  (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stack up to 9 times, 10 minute ritual)
- when used at max capacity, 10ft pushback (Unless STR DC 15 is passed) and 1d6 damage to user.
+ When released at 9+ charges:
+   -10ft pushback (Unless STR DC 15 is passed) and 1d6 damage to user.
  
 ADDITIONAL: lvl 5 slot (or equivalent), -40 Max HP, -2 CON 
- +16 dmg Radiant damage, +3 TH, gives off light when wielded, any existing blade melts away
+ +16 DMG Radiant damage, +3 TH, gives off light when wielded, any existing blade melts away
  (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stack up to 20 times, 10 minute ritual)
- hilt is destroyed along with user if used a maximum capacity.
- 25ft pushback, characters within 60ft make a DC 16 save or be blinded. 
+ When released at 20+ charges:
+   -hilt is damaged (becomes +8 DMG with lvl 2 attunement details)
+   -drop user to 0 HP
+   -25ft pushback, characters within 60ft make a CON DC 16 save or be blinded. 
+   -anyone within 10ft take 6d6 damage, or half as much on a DC 15 DEX save
+ 
+ADDITIONAL: lvl 7 slot (or equivalent), -60 Max HP, -3 CON
+ +20 DMG Radiant damage, +4 TH, gives off light when wielded
+ (can sap a permenant 1 CON from a creature for +5 DMG on next hit, stacks up to 50 times, 10 minute ritual)
+ When wielded at 40+ charges:
+    -the blade burns the user's hand to be wielded, 1d4 when equiped, and 1d4 for every round the sword is wielded 
+ When released at 40+ charges:
+   -hilt is destroyed
+   -the user evaporates in a violent radiant explosion
+   -50ft pushback, characters within 100ft make a CON DC 18 save or be blinded.
+   -anyone within 20ft take 6d6 damage, or half as much on a DC 16 DEX save
+   SCENE: the ghostly spirit of a warrior, Regdar, is seen standing in the explosion's wake, a spitting image of the statue at [Fiore]. "Too long have I been bound here. I foolishly trapped myself in my sword, between planes. Thank you." Puts his hand on something that remains of the user who just evaporated, looks up to the sky, and in a flash of light, is gone.

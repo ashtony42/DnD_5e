@@ -5,6 +5,8 @@ Old ruined city of high elves in [Faydwer] destroyed long ago by ancient Iksar a
 It's walls look at if they would have been brilliant in their prime, but are but a pale resemblance of what they must have been.
 A few tall structures still stand intact.
 
+
+
 ++++Converted Shrine of Kadi's Husk
  _________
 |         |
@@ -15,10 +17,12 @@ A humanoid [Mistwraith] named [Oliander] stands vigil in front of a statue of a 
 A plaque with Draconic writing sloppily etched upon it sits at the base of the statue:
 "Kadi, may you never have progeny, and may you never return to cull this world."
 
+
 ++++Palace of Tearis Thex
 A concecrated building, that does not see the wear and tear of the rest of the ruins, though in a demolished state. An ancient order of paladins once called this thier temple, and a paladin king, [Tearis Thex] home. Looting the kings corpse will yield:
 
--Platemail of Tearis Thex, a holy armor that offers the wearer resistance to necrotic damage
+-Corroded Platemail of Tearis Thex (-2 AC), a holy armor that offers the wearer resistance to necrotic damage
+    -Elvish Inscription on the inside: Nerissia Irontree (used to be a smith at the Shop of all Holos
 
 ++++Ruined Wizard's Guild
 several class rooms with rotted wood desks, but their tarnished brass metal adornments protrude like bones in a carcas.
@@ -28,4 +32,17 @@ A cabinet with a shattered window door holds many deteriorated lvl 1-3 Wizard sc
 
 A teacher's desk has a level 4 and 5 wizard scroll in it, still legible, roll randomly to select what is found
 -tarnished wand of lightning bolts (pg 211 DM book) can be found in another drawer
+
+
+++++Shop of All Holos
+a structure in a very poor state, as if intentionally vandalized long ago.
+-corroded iron ingots
+-corroded iron rods
+-corroded platemail (-3 AC)
+-corroded short and long swords (-3 DMG)
+
+
+++++Empty Home x3
+-several owlbears
+-ancient elven pottery, Elvish labels of "flour", "sugar", "sunflower seed", "corn"
 

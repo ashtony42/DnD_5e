@@ -7,7 +7,7 @@ Has the desicated remains of gnomes, elves, high elves, humans and mostly, Iksar
 
 Areas of interest:
 
-The Shaman King's Palace
+++++The Shaman King's Palace
     A large building that is mostly intact with a pointed roof
     Filled with traps set by the Iksar Assassins that hideout in here. (pg 122)
     -Locking pit trap in the main entry hall, DEX 18 save if trying to avoid falling
@@ -26,8 +26,9 @@ The Shaman King's Palace
             -30 foot cones, DC 13 DEX save to take half of 4d10 damage
         -5 Iksar assassins (pg 343) inside that will have Light Crossbows pointed at the adventurer's    
             -Rhogar (M), Kava (F), Perra (M), Donaar (M), Patrin (F)
+            -Loyal to [House Salazar]
 
-The Koloss slums
+++++The Koloss slums
     An area of Kalas where the buildings are the most destroyed by Koloss fighting
     -entire crocodiles are roticerating above large bon fires.
     -Koloss randomly fighting each other
@@ -35,5 +36,5 @@ The Koloss slums
     -might is right
     -about 80 Koloss live here
 
-Ancient Cemetery
+++++Ancient Cemetery
     -hundreds of tombstones with names in Draconic written on them, showing dates from 4000 to 3000 years ago.
