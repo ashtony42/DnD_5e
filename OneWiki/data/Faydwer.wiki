@@ -6,6 +6,7 @@ Places of Interest:
     - [Felwithe] (ruins)
     - [Kaladim] (ruins)
     - [Kelethin] (ruins)
+    - [Southern Iksar Port of Faydwer]
 
 
 Wildlife of Faydwer (monster manual): 
@@ -32,3 +33,5 @@ Random encounters:
 -Nightime assassination visit by assassins (pg 343) of [House Salazar]
 -Nightime grazing of an Elk-based [Mistwraith]
 -A thick fog that reduces vision to 30ft
+-[Steel Inquisitor] Patrol
+    -about 6 inquisitors

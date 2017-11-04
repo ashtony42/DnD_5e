@@ -1,16 +1,20 @@
 ﻿++ Kaladim
 
-An ancient dwarven city built into a mountain. A large statue of a dwarf (50ft tall) overgrown with vines stands vigil at the top of the entrance. 
+An ancient dwarven city built into a mountain. A large statue of a dwarf (50ft tall) standing proud with his respectively large battle axe overgrown with vines stands vigil at the top of the entrance. 
 
 Clearing the vines reveals the entrance below the statue.
 
-The inside is littered with broken human arms, the remainder of each respective body is nowhere to be found.
+The inside is littered with broken human arms, the remainder of each respective body is nowhere to be found. Many bricks and other masonry lie about the caves as if they were once part of some previously existing structure.
 
 [Mistwraith] - Purple Worm
     -Under Contract by [Venril Sathir] to "protect" the Daughter of the Night, and always consume her arms.
     -Also has hundreds of Human arms
 
-Annis Hag - Daughter of the Night
+++++The Dry Well
+  Of all the rocky caves, this is the place that most resembles it's original construction, ancient dwarven stonework around what would have been a very deep pool of well water. But instead is now home to the [Daughter of the Night] 
+  
+  Annis Hag - Daughter of the Night
     -was given ancient trolls blood to achieve a near immortality
+        -+20 HP per round
     -has no arms
     -at the bottom of a large hole

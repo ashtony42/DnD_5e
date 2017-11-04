@@ -1,0 +1,31 @@
+﻿++ Southern Iksar Port of Faydwer
+
+A port surrounded by large iron rod spiked barricades with a single gate to traverse into [Faydwer].
+
+At the port, 4 [Order of Steel] warships are docked
+
+several warehouse buildings of interest:
+
+-Skaa Holding Pen
+    Skaa sometimes try to flee to [Faydwer], but are frequently reacquired by [Steel Inquisitor]s that roam [Faydwer]
+    -6 [Order of Steel] brothers inside
+    
+-Food storage
+    Food from Luthadel is stored here in barrels and crates
+    -vegetables
+    -meats
+    -wine
+    -water
+    -2 [Order of Steel] brothers inside
+    
+-Inspection Warehouse
+    When a trade vessel leaves or comes back to [Luthadel] from outside the dark waters, it stops here first, any would-be stowe aways will find themselves with only the harsh environment of [Faydwer] to flee to. Anything hazardous would be dealt with away from the main city. Only the most skilled smugglers get past here.
+    -8 [Order of Steel] brothers here
+    -6 [Steel Inquisitor]s here
+    
+-Order of Steel Temple
+    Doubles as a living area for the brothers that frequent the port, some live here as their primary home.
+    -10 brothers
+    -A statue of [Venril Sathir] made of Etherium sits on a central podium. [Venril Sathir] can hear all that is spoken near this statue.
+    -8 bed rooms can be found down one hall of the temple
+        -very simple rooms that have beds, and a window

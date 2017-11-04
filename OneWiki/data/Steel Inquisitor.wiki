@@ -8,3 +8,5 @@ resistance: fire
 +9 to hit
 
 20 STR (+5) 1000xp
+
+-Can spend 2 rounds of combat to sprout draconic wings and gain a fly speed of 50ft
