@@ -24,6 +24,7 @@ Lush green vegetation covers the large hill of an island. The sounds of all kind
 +++North Dock:
         Dock master [Ghant] (dwarf) runs the north dock. A rather friendly fellow. The north dock commonly has traders unloading/loading vessels from [Ak'anon], [Augsburg] and [Arabasta]. The shipwright area has a Sailing Ship (10,000g) being constructed (will finish on day 30 of the calendar). And recently took a project of repairing a former [Don Kreig] keel boat (3000g) (will finish on day 7 of the calendar) 
         -carts borrowable for 15g, 5g returned when the cart is returned.
+        -boats dockable and secured by [Marines] at a rate of 5s per day
         
         If searched, the waters at the base of the fjord have the slightly melted [Regdars Radiant Hilt]
        
