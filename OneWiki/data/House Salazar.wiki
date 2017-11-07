@@ -11,7 +11,4 @@ Lead be Lord Salazar, high strung, strict, uncompromising
     -all armors - (pg 145)
       -Iksar Champion's Plate (Str 16 req) 18AC, Fire Resistance - 1700g
   -black market
-    -assassination of a skaa - 20g
-    -assassination of a Luthadel noble - 200g
-    -assassination out of Kunark - 100g
-    -hired assassins (pg 343) reside at a secret hideout in [Kalas]
+    -hirable [House Salazar Assassins]

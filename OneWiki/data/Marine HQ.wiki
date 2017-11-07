@@ -48,12 +48,8 @@ East Barracks
             
     
 +++Marine District    
-    Quatermaster - Hemlock, half-elf (local born, son of Remlock(human), son of Tenlock(human). Quarter master job has been ran by his family.)    
-        -short swords
-        -shields
-        -chainmail
-        -showbow
-        -arrows
+    Quatermaster - [Hemlock], half-elf 
+        sign outside reads: "Quartermaster Hemlock, son of Remlock, son of Tenlock"    
     
     Office of the [Order of the Gauntlet]
         Ran by Officer Jord, Male goliath. 

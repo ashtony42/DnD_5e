@@ -1,0 +1,11 @@
+﻿++ Hemlock
+
+Hemlock, half-elf 
+(local born, son of Remlock(human), son of Tenlock(human). Quarter master job has been ran by his family.)    
+
+Sells standard issue supplies for the [Marines] at [Marine HQ] and is a very busy man.
+        -short swords
+        -shields
+        -chainmail
+        -showbow
+        -arrows

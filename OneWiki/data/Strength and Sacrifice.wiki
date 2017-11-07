@@ -1,0 +1,16 @@
+﻿++ Strength and Sacrifice
+
+Written in Orc
+
+A tale from the supposed last follower of [Gruumsh] before they were all hunted down thousands of years ago.
+
+Hartusk sat at a campfire, alone, all of his bretheren slain in a field of battle not even a mile away. At first he denied it, that followers of Gruumsh were the strongest, that there was no way feeble elves would ever best them. Denial shifted to rage, and he knew what must be done. He went back to that morbid field, and found an elf he had slain, held it up by the neck to the sky and proclaimed "Gruumsh! This one is for you! Give me your strength!" then threw it to the ground and carved a triangular eye with boney protrusions into the elf's chest. After a moment, the eye begins to dart around, and focuses on Hartusk. A deep grizzled voice then echos into his mind "Show your devotion, make your sacrifice!". Hartusk did not hesitate to then gouge out his own right eye, upon doing so, great power surged through him. A whole elven camp was decimated before he eventually fell from blood loss. 
+
+Performing the above ritual can give a character:
+ -Dark Vision: 60ft
+ -Aggressive: As a bonus action, the character can move up to its speed toward a hostile creature it can see
+ -Gruumsh's Fury: Deal an extra 1d8 damage when hitting with a melee attack
+ -Spellcasting: (spell save DC 11, +3 TH)
+    -Cantrips: guidance, resistance, thaumaturgy
+    -1st level: bless, command
+    -2nd level: augury, spiritual weapon

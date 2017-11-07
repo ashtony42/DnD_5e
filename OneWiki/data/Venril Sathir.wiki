@@ -9,12 +9,12 @@ STR 20, DEX 20, CON 20, WIS 20, INT 20, CHA 18      SPELL SAVE DC   SPELL CAST A
     +5      +5      +5      +5      +5      +4                 20                  +12                   +11
 
 300hp
-AC 18+3 God King's Platemail (req str 18)
+AC 18+3 God King's Etherium Inlayed Platemail (req str 18)
 Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook)
 Ring of Telekinesis (pg 280 player handbook)
 Ring of Regeneration (pg 191 DM handbook) +1d6 HP per 10 minutes, body parts can regrow after a few days
 Ring of Jumping
-Four Rapiers 1d8+5(+11 to hit)
+Four Etherium Inlayed Rapiers 1d8+5(+11 to hit)
 
 Actions: 3 per round
 Bonus Actions: 2 per round
@@ -35,7 +35,7 @@ Ethereal presence, can interact with spirits as if they were material.
 Legendary Actions (3):
     -Dispell Magic as a reaction (pg 234)
     -Telekinesis as a reaction (pg 280)
-    -Manipulate Etherium: move a piece of nearby Etherium in the way to block a projectile
+    -Manipulate Etherium: move a piece of nearby Etherium in the way to block a projectile (+3 AC)
 
 Akumafruit:
 Etherium element

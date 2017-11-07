@@ -30,8 +30,8 @@ Random encounters:
     -Koloss randomly fighting each other  
     -about 30 Koloss
     -sloppy tents made from piled Crocodile hides
--Nightime assassination visit by assassins (pg 343) of [House Salazar]
+-Nightime assassination visit by [House Salazar Assassins] (pg 343)
 -Nightime grazing of an Elk-based [Mistwraith]
--A thick fog that reduces vision to 30ft
--[Steel Inquisitor] Patrol
-    -about 6 inquisitors
+-A thick fog that reduces vision to 30ft (lasting 3 days)
+-[Order of Steel] Patrol
+    -about 6 [Steel Inquisitor]s & brothers
