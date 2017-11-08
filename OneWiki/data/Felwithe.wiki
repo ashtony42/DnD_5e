@@ -21,8 +21,9 @@ A plaque with Draconic writing sloppily etched upon it sits at the base of the s
 ++++Palace of Tearis Thex
 A concecrated building, that does not see the wear and tear of the rest of the ruins, though in a demolished state. An ancient order of paladins once called this thier temple, and a paladin king, [Tearis Thex] home. Looting the kings corpse will yield:
 
+-Corroded Gold Crown
 -Corroded Platemail of Tearis Thex (-2 AC), a holy armor that offers the wearer resistance to necrotic damage
-    -Elvish Inscription on the inside: Nerissia Irontree (used to be a smith at the Shop of all Holos
+    -Elvish Inscription on the inside: Nerissia Irontree (used to be a smith at the Shop of all Holos    
 
 ++++Ruined Wizard's Guild
 several class rooms with rotted wood desks, but their tarnished brass metal adornments protrude like bones in a carcas.

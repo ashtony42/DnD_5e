@@ -1,0 +1,28 @@
+﻿++ King Thalgrer
+
+leader of the Drauger, lives in a large stone slab house in [Oggok]
+
+Has an incredibly large beard that reaches down to his knees, braided and gray with many dimeritium adornments
+
+STR 19(+4) DEX 12(+1) CON 16(+3) WIS 16(+3) INT 14(+2) CHA 10
+
+150HP, 20AC
+3 attacks:
+ +9 TH, 1d6+7 DMG Bludgeoning (20/60 range, hammer returns)
+
+++++Spells
+  -Misty Step (bonus action to teleport to space up to 30ft away)
+  -Magic Weapon (bonus action to add +2 TH and DMG to weapon)
+  -Enlarge (use 2d6 instead of 1d6 damage die, advantage on STR checks)
+  -Invisibility 
+  -Hellish Rebuke (reaction to being hit: 3d10 fire damage or half as much on a DEX check of 15
+  -Stone Shape (action to form stone into an object no larger than 5ft)
+  
+
+Loot:
+    Dwarven Thrower - pg 167
+    Dwarven Plate - pg 167 (pushes reduced by 10ft
+    Belt of Dwarvenkind - pg 155
+    Gauntlets of Ogre Power - pg 171
+    
+    

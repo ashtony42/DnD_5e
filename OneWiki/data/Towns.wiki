@@ -23,5 +23,6 @@
       - [Felwithe] (ruins)
       - [Kaladim] (ruins)
       - [Kelethin] (ruins)
+      - [Oggok]
       
 [Faerun]    
