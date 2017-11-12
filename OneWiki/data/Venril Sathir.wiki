@@ -32,7 +32,7 @@ Ethereal vision, can see into the ethereal plane.
 Ethereal presence, can interact with spirits as if they were material.
 -if a creature is grappled, he can roll to hit again, if successful, the soul of the creature is pulled from it's body.
 
-Legendary Actions (3):
+Legendary Actions (4):
     -Dispell Magic as a reaction (pg 234)
     -Telekinesis as a reaction (pg 280)
     -Manipulate Etherium: move a piece of nearby Etherium in the way to block a projectile (+3 AC)

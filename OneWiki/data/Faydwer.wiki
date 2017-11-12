@@ -36,3 +36,5 @@ Random encounters:
 -A thick fog that reduces vision to 30ft (lasting 3 days)
 -[Order of Steel] Patrol
     -about 6 [Steel Inquisitor]s & brothers
+    
+    

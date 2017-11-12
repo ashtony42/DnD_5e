@@ -13,7 +13,7 @@ XXXXXXX XX|XXXXX       taxes of 3 helms deep
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
-XXXXXXX XXXXX
+XXXXXXX XXXXXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -444,9 +444,42 @@ Res: "Thank you, that would be great"
 
 Wyvern: "We are going to extract venom from your stinger, if you let us we will give you an extra lb of food"
 
-A Hag Eye is slipped into [Krieger]'s inventory by the [Crones of Neriak]
-
-Lightning acquires Hag Object #2 the severed dwarf head
+Visit with the [Crones of Neriak]
+-A Hag Eye is slipped into [Krieger]'s inventory by the [Crones of Neriak]
+-Lightning acquires Hag Object #2 the severed dwarf head
+-Music Box given by [Croaker] has a earnest item that they will return with 
 
 4 days traveling to the North side of [Faydwer] 
 -Croaker taming Wicket the Wyvern
+
+++++Session 30
+Encounter's a [Koloss] patrol near the shore of [Faydwer]
+-[Edan] young koloss (CON 16) drains 3 CON
+  -Draings 7 more from trees
+-Flying 9 to the ship
+  -note to clean thier bodies and skin them
+  -Dockson responds that Cael will do it, but that the party is horrible
+  -Edan puts 6 charges on Redgar's Radiant Hilt
+  
+They enter [Felwithe] 
+        -find 6 owl bears in a ruined home.
+        -defeated [Oliander] at the Husk of Kadi
+        -short rest
+        -12 [House Salazar Assassins] attack after the group takes a short rest from facing [Oliander]
+        
+The group takes Kadi's Husk, and 10 [Koloss] corpses to their ship. 
+    -long rest            
+    -assassins relay message to the dock south of [Faydwer] to intercept them        
+        
+[Leeran] contacted to stock diamond dust (worth 300g)        
+
+The group sails to [Dun Morhen] XX(6 days) on thier way to [Gorda]
+-[Croaker] anquires a dose of Wyvern poison
+-day 2, the group runs into 3 [Order of Steel] warships
+    -8 Inquisitors, 8 brothers on each ship
+    -500ft
+    -350ft
+    -200ft
+    -50ft
+    
+Ended mid battle with inquisitors, refer to photo of battle.    

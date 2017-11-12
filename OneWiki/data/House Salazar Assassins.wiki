@@ -13,3 +13,6 @@ Pay rates for tagets:
     -assassination of a Luthadel noble - 600g
     -assassination out of Kunark - 300g
     
+Burnt Othur Fumes
+    -thrown 80/120
+    -puffs out to a 5ft radius immediately and spreads

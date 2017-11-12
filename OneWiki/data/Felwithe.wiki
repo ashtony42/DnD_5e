@@ -5,6 +5,7 @@ Old ruined city of high elves in [Faydwer] destroyed long ago by ancient Iksar a
 It's walls look at if they would have been brilliant in their prime, but are but a pale resemblance of what they must have been.
 A few tall structures still stand intact.
 
+15ft wide entrance throgh the gate in the wall.
 
 
 ++++Converted Shrine of Kadi's Husk
@@ -12,7 +13,7 @@ A few tall structures still stand intact.
 |         |
 |_ _____ _|
 |____ ____|
-A humanoid [Mistwraith] named [Oliander] stands vigil in front of a statue of a woman whose skin is covered in thousands of scars. Hair that flows like fire over her shoulders, wearing armor adorned by skulls, and a single skull on her right hip.
+A humanoid [Mistwraith] named [Oliander] stands vigil in front of a statue of a woman whose skin is covered in thousands of scars. Hair that flows like fire over her shoulders, wearing armor adorned by skulls, and a single skull on her right hip. Dimeritium. 
 
 A plaque with Draconic writing sloppily etched upon it sits at the base of the statue:
 "Kadi, may you never have progeny, and may you never return to cull this world."
