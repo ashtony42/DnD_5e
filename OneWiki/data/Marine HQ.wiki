@@ -64,7 +64,6 @@ East Barracks
             -open box of 20 Iron Ingots
             -Iron desk
                       
-        
     Contract Center
         Ran by Officer Yimir, Female goliath.
         Privates, Officers and Captains can be hired for the rates listed on the [Marines] page
