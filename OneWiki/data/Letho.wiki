@@ -27,9 +27,9 @@ STR 20(+5) DEX 14(+2) CON 18(+4) WIS 10(0) INT 10(0) CHR 4(-3)
 150HP 17AC 
 Dimeritium LongSword 1D8+6, +8 TH, 2 attacks
 
-Sludge Throw - 1D6, +8 TH, 1 per turn, 40/80ft range, -1 AC on hit
+Sludge Throw - 2D6 Acid, +8 TH, 1 per turn, 40/80ft range, -1 AC on hit
 Sludge Wave - 20ft radius is difficult terrain (2 additional steps), -1 AC per turn in it
-Sludge Grapple - STR check dif 20, 1d6+3 per turn while grappled, -1 AC per turn while grapped 
+Sludge Grapple -10ft reach, 2d6+3 Acid per turn while grappled, -1 AC per turn while grapped 
 
 Immune:  Piercing/Bludgeoning/Slashing/Poison
 

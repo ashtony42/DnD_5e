@@ -1,0 +1,9 @@
+﻿++ Emmik
+
+An elderly poor mage that sells in [Luthadel]'s underground market
+old human, M (poor wizard that can summon loafs of bread)
+     -bread, 5c
+     -Stone of Good Luck - 150g (pg 205 DM)
+     -Slippers of Spider Climbing - 100g (pg 200 DM)
+     -Lantern of Revealing - 125g (pg 179 DM)
+     -Goggles of night - 75g (pg 172 DM)

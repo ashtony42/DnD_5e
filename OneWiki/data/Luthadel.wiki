@@ -15,13 +15,13 @@ Primarily speak Draconic, but speak common to Skaa.
 Skaa are the poor people, often enslaved conquored people, or prisoners who are non-iksar common races. (commoners)
 Many live in underground criminal thieving groups, that are saught by the heavy eyes of Steel Inquisitors
 
-Major noble houses:
+++++Major noble houses:
 [House Salazar](rich, powerful, largest militarized nobility, does specialized assassination work) 
 [House Zasheir] (rich, mining mithril and "other" (etherium) metals with hundreds of skaa)
 [House Zolis] (rich, farming plantations with hundreds of slave skaa)
 [House Stayanoga] (rich, inter-continental trade employs many skaa)
  
-Areas of interest:
+++++Areas of interest:
 several market areas run by skaa
     -squalor level food stalls
     -squalor level inns
@@ -34,8 +34,15 @@ Temple of the [Order of Steel]
     -Skaa Temple North
     -Skaa Temple South
        -both have 8 [Steel Inquisitor]s and many Brothers from the Order of Steel
-[The God Kings Palace] (use associated dungeon map)    
-
+[The God Kings Palace] (use associated dungeon map)
+[Dallben the Vegetable]'s house    
+Luthadel Black Market merchants:
+  -Iggy, half-orc F (strong woman able to carry wares to sell)
+     -Etherium Ingot - 400g (1 lb ingots)
+     -Mithril Ingot - 200g (1 lb ingots)
+     -Platinum - 600g (1 lb ingots)
+  -[Emmik], old human, M (poor wizard that can summon loafs of bread)
+  -[Quaal]'s Feather Tokens
 
 There are several groups of criminal skaa in Luthadel, one such group had close ties with [Renegade Leader Kelsier] who in recent history made an escape from [Kunark] with about 50 refugee skaa. A smuggler, [Dockson] was responsible for getting in touch with the [Golden Hand] who helped turn the tide and allow their escape.
 Other members of this group include: (use DnD thug pg 350)
@@ -46,3 +53,4 @@ Other members of this group include: (use DnD thug pg 350)
     -[Breeze] elf, a weak wizard who can quel emotion
 To be contacted, one must go to the butcher's shop at the southern skaa market, and ask for a "Hunk of beef" while tapping a pattern on the counter:   - - - - <pause> - - - - <pause> 
 then you'll be told it won't be ready for a while but you can wait inside. Proceed, and you will be concealed and allowed access to go inside and head to the sewers through the far-side cupboard. Leading to the group's hideout.
+

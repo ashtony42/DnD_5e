@@ -2,10 +2,15 @@
 
 [Stone of Kord]
 [Regdars Radiant Hilt]
+[Lolth's Deck of Many Things]
+
 Sending Stones Instructions
     -Written in Undercommon
     -Item Value: 500
     -Backstory: used by underground mages to communicate, Henry was likely a failed attempt at crafting them.
+    -Arcana/Investigation check against DC 18 will wield info about the malicious wording that would cause the ritual part of the magic infusion process where the user's personality and voice go into the stone, leaving thier body in a vegetative state.
+    -remove curse types of spells on the stone will restore the ritual caster's personality and voice
+     
 Spell Scroll of Dark Water Containment
     -written in elvish
     -requires a spell slot lvl 7 to use

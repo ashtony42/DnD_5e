@@ -34,6 +34,8 @@ D. Study
         [Pantheon of the Dawn War]
         [The Resignation of Kord]
         [Holy Tome of the Order of Steel]
+    - Loot includes:
+        [Lolth's Deck of Many Things]
         
 E. Kitchen
     oddly run by members of the [Order of Steel], very professional setup

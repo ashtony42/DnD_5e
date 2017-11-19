@@ -17,9 +17,12 @@ Slaves:
 Legendary Heroes:
 [Regdar]
 
-World Leathers:
+[Ak'anon]
+    [Namfoodle]
+
 [Luthadel]
     [Venril Sathir]
+    [Quaal]
 
 [Dun Morhen]:
     [Feronia Vie]
@@ -48,3 +51,4 @@ World Leathers:
 [Gorda]
     [Taman]
     [Thrasher]
+    [Nogg]
