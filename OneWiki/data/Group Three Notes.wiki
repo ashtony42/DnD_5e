@@ -2,18 +2,21 @@
 
 CALENDAR
 XXXXXXX  XXXXXXX
-XXXXXXX
-XXXXXXX
+XXXXXXX  XXXXXXX
+XXXXXXX  XXXXXX
 XXXXXXX
 
 XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
+
+[Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
+  -7 days to make -DONE
+  -deliver to Mayara Marine Embassy Quinn
 
 Griffon Arrows x100 (20 per day) - DONE - ACQUIRED
-Griffon Arrows x240 (20 per day) (12 days)
-XXXXXXXXX
+Griffon Arrows x240 (20 per day) (12 days) - DONE
 
 Sailing Ship Completion 20 days
 -purchased by [Ak'anon] councilmember Calwin
@@ -387,3 +390,27 @@ The party rests for the night to allow Quinn to re-take the exam tomorrow. The p
 -[Artin Torbera] - 2pm
 
 The group decides to travel to [Ak'Anon]
+
+++++Session 14
+Traveling to [Ak'anon] (3/4 days) XXXX
+-7 marines, 1 dog, 4 players
+
+2 marines on board: Kethra (F), Peiron (M)
+-Peiron intimidated into working under [Tessa]
+
+[Quinn] tells [Breena] that another enchanter that works from a hut north of [Fiore] does cheaper, better jobs than her
+
+[Tessa] tells [Breena] that she needs to save [Quinn] over at Namfoodle's Bamboozlements, then steals her enchantment book notes and locked money box. -visited the council area to ask about an injured person [Quinn] who needs help
+-goes back to shop
+-discovers her box and journal missing.
+-reports it to security
+
+[Quinn] schedules to see councilmember Ummorn at 4:30
+
+[Kyra] buys a Ballista and 20 bolts
+
+The group heads to find [Rex The Smasher] between [Augsburg],[Arabasta],[Gorda]
+-12 to 13 days  XXXXXXXXX
+
+++++Session 15
+day 10 of traveling will encounter [Rex The Smasher]

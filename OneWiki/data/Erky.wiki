@@ -9,3 +9,4 @@ Runs a blacksmith shop in [Ak'anon] called Erky's Small Arms and Armor
     -hatchet
     -studded leather 
     -mining picks 20g
+    

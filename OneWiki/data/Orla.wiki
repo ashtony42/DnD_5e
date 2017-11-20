@@ -12,3 +12,4 @@ Runs a shop in [Ak'anon] called Craftsman's Canvases
     -mined zinc - 5s per pound
     -smelted bronze - 1g per pound
     -smelted brass - 2g per pound
+    -smelted steel - 1g 5s per pound

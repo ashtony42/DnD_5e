@@ -11,3 +11,6 @@ runs an Enchantment shop in [Ak'anon] called Betterific
     
     -(other known enchantments not for sale)
         -flatulence - applied to a food to make the consumer incredibly gassy
+        
+loot
+-Breena's hardback book of enchantment notes        

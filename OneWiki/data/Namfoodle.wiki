@@ -10,5 +10,9 @@ Runs an inventors shop in [Ak'anon] called Namfoodles Bamboozlement
     - scale model of Ak'anon, with movable parts! - 15g
     - spyglass - 1000g
     - balista - 500g
-    - cannon - 2000g
-    - big cannon - 8000g
+        -3g per bolt
+    - cannon - 2000g - 4 in stock, just needs to know which peir to deliver to (pg 255 DM)
+        -30g each for cannon balls
+    - big cannon - 8000g - none in stock, takes 2 week to make 
+          +9 TH, 24d10, 800/2400 range
+        -100g each for cannon balls      
