@@ -4,9 +4,18 @@ Population: 120
 Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
     -population x2 for low, then x2 that for each higher bracket
 Marine Upkeep: 840g/month   -500G subsidy for Marine Upkeep to offer med taxes
-Trade Routes: North Dock Only - [Ak'anon]    
+Trade Routes: None   
 Treasury: 2527
+         -1680 (2 months)
+          +960 (2 months)
+         =1807  
+        
+-East,South,West Gate is reinforced with the stone wall, including a hinged gate.
+-Statue of [Regdar] at the top of the stairs to the noble quarter.
+-Husk of Kadi setup at the center of town where the statue of Regdar was.
 
+Mayor Ubring instructions
+-recruit more citizens, and offer them a halved tax rate for thier first year here
 
 Formerly known as Mayara, the Bandits of Deception slew the [King Jor Doken] and claimed it as their own.
 
@@ -51,6 +60,7 @@ Migrating from Augsburg:
     -Carpenters Jerrod Louverre and 2 fellow carpenters still run the carpenter's guild        
             
 -North Dock
+    - 2 [Order of Steel] warships are parked here, one has no cannons or control orb, the other has 3 cannons and a control orb
     -animal vendor at a warehouse, Ghan Bopps (dwarf) a bit smelly, but otherwise very nice, had a wanted poster out for the Fiore Griffin with the [Marines] - 436 Gold
             2cp x lb of chicken (1d6) (5 at stall)
             1gp per goat (2 at stall)

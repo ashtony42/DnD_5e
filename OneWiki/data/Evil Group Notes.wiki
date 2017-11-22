@@ -13,7 +13,11 @@ XXXXXXX XX|XXXXX       taxes of 3 helms deep
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
-XXXXXXX XXXXXX
+XXXXXXX XXXXXXX
+
+XXXXXXX
+XXXXXXX
+X
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -483,5 +487,27 @@ The group sails to [Dun Morhen] XX(6 days) on thier way to [Gorda]
 5 [Steel Inquisitor]s escape with 2 [Order of Steel] warships.
 -ships head back to [Luthadel]
 -group continues to [Dun Morhen] (4 more days) on thier way to [Gorda]
+    XXXX
+        
+++++Session 32    
+-Draggging the one [Order of Steel] warship with them
+-Collects the corpses of [Feronia Vie] [Grund] and [Marren] from [Dun Morhen]
+-now heading to [Gorda] 6 days XXXXXX
+
+-[Vulcan] completes the sending stones recipie and fails to see the malicious instructions, and becomes cursed
+    -the magic is lifted by a level 5 cast of dispell magic from [Croaker]
+-[Grogar] recruits a gnome to "escort" them to [Ak'anon]
+    -Bim is the name of the gnome
+
+-[Edan] goes to talk with [Kyle Ro] of the [Golden Hand]
+    -12 members are currently at [Gorda]
+
+-traveling 6 days to [3 Helms Deep] - XXXXXX
+    -[Fargrim] and two marines to guard the shores from the darkwater scum
+    -[Vulcan] blocks off all of the entrances to [3 Helms Deep]
     
-    
+Long rest at [3 Helms Deep]    
+
+[Tharizdun] ressurected in the throne room of , the party is awarded a point of inspiration
+-Tharizdun escapes to the Aybss
+

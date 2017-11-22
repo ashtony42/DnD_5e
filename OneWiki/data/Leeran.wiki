@@ -21,6 +21,8 @@ Leeran, who only ever appears at the shop in [Gorda] as an illusion.
         -Onyx Dog 300g - pg 170 DM
         -Sepentine Owl 250g - pg 170 DM
         -Fine Parchment - 1s per sheet
+          -Ink - 10g per ounce
+          -Chalk - 1g per piece
         -Blank spell books - 5g each      
         -Book of Understanding 400g - pg 209   
         -[Sentient Rock Henry] - 50g 10lb   
