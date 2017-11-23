@@ -69,4 +69,5 @@ Boat Docks
 The Sage's Cellar
         A black market for magical items run by wizards. A ward guards the shop, lowering people's strength to 8 when they pass into the shop, as well as concealing the interior from being sensed magically. Items have enchantments on them that won't allow them to pass out of the warded space unless a respective sum of currency is bonded to with with another enchantment (by the store clerk), allowing the item to leave, but the currency to not, as if pressed against a wall. 
         Shopkeep: [Leeran], who only ever appears at the shop as an illusion.
+        Mage Teleportation Circle: on the second floor of the building above the Sage's Cellar
 
