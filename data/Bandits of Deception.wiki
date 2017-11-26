@@ -1,0 +1,44 @@
+﻿++ Bandits of Deception
+
+Notably is the evil group, but if encountered by another group:
+
+Wanted by the [Marines]
+
+
+-Elf Ranger (use Archer from Volo's NPC)
+    -Long Bow
+-Human Warrior (use Veteran from Beastiary NPC)
+    -Spear & Shield
+-Human Warrior (use Swashbuckler from Volo's NPC)
+    -Short Sword, Shield
+    -Golden armband from [Golden Hand]
+-Tiefling Scorcerer
+    -Fine Clothes
+    -Quarterstaff
+    -Magic Missle
+    -Mage Armor
+-Half-Orc Druid
+    -Quarterstaff
+    -Heal
+    -Barkskin
+    
+ 
+Loot:
+    -8 private badges
+    -2 officer badges
+    -Carpenter's Tools
+    -Brewing Kit
+    -Thieves Tools
+    -Map of known world (by [Geth])
+    -3 50g gems
+    -2 100g gems
+    -1 500g gem
+    -[Marines] flag
+    -[Don Kreig] flag
+    -Human Skull
+    -Scale Model of [Ak'anon] (map)
+Money:
+    4736g 21s 175c
+    592g per crew mate
+    claimed by new crew: XX
+    chest 1230g

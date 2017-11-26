@@ -1,0 +1,39 @@
+﻿++ Marines
+
+A law enforcement force throughout the world, funded by the world government
+
+currently has bounties on
+		Pirate Admiral [Don Kreig](350 Gold) +100 from [Augsburg] 
+		[Rex The Smasher](250 Gold) 200 updated CLAIMED BY EDAN
+		[Redbeard The Unlucky]( 30 Gold)  CLAIMED BY KEIRAN
+		[Fiore] Griffin (50 Gold) Posted in Mayara by Ghan Bopps
+		The [Bandits of Deception] (200 Gold) Posted in Mayara by the Carpenter's guild
+            -shows the faces of Vulcan, Edan, Croaker, Krieger
+
+
++++Ranks:
+Admiral (leader of the organization)
+    [Eglath Kalagiano] (goliath) 
+Vice Admirals (leaders of regions)
+Captains (leaders of vessels)
+    [Bran C'Num] (half-orc) who oversees marine operations at the embassy in [Fiore]
+    [Luth] (human) uses spear [Order of the Gauntlet] examiner
+Officers (leaders of companies) former resident of [Gorda] - killed by the Evil group at the battle of the north dock of Fiore
+    [Frank Nelson] (human) leads 5 marines stationed at [Augsburg]
+    [Artin Torbera] (dwarf F) officer of the south gate of [Mayara] -killed by the Evil group at the battle of the north dock
+      A proud former worker at the Mason's guild at Mayara, worked hard to build his family (2 daughters), protective dad.
+    [Ivor Chernin] (human) officer of the west gate of [Mayara] - killed by the Evil group when he pursued them
+    [Shava Caelynn] (elf F) officer of the east gate of [Mayara]
+Private (soliders)
+    [Daniel Milborne] (human) inspired by Keiran who saved his life to join the marines
+
++++Marine Captain   (hired at 8g per day)
+(use Champion, Volo's pg 212)
++++Marine Officer   (hired at 4g per day)
+(use Bandit Captain with 16 AC pg 344)
++++Marine Soldier   (hired at 2g per day)
+(use Guard pg 347)
+
+++Sub Division:
+[Order of the Gauntlet]
+

@@ -1,0 +1,23 @@
+﻿++ Order of Steel
+
+An Iksar religious/governmental group that hails from [Luthadel] and hold a slightly higher standing than the city's noble class.
+They primarily worship the god emporer [Venril Sathir]
+
+The order of steel has been responsible for the work that creates [Steel Inquisitor]s
+
+Lead by [Head Bishop Skarjun]
+
+Brother Members (Cult Fanatic pg 345)
+ -to hit +6
+ -often cast a +2 AC Shield of Faith spell on nearby Steel Inquisitors
+ -or inflict wounds spell in melee combat
+ 
+Steel Order Warship:
+  AC 15, HP 500, DMG thresh 20
+  A large, black-steel made ship with spiked and jagged architecture. 
+  This ship has no sails. 
+  It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
+  3 Cannons are mounted on it (left, right, front) (pg 255 DM handbook)
+     AC 19 HP 75
+     +6 hit, range 600/2400, 8d10 bludgeoning 
+     

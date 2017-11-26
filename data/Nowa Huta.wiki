@@ -1,0 +1,85 @@
+﻿++ Nowa Huta
+"Sanctuary" in elvish
+
+In the center of the island, is the tree ,[Corellon], a massive ancient tree that is easily over 3000ft tall. Larger than any redwood, with branches that span in at least a 1000ft radius. Under it's canopy is a wonderful city with possibly the nicest and happiest people to ever exist. With some structures so old the original constructors have been forgotten.
+Lead by [Queen Kallista Damaia] (Tiefling F)
+Surrounded by farm lands, that then again are surrounded by a lush forest. 
+
+Those to pass through the field that surrounds the island will have their memories wiped to some degree. (about 300ft out from the shore)
+Maps also become flushed blank parchment.
+If the tree of [Corellon] is killed, all people who have ever had or lost memories due to it will regain them. 
+
+Wildlife:
+  Dryads (pg 121 of monster book) - lures new people to the city, are extensions of the tree [Corellon]
+  Griffon (pg 174 CH 2)
+  Hippogriff (pg 184 CH 1)
+  Treant (pg 289 CH 9)
+  Black Bear (pg 318 CH 1/2)
+  Brown Bear (pg 319 CH 1)
+  Blink Dog (pg 318 CH 1/4) known as "Hound Fey"
+  Deer (pg 321 CH 0)
+  Boar (pg 319 CH 1/4)
+  Giant Boar(pg 323 CH 2)
+
+Points of interest:
+
+  Queen's Palace
+
+  Water Collection Shrine at the base of Corellon
+    Druids here conduct periodic rituals to cause rain and fill the city's revoirs and let water flow down the aqueducts through the city to the farm land.
+        Marden - human(F) - (Born & Raised)
+        Collette - human(F) - (Born & Raised)
+        Groya - half-orc(F) - (Born & Raised)
+          Druid (pg 346)
+
+  Temple of the Forgotten
+    Ancient elvish stone temple adorned with an 8 pointed star at the top of it's highest point.
+    A place for people who newly arrive to aquaint themselves. The center is a large pool filled with a dazzling amount of gold/silver/copper coins where people have surrendered their now useless currency of their past.
+        Maintained by Head Cleric Namaine - human(M) - (Born & Raised)  
+        
+  Fairgrounds
+    Annual Festival occurrs here (5 days after an adventurer group arrives) to celebrate the arrival of the newcomers
+     - ribbons, decorations, bards playing, a formal welcome from the Queen herself
+            "We welcome those who have joined us today. Lives spared of the torment of the outside world. An occasion truly worthy of rejoice. May we live our lives to the fullest with our newest friends."
+            
+  Bartering Area
+    People trade this-for-that in this economy without currency. As currency doesn't make sense here. (use gold value of items)
+    Ranchers - Frederick - Human(M) (born & raised here)
+        -pigs, chickens, cows, goats
+        
+    Farmers - Piper - Human(F) (born & raised here)
+        -wheat, corn, beans, lettuce, potato
+        
+    Workshop - Forem - Human(M) (born & raised here)
+        -sells copper made items mostly (old coins crafted into things)
+            -daggers, copper chain shirt/mail(-1), handaxe, shovel, pick, light hammer
+        -sells silver made items (old coins crafted into things)
+            -cutlery     
+        
+    Carpenters - Berea - Elf(F) (formerly from [Fiore])
+        -craft, repair and sell furnature mostly
+        -Wife of Jerrod Louverre, the carpenter Guild Master in [Fiore] - 75yr marriage
+        -Quotes 4 days to add +1TH to a bow (cost 1 chicken)
+        
+    Masons - Geral - Dwarf(M) (formerly from [Fiore])   
+        -do repair and maintenance to the ancient elvish style architecture around town, and sometimes construct new when needed
+        
+    Brewers - [Corbin McLougin] - Halfling(M) - (Brother of Yanny from [Fiore]) 
+        -beer, wine, ale, mead, cider  
+        
+    Hunting Supplies - Nanerdar - Elf(M) (formerly from [Kelethin])
+        -Short-bows, Long-bows, arrows  
+        -Polished Long-bow +1 TH
+        
+Wizard's School of Corellon
+    Many classrooms with many apprentices, classes taught by:
+       Kibalf - High Elf(M) - snoody (formerly from [Felwithe])
+       Jaddin - Gnome(M) - Tempermental (formerly from [Gorda])
+       Heriet - Human(F) - level headed (born & raised here)
+
+    Spells in the Library:
+        [Legend of Regdar] with blank pages pertaining to places
+        Captrips: Blade Ward, Friends, Light, Mending
+        Level 1: Alarm, Comprehend Languages, Feather Fall, Jump, 
+        Level 2: Levitate, Darkvision, Locate Object
+             

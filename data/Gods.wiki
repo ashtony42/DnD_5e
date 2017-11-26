@@ -1,0 +1,19 @@
+﻿++ Gods
+(use Empyrean pg 130)
+
+(can grant Epic Boons (pg 232), +4 Trait Increases (can go above 20))
+
+[Tharizdun]
+[Pelor]
+[Melora]
+[Gruumsh]
+[Asmodeus]
+[Kord]
+[Erathis]
+[Tiamat]
+[Bahamut]
+[Corellon]
+[Vecna]
+[Avandra]
+[Kadi]
+[Lolth]

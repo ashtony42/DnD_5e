@@ -1,0 +1,30 @@
+﻿++ Eglath Kalagiano
+
+A bald, buff, large 8foot tall man with metalic skin
+-ate the Iron [AkumaFruits]
+
+200hp 25AC
+STR 20(+5) DEX 16(+3) CON 20(+5) INT 16(+3) WIS 16(+3) CHA 14(+2)
+
+can form arms into weapons or shields
+
+can control nearby iron telekinetically
+
+ 2 attacks
+ +10 TH with any weapon type
+ +5 damage
+
+Immune to non-magical blugeoning, slash, pierce, poison
+
+Vulnerable to lightning
+
+Resistant to fire, cold
+
+
+
+Iron Fruit Powers:
+  -can split arms into more arms and thus increase the number of attacks per turn to 4
+  -ranged attack (100ft) shoot an iron spike +8 TH, 1D8+5 damage
+  -telekinetically move a metal object in site with great strength (15)
+  -on a successfull gapple of an enemy, can put iron shackles on feet or hands of the target.
+  -can sense the movement of Iron

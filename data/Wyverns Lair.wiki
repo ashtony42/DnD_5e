@@ -1,0 +1,54 @@
+﻿++ Wyverns Lair
+
+https://www.youtube.com/watch?v=CpmAD4gcLMo
+
+the Lair described in the [Roc Training Notebook]
+
+Owl Bear - pg 249
+Trinkets - pg 161
+Wyvern - pg 303   5 to 8 are present (1D4 + 4)
+
+Use the wyvern-dyngeon.jpg
+
+Following the directions in the Roc Training Notebook, a cave with a large opening (30ftx30ft) is found.
+It opens up even more as it delves deeper. 
+
+In the large open area are several Wyverns resting, darkvision required or other light source to see beyond the entry and Owl Bear chamber.
+
++++ENTRANCE CHAMBER
+The chamber to the right of the entrance, is an area where Owlbears rest during the day
+
++++TOP RIGHT CHAMBER
+Bones from many humanoids/wolves/bears clutter the room.
+Rummaging through them will yield trinkets (roll on the trinket chart pg 160)
+-Other "Trinkets" that can be found on investigation rolls higher than DC 18 (roll a D6 to determine the item)
+    -Alchemy Jug - pg 150 - a ceramic jug that looks to be able to hold a gallon, wieghs 12 pounds.
+    -Boots of Speed - pg 155 - well constructed leather shoes with cleats
+    -Boots of Elvenkind - pg 155 - leafy green leather shoes
+    -Dust of Disappearance - pg 166 - a crystal vial filled with sand in the shape of a fairy
+    -Eversmoking bottle - pg 168 - a brass bottle with a lead-stopped mouth that has smoke leaking out from inside
+        -command word 'disperse'
+    -Oil of Etherealness - pg 183 - A stopped vial that has generates cloudy gray oily condensation that quickly evaporates.    
+    
++++TOP CHAMBER
+a nest made from clothes,leathers,fur scraps acquired from victims, contains 1D4 Wyvern eggs (10 lbs each)
+
+TOP LEFT CHAMBER
+a wet chamber with a small pool of opaque black water with wet rocks surrounding it.
+        -if the wet rocks are disturbed, Gray Ooze will drop from the ceiling (pg 243)
+            -everyone must pass a Dex 13 save or take an opportunity attack and -1 AC corrosion 
+             from an Ooze that dropped on them, else the ooze drops next to the player. 
+             
++++BOTTOM LEFT CHAMBER
+    Wyvern-Owlbear-Bulette-Humanoid Mistwraith
+    A huge (3x3) hideous transparent skined creature that shows an internal anatomy of several Wyvern, Owlbear, Bulettes... and humanoids. Bone structures formed together in unnatural ways. Many legs protrude from it's underside, many wings from above, and it has 6 heads facing in different directions (2 human, 2 Wyvern, 1 Owlbear, 1 Bulette), and a couple of long tails.
+    USE PIT FIEND (pg 77)
+    
++++BOTTOM CHAMBER
+        A hallway that curves around, leading to a ruined carved stone entryway 40ftx40ft that has a solid stone wall behind it. The stones are carved with patterns that do not flow, spirals and lumps, holes and spikes
+        Abbysal writing on the side columns say: 
+            -LEFT "Tear way to Nessus." 
+            -RIGHT "All fear [Asmodeus]."
+            -TOP scratched out and is no longer legible
+        -a waykeeper must attune to the stone entryway, and paint the entirety of the stones with their own blood to activate. 
+        

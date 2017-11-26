@@ -1,0 +1,28 @@
+﻿++ Towns
+
+[Augsburg] (starter town)
+[Marine HQ] also a large prison on top of a Dimeritium mine
+[Fiore] 
+[Elbaf]  (one piece land of giants) 
+[Alexandria]  (huge trade center, library)
+[Arabasta]
+[Dun Morhen] 
+[Ak'anon]
+[Odus] (Camp of refugees from Luthadel)
+[Gorda] 
+[Nowa Huta]
+[Neriak]  
+
+
+
+[Norrath]
+    [Kunark]
+      - [Luthadel] 
+      - [Kalas]
+    [Faydwer]
+      - [Felwithe] (ruins)
+      - [Kaladim] (ruins)
+      - [Kelethin] (ruins)
+      - [Oggok]
+      
+[Faerun]    

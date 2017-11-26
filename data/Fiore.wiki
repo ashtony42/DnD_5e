@@ -1,0 +1,121 @@
+﻿++ Fiore
+
+An archipalego of several islands. Most are sparsely populated whereas the majority of the people who live here are in the central town of Mayara (Elvish for Many).
+
++++Outer islands:
+Lush green vegetation covers the large hill of an island. The sounds of all kinds of birds can be heard, and many are seen flying around. Every other one seems to have a small fishing post established with usually a single home. Three islands have burnt down ruins from where raids from [Redbeard The Unlucky] had occurred.
+
+    Ruined villages can be looted. Each have at least 1 rowboat. 
+    Can roll perception:
+      diff 20 - find a random d100 trinket (pg 160 of players handbook)
+      diff 15 - 1d20 copper
+      
+    Fishing villages have about 3 commoners who catch fish, and will sell them at a discounted price if you buy them directly from the post (1cp per fish!)
+      the commoners tend to have 1d20 copper on them.
+       
+    Each outer island, if explored has a chance to stumble upon a hidden acient elven ruin can happen. (diff 20, diff 15 if [Legend of Regdar] has been read)
+      -history check of 15 can identify the ruins as elven made
+      -druid will instantly see glowing druidic text of "Leave, do not cleave that which has been cleaved"
+      -there is a stone with a counter clockwise jagged spiral pattern on it, behind it of which is a mummified piece of Tharizdun
+        if 6 pieces are collected (head,torso,arm,arm,leg,leg) Tharizdun will be reborn
+         
+    One of the outer islands has a griffon roost (pg 174 of monster manual) home to one griffon.     
+       
++++North Dock:
+        Dock master [Ghant] (dwarf) runs the north dock. A rather friendly fellow. The north dock commonly has traders unloading/loading vessels from [Ak'anon], [Augsburg] and [Arabasta]. The shipwright area has a Sailing Ship (10,000g) being constructed (will finish on day 30 of the calendar). And recently took a project of repairing a former [Don Kreig] keel boat (3000g) (will finish on day 7 of the calendar) 
+        -carts borrowable for 15g, 5g returned when the cart is returned.
+        -boats dockable and secured by [Marines] at a rate of 5s per day
+        
+        If searched, the waters at the base of the fjord have the slightly melted [Regdars Radiant Hilt]
+       
++++Central island:
+A larger island with a respectively large hill in the center atop which the town of Mayara is established. From a distance, the walls can be seen even from the shore. There are four docking villages on the major North/South/East/West sides of the island. 
+
+Encounterable animals of Fiore:
+    Monster Manual:
+      Wolves (pg 341)
+      Giant Fire Beetles (pg 325) (night only)
+      Elk (pg 322)
+      Brown Bear (pg 319)
+      Griffon ((pg 174)
+      
+
+Places of interest in Mayara:
+    *NOBLE AREA*
+      [Rimardo]'s house
+      [Marines] Embassy
+        A few captains and officers reside here, they help lead the Mayara soldiers in times of need.
+      Mayara barracks
+        Home to a few dozen soldiers. 
+      King's palace
+        Guarded by a mix of Marines and Mayara's own soldiers. The palace isn't too large, but yet built with impressive stonework. The interior is decorated with equally elegant wood furnishings with artistic over-arching stone artworks. Down the large central hall is [King Jor Doken]'s throne. Rooms off of the main hallway include, the King's room, kitchen, servants quarters, armoury, vault.
+            -Armoury: [Royal Armoror Grix] works here
+                      armor stand for the King's platemail
+                      a Gifted Carpenter's made Quarterstaff(+1)
+                      a Gifted Mason's gem imbued Chisel(+1)
+                      Town Guard chain, swords and shields
+                      Jewelers Kit
+            -King's room: map of the darkwaters ([Faydwer] + [Kunark])
+                          Book: [Legend of Regdar]
+                          Book: [The Resignation of Kord]
+                          Book: [Pantheon of the Dawn War]
+                          Chest with 1000g 15 DC lock
+            -Kitchen: The best Mead and Ale
+                      40lbs of Luxurious Food
+                      4 kitchen staff commoners
+                      Cook's Utensils
+            -Servant Quarters: 2 servant commoners
+                               8 beds
+                               4d6 gold
+            -Vault: Ak'anon crafted lock. Requires combination: 2-2-0-4-6-12 or DC 22 Lockpicking, AC 20, HP 200, DMG thresh 20 Dimeritium
+                    Found behind 
+                    -[AkumaFruits]x1
+                    -2,000p
+                    -gemstones: (pg 134 DM book)
+                       1000gp x1
+                       500gp x2
+                       100gp x3
+                       50gp x10
+                       10gp x20
+                    -1 etherium ingot - soft like hard butter greenish sheen
+                    -1 dimeritium ingot - very hard bluish sheen   
+    
+    *COMMON AREA*
+      Temple of Elysium
+        -dieties (pg 10 DM handbook)
+        -Ran by Head Cleric [Martin Terratio], a very peaceful human
+        -Book [Pantheon of the Dawn War] can be found here
+        -[Kerri] is hiding out here from the [Bandits of Deception]
+      Market
+        -blacksmith, Shirrong Bronzecore, hearty personality
+            sells/buys all metal based weapons
+            sells/buys all metal based armour
+            repairs all metal based armour and weapons (costs roughly 10% of the item's value)
+            -Enchantments
+                -Maliabilis - 40g
+                -Tempren - 40g
+                -Vectorize - 10g per arrow
+                -Etherium Inlay (7 days) 110g
+        -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
+        -exotic food vendor, [Elisha Vanesson] (human)(knows of [AkumaFruits], but tries to be secretive)
+            items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal)) 
+            -griffon meat         
+        -flectcher, [Yanny McLougin] (female halfling), redneckish personality
+        -animal vendor, [Ghan Bopps] (dwarf) a bit smelly, but otherwise very nice, had a wanted poster out for the Fiore Griffin with the [Marines]
+      Inn/Bar
+        -5sp per night per room, includes meal for the day (modest)
+        -3sp for a meal
+        -2sp for common wine or ale
+        -A sad patron sits at the counter. This is a human woman (Loretta) who lost her husband (Kyle) during one of [Redbeard The Unlucky]'s raids, will treat whoever tells a story about Redbeard's demise to a drink.
+        -Group of traveling bards plays music on a slightly elevated platform. Has a tip jar out.
+      
+      Carpenter's Guild (the Carps)
+        This guild is comprised mostly of elves who work indipendently of elegant wooden furniture and architecture, with other races amungst them, excluding dwarves. They have an extensive library of carpentry techniques and patterns, amungst the books the [Legend of Regdar] can be found, due to it's references of ancient elvish architectures. 
+        The Carpenter's guild is ran by the pretentious Jerrod Louverre (wood elf, wife is in [Nowa Huta]) a master carpenter who believes the best craftsmanship is done by indipendent and intensive study and frequent practice. Thinks poorly of the Mason's Guild.
+      
+      Mason's Guild (the Masos)
+        This guild is comprised mostly of dwarves who work in a disciplined manner in teams making bricks and stone works of art. Other races are amungst them, excluding elves. 
+        The Mason's Guild is ran by the master mason [Dirk Dagson], a stern disciplined dwarf who thinks good craftsmanship comes from colaborative learning and working with your peers. Lessons at the Mason's guild are passed down from master to students. Thinks poorly of the Carpenter's Guild. 
+        
+A very happy pleasant fellow named [Geth] is a cartographer who has lived in the town for a long time and is quick to spot newcomers to sell is town maps to.
+    2 silver for a map!        

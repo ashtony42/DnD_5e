@@ -1,0 +1,26 @@
+﻿++ Redbeard The Unlucky
+
+Originally known as "Henry Smith"
+-used to be a dock worker
+
+An unfortunate pirate who ate the Unlucky Akuma fruit, that causes all 20 rolls around him to be rolled with disadvantage.
+Initially found at the Augsburg Crying Clam Inn/bar drinking away his unfortunate woes.
+
+He was met by the heroes Keiran, Kyra and Jack, who bamboozled him, and turned him into local marine authorities who had
+a 20 gold bounty on his head. Last seeen in the jail cell at the Augsburg Marine Outpost.
+
+He was later encountered by the Evil group who chose to kill him.
+
+Visual Description:
+A older looking man who has a large dirty redish colored beard. Wearing a large dark red trench coat
+
+Human 
+HP 20
+STR 12 DEX 10 CON 12 INT 10 WIS 8 CHA 10
+AC 14 (leather & shield)         
+1d6+1 Spear
+1d8+1 Spear 2-handed           
+
+
+ 
+

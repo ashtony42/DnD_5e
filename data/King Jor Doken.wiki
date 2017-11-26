@@ -1,0 +1,24 @@
+﻿++ King Jor Doken
+
+Jor Doken is a strong willed Dwarf, the king of Mayara.
+
+STR 18(+4)  DEX 10  CON 16(+3)   INT 12(+1)  WIS 14(+2)  CHR 12(+1)
+
+130hp
+AC 18 platemail 
+Ring of Resistance Psychic (Jade)
+Ring of Resistance Cold (Tourmaline)
+Ring of Resistance Fire (Garnet)
+
+(can attack 3 times in one turn)
+Warhammer +1 (+8 to hit)
+1d8+5  1-handed
+1d10+5 2-handed
+
+
+King Jor Doken has many matters that concern him. A lot of Mayara's prosperity comes from trade with [Augsburg], [Ak'anon], [Elbaf], [Alexandria], [Arabasta]
+As such, the recent raids of [Don Kreig] and [Rex The Smasher] have been a constant pressure. Thus why he's contributed heavily toward their bounties with the [Marines]
+
+He's also all too aware of the threat of [Luthadel]. They treat any non-iksar worse than slaves, but yet no one has been able to contend with the power of their God King[Venril Sathir]. Luckily, they rarely ever travel from their homeland of [Kunark].
+
+ 

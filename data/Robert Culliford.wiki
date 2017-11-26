@@ -1,0 +1,33 @@
+﻿++ Robert Culliford
+
+The glass man, captain of a pirate crew
+Has no ship, but creates it from sand on the fly as needed.
+
+STR 16(+3) DEX 18(+4) CON 10(0) WIS 12(+1) INT 14(+2) CHR 14(+2)
+HP 140  AC 18
+
+Glass Blade (Dual Wield) - +8 TH, 1D8+8, 3 attacks
+Glass Blade (Two Hander) - +9 TH, 1D12+12, 2 attacks
+Glass Cannon (Morph) - +7 TH 4D8+8, 1 action to morph, 1 action to fire
+    -people in a 10ft radius must pass 16 Dex check to take half damage from 1D6+5 damage in shards
+Glass Arrow (No hand) - +8 TH, 1D6+8, can be used while in another form.    
+
+Resistance
+   - Cold, Fire
+Immune
+   - Lightning
+Vulnerable
+   - bludgeoning, force
+   
+When struck with a hard force, makes a DC 15 check or shatters a bit:
+  When shattered, nearby attackers must pass a 16 Dex check or take 1D6+5 slashing damage from shards, else half.   
+
+Actions:
+Blinding Reflection - target passes a difficulty 15 CON save or be blinded
+
+
+
+
+Loot:
+map of new lands, Robert is well traveled
+lots of gold from winnings at [Gorda]
