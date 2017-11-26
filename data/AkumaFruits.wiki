@@ -57,4 +57,14 @@ PARAMECIA
 13. String - can create near invisible strings between objects
 14. Separation - body can deteach and reatach and be reconfigured at will, immune to being cut
 15. Unlucky [Redbeard The Unlucky] - bring poor luck to one's self and everyone around them. -1 to all rolls
-16. 
+16. Projection - the user's body becomes a vegetable that no longer needs to breathe or eat, and instead, the user's presence is now projected by an image (can only interact with magical objects) [Leeran]
+
+THARIZDUN REBORN
+1. Feather - the user nor anything they are in direct contact with weighs anything
+2. Speech - the user's voice becomes a loud booming voice that can be heard for up to a mile away, every time they speak, roll CON DC 18 or be deafened (pg 290 of players handbook)
+3. Jointed - has an additional 2 elbows and an additional 2 knees along the length of thier arms and legs respectively
+4. Headless - the users's head sinks into thier shoulders and down to thier chest, unable to wear headgear anymore, and armor hinders vision if it previously covered the chest
+5. Metal Allergenist - Iron/Steel causes a rash, Platinum causes muscle spasms, Gold causes sneezing, Silver causes nausia, Copper causes hiccups, Dimeritium causes nothing, Etherium causes a blackout
+6. Tasty - the user's body has a delectible flavor like a sugary desert, attacts an abnormal amount of bugs and wildlife to them self based on the scent
+7. Stomach of Holding - the user's stomach takes on the traits of the bag of holding, and thusly no longer needs to pass food, but still gets hungry like normal.
+8. 
