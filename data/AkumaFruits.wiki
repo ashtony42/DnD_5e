@@ -31,7 +31,7 @@ ZOAN
 1. Bear - Triggered by anger - (consumed by [Croaker]) (use pg 208 in monster book)
 2. Ginko - Triggered by sloth
 3. Blue Footed Dodo - Triggered by hilarity (consumed by [Grogar] )
-4. Mouse - Triggered by shyness
+4. Mouse - Triggered by shyness - [Kyra]
 5. Wolf - Triggered by anger (consumed by [Tessa])
 6. Mammoth - Triggered by resolve
 7. Falcon - Triggered by intellect

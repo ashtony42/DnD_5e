@@ -1,3 +1,5 @@
 ﻿++ Kyra
 
 Human Monk F
+
+has consumed the Mouse fruit

@@ -3,10 +3,10 @@
 CALENDAR
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
-XXXXXXX  XXXXXX
-XXXXXXX
+XXXXXXX  XXXXXXX
+XXXXXXX  XXXXXXX
 
-XXXXXXX
+XXXXXXX  XX
 XXXXXXX
 XXXXXXX
 XXXXXXX
@@ -414,3 +414,23 @@ The group heads to find [Rex The Smasher] between [Augsburg],[Arabasta],[Gorda]
 
 ++++Session 15
 day 10 of traveling will encounter [Rex The Smasher]
+
+14 Thugs + Gladiator
+
+Intense thunder storm:
+- Tessa: "Pirate Billy the Kid is causing this storm!"
+-3 marines Gerald, 1 recruit, Lars
+
+After Battle results (victory!):
+-1 contracted marine dies. Scill, [Quinn]'s friend dies.
+-[Tessa] takes the left hand of [Rex The Smasher]
+-[Quinn] takes the head of [Rex The Smasher]
+-[Tessa] finds 3 weak potions and gives one to [Peiron]
+-[Peiron] find a secret item and doesn't tell anyone
+-[Plosive] find a blugeoned metal box with an [AkumaFruits] inside
+    -[Kyra] eats it and gains the Mouse power
+
+10 days to [Marine HQ]
+-[Tessa] begins to learn enchantment
+-the group arrives to Marine HQ
+

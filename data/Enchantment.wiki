@@ -16,6 +16,9 @@ enchantments based off of spells that require a material item to cast will requi
 Arrows: can enchant an arrow with +2 damage of the type the enchanter can deal 
     DC 19+  (2 arrows)
     DC 15+  (1 arrow)
+  Darkness
+    -5 foot radius of darkness when the target is hit until the beginning of the shooter's next turn
+
 
 Maliabilis
     DC 22+  next 10 hits, cause a cumulative -1 AC to the target, -2 AC if the target is metal

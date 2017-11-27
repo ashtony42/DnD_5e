@@ -10,4 +10,5 @@ Gladiator pg 346
 loot: 4D20 + 20 Gold
 
 Thugs pg 350
-loot: 
+loot: 1D4 + 5 gold each
+
