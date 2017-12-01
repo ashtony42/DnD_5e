@@ -5,7 +5,9 @@ data_dir = data
 wikiwidehistory_maxentries = 100
 footnotes_as_wikiwords = False
 versioning_storagelocation = 0
-last_wiki_word = Neriak
+
+last_wiki_word = House Rulings
+
 hotkey_showhide_bywiki = 
 log_window_autoshow = Gray
 filestorage_identity_filenamemustmatch = False
@@ -28,7 +30,9 @@ wiki_lasttabssubctrls = textedit
 template_pagenamesre = ^template/
 tree_expandednodes_rememberduration = 2
 tabhistory_maxentries = 25
+
 tree_expandednodes_descriptorpathes_main = wikipage/OneWiki,wikipage/Towns,wikipage/Ak'anon,wikipage/Erky,wikipage/Ak'anon;wikipage/OneWiki,wikipage/Towns,wikipage/Luthadel,wikipage/The God Kings Palace;wikipage/OneWiki,wikipage/Gods,wikipage/Lolth,wikipage/Luthadel,wikipage/The God Kings Palace;wikipage/OneWiki,wikipage/Characters,wikipage/Luthadel,wikipage/House Salazar,wikipage/House Salazar Assassins;wikipage/OneWiki,wikipage/Characters,wikipage/Don Kreig,wikipage/Marine HQ;wikipage/OneWiki,wikipage/Gods,wikipage/Lolth,wikipage/Luthadel;wikipage/OneWiki,wikipage/Organizations,wikipage/Order of Steel,wikipage/Steel Inquisitor;wikipage/OneWiki,wikipage/Players,wikipage/Quinn;wikipage/OneWiki;wikipage/OneWiki,wikipage/Towns,wikipage/Felwithe,wikipage/Oliander;wikipage/OneWiki,wikipage/Characters,wikipage/Luthadel,wikipage/House Salazar;wikipage/OneWiki,wikipage/Characters,wikipage/Dun Morhen,wikipage/Roc Training Notebook;wikipage/OneWiki,wikipage/Towns;wikipage/OneWiki,wikipage/Quests,wikipage/Group Three Notes,wikipage/Ak'anon,wikipage/Orla;wikipage/OneWiki,wikipage/Towns,wikipage/Luthadel,wikipage/Norrath;wikipage/OneWiki,wikipage/Items of Importance;wikipage/OneWiki,wikipage/AkumaFruits,wikipage/Leeran;wikipage/OneWiki,wikipage/Towns,wikipage/Ak'anon,wikipage/Namfoodle,wikipage/Ak'anon;wikipage/OneWiki,wikipage/Characters,wikipage/Luthadel,wikipage/Dallben the Vegetable;wikipage/OneWiki,wikipage/AkumaFruits,wikipage/Leeran,wikipage/Sentient Rock Henry;wikipage/OneWiki,wikipage/Characters,wikipage/Luthadel,wikipage/House Salazar,wikipage/House Salazar Assassins,wikipage/Kalas;wikipage/OneWiki,wikipage/Quests;wikipage/OneWiki,wikipage/Quests,wikipage/Group Three Notes,wikipage/Rex The Smasher;wikipage/OneWiki,wikipage/Towns,wikipage/Ak'anon,wikipage/Gimble,wikipage/Ak'anon;wikipage/OneWiki,wikipage/Towns,wikipage/Ak'anon,wikipage/Namfoodle,wikipage/Ak'anon,wikipage/Namfoodle;wikipage/OneWiki,wikipage/Towns,wikipage/Neriak;wikipage/OneWiki,wikipage/Towns,wikipage/Luthadel,wikipage/Steel Inquisitor,wikipage/Order of Steel;wikipage/OneWiki,wikipage/Quests,wikipage/Evil Group Notes,wikipage/Krieger,wikipage/AkumaFruits
+
 wiki_wikilanguage = wikidpad_default_2_0
 tree_force_scratchpad_visibility = True
 further_wiki_words = 

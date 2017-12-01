@@ -6,6 +6,8 @@
 [Organizations]
 [Gods]
 [Books]
+[Vehicles]
+[House Rulings]
 
 [Quests]
 	* WikiSettings
