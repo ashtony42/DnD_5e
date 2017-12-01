@@ -17,7 +17,7 @@ XXXXXXX XXXXXXX
 
 XXXXXXX
 XXXXXXX
-X
+XXXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -515,3 +515,25 @@ Long rest at [3 Helms Deep]
 Fruits begin growing on trees that don't grow fruit around [3 Helms Deep]
 Old man "Muu" ([Bahamut]) shows up to check if "everything is alright and if anyone needed help"
 
+++++Session 34
+[Vulcan] expends 300g worth of diamond dust to restore [Edan], +34 HP, +1 CON
+
+[Edan] achieves level 5 attunement of [Regdars Radiant Hilt] with the aid of an inspiration point
+
+[Krieger] discovers how to operate the [Order of Steel] warships in their entirety
+
+[Croaker] slays "Muu" ([Bahamut]) and uses him as a sacrifice to speak with [Kadi]
+-is told that Diamonds can be found in the mines of [Ak'anon]
+
+Carpenter's Guild ordered to move the cannons from the newly aquired [Order of Steel] warship to the older, better condition one.
+
+The party + Bim the gnome travel to [Dun Morhen] with windwalk taking ~7 hours
+-long rest is then taken
+-[Krieger] begin casting the Scroll of Darkwater Containment for 2 days
+
+[Krieger] teleports the group to [Neriak]
+-attempts a long rest
+-silence spell allows [Krieger] to long rest
+-[Grogar] gains knowledge of where [Gruumsh] is located
+
+[Krieger] teleports the group back to [3 Helms Deep]
