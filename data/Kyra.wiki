@@ -3,3 +3,5 @@
 Human Monk F
 
 has consumed the Mouse fruit
+
+has a private marine badge issued to Falone

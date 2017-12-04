@@ -1,3 +1,8 @@
 ﻿++ Peiron
 
 contracted marine that is semi-loyal to [Tessa]
+
+has a secret item looted from [Rex The Smasher]'s ship
+-?
+
+has a potion

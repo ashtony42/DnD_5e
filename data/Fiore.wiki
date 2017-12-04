@@ -96,6 +96,7 @@ Places of interest in Mayara:
                 -Tempren - 40g
                 -Vectorize - 10g per arrow
                 -Etherium Inlay (7 days) 110g
+            -Sharpening 10g (+1 DMG for the next 5 hits)    
         -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
         -exotic food vendor, [Elisha Vanesson] (human)(knows of [AkumaFruits], but tries to be secretive)
             items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal)) 

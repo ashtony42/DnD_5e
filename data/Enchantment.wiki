@@ -17,8 +17,12 @@ Arrows: can enchant an arrow with +2 damage of the type the enchanter can deal
     DC 19+  (2 arrows)
     DC 15+  (1 arrow)
   Darkness
-    -5 foot radius of darkness when the target is hit until the beginning of the shooter's next turn
-
+    DC 18+  -5 foot radius of darkness when the target is hit until the beginning of the shooter's next turn
+    DC 22+  -10 foot radius of darkness when the target is hit until the beginning of the shooter's next turn
+  Pushback
+    DC 15+  5ft pushback on next hit
+    DC 18+  10ft pushback on next hit
+    DC 22+  15ft pushback on next hit
 
 Maliabilis
     DC 22+  next 10 hits, cause a cumulative -1 AC to the target, -2 AC if the target is metal
@@ -28,7 +32,13 @@ Tempren
     DC 22+  15 Temporary HP
     DC 18+  10 Temporary HP
     
-    
+Shield/Armour:    
+  Rebuke
+    DC 18+  1D10 to the attacker when struck (or shield slam) the next time
+    DC 22+  2D10 to the attacker when struck (or shield slam) the next time
 
+Prestidigitation
+    DC 12+  effect lasts for 30minutes
+    DC 20+  effect lasts for  1hour
 
 ENCHANTMENT MISSHAP on a 1 pg 140

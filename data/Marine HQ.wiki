@@ -54,7 +54,7 @@ East Barracks
     Office of the [Order of the Gauntlet]
         Ran by Officer Jord, Male goliath. 
         -takes applications for being a member of the order
-            -must pass a sparing exam against a Captain
+            -must pass a sparing exam against a Captain [Luth] 
             -pay 100g
             -Formal written story to be approved by Admiral [Eglath Kalagiano]
         
