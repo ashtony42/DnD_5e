@@ -1,16 +1,4 @@
 ﻿++ House Rulings
 
-++++Teleportation Circle:
-By the book, it takes 365 days to make a Teleportation Circle. This ~magic item~ would be worth 9125 gold when crafted at 25g per day.
-Rulings:
--is now only worth 5000g (200 days)
--others with magical aptitude can help create it (at least one person needs the spell memorized)
--gems, or similar magic items can be consumed to accelerate the process respective to the item's value.
-
-
-
-Common		50-100 gp
-Uncommon	101-500 gp
-Rare     	501 -5,000 gp
-Very rare	5,001 - 50,000 gp
-Legendary	50,001+ gp
+[Teleportation Circle]
+[Craftsmanship]

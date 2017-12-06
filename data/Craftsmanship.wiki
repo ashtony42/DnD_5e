@@ -1,0 +1,43 @@
+﻿++ Craftsmanship
+
+A skill that determines how well a character is at crafting.
+The ability modifier of a character's craftmanship skill would have the following effects:
+-for every 1 point above
+  -add +1 to crafting rolls using a toolset
+  -add +1 Gold value completed per increment (non magical items)
+  -add +2 Gold value completed per increment (magical items)
+-for every 1 point below
+  -subtract -1 to crafting rolls using a toolset
+  -subtract -1 Gold value completed per increment (Note, a character with -5 craftsmanship modifier likely breaks anything they try to make.)
+  -subtract -2 Gold value completed per increment (magical items) (Note, a character with -3 craftsmanship can't manage to make magic items.)
+
+An introduction of a new primary skill would mean another possible dump stat for characters, meaning greater specialization in the others, or a new strength to explore.
+
++++Examples in practice:
+  Betty Botter, a level 1 Barbarian attempts to craft her signature Better Butter Biscuits. She has +3 in her Craftsmanship skill, and proficiency with cooking tools.
+	3 CRAFT + 2 Proficiency = 5
+        Betty Botter Bakes a 5 Gold Batch of Better Butter Biscuits!
+
+  Sally Kasassafrass, the level 17 Scorcerer Swiftly Scrawls a 5000g Teleportation Circle. She has +3 in her Craftsmanship skill
+        3 CRAFT = 3
+        Sally crafts her magic circle at a rate of 11g per increment instead of 5g per increment!
+
+  Fred Fumblefingers Finds a Fig that he want to make Furniture From. He has -5 in his craftsmanship skill, and no proficiency in woodworking tools.
+        -5 CRAFT = -5
+        Fred Fumblefinger's Ginnerds receive 4D10 wood splinters in his flesh as he crafts a pile of slices logs, and sits upon it proudly. 
+
+  Normy Norman Needs a Nap, and makes an blanket, he has proficiency with a sewing kit, and can use it just as well as anyone else who knows how to use it.
+        0 CRAFT + proficiency
+        Normy makes a blanket after a while, and takes a normal nap.
+ 
+  Snoody McSnood has crafted a spectacular piece of art, and sells it to a wealthy noble, he's not very persuasive, but he lets the art speaks for it self to fetch a good price.
+	Snoody McSnood makes a craftsmanship save!
+ 
+  Dockmaster Dan's Diligently crafted ship finds itself in a storm, but these storm didn't see this ship's craftsmanship up it's sleeve!
+	The ship gets a bonus to resisting the elements!
+
+  Michelle Manson Mason's her Mansion from the finest stone.
+	Centuries from now, people gaze at her work, and wonder who would ever build a stone henge?
+
+  ETC...
+ 
