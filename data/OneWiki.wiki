@@ -2,7 +2,6 @@
 
 [AkumaFruits]
 [Characters]
-[Towns]
 [Organizations]
 [Gods]
 [Books]
@@ -29,4 +28,6 @@
 
 Planes of Existence:
 [Feywild]
+  [Feywild Towns]
 [The Mortal World]
+  [Towns]

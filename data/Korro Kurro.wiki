@@ -1,0 +1,36 @@
+﻿++ Korro Kurro
+
+Korro Kurro is the Feywild side of Nota Huta, populated by the Korred (pg 168 of Volos)
+
+Korro Kurro has a large stone hill in the center of it, visible from anywhere on the island, the Korred live upon and around it in stone huts. Galeb Duhr (pg 139) wander around the town to do various tasks for the Korred.
+
+Bugs on the island work intelligently together to live their lives, ant "farms" that supply food to ant "colonies", with goods shipped on the backs of fire beetles. There are trails that branch off of the humanoid sized trails that lead to these areas.
+
+Korred Docks
+    A place where Korreds use their immense strength to load/unload vessels for trade.
+
+Places of Interest:
+  [Queen Torgga]'s Home
+    A much larger stone hut with trees that have grown over the top of it. The interior is decoratively carved by the Masons in town.
+  
+  Barber- Eldeth, a jolly fellow who has a very nice establishment, the most famous place in town.
+    Can cut hair with scissors made of:
+      -iron,copper,silver,gold,wood
+  
+  Cartographer- Rurik, A wise/intelligent Korred who has mapped the entire known ([Feywild]) world
+    -sells large maps, the size of a blanket, for 30g each
+    
+  Mines
+        to common people, it appears to be a large flat stone area, but Korred will be seen traveling through it to either go below into the ground, or to come back up with gems/metals
+        
+  Mine Shop- Gern
+        -sells all raw known types of gems (will need cut by jewelers)
+        -sells raw metals (iron, copper, silver, gold, platinum) 
+    
+  Stone Masons
+        -Harbek, Gurdis, Gunnloda
+        
+  Stone Sages
+        -Hlin, Helja, Holderhek
+        -create and repair permenant Galeb Dhurs that wander the town and help the Korred lifestyle.
+        

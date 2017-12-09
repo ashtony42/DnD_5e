@@ -1,4 +1,7 @@
 ﻿++ Nowa Huta
+(Evil Group Note) Hunter [Daniel Milborne] is in trouble! and calls to the party to save him from inside a brown bear cave, he's taken refuge in a new part of the cave that the bears are too big to fit in.
+
+
 "Sanctuary" in elvish
 
 In the center of the island, is the tree ,[Corellon], a massive ancient tree that is easily over 3000ft tall. Larger than any redwood, with branches that span in at least a 1000ft radius. Under it's canopy is a wonderful city with possibly the nicest and happiest people to ever exist. With some structures so old the original constructors have been forgotten.
@@ -15,7 +18,7 @@ Wildlife:
   Hippogriff (pg 184 CH 1)
   Treant (pg 289 CH 9)
   Black Bear (pg 318 CH 1/2)
-  Brown Bear (pg 319 CH 1)
+  Brown Bear (pg 319 CH 1) [Cave to Feywild]
   Blink Dog (pg 318 CH 1/4) known as "Hound Fey"
   Deer (pg 321 CH 0)
   Boar (pg 319 CH 1/4)
@@ -23,7 +26,8 @@ Wildlife:
 
 Points of interest:
 
-  Queen's Palace
+  Queen's House - [Queen Kallista Damaia] lives humbly with the people here, and likewise does not have a significantly different home.
+    -basement: a cave-like stone room that has charred/cracked walls and blood stained floors that have stains so deep that the visible attempts at cleaning just barely make it tolerable to look at. (this is where the Queen goes when she has to die and reincarnate)
 
   Water Collection Shrine at the base of Corellon
     Druids here conduct periodic rituals to cause rain and fill the city's revoirs and let water flow down the aqueducts through the city to the farm land.

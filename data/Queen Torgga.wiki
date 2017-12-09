@@ -1,0 +1,12 @@
+﻿++ Queen Torgga
+
+queen of [Korro Kurro]
+
+HP 200, AC 18
+
+STR 26(+8) DEX 14(+2) CON 22(+6) INT 12(+1) WIS 16(+3) CHA 12(+1)
+
+has and uses the following items:
+  -Iron Bands of Bilarro (pg 177)
+  -Adamantine Platemail (pg 150)
+  -Stone of Controlling Earth Elementals (pg 205)

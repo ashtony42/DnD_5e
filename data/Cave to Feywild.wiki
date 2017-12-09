@@ -1,0 +1,59 @@
+﻿++ Cave to Feywild
+
+Entry is on [Nowa Huta] through a small opening toward the back of a Brown Bear den.
+
+++++A. Hall of bioluminescent vines
+  vines provide lime green light in a 5ft radius. This hall is 10ft wide.
+  -Eating the vines causes the user to glow lime green for the next 24 hours (5ft radius visibility)
+  
+++++B. Salagmite room
+  A room full of stalagmites & tites, but no vines.
+  Darkmantles (pg 46) may attack people passing through here (when they are half way through)
+    
+++++C. Gelatinous Cube Room
+  Many creatures are seen hovering in mid-air. (all are dead, inside a Gelatinous Cube)
+        -ground hogs
+        -squirrels
+        -blink dogs
+        -human
+  Players can roll Perception against DC 15 to notice that they are suspended in a Gelatinous Cube (pg 242).
+  
+++++D. Clear Pool Room
+  A room covered in more bioluminescent vines with a few small animal bones that can be found around the edges.
+  -The smaller pool has crystal clear water, and leads to the Flumph Cloister (E)
+  -The larger pool also has crystal clear water, and leads to the connected room, but has Aboleth's in it (pg 13)
+  
+++++E. Flumph Cloister         
+  A room with more bioluminescent vines, farmed and cared for by about 8 Flumphs.
+  Flumph (pg 135)
+    -They feed on the "fish" in the other pool
+    -They make living vine nests for their beds
+    -Can offer the party to bathe in thier slimey vine-water pool before they go into the Aboleth pool
+     (Potion of Resistance-Acid, Advantage against Disease)
+        -they use it whenever they need to go over there, made from the vines.
+        
+++++F. Aboleth Pool
+  Contains 2-3 Aboleth (pg 13)
+  Characters who do not have the benefits of the vine-water can feel the acidity of the water, but no damage.
+  
+++++G. Golem Portal Room
+  Three Golems stand in front of an active lime green lit portal. 
+    -1 Stone Golem(pg 170) 
+      -a Deep Red Sphere, Agility Ioun Stone (pg 177) will begin orbiting it's head
+    -1 Stone Golem(pg 170)
+      -a Pale Blue Rhomboid, Strength Ioun Stone (pg 177) will begin orbiting it's head
+    -1 Iron Golem (pg 170)    
+      - a Pale Lavender Ellipsoid, Reaction to cancel a 4th level spell or lower targeting it (up to 20 levels)
+  Galeb Duhr (pg 139) might attack from behind the party
+  
+++++H. The Portal
+    walking through the portal you see a bright pale green light fill your vision that feels comfortably warm, reducing visibility to 5ft, as you walk further the ground feels to have a steeper, and steeper incline, eventually until it becomes too dificult to maintain footing (check if they want to continue). They slide, down the slope, which then changes into a fall. (Falling 50 feet) then vision is restored as they collide with a stone cave floor.  
+    
+++++I. The Landing
+    Glowing cave crickets jump away and hide under yet more glowing vines that densly fill the room.
+    A stone wall(door) has Sylvan written on it in a playful tone reads:
+      "If you are reading this, hello! Could you please turn back if you're up to no good? We'd really appretiate it. Thank you so much!"
+    
+    Demolishing the door will reveal a mound of dirt and a really old tree that has piled up/grown around the other side. But there will be an opening large enough for the party to pass through.  
+      
+        
