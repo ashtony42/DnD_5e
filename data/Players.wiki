@@ -14,6 +14,7 @@
   [Kronk] DEAD
   [Krieger]
   [Grogar]
+  [Lightning]
   
 [Group Three Notes]
   [Serana]

@@ -20,8 +20,8 @@ Entry is on [Nowa Huta] through a small opening toward the back of a Brown Bear 
   
 ++++D. Clear Pool Room
   A room covered in more bioluminescent vines with a few small animal bones that can be found around the edges.
-  -The smaller pool has crystal clear water, and leads to the Flumph Cloister (E)
-  -The larger pool also has crystal clear water, and leads to the connected room, but has Aboleth's in it (pg 13)
+  -The smaller pool has crystal clear water, and leads to the Flumph Cloister (E) (20ft down)
+  -The larger pool also has crystal clear water, and leads to the connected room, but has Aboleth's in it (pg 13) (30ft down)
   
 ++++E. Flumph Cloister         
   A room with more bioluminescent vines, farmed and cared for by about 8 Flumphs.

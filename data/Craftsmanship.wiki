@@ -16,7 +16,7 @@ An introduction of a new primary skill would mean another possible dump stat for
 +++Examples in practice:
   Betty Botter, a level 1 Barbarian attempts to craft her signature Better Butter Biscuits. She has +3 in her Craftsmanship skill, and proficiency with cooking tools.
 	3 CRAFT + 2 Proficiency = 5
-        Betty Botter Bakes a 5 Gold Batch of Better Butter Biscuits!
+        Betty Botter Bakes a 8 Gold Batch of Better Butter Biscuits!
 
   Sally Kasassafrass, the level 17 Scorcerer Swiftly Scrawls a 5000g Teleportation Circle. She has +3 in her Craftsmanship skill
         3 CRAFT = 3

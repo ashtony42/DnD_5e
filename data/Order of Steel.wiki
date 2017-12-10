@@ -13,7 +13,7 @@ Brother Members (Cult Fanatic pg 345)
  -or inflict wounds spell in melee combat
  
 Steel Order Warship:
-  AC 15, HP 500, DMG thresh 20
+  AC 18, HP 800, DMG thresh 20
   A large, black-steel made ship with spiked and jagged architecture. 
   This ship has no sails. 
   It is powered by an Etherium core (orb with runes that match Edan's orb with Runes), that when focused upon by a magically attuned "captain", can control the ship's movement.
@@ -21,3 +21,7 @@ Steel Order Warship:
      AC 19 HP 75
      +6 hit, range 600/2400, 8d10 bludgeoning 
      
+  Orb Fog:
+    -150ft visibility
+    -500ft radius   
+    -100ft high

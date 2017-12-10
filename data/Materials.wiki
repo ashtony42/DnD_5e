@@ -1,5 +1,6 @@
 ﻿++ Materials
 
+Leather - common - 1s
 Wood - common
 Iron - common
 Steel - common
