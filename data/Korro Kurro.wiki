@@ -6,16 +6,16 @@ Korro Kurro has a large stone hill in the center of it, visible from anywhere on
 
 Bugs on the island work intelligently together to live their lives, ant "farms" that supply food to ant "colonies", with goods shipped on the backs of fire beetles. There are trails that branch off of the humanoid sized trails that lead to these areas.
 
-Korred Docks
-    A place where Korreds use their immense strength to load/unload vessels for trade.
+Korred Coloca Docks
+    A grove of farmed Coloca trees where Korreds use their immense strength to load/unload building sized tree leaves for trade. Located on the eastern peninsula.
 
-Places of Interest:
+++++Places of Interest:
   [Queen Torgga]'s Home
     A much larger stone hut with trees that have grown over the top of it. The interior is decoratively carved by the Masons in town.
   
   Barber- Eldeth, a jolly fellow who has a very nice establishment, the most famous place in town.
     Can cut hair with scissors made of:
-      -iron,copper,silver,gold,wood
+      -iron,copper,silver,gold,wood,glass
   
   Cartographer- Rurik, A wise/intelligent Korred who has mapped the entire known ([Feywild]) world
     -sells large maps, the size of a blanket, for 30g each
@@ -33,4 +33,5 @@ Places of Interest:
   Stone Sages
         -Hlin, Helja, Holderhek
         -create and repair permenant Galeb Dhurs that wander the town and help the Korred lifestyle.
+        -Teleportation Circle can be found here.
         

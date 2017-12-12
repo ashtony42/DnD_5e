@@ -1,6 +1,9 @@
 ﻿++ Feywild Towns
 All islands are slightly larger due to receeded water lines.
 
+The oceans of the Feywild are trecherous and full of enourmous beasts, random encounters include (roll d20):
+18/19 - Dragon Turtles (pg 119)
+20    - Kraken (pg 196)
 
 [Korro Kurro] - (Nowa Huta) Korred village
 
@@ -26,7 +29,6 @@ All islands are slightly larger due to receeded water lines.
   
 (Kunark)  
   [Formicid] - (Luthadel), home of the antlike evil Neogi (pg 179 of Volos) that occasionally attack other lands to expand thier enormous colony
-  (Kalas)
   
 [Eukar] - (Neriak), home of the Vegepygmies, small plant people   
 
