@@ -6,3 +6,9 @@ Co-Lead by [Ayli] - Clerical Warpriest (pg 218 of Volos)
            [Munda] - Warlord (pg 220 of Volos)
 
 Teleportation Circle can be found here.
+
+
+Dimeritium Workshop 
+    Using a magically infused forge, the craft of dimeritium is made easier to be common commodity
+    -Dimeritium Shield (+3) 150g
+    -Dimeritium Defender (pg 164) (weapon x10g, +2 DMG, can swap the +2 damage for AC instead 

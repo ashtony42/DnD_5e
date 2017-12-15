@@ -4,7 +4,9 @@ Korro Kurro is the Feywild side of Nota Huta, populated by the Korred (pg 168 of
 
 Korro Kurro has a large stone hill in the center of it, visible from anywhere on the island, the Korred live upon and around it in stone huts. Galeb Duhr (pg 139) wander around the town to do various tasks for the Korred.
 
-Bugs on the island work intelligently together to live their lives, ant "farms" that supply food to ant "colonies", with goods shipped on the backs of fire beetles. There are trails that branch off of the humanoid sized trails that lead to these areas.
+Bugs on the island work intelligently together to live their lives.
+    -Ant "farms" that supply food to ant "colonies", with goods shipped on the backs of fire beetles. There are trails that branch off of the humanoid sized trails that lead to these areas.
+    -Bee "farms" that produce honey rocks for the local Korred
 
 Korred Coloca Docks
     A grove of farmed Coloca trees where Korreds use their immense strength to load/unload building sized tree leaves for trade. Located on the eastern peninsula.
@@ -16,6 +18,7 @@ Korred Coloca Docks
   Barber- Eldeth, a jolly fellow who has a very nice establishment, the most famous place in town.
     Can cut hair with scissors made of:
       -iron,copper,silver,gold,wood,glass
+      -hair cuts for 2s
   
   Cartographer- Rurik, A wise/intelligent Korred who has mapped the entire known ([Feywild]) world
     -sells large maps, the size of a blanket, for 30g each
@@ -34,4 +37,9 @@ Korred Coloca Docks
         -Hlin, Helja, Holderhek
         -create and repair permenant Galeb Dhurs that wander the town and help the Korred lifestyle.
         -Teleportation Circle can be found here.
+        
+  Food
+        -salt rocks 5s each
+        -honey rocks 2g each
+        -sugar rocks 1g each
         

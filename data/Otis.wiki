@@ -1,3 +1,13 @@
 ﻿++ Otis
 
 (Augsburg), a lush farming town of Firbolg who both farm crops and raise animals
+
+They write exclusively in Druidic. For those who can't see/read druidic, it may appear like they are acquiring amusement from blank books
+
+Druidic Library:
+    -Ancient Tales of Lord Corellon
+    -Conflicts of the Neogi
+    -Beasts of the Depths
+    -Coloca Farming Techniques
+    -Vegepygmy Cookbook
+     

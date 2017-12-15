@@ -18,7 +18,11 @@ XXXXXXX XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
-XX
+XX|FEYWILD
+
+
++++FEYWILD CALENDAR
+XXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -560,3 +564,25 @@ Long Rest
 -they progress to the portal to the Feywild
 -Croaker takes a peek down the portal
 
+++++Session 36
+
+Croaker/Grogar/Kreiger short rest to identify the Ioun Stones
+
+They enter the room in the Feywild
+-Edan drains the vines for 6 Radiant charges and glowing crickets for 2 charges
+
+Liden the ant in conversed with, who was shipping a giant salt boulder while riding a wolf sized fire beetle
+
+Kiden the ant converses with them at the Caloca port
+
+Gribble works at the passenger hut
+ - 5s per person
+ -gives a stone token for passenger fee
+
+Traveling 3 days by Coloca leaf from [Korro Kurro] to [Tajuru]
+ - 4 elves loading up the rocks
+ - [Croaker] purchases the Oathbow from Ehlonna in Tajuru
+ - [Grogar] buys dimeritium arrows
+ 
+Teleport back to the cave to the Material Plane
+ - slay the remaining Gelatinous Oozes (2750 exp)
