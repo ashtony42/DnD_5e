@@ -2,6 +2,17 @@
 
 A festival where all colleges of the land come to compete, and ultimately entertain the masses, takes places at towns that have bard colleges.
 
+Weenies:
+    -Divination! just 1g to have your fortune told! What does your future hold? 5 Cards tell everything!
+        -Reading [Krieger]: "Spirit", "Void", "Exchange", "Restoration", "Ancestor"
+        -Reading [Croaker]: "Death", "Hunt", "Festival", "Death", "Birth"
+        -Reading [Vulcan]: "Freindship", "Betrayal", "Knowledge", "Festival", "Nature"
+        -Reading [Edan]: "Ambition", "Royalty", "Strength", "Honour", "Death"
+        -Reading [Grogar]: "Joker", "Restoration", "Spirit", "Exchange", "Death"
+        -Reading [Lightning]: "Greed", "Short", "Death", "Moon", "Festival"
+        
+    -Gold Painted Wooden crowns! Be ready for the golden dusting! 3g each
+        -Royal people seem to blend in better due to these sales (Edan)
 
 Guzhen(M) from [Bright Cliffs] [Canaith Bard College]
 Rjorn(M) from [Korro Kurro] [Doss Bard College]
