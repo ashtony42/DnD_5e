@@ -1,0 +1,17 @@
+﻿++ Anstruth Bard College
+
+Lead by Virtuoso Viarmo
+
+College Focus: Strummed Melody
+
+Instruments can be purchased at the College's shop
+    -Lute - 35g
+    -Lyre - 30g
+    -Viol - 2g
+    
+Graduates are given a Anstruth Harp, Instrument of The Bards - pg 176
+    -must train 62 days at the college and become proficient with 3 (new) instruments
+    -skipped days will +2 to the total days of training needed
+    -if training days is 70 or more, the student must retake all classes and repay the tuition
+    -pay 300g tuition    
+    

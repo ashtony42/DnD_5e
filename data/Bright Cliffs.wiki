@@ -7,4 +7,9 @@ Wildlife:
     
     
     
-Lead by Royal [King Isoloytam] - Evoker (pg 214 of Volos)    
+Lead by Royal [King Isoloytam] - Evoker (pg 214 of Volos)
+
+[Canaith Bard College]    
+    -Stringed instrument focus
+    -Lead by Master Picker Jouri (F)
+    -Can buy stringed instruments

@@ -38,6 +38,11 @@ Korred Coloca Docks
         -create and repair permenant Galeb Dhurs that wander the town and help the Korred lifestyle.
         -Teleportation Circle can be found here.
         
+  [Doss Bard College]
+        -Lead by Drum Major Malhoon (Korred - M) 
+        -focus on precussion instruments
+        -can purchase instruments
+        
   Food
         -salt rocks 5s each
         -honey rocks 2g each

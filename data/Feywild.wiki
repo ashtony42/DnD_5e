@@ -10,3 +10,11 @@ Plants:
 Coloca an enormous tree with leaves the size of buildings, when severed from the trunk, the leaves take flight, and are often controlled to transport people from island to island.
 
 [Feywild Towns]
+
+Bard Colleges
+    [Doss Bard College]  -  [Korro Kurro]
+    [Anstruth Bard College]  -  [Tajuru]
+    [Ollamh Bard College]  -  [Nahiri]
+    [Canaith Bard College]  -  [Bright Cliffs]  
+    
+    Weeny: [Bol'Shoy]

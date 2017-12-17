@@ -2,12 +2,40 @@
 
 (Augsburg), a lush farming town of Firbolg who both farm crops and raise animals
 
-They write exclusively in Druidic. For those who can't see/read druidic, it may appear like they are acquiring amusement from blank books
+They write exclusively in Druidic. For those who can't see/read druidic, it may appear like they are acquiring amusement from blank books, navigating with blank signs, shopping from blank menus
+
+Has no leader, everyone works together in harmony with nature.
 
 Druidic Library:
-    -Ancient Tales of Lord Corellon
-    -Conflicts of the Neogi
-    -Beasts of the Depths
-    -Coloca Farming Techniques
-    -Vegepygmy Cookbook
+    -[Ancient Tales of Lord Corellon]
+    -[Conflicts of the Neogi]
+    -[Beasts of the Depths]
+    -[Coloca Farming Techniques]
+    -[Vegepygmy Cookbook]
      
+Druid Shop
+    -Focuses:
+        -Sprig of Mistletoe - 1g
+        -Totem - 1g
+        -Wooden Staff - 5g
+        -Yew Want - 10g
+        
+Forest's Bounty
+    -Blue Mushrooms - 2s per pound
+    -Berries - 3s per pound
+    -Sappy (drink, tastes like syrup) - 5s per drink   
+    
+Sticks and Twigs
+    Shop ran by the Firbolg Hadrig, abdormally tall and extra hairy
+    -Staff of Frost - 400g (pg 202)
+    -Staff of Healing - 300g (pg 202)
+    -Staff of Fire - 400g (pg 202)
+    -Staff of Swarming Insects - 300g (pg 203)
+    -Staff of the Woodlands - 300g (pg 204)
+    -Wand of Magic Detection - 50g (pg 211)
+    -Wand of Secrets - 50g (pg 211)
+    -Wand of Web - 50g (pg 212)
+    
+Mushroom Farm caves x5
+    Blue mushrooms are farmed underground in small dug out caves
+        -they grow in excremit, which once grown upon, loses it's smell

@@ -9,18 +9,24 @@ the city has fine elven stonework with towers/archers
 Lead by the Archmage [King Hazzan]
 
 Fire Beetle Farms
-    -coal is used to feed the Beetles
+    -coal is used to feed the Beetles (imported from [Korro Kurro])
 
 
 Magic Academy of Corellon
     -Teleportation Circle can be found here
-    -Wizard Spells from lvls 1 to 8 - 100g per spell level
+    -Wizard Spells from lvls 1 to 8 - 10 plat per spell level
     
 High Bowery - Ehlonna - Elf F
-    -Oathbow (pg 183)- (1000g)
-    -Arrow of Slaying (beast) - (pg 152) (50g each)
-    -Dimeritium Arrows (+2 DMG), (100g per 20) (5g each)
-    -6x Quiver of Ehlonna (pg 189) - (600g)  
+    -Oathbow (pg 183)- (100 plat)
+    -Arrow of Slaying (beast) - (pg 152) (5 plat each)
+    -Dimeritium Arrows (+2 DMG), (10 plat per 20) (5g each)
+    -6x Quiver of Ehlonna (pg 189) - (60 plat)  
         -60/120/120 arrows can be stored in the compartments
     
+[Anstruth Bard College]
+    -Lead by Virtuoso Viarmo
+    -All manner of instruments can be purchased at the College's shop
+    -Can attend classes to gaint instrument proficienies, and graduate, earning an Anstruth Harp
     
+    
+        

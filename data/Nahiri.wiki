@@ -12,3 +12,10 @@ Dimeritium Workshop
     Using a magically infused forge, the craft of dimeritium is made easier to be common commodity
     -Dimeritium Shield (+3) 150g
     -Dimeritium Defender (pg 164) (weapon x10g, +2 DMG, can swap the +2 damage for AC instead 
+    
+[Ollamh Bard College] 
+    -Sits atop a tall large stone plateu
+    -focus on wind instruments
+    -lead by Flute Master Balvir
+    -can purchase wind instruments here
+    
