@@ -11,8 +11,8 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
-XXXXXXX  XXXXX
-XXXXXXX
+XXXXXXX  XXXXXXX
+XXXXXXX  XXX
 XXXXXXX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
@@ -503,8 +503,46 @@ the party goes to the coliseum to take down [Don Kreig]
   -Don Kreig is slain
   -[Tessa] does a convicing performance to pose [Plosive] as the Don 
  
- NOTE: EXPERIENCE EARNED TO GIVE
-4 thugs 400
-1 gladiator 1800
-10 bandits 250
-2450
+4 thugs 400, 1 gladiator 1800, 10 bandits 250
+
+++++Session 18
+2 slaves, 1 prisoner queen, 4 party members, 8 marines 
+
+3 Thugs (Leutenants), each leading a group of 10 guys
+-the boat has 12 apprehended [Don Kreig] men now, tied up in the ship.
+-8 ships set ablaze with fire arrows
+-Don Krieg's men instructed to find them at the island of Kasassafrass, south-east of Fiore
+-Ring with fists
+
+23 bandits 575, 2 thugs 200
+
+Escape Arabasta with the following distribution:
+  -12 prisoners + 8 marines on the keelboat
+  -3 slave + 7 marines + 4 partymembers + letho + vin on the warship
+  (36 people total)
+  
+Warship loot:
+    -map with plans on the raid of Augsburg
+    -45 cannon balls
+    -4 kegs of gunpowder
+    -4 cannons
+    -100 lbs of food
+    -many empty crates
+    
+2 days to Augsburg - XX 8 Marines to be left at [Augsburg] with the spare ship
+    (28 people total)
+    
+4 days to [Marine HQ] XXXX
+
+Thia goes to see if she'd feel comfortable in the refugee district
+  -4000g given to [Queen Larissa] for rebuilding [Arabasta]
+  - +1 Report with [Queen Larissa] for [Plosive]
+      
+[Tessa] receives [Order of the Gauntlet] badge
+[Quinn] receives denial for [Order of the Gauntlet] badge    
+
+[Queen Larissa] and [Quinn] go directly to the marine admiral and assisstance for the reclamation of [Arabasta]
+-[Quinn] Promoted to Captain
+-organizing for the day after tomorrow
+-5 Keelboats
+-10 Marines per Keelboat (9 privates, 1 officer)

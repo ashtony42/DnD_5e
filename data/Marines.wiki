@@ -40,3 +40,7 @@ Private (soliders)
 ++Sub Division:
 [Order of the Gauntlet]
 
+++Captain Benefits
+ - assigned hawk box at the Hawk Roost
+ - authority over officers
+ 

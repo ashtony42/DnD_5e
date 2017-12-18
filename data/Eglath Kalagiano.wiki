@@ -21,7 +21,6 @@ Vulnerable to lightning
 Resistant to fire, cold
 
 
-
 Iron Fruit Powers:
   -can split arms into more arms and thus increase the number of attacks per turn to 4
   -ranged attack (100ft) shoot an iron spike +8 TH, 1D8+5 damage

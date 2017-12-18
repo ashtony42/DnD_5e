@@ -26,3 +26,11 @@ Morgiana (strong human female)
 Ledian (skilled half orc male)
 Kyle (strong willed human male)
 Kharl (Turtle Fruit human male) (captured at [Marine HQ])
+
++++Don Kreig's Warship
+    -45 cannon balls
+    -4 kegs of gunpowder
+    -4 cannons
+    -100 lbs of food
+    -many empty crates
+    -ample prisoner space/keys

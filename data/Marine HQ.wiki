@@ -63,6 +63,7 @@ East Barracks
             -map of the known world with notes of the current Marine stations and outposts
             -open box of 20 Iron Ingots
             -Iron desk
+            -Eglath can communcate with the secretary through an iron rod that leads down there.
                       
     Contract Center
         Ran by Officer Yimir, Female goliath.
