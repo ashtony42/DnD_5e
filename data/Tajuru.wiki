@@ -13,10 +13,17 @@ Fire Beetle Farms
 
 
 Magic Academy of Corellon
+    -Lead by Sage Chelinka (Elf F, friendly, welcoming)
     -Teleportation Circle can be found here
     -Wizard Spells from lvls 1 to 8 - 10 plat per spell level
+    -Common magic supplies for sale
+        -Fine Parchment - 1s per sheet
+          -Ink - 10g per ounce
+          -Chalk - 1g per piece
+        -Blank spell books - 5g each 
+        -Arcane Focuses (see equipment pages of players handbook)
     
-High Bowery - Ehlonna - Elf F
+High Bowery - [Ehlonna](Then her daughter Gwenna) - Elf F
     -Oathbow (pg 183)- (100 plat)
     -Arrow of Slaying (beast) - (pg 152) (5 plat each)
     -Dimeritium Arrows (+2 DMG), (10 plat per 20) (5g each)

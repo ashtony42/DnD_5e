@@ -11,6 +11,9 @@ Bugs on the island work intelligently together to live their lives.
 Korred Coloca Docks
     A grove of farmed Coloca trees where Korreds use their immense strength to load/unload building sized tree leaves for trade. Located on the eastern peninsula.
 
+++++Weenies
+[Kaleb the Galeb]
+
 ++++Places of Interest:
   [Queen Torgga]'s Home
     A much larger stone hut with trees that have grown over the top of it. The interior is decoratively carved by the Masons in town.
@@ -27,8 +30,8 @@ Korred Coloca Docks
         to common people, it appears to be a large flat stone area, but Korred will be seen traveling through it to either go below into the ground, or to come back up with gems/metals
         
   Mine Shop- Gern
-        -sells all raw known types of gems (will need cut by jewelers)
-        -sells raw metals (iron, copper, silver, gold, platinum) 
+        -sells all raw known types of gems (will need cut by jewelers, half price of actual gems)
+        -sells raw metals (iron, copper, silver, gold, platinum, half price of [Materials]) 
     
   Stone Masons
         -Harbek, Gurdis, Gunnloda

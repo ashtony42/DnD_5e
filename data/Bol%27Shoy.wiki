@@ -17,7 +17,7 @@ Weenies:
 Guzhen(M) from [Bright Cliffs] [Canaith Bard College]
 Rjorn(M) from [Korro Kurro] [Doss Bard College]
 Pantea(F) from [Nahiri] [Ollamh Bard College]
-Arria(F) from [Tajuru] [Anstruth Bard College]
+[Ehlonna](F) from [Tajuru] [Anstruth Bard College]
 
 At the peak of a successful Bol'Shoy festival, a Ki-Rin (pg 163 of Volos) will be summoned from another plane, and it will fly overhead, sprinkling down a glitter of gold for all to behold. A truely awesome sight.
 

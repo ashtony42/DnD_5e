@@ -1,12 +1,13 @@
 ﻿++ Materials
 
 Leather - common - 1s
-Wood - common
-Iron - common
-Steel - common
-Copper - common
-Glass - uncommon
-Silver - uncommon
+Wood - common - 2s per board
+Iron - common - 1s per lb
+Steel - common - 1g 5s per lb
+Bronze - common - 1g per lb
+Copper - common - 5s per lb
+Glass - uncommon - 1g per lb
+Silver - uncommon - 5g per lb
 Gold - rare
 Dimeritium - very rare, anti-magical properties - soft like hard butter greenish sheen
 Etherium - very rare, magical properties - very hard bluish sheen

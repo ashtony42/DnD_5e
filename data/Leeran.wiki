@@ -33,5 +33,5 @@ Leeran, who only ever appears at the shops in [Gorda] and [Luthadel] as an illus
         -lvl 2 Wizard spells: all 200g each scroll
         -lvl 3 Wizard spells: all 300g each scroll
         -Undercommon crafting instructions for Sending Stones - 250g 
-        Quarterstaff Arcane Focus - 5g
+        -Quarterstaff Arcane Focus - 5g
         
