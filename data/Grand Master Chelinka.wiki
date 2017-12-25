@@ -1,0 +1,7 @@
+﻿++ Grand Master Chelinka
+
+use Neogi master (pg 181 of volos)
+
+HP 140  AC 20
+
+Enslave action has a DC of 18 instead of 14

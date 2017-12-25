@@ -1,0 +1,7 @@
+﻿++ Master Tanerk
+
+use Neogi master (pg 181 of volos)
+
+HP 100  AC 19
+
+Enslave action has a DC of 16 instead of 14

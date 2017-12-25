@@ -5,3 +5,6 @@
 [Wyverns Lair]
 [The God Kings Palace]
 [Cave to Feywild]
+
+[Feywild]
+  -[Lantrokixos Lair] 

@@ -23,12 +23,22 @@ The oceans of the Feywild are trecherous and full of enourmous beasts, random en
 
 [Rodul] - (Odus), mysterious island of tricks
 
-(Faydwer)
-  [Anura] - (Felwithe), home of the froglike Grung (pg 156 of Volos)
-  [Buntri] - (Kaladim), home of deepgnomes
+[Greater Alfitaria]
+  (Faydwer)
+    [Anura] - (Felwithe), home of the froglike Grung (pg 156 of Volos)
+    [Buntri] - (Kaladim), home of deepgnomes
+    
+    Lesser Towns
+    [Gukta] - Mostly Grung, trading post between Anura and Buntri
+    [Shar Vahl] - Mostly Tabaxi village for trade with the Greater Alfitaria 
+    [Paineel] - Mostly Tabaxi, and highly militarized to allow trade with the Neogi, lots of fishing in the safety of the cove happens here
+    [Cabilis] - NEOGI DOMINATED Korred village, they do mining tributes to their Neogi superiors
+    [Grobb] - NEOGI DOMINATED Firbolg village, they do farming tributes to their Neogi superiors
+    [Lilt] - NEOGI DOMINATED Lilty village, relatives of the Vegepygmies, offer their young as tribute (onion people)
+    [Rivervale] - NEOGI DOMINATED Diverse village where slaves are kept to build war equipment for the Neogi 
   
-(Kunark)  
-  [Formicid] - (Luthadel), home of the antlike evil Neogi (pg 179 of Volos) that occasionally attack other lands to expand thier enormous colony
+  (Kunark)  
+    [Formicid] - (Luthadel), home of the antlike evil Neogi (pg 179 of Volos) that occasionally attack other lands to expand thier enormous colony
   
 [Eukar] - (Neriak), home of the Vegepygmies, small plant people   
 

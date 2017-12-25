@@ -1,0 +1,14 @@
+﻿++ Lantrokixos Lair
+
+use Beholder (pg 28)
+
+A beholder whose dreams incfluence the hostile and dominating nature of the Neogi in the Feywild
+
+Buried deep below the surface of the world in ancient times by the god [Corellon]
+
+Lair Traits:
+    A circlular chamber with elaborately carved marble pillars embedded in the wall, 90ft tall, 50ft around 
+    -Summon 1d4 Umber Hulks per round (will collapse the exit)
+    -A Mosiac ceiling at the top is where Lantrokixos resides
+        -the art shows the eventual domination of the entire world by Lantrokixos through his creation, the Neogi
+    
