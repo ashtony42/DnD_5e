@@ -5,12 +5,19 @@
 the city has fine elven stonework with towers/archers
 20ft tall with towers
 
-
 Lead by the Archmage [King Hazzan]
+
+++++Weeny
+Great Treant encounter (Mahogany)
+  -surrounded by a grove of 20 Treants (pg 289) and 15 Dryad (pg 121)
+  Stats (refer to Treant for most stats)
+  HP 300, AC 20
+   +12 TH, 5d6+6 Melee, 6d10+6 100/240 Range (Rocks)
+
+++++Areas of Interest
 
 Fire Beetle Farms
     -coal is used to feed the Beetles (imported from [Korro Kurro])
-
 
 Magic Academy of Corellon
     -Lead by Sage Belazaar (Elf F, friendly, welcoming)
@@ -23,7 +30,7 @@ Magic Academy of Corellon
         -Blank spell books - 5g each 
         -Arcane Focuses (see equipment pages of players handbook)
     
-High Bowery - [Ehlonna](Then her daughter Gwenna) - Elf F
+High Bowery - [Ehlonna] (Then her daughter Gwenna, who dreams to be able to be able to craft the Oathbow like her mother)
     -Oathbow (pg 183)- (100 plat)
     -Arrow of Slaying (beast) - (pg 152) (5 plat each)
     -Dimeritium Arrows (+2 DMG), (10 plat per 20) (5g each)
@@ -35,5 +42,7 @@ High Bowery - [Ehlonna](Then her daughter Gwenna) - Elf F
     -All manner of instruments can be purchased at the College's shop
     -Can attend classes to gaint instrument proficienies, and graduate, earning an Anstruth Harp
     
-    
+Woodsman's Lodge
+    -the best carpenters of the world work here. It is a notable honor to do so, and the craftsman are ranked amonst the nobility of Tajuru
+    -Masters: Kendil, Nasir, Corym, Lusatra, Urilen
         
