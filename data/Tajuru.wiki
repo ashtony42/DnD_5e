@@ -46,3 +46,20 @@ Woodsman's Lodge
     -the best carpenters of the world work here. It is a notable honor to do so, and the craftsman are ranked amonst the nobility of Tajuru
     -Masters: Kendil, Nasir, Corym, Lusatra, Urilen
         
+Viscous Solutions - Jihan, Elf M
+    -Potion of Animal Friendship (able to cast animal friendship once) 20g  
+    -Potion of Healing 
+        -Weak   2d4+2 20g
+        -Medium 4d4+4 40g
+        -Strong 8d4+8 80g
+    -Potion of Heroism (+10 Temp HP) 40g
+    -Potion of Water Breathing (1 hour) 20g 
+    -Potion of Climbing - 10g (pg 187)    
+    -Potion of Fire Breath - 40g 
+    -Potion of Growth - 20g
+    -Potion of Mind Reading - 70g (keeps in a secret stock)
+    
+Noble's Library
+    -Skill books that when studied can reduce the training needed to gain proficienty with a toolset by 5 days
+        -20g per toolset book
+    -[Manual of Galebs] - 75g    

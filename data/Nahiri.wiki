@@ -1,21 +1,46 @@
 ﻿++ Nahiri
 
-(Marine HQ), Kor city named after a founding member who was responsible for banishing the ancient eldrazi
+(Marine HQ), Kor city named after a founding member who was responsible for banishing the ancient [beholders]
+
+Shops and other buildings of Nahiri sit atop large stone plateus (~500ft tall) that the natives use gliders to get to and from. They nearly blend in with the abundant avian population of the island.
+
+Weeny: Glider Races!
+    -A group of 12 Kors gliding at tremendous speeds whiz by, all wearing goggles and tight fit clothes. Off in the distance where they are headed are two large crowds on either side of a large red banner that spans between two plateus.
+    -These happen every day, 10g to enter, 120g awarded to the winner! 
+        (1d20 + Flight Speed/10 + DEX-mod) against DC 25
+    -Ace Ghorlan is the best known glider who is known to win a majority of the races, and makes his living off of it. (All-Might type of personality, wide smile)     
 
 Co-Lead by [Ayli] - Clerical Warpriest (pg 218 of Volos) 
            [Munda] - Warlord (pg 220 of Volos)
 
-Teleportation Circle can be found here.
-
-
+++++Places of Interest
 Dimeritium Workshop 
     Using a magically infused forge, the craft of dimeritium is made easier to be common commodity
     -Dimeritium Shield (+3) 150g
     -Dimeritium Defender (pg 164) (weapon x10g, +2 DMG, can swap the +2 damage for AC instead 
     
 [Ollamh Bard College] 
-    -Sits atop a tall large stone plateu
     -focus on wind instruments
     -lead by Flute Master Balvir
     -can purchase wind instruments here
+    
+Glider Shop - Delk - Kor, M
+    purchase and repair of gliders here
+    -75g for a new glider (must weigh 100lb or less to use properly)
+        -allows for normal run speed as flight speed, must descend at least 5 feet each round
+    -glider repair (20g and 2 days)
+    
+Nahiri Temple
+    Followers of Nahiri who see the legend as a near demi-god
+    -Teleportation Circle can be found here in the center of the temple
+    -6 rooms surrounding the main room are each made with stone native to a different island of the world
+        -[Bright Cliffs], [Korro Kurro], [Formicid], [Tajuru], [Ko Foren], [Nahiri]
+         These combined natual energies prevent the teleportation circle from being used by the unnatural [beholders] 
+    -Temple Guardians are all Evokers (pg 214 of Volos)
+    -Clerical Warpriest [Ayli] resides here
+    
+Fort Chittor
+    A very disciplined place where soldiers meditate at the bottom of a waterfall that falls from atop the plateu's lake reservoir.
+    -Warlord [Munda] resides here
+    -Kor Soldiers: (swashbuckler pg 217, light armor and no shield for +2 AC (19 total))
     

@@ -8,7 +8,8 @@ Wildlife:
     -Giant Apes (pg 323)
     -Roc (pg 260)
     -Blink Dogs (pg 318)
-    -Trolls (pg 291) surviving in small groups, regenerate limbs when predators attack, but have eaten enough blink dogs to take on their trait of blinking
+    -Phase Spiders (pg 334)
+    -Trolls (pg 291) surviving in small groups, regenerate limbs when predators attack, but have eaten enough blink dogs and phase spiders to take on their trait of blinking/phasing
     -Bulette (pg 34)
     -Tyrannosaurus Rex (pg 80)
 
