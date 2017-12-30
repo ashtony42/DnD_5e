@@ -27,6 +27,7 @@ Magic Academy of Corellon
         -Fine Parchment - 1s per sheet
           -Ink - 10g per ounce
           -Chalk - 1g per piece
+          -Caligriphy Tools (fetch price from book)
         -Blank spell books - 5g each 
         -Arcane Focuses (see equipment pages of players handbook)
     
@@ -62,4 +63,12 @@ Viscous Solutions - Jihan, Elf M
 Noble's Library
     -Skill books that when studied can reduce the training needed to gain proficienty with a toolset by 5 days
         -20g per toolset book
-    -[Manual of Galebs] - 75g    
+    -[Manual of Galebs] - 75g   
+    
+Leather Armoury - TODO
+    -belts
+   
+Stable
+    -horses
+
+Inn    

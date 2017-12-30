@@ -31,6 +31,7 @@ Entry is on [Nowa Huta] through a small opening toward the back of a Brown Bear 
     -Can offer the party to bathe in thier slimey vine-water pool before they go into the Aboleth pool
      (Potion of Resistance-Acid, Advantage against Disease)
         -they use it whenever they need to go over there, made from the vines.
+        -24 hours
         
 ++++F. Aboleth Pool
   Contains 2-3 Aboleth (pg 13)

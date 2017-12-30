@@ -18,8 +18,10 @@ XXXXXXX XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
-XX|FEYWILD
+XX|
 
+FEYWILD
+X
 
 +++FEYWILD CALENDAR
 XXX
@@ -586,3 +588,16 @@ Traveling 3 days by Coloca leaf from [Korro Kurro] to [Tajuru]
  
 Teleport back to the cave to the Material Plane
  - slay the remaining Gelatinous Oozes (2750 exp)
+ 
+++++Session 37
+  - [Krieger] wingmans everyone at the end of [Bol'Shoy] to stay at various elf wemen's homes
+  - [Edan] proposes to the elf he rests with whome she impregnated
+        -Elliorra
+        
+  Teleport to the cave in [Korro Kurro]
+  Teleport back to [Tajuru] and do some shopping
+  -traveling to [Otis] meeting [Sonique the Satyr]
+  -the group windwalks to [Ko Foren]
+        
+    
+  
