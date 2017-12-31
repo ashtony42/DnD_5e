@@ -50,3 +50,17 @@ Breaking this stone will open up the ruins where the Stone of Kord can be found.
     -Galeb Duhr (pg 139) (when defeated, the [Stone of Kord] can be found within)
     -Bone Naga (Guardian) (pg 233)
     -Giant Spider (pg 328)
+    
+++++Marine Attack (group three)
+    [Don Kreig]'s men are lacking organization, but not much more than usual, his leutenants have taken charge of their subgroups and attempt to prove thier dominance.    
+    Leutenants:
+        Morgiana (strong human female) (bandit captain pg344)
+            -commands the most men x60 (bandit)
+        Ledian (skilled half orc male) (bandit captain pg344)
+            -commands a skilled group of thugs x15 (thug)
+            -loot: 3d6+4 gold, local map with a dotted line leading to the center of the desert with an X
+        Kyle (dockmaster human male) (swashbuckler volo's)
+            -loot: scroll with the latest high ranking targets of the [House Salazar Assassins]
+                -Feronia Vie 500g, Leeran 100g, Quaal 100g, -D-a-l-l-b-e-n-
+            -keeping everyone together by keeping them at the island until they sort out a new leader
+            -commands many of the sailors x30 (bandit)
