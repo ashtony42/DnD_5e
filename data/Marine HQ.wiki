@@ -39,6 +39,7 @@ East Barracks
             [Dirk Dagson] and fellow Masons
             Carpenters (average skilled)
             [Giana Yem] - high elf jeweler
+            [Tril] (apprentice tailor who lost her master in [Arabasta]) - patchwork tailor that creates new things from old battered items
             
     Actor's Theatre
         Lead by Director [Louis Numre] with a crew of 4 other actors
@@ -79,6 +80,8 @@ East Barracks
         -Hawk Eggs can be baught here for 30g each
         -20lbs of meat feed
         
+    Dockmaster    
+        -Captain Klien is the dockmaster
         
 +++Prison District
     Vault of Confiscated items
@@ -91,6 +94,7 @@ East Barracks
         -5 daggers
         
     Wardens Office
+        -Head Warden Captain Garp
         -manned by [Marines] 4 Captains, 8 Officers, 40 Privates
         
     Prisoner's Privy

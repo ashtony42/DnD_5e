@@ -1,6 +1,7 @@
 ﻿++ Materials
 
-Leather - common - 1s
+Clay - common - 5c per lb
+Leather - common - 1s per lb
 Wood - common - 2s per board
 Iron - common - 1s per lb
 Steel - common - 1g 5s per lb

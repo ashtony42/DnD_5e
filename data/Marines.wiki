@@ -2,6 +2,9 @@
 
 A law enforcement force throughout the world, funded by the world government
 
+FLAG: Dark-Gray backgrounded with Light-Gray Dragon's head in profile with two crossed swords behind it
+    -flags made at [Ak'anon]
+
 currently has bounties on
 		Pirate Admiral [Don Kreig](350 Gold) +100 from [Augsburg] 
 		[Rex The Smasher](250 Gold) 200 updated CLAIMED BY EDAN
