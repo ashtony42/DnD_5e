@@ -1,17 +1,50 @@
 ﻿++ Bright Cliffs
 
-(Gorda), Tabaxi village can be found here. due to the receeded water lines, the island is surrounded by steep cliffs
+(Gorda), Tabaxi village can be found here. due to the receeded water lines, the island is surrounded by steep cliffs, the top of the large plateu is plains where wild horses graze.
 
 Wildlife:
-    Roc (pg 260) live atop the cliffs around the edge of the island, and prey upon sharks
+    Roc (pg 260) live atop the cliffs around the edge of the island, and prey upon sharks and wild horses
     
-    
+Weeny Horse Race
+    -winner gets free stabling and feed for thier horse for a year and an Exotic Saddle (worth 100gp, 40lb, +1 CHA)
+    -5 other contestants (+8 Animal Handling each)
+    -Hazards include a stream to jump (DC 12 Animal Handling)
+    -A small grove of trees to dodge around (DC 14 Animal Handling)
+    -3rd bend, conflict! A gargantuan bird (Roc) bursts up from the side of the cliff and begins chasing whoever is in last (characters who failed the previous two DC checks) if not confronted, it will attack (and likely kill) the person in last
+    -Final Stretch! (DC 22 Animal Handling roll to win!  
     
 Lead by Royal [King Isoloytam] - Evoker (pg 214 of Volos)
+
+++++Places of interest
 
 [Canaith Bard College]    
     -Stringed instrument focus
     -Lead by Master Picker Jouri (F)
     -Can buy stringed instruments
     
+Long Fishers
+    Fishermen who use cartoonishly huge fishing rods (about 12 feet long) with a spool of fishing line that's about the size of a coffee tin. This is so that they can fish from the comfortable cliff top. The fish they catch don't tend to be too large due to how far they have to reel them up.
+    -Long Fishers tend to have very muscled arms due to the stress of holding a fish on a line as they also reel it up the cliff.
     
+Equestrians
+    Famous horse breeders who occassionally sport them in races around the edge of the island
+    
+    At the stables they sell
+    Animals
+      -Draft Horses 50gp - 40ft - 540 lbs
+      -Riding Horses 75gp - 60ft - 480lbs
+      -War Horses 400gp - 60ft - 540 lbs
+      -Race Horses 200gp - 80ft - 300 lbs
+      -Pony 30gp - 40ft - 225 lbs
+    Bardings (see pg 157)
+    Feed - 5cp per 10lb
+    Saddles
+      -Military 20gp / 30lb
+      -Pack 5gp / 15lb
+      -Riding 10gp / 25lb
+      -Saddlebags
+    Stabling existing horses for 5sp per day
+     
+Grain Farmers
+    To feed the animals and townsfolk alike, grain is grown in mass from the plains
+    -Bread 5c per lb

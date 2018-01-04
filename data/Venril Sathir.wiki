@@ -6,7 +6,7 @@ His very existence is for perpetuating the seal he has on the god [Gruumsh] thro
 etherium existence to both extend his own life as well as power the seal.
 
 STR 20, DEX 20, CON 20, WIS 20, INT 20, CHA 18      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
-    +5      +5      +5      +5      +5      +4                 20                  +12                   +11
+    +5      +5      +5      +5      +5      +4                 20                   20                   +11
 
 300hp
 AC 18+3 God King's Etherium Inlayed Platemail (req str 18)
@@ -33,6 +33,7 @@ Ethereal presence, can interact with spirits as if they were material.
 -if a creature is grappled, he can roll to hit again, if successful, the soul of the creature is pulled from it's body.
 
 Legendary Actions (4):
+    -Rapier Attack
     -Dispell Magic as a reaction (pg 234)
     -Telekinesis as a reaction (pg 280)
     -Manipulate Etherium: move a piece of nearby Etherium in the way to block a projectile (+3 AC)

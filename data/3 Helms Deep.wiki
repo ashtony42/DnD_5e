@@ -1,5 +1,8 @@
 ﻿++ 3 Helms Deep
 
+Weeny:
+    Old man Muu is back, and has been non-stop harvesting the new fruits and burning them in large piles outside of town, complaints from towns people about foul smelling smoke.
+
 Population: 120
 Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
     -population x2 for low, then x2 that for each higher bracket

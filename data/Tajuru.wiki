@@ -14,6 +14,9 @@ Great Treant encounter (Mahogany)
   HP 300, AC 20
    +12 TH, 5d6+6 Melee, 6d10+6 100/240 Range (Rocks)
 
+3 Hunters (Archers pg 210 of Volos) come home from [Ko Foren] gloriously on thier Gryphon mounts
+  Bringing a Bullette cleaved into three chunks
+
 ++++Areas of Interest
 
 Fire Beetle Farms
@@ -65,10 +68,24 @@ Noble's Library
         -20g per toolset book
     -[Manual of Galebs] - 75g   
     
-Leather Armoury - TODO
-    -belts
+Leather Armoury - Freyra (Elf F)
+    "Sell Your Exotic Leathers Here!"
+    A place frequented by hunters that hunt at [Ko Foren] 
+    -Slippers of Spider Climbing 40 plat
+    -Boots of Elvenkind 35 plat
+    -Boots of Speed 45 plat
+    -Boots of Striding and Springing 35 plat
+    -Bracers of Defence 40 plat
+    -Cloak of Elvenkind 35 plat
    
-Stable
-    -horses
+Stable - Canna (Tabaxi F)
+    Can stable the parties horses for 5sp per horse
+    sell feed for 10cp per lb (imported from [Bright Cliffs]
+      -Draft Horses 70gp - 40ft - 540 lbs
+      -Riding Horses 100gp - 60ft - 480lbs
 
-Inn    
+Corellon's Grace Inn - Garron (Elf M) 
+    Wealthy lifestyle provided - 4gp per night
+    1g per meal
+    10g for a bottle of fine Tajuru wine
+    1g for a glass
