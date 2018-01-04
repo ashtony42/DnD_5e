@@ -1,0 +1,12 @@
+﻿++ Gerro the Giant
+
+Golden: Poisoned creatures are charmed and speak Grung
+
+Despite his name, he is only as tall as a gnome, which is twice as large as any other grung
+
+Leader of the Grung
+AC 15 HP 100  (grung elite warrior with spells of a wildling pg 157)
+
+ Daggers: 2 attacks, +7 TH, 1d4+5, DC 14 CON save or take 2d4 poison, be poisoned, charmed, and speak grung
+ 
+ Short Bow:  2 attacks, +7 TH, 1d6+5, DC 14 CON save or take 2d4 poison, be poisoned, charmed, and speak grung

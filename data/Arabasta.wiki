@@ -64,3 +64,5 @@ Breaking this stone will open up the ruins where the Stone of Kord can be found.
                 -Feronia Vie 500g, Leeran 100g, Quaal 100g, -D-a-l-l-b-e-n-
             -keeping everyone together by keeping them at the island until they sort out a new leader
             -commands many of the sailors x30 (bandit)
+        [Nogg] appears, heavily bandaged but with bare feet exposed where long acid burn scars go up the side of his legs are proudly presented. His piecing and slashing scars haven't fared well, as they are still prominent and heavily crusted over with scabs, yet, he still stands just as strong, if not stronger than when he was first encountered. He wields a greatsword and has many javelins upon his back.
+            -struts around with 4 of [Don Kreig]'s best gladiators, wearing leather and wielding spears (use swashbuckler pg 217)

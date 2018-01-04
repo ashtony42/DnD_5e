@@ -598,6 +598,6 @@ Teleport back to the cave to the Material Plane
   Teleport back to [Tajuru] and do some shopping
   -traveling to [Otis] meeting [Sonique the Satyr]
   -the group windwalks to [Ko Foren]
-        
+    -fights some shambling mounds and phase spiders    
     
   

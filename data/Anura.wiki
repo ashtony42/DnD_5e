@@ -1,3 +1,20 @@
 ﻿++ Anura
 
 (Felwithe), home of the froglike Grung (pg 156 of Volos)
+
+The treetop town is in ruins, as many homes have been toppled down from the heights onto the swampy ground below, which is where makeshift tents of a warcamp are found where the Grung hold back the Neogi from reaching thier newer home of [Gukta]
+
+Weeny:
+    When the group arrives here, the Grung will be having thier leader, [Gerro the Giant] giving a motivational speech of war, followed by them marching out to [Rivervale]
+    
+    
+Gold Grung: traders who by their ability to make other speak grung, can communicate with the outside world, and get slightly better deals due to the charm effect
+
+Elite Warrior Grungs:
+    Green - poisoned creature can't move except to climb or make standing jumps, flying creatures can't make actions until they land
+    Orange - poisoned creature is frightened of allies
+    Blue - poisoned creature shouts loudly
+    Purple - poisoned creature takes actions to reach a body of liquid or mud
+    
+Wildling Grungs:
+    Red - poisned creature uses action to eat food in reach
