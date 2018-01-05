@@ -21,7 +21,7 @@ XXXXXXX
 XX<F>
 
 +++FEYWILD CALENDAR
-XXX
+XXXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -597,4 +597,8 @@ Teleport back to the cave to the Material Plane
   -the group windwalks to [Ko Foren]
     -fights some shambling mounds and phase spiders    
     
-  
+++++Session 38
+  The group windwalks back to the shore of [Otis] to attempt to long rest 
+  -flys back to [Ko Foren] and enters the Tarasque cave
+  -slays the Tarasque (scales are 10lbs each)
+  -teleports back to [Tajuru]
