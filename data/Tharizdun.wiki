@@ -5,7 +5,24 @@ God of Madness, known in the legend of Regdar for causing calamity for [Fiore]
 Chaotic Evil
 Oversees [Fiore]
 Symbol: Jagged counter-clockwise spiral
+Home Plane: Abyss   
 
 When Released:
     -by being re-assmbled over a night:
         -leaves and begins augmenting the world to be more "amusing", IE more AkumaFruits
+        
+        
+++++Avatar: Empyrean (pg 130)
+    A tall 20ft titan of darkness and evil. Seen through a black smoke that seems to shoot out from the bottom of Tharizdun, a floating torso with two disproportionally long spindly arms that nearly reach the ground, with long clawed appendages. His silouthette head with harshly bright red eyes and teeth glowing too intensively to look at for too long. 
+    
+    Alternate attacks:
+      Dark Claw - +20 TH, reach 10ft, 8d6+12 slashing
+    
+      Red Lightning - +20 TH, range 1000ft, 9d6 lightning dmg (chains to up to 2 other targets with 30ft links)
+    
+    Targets hit by any of Tharizdun's attacks must pass a DC 20 WIS save or suffer a (cumulative) short-term madness effect (pg 259 of DM)
+    
+    Summon 3 demons, randomly chosen from 14 Demons starting on pg 55
+        
+
+     
