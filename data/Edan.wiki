@@ -6,6 +6,9 @@ He consumed the Iksar [AkumaFruits], which is triggered off of doing intelligent
 
 Has achieved level 5 attunement to [Regdars Radiant Hilt]
 
+Has a son: [Eladian]
+-mother is [Elliorra]
+
 Traits to be restored:
 -16 HP RESTORED
 -17 HP RESTORED

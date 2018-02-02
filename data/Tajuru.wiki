@@ -20,6 +20,8 @@ Great Treant encounter (Mahogany)
   -Rem
   -Gillant
   -Frellian
+  
+[Eladian] - Half-Elf son of [Edan], can be found in the outskirts of [Tajuru] due to being ridiculed for his abrasive personality and strange looks. Been living in the wilderness for a long time.
 
 ++++Areas of Interest
 
