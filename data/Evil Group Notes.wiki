@@ -21,7 +21,7 @@ XXXXXXX
 XX<F>
 
 +++FEYWILD CALENDAR
-XXXX
+XXXXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -637,3 +637,38 @@ Teleport back to the cave to the Material Plane
   -along with slaying the neogi, all of the students and faculty were slain except one teacher who was able to misty step away.
     
   18,200 exp given  
+  
+++++Session 41
+    travel to [Elliorra]'s house
+    -hop down the hole into the tunnels
+    -discover Neogi corpses being consumed by Neogi hatchlings
+    -the group finds a vial of the Neogi poison used for breeding new Neogi
+    -the group goes through the city purging the rest of any Neogi(or elves) that proved to be hostile, also extinguishing fire.
+    
+    At [King Hazzan]'s residence, they find the dying king, acquiring his crown and staff
+    -[Vulcan] acquires staff of the woodlands (pg 204)
+    
+    LONG REST
+    [Grogar] [Lightning] and [Edan] explore the underground tunnels
+    -regroups with the trackers
+    [Croaker] [Kreiger] [Vulcan] follow the Neogi path outside of [Tajuru]
+    -travels to [Otis], which is occupied by Neogi
+    -slays many Neogi and Umber Hulks
+    
+    -Otis, the land torn to shreds with a series of 4 earthquakes.
+    -[Vulcan] creates an obelisk for each of the following languages in the center of [Otis] that state "Beware the wraith of Kadi"
+        -Draconic, Elvish, Celestial, Orcish, Common, Undercommon, Primordial, Infernal
+        -statues of Kadi and Trihelm(seductively!) at the end of the lines of obelisks (well done)
+        -[Croaker] casts a curse on Kadi statue (Power Word Kill effect that kills creatures with less than 100hp)
+     
+    Heading back to [Tajuru]
+      -[Vulcan] removed the teleportation circle from the floor of the Magic Academy of Corellon
+      -[Edan] carries the circle stone with his giant strength
+      -[Kreiger] planar shifts the group back to the ship
+      
+    Group decides to sail north despite better judgement
+      -breaks through the barrier surounding Nowa Huta
+      
+    Group travels by sea to [Luthadel] - 8 days
+       
+    

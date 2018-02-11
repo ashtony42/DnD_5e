@@ -4,8 +4,9 @@ Use Archmage (pg 342)
 
 Staff of the Great Treant
     A staff that continues to grow after being decoratively carved along it's length. Like a bonsai on top.
-    -Can animate trees/plants
+    -requires attunement
+    -Can animate trees/plants Awaken - 1 per 24 hours
     -Regrows after being broken
-    -Spike Growth spell as bonus
+    -Spike Growth spell as bonus - 1 per 24 hours
     
-    
+Green gem embeded platinum crown (Peridot, Jade, Emeralds)    
