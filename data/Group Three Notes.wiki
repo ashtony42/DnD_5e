@@ -15,7 +15,9 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
-XXXXXXX  XXXXXX
+XXXXXXX  XXXXXXX
+
+XXXXXX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -603,4 +605,24 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
    The group defeats the creatures in Kord's cave and acquire the [Stone of Kord]
    The group makes thier way back to [Arabasta]     
      -long rest
-   
+     
+++++Session 23
+    [Tessa] engraves a unicorn into a building at [Arabasta]
+    [Quinn] attempts to identify the [Stone of Kord]
+    
+    Sailing to [Gorda] - (3 days) XXX
+      -taking along [Kaylin] and [Letho]
+      -Lander Koll is having a ship built since he's been winning in the Brawler arena without Culliford and Nogg here.
+      -Group goes to the Sage's Cellar, [Kyra] obtains the Sigil of the Teleportation Curcle for backstreet of [Luthadel]   
+        -[Leeran] was informed of the assassin bounty on his head, and that the group are marines
+      -[Tessa] seduces [Lander Koll] who was found at the Blooming Orchid
+        -Leads Lander to the boat
+        -[Tessa] + [Quinn] end up killing Lander in a private room of the boat
+        -[Tessa] Flys+Dimension doors over the boat construction and drops the unconcious body of [Lander Koll] onto the construction site
+            -"Regards from House Salazar and Letho"
+      -[Letho] abandoned at [Gorda]
+    
+    Sailing to [Dun Morhen] - (5 days) XXXXX
+      -party arrives at [Dun Morhen]
+      
+      

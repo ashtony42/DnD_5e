@@ -33,6 +33,8 @@ Tempren
     DC 18+  10 Temporary HP
     
 Shield/Armour:    
+  Radiant Resistance:
+    DC 15+  radiant resistance for the next attack that does radiant damage
   Rebuke
     DC 18+  1D10 to the attacker when struck (or shield slam) the next time
     DC 22+  2D10 to the attacker when struck (or shield slam) the next time
