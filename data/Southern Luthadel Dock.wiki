@@ -1,0 +1,20 @@
+﻿++ Southern Luthadel Dock
+
+A dock area that only has a few people present, primarily used for rare occasions when [Luthadel] does trade with other places.
+
+There is a land path that leads north from the docks to the main city of [Luthadel] that is lined with the remains of destroyed plants that attempted to grow along the path.
+
+
+-Giant Hyena Metal Cart stable
+    -2 Giant Hyena's are present (animal handling roll of 18+ to not be attacked)
+    -1 Metal Cart (able to carry 2000lbs) - to be pulled by the two Giant Hyenas
+    -2 [Iksar] guards
+    
+-Docks
+    There are no vessels present at the docks, the neglected wooden planks jut out into the ocean 
+    
+-Several Empty Buildings
+    maybe they were more populated decades ago, but they are collecting dust
+    -investigation of 18 will reveal a trap door that connects to a single underground tunnel that leads to a wooded area well outside of the south dock
+    
+    

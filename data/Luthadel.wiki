@@ -6,9 +6,9 @@ A dark gloomy city in [Norrath]
 Luthadel is ruled by the God King [Venril Sathir]
 Speaks Draconic, common, dwarvish, elvish
 
-Next in the heirarchy are [Steel Inquisitor]s, who have undergone a transformation to make them more dragonlike. They are lawful evil and are responsible for keeping order in luthadel. Can sense metal.
+Next in the heirarchy are [Steel Inquisitor]s, who have undergone a transformation to make them more dragonlike. They are lawful evil and are responsible for keeping order in luthadel. Can sense magic.
 
-A strong nobility of Iksar live here, almost all of them own slaves, a mixture of other common races, called Skaa as a slur.
+A strong nobility of [Iksar] live here, almost all of them own slaves, a mixture of other common races, called Skaa as a slur.
 Primarily speak Draconic, but speak common to Skaa.
 (use Lizardfolk pg 204 of monster handbook)
 
@@ -29,6 +29,7 @@ several market areas run by skaa
        -clothes, shoes, brooms, other house supplies
 city square
     -where occasional public executions happen
+    -weenie: [Execution of Quaal]
 Temple of the [Order of Steel]   
     -main one by the God King's Palace where [Head Bishop Skarjun] resides
     -Skaa Temple North
@@ -39,13 +40,18 @@ Temple of the [Order of Steel]
 -[Dallben the Vegetable]'s house   
 -Concealed Back Alley Mage Teleportation Circle 
 
+-Grand Docks
+    -5 Metal [Order of Steel] warships are docked here, each one has up to 5 [Steel Inquisitor]'s aboard
+    -administered by a order of steel brother that works from a nearby building.
+    -2ish skaa per ship are responsible for keeping the boats wiped down and clean.
+
 Luthadel Black Market merchants:
   -Iggy, half-orc F (strong woman able to carry wares to sell)
      -Etherium Ingot - 400g (1 lb ingots)
      -Mithril Ingot - 200g (1 lb ingots)
      -Platinum - 600g (1 lb ingots)
   -[Emmik], old human, M (poor wizard that can summon loafs of bread)
-  -[Quaal]'s Feather Tokens (Human, F)
+  -[Quaal]'s Feather Tokens (Human, M)
   -[Leeran] human, his shop is similarly located in a back alley that slopes down, a similar ward is in place, as well as permenant invisibility to any creature that has a hint of Iksar blood in them.
 
 There are several groups of criminal skaa in Luthadel, one such group had close ties with [Renegade Leader Kelsier] who in recent history made an escape from [Kunark] with about 50 refugee skaa. A smuggler, [Dockson] was responsible for getting in touch with the [Golden Hand] who helped turn the tide and allow their escape.

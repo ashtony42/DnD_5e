@@ -17,7 +17,7 @@ B. Crypt
     Many former high ranking members of the Order of Steel are buried here. 
     
     In one tomb (at the top left) is a secret door in the back), the openings to these tombs are 2ftx3ft and are 6ft long. 
-    -Investigation of DC 15 will uncover the door
+    -Investigation of DC 17 will uncover the door
     -Players make perception rolls while moving through the crypt.
         -if failed on a DC 14, a Shadow (page 269) emerges and makes a surprise strike at the character with advantage.
     A. a box containing a relic from one of the fallen Order of Steel members
