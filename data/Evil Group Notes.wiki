@@ -671,4 +671,16 @@ Teleport back to the cave to the Material Plane
       
     Group travels by sea to [Luthadel] - 8 days
        
-    
+++++Session 42
+    Group arrives at the [Southern Luthadel Dock]
+      -slays the two stable guards
+      -feeds corpse to Hyenas
+      
+    Group walks along path to [Luthadel]
+      -Kreiger and Edan ignite plantlife along the way north
+      -[Vulcan] Awakens a tree to join them
+      
+    Within [Luthadel]  
+      -the group fights their way in, slay the group of 8 inquisitors that come to intercept them
+      -the group rests just outside of the food sales area to the south 
+        
