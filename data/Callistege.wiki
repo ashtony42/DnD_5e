@@ -1,0 +1,16 @@
+﻿++ Callistege
+
+Human jewler who works with Mithril and Etherium in [Luthadel], sells to the [Iksar] nobility.
+
+can make: 
+    -Reinenforced-Etherium Dimentional Shackles (pg 165)
+        -400g, 10 days to make, requires 1 lb of Steel/Iron and 1 lb of Etherium
+        
+    -Mithril Chime of Opening (pg 159)
+        -200g, 5 days to make, requires 1 lb of Mithril
+        
+    -Mithril Amulet of Proof against detection and location (pg 150)
+        -100g, 3 days to make, requires 1 lb of Mithril
+        
+    -Gem of Seeing (pg 172)
+        -100g, any gem worth 100g or more, 3 days to make          

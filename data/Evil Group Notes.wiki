@@ -682,5 +682,15 @@ Teleport back to the cave to the Material Plane
       
     Within [Luthadel]  
       -the group fights their way in, slay the group of 8 inquisitors that come to intercept them
-      -the group rests just outside of the food sales area to the south 
+      -the group rests just outside of the food sales area to the south
+      
+++++Session 43
+    If the group attempts a rest:
+        Skaa thieves will attempt to loot them (perception 15)
+        Can be spotted by the meditating elf
+        Upon a successful rest, [Quaal] will be dead, beheaded, and on display in the town center
+
+    -Cael told by [Croaker] through sending to kill the skeletons before they turn feral
+    
+    4 inquisitors and [Venril Sathir] approach
         
