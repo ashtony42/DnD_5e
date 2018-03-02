@@ -10,10 +10,10 @@ STR 20, DEX 20, CON 20, WIS 20, INT 20, CHA 18      SPELL SAVE DC   SPELL CAST A
 
 300hp
 AC 18+3 God King's Etherium Inlayed Platemail (req str 18)
-Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook)
-Ring of Telekinesis (pg 280 player handbook)
-Ring of Regeneration (pg 191 DM handbook) +1d6 HP per 10 minutes, body parts can regrow after a few days
-Ring of Jumping
+Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook) dull grey stone circles
+Ring of Telekinesis (pg 280 player handbook) silver with two hands grasping a yellow gem
+Ring of Regeneration (pg 191 DM handbook) +1d6 HP per 10 minutes, body parts can regrow after a few days, wooden with a vine engraved in it
+Ring of Jumping silver with two feet grasping a blue gem
 Four Etherium Inlayed Rapiers 1d8+5(+11 to hit)
 
 Actions: 3 per round
@@ -47,3 +47,11 @@ Etherium element
     Damage Vulnerable:
         Necrotic, Psychic, Radiant, Force
     Can form extra limbs and add an additional melee combat action.    
+    
+Upon defeat:
+    "You don't know what you're doing!" 
+    "You've doomed this world!" 
+    "Ancient gods will destroy this world!"
+    "They will not make their mistakes twice"
+    The Ash Mount of [Kunark] will violently erupt as [Gruumsh] is freed. A wave of energy calls out/empowers his followers (if any remain)
+    

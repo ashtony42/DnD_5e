@@ -16,6 +16,13 @@ When Released:
     
     Titan Maul - +20 TH, reach 15ft, 10d6+14, DC 19 CON save or be stunned until Gruumsh's next turn
     
-    
+++++Gruumsh's Favor
+    Left eye will itch(until removed)
+      -removing will grant
+       - the ability "Gruumsh's Augery" as an action instead of a spell
+       - +2 STR
+       - +1 Repor with ORCS
+       - Extra 1d8 on all melee weapon attacks
+       - -2TH on range attacks
     
     

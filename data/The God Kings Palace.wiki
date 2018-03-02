@@ -53,6 +53,7 @@ G. [Venril Sathir]'s room
     -A room lit by a fireplace. A large bed to the left and a desk to the right, where Venril Sathir can be found sitting.
     -A stack of 10 Etherium ingots are nicely stacked on his desk
     -A row of 10 Etherium ingots are in a row under the foot of the bed
+    -notes in draconic on the desk (determine writing)
     
 H. The Dungeon
     -A. Wife of Lord Stayanoga, Korinn is held here, to ensure Stayanoga doesn't find motivation to leave [Luthadel]

@@ -1,5 +1,6 @@
 ﻿++ Execution of Quaal
 
+[Quaal]
 A large gathering of grungy skaa are gathered at the city square where a large wooden platform has been erected for the occasion. The platform has dark stains that seem to run down the sides of it, leading up to a central chopping block, for executions.
 
 Speech by a brother of the [Order of Steel]
