@@ -1,14 +1,17 @@
 ﻿++ Asmodeus
 
 God of Tyranny
-Oversees [Dun Morhen]
+Had a portal connection to [Dun Morhen]
 Symbol: Three triangles in a tight formation
 
 one of the earliest gods to be banished, by the other gods due to attacking areas that did not belong to himself, and being placed between other greater powers like the conflict between Bahamut and Tiamat.
 
-His Portal on [Dun Morhen] was purged of it's magical power by the previous waykeeper being slain, and the ritual books purged from history, trapping Asmodeus in Nessus of the Nine Hells
+His Portal on [Dun Morhen] was purged of it's magical power by the previous waykeeper being slain, and the ritual books purged from history, trapping Asmodeus in [Nessus] of the Nine Hells
 -a waykeeper must attune to the stone entryway, and paint the entirety of the stones with their own blood to activate. 
 -the portal is only closed when the waykeeper is slain
 
 When Released:
     -Devils may stumble upon the portal and begin entering the world.
+    
+Generals:
+        [Moloch]

@@ -25,3 +25,8 @@ The inside is littered with broken human arms, the remainder of each respective 
         -+20 HP per round
     -has no arms
     -at the bottom of a large hole
+    
+++++Grogar's Kaladim
+    [Gruumsh] has opened up a portal in the depths where some orcs has passed through into the material realm, and have constructed a crude defensive chamber against the [Mistwraith] purple worm until thier commander, [Grogar] sets them free. 
+      - the portal leads to a cube in the plane [Acheron] that contains a large segment of Gruumsh's followers
+      - the portal has a red glow coming from beyond it's rocky tunnel 

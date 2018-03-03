@@ -714,13 +714,18 @@ Teleport back to the cave to the Material Plane
     
     Croaker gets a Dancing Sword (pg 161)
     
-    Lightning's soul gets sucked into the void
+    [Lightning]'s soul gets sucked into the void, now owned by [Vecna]
     
     Vulcan loses all non-magic items
     
-    Deck:
+    Deck of many things cards pulled:
     20,19,18,17,14,13,12,11,10,8,7,6,5,4,3,2,1
          
     Group teleports back to their ship at the Southern Luthadel Dock     
     
     Grogar stabs out his left itching eye and offers to [Gruumsh]
+      -gains Gruumsh's favor
+      
+++++Session 45
+    Weenie: if they the group travels at sea, one of those days, a large flock of several thousand crows will fly from behind, ahead of them
+            ([Crones of Neriak])

@@ -18,3 +18,8 @@ Traits to be restored:
 -1 CON RESTORED
 -10 HP RESTORED
 -1 lvl 3 slot
+
+Edan is hunted by one of the Devil [Moloch], the top General of [Asmodeus]
+    - he is tasked with obtaining from [Edan] the great power that could tear the fabric between the planes
+    - tempting him to strike the conduit soldiers that periodically will attack him.
+        - radiant damage in excess of 200damage will tear a connection to [Nessus]
