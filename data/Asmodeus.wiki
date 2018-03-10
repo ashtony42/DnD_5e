@@ -14,4 +14,4 @@ When Released:
     -Devils may stumble upon the portal and begin entering the world.
     
 Generals:
-        [Moloch]
+        [Moloch] - pit fiend from the 8th layer of the 9 hells, tasked with acquiring [Edan]'s [Regdars Radiant Hilt]

@@ -18,7 +18,7 @@ XXXXXXX XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
-XX<F>
+XX<F>XX
 
 +++FEYWILD CALENDAR
 XXXXX
@@ -718,14 +718,37 @@ Teleport back to the cave to the Material Plane
     
     Vulcan loses all non-magic items
     
-    Deck of many things cards pulled:
-    20,19,18,17,14,13,12,11,10,8,7,6,5,4,3,2,1
+    [Lolth's Deck of Many Things] cards pulled: 20,19,18,17,14,13,12,11,10,8,7,6,5,4,3,2,1
          
     Group teleports back to their ship at the Southern Luthadel Dock     
     
     Grogar stabs out his left itching eye and offers to [Gruumsh]
       -gains Gruumsh's favor
       
-++++Session 45
-    Weenie: if they the group travels at sea, one of those days, a large flock of several thousand crows will fly from behind, ahead of them
-            ([Crones of Neriak])
+++++Session 45             
+    The group silences thier startled companions [Dockson]/[Korrin]         
+        -set sail away from the island for the night to evade the ash storm
+        
+    [Anton] draws the DonJon card from [Lolth's Deck of Many Things], dissapearing into an orb in the [Demonweb]
+    [Edan] draws the Knight card, granting him a level 4 fighter companion
+    
+    [Lolth] is brought back by completing her deck of many things
+        - creates a one-way web portal upon the top deck of the ship  
+        
+    [Edan] undoes the effect of drawing the Balance card of the deck of many things, becomes Chaotic-Evil       
+        
+    [Grogar] uses inspiration to learn how to better use his woody powers
+    
+    sailing back to [Luthadel]    
+        - a large flock of several thousand crows will fly from behind, ahead of them ([Crones of Neriak])
+        - the boat is parked at the inner docks instead of the southern luthadel dock
+        - the group enters through the south gate, rejoining their awaken tree companion
+        
+    heads to [House Stayanoga]
+        - kills a few guards
+        - kills Mistress [Korinn] after retreiving a silver mirror    
+        - ressurects the Mistress, and gets rewards from Lord Stayanoga
+        - transfers employment of shipwright B'zon and 7 dockworker skaa to King Grogar
+        - then immediately betray the lord and mistress, killing them
+        - teleports bookshelf from [House Stayanoga] and the party back to the ship at the inner dock
+        

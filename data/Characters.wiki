@@ -52,6 +52,7 @@ Legendary Heroes:
     [Taman]
     [Thrasher]
     [Nogg]
+    [Leeran]
     
 [Marine HQ]
     [Eglath Kalagiano]

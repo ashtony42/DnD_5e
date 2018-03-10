@@ -20,7 +20,7 @@ LOGIA
 7. Ice element [Aokiji]
 8. Light Element [Kizaru]
 9. Gold element
-10. Wood element [Grogar]
+10. Wood element [Grogar] - vulnerable to fire, resistance to blugeoning, (oak/mohoganny/pine/maple/walnut)
 11. Glue element
 12. Crystal element
 13. Shadow element 
@@ -58,6 +58,7 @@ PARAMECIA
 14. Separation - body can deteach and reatach and be reconfigured at will, immune to being cut
 15. Unlucky [Redbeard The Unlucky] - bring poor luck to one's self and everyone around them. -1 to all rolls
 16. Projection - the user's body becomes a vegetable that no longer needs to breathe or eat, and instead, the user's presence is now projected by an image (can only interact with magical objects) [Leeran]
+17. Life Storage - the user is able to store thier own or other creature's life forces into objects, with explosive results [Regdar]/[Regdars Radiant Hilt]
 
 THARIZDUN REBORN
 1. Feather - the user nor anything they are in direct contact with weighs anything

@@ -29,6 +29,11 @@ Rummaging through them will yield trinkets (roll on the trinket chart pg 160)
     -Eversmoking bottle - pg 168 - a brass bottle with a lead-stopped mouth that has smoke leaking out from inside
         -command word 'disperse'
     -Oil of Etherealness - pg 183 - A stopped vial that has generates cloudy gray oily condensation that quickly evaporates.    
+EVIL GROUP NOTE:
+    -soon to be new lair of the [Crones of Neriak]
+    -the crones begin breeding more of the mistwraiths now that they are no longer tied to [Venril Sathir]'s control
+      -3 [Mistwraith] "pit fiend" human/wyvern/owlbear/bulette monstrosities will be present
+    -this corridor will appear and feel to be a stone wall via illusion (DC 20, level 6)  
     
 +++TOP CHAMBER
 a nest made from clothes,leathers,fur scraps acquired from victims, contains 1D4 Wyvern eggs (10 lbs each)

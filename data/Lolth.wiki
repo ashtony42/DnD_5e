@@ -3,6 +3,9 @@
 Goddess of spiders and lies
 Oversees:
 Symbol: Eight pointed star with a web motif
+Home Plane: The Demonweb (see pg 62 of DM book)
+
+Can see through any lie or deception
 
 Was magically "puzzled" into a deck of many things via the 'void' card. (pg 162 DM)
 
@@ -10,3 +13,15 @@ Is released by completing the full [Lolth's Deck of Many Things], found in [Venr
 
 When Released:
    -begins building systems and organization around her for self preservation in hidden parts of the world.
+   
+Can grant Lolth's boon:
+   -proficiency in deception
+   -proficiency in animal handling(insects)
+   -proficiency in language undercommon
+   - +1 DEX/CHA
+   -6 more eyes form on the person's forehead, Lolth's mark
+   -"Orderly Predator" Alignment shift Good=>Neutral, Neutral=>Evil OR Chaotic=>Neutral, Neutral=>Lawful
+   - -2 STR/CON
+   
+
+   
