@@ -1,0 +1,20 @@
+﻿++ Hadar
+
+Hadar manifests by being summoned into other realms by warlocks.
+
+Hadar appears as a mass of black tenticles.
+
+[Hadar] is forever trapped in the [Demonweb], always searching for an exit, a way to leave, and takes advantage of every portal presented to him by his followers.
+
+Hadar is born of darkness, so after every time he is killed in the [Demonweb] he is born anew in it's dark confines.
+
+Hadar survives by consuming the mist of [Lolth]'s followers.
+
+
+HP 275 AC 12
+
+
+
+
+
+You open a gateway to the dark between the stars, a region infested with unknown horrors. A 20-foot-radius sphere of blackness and bitter cold appears, centered on a point within range and lasting for the duration. This void is filled with a cacophony of soft whispers and slurping noises that can be heard up to 30 feet away. No light, magical or otherwise, can illuminate the area, and creatures fully within the area are blinded. The void creates a warp in the fabric of space, and the area is difficult terrain. Any creature that starts its turn in the area takes 2d6 cold damage. Any creature that ends its turn in the area must succeed on a Dexterity saving throw or take 2d6 acid damage as milky, otherworldly tentacles rub against it.

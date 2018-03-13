@@ -1,0 +1,21 @@
+﻿++ Demonweb
+
+the home realm of [Lolth]
+
+++++Portals
+the demon web portals are thick, webbed, and sticky. The more a person or creature struggles in the snare, the more caught up they become, eventually working thier way into the Demonweb. These portals do not grant passage out of the demonweb, the creature in a sense becomes "trapped"
+
+Lolth's demon children have been trapped here for centuries since ancient times when [Venril Sathir] enslaved the [Koloss] to hunt down and burn every last portal to the Demonweb.
+-Lolth's demon children are very... hungry
+
+[Regdars Radiant Hilt] is ensared in the demonweb, summoning it will send tremors along the web of this realm, guiding [Edan].
+
+++++Realm Mechanics
+  -the entire realm is dimly lit, such that individuals can see about 30ft around them
+  -the walls, the ceiling, the floors are all web, difficult terrain, taking 1 extra foot of movement on foot.
+
+
+++++Places of interest
+[Lolths Hoard]
+  deep within the demonweb, lies [Lolth]'s hoard of items from unfortunate beings that end up in her realm and meet thier doom.
+
