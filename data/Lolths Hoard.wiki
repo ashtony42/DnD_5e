@@ -1,6 +1,6 @@
 ﻿++ Lolths Hoard
 
-++++ Tar River Globe
+++++ 1. Tar River Globe
 This transparent glass sphere encloses a miniature scene of a river of tar running through a wasteland. It also contains a mystical golden liquid, which seems like it would mix with the tar if the globe were shaken. You notice ancient, indecipherable writing around the outer base.
     - consumption of the tar inflicts 3d6 poison + 3d6 necrotic damage to the consumer
         + toward Evil
@@ -10,20 +10,48 @@ This transparent glass sphere encloses a miniature scene of a river of tar runni
         + toward Neutral
 (from the Githyanki tribe between the [Shadowfell] and [The Mortal World])        
         
-++++ 3 pairs of 6-fingered gloves
+++++ 2. 3 pairs of 6-fingered gloves
     These six-fingered gloves are perfectly white. 
     They do not adhere to the sticky silk of the [Demonweb], and most other sticky surfaces
     
-++++ Dimeritium birdcage
+++++ 3. Dimeritium birdcage
     Able to contain a creature that can fit into a 1 by 1 foot cylinder.
       -When a living animal is placed inside this birdcage, the device automatically activates, putting the creature into stasis. Theoretically it could preserve a living being indefinitely, though the cage's size limits this to very small creatures. This cage is inactive.    
       -this is an object saught after by the god of death to be destroyed, but is locked away in this realm.
       
-++++ Survivor's Goggles
+++++ 4. Survivor's Goggles
     The wearer of these goggles sees images of the last 5 minutes of someone/something ([Hadar]) that feels to have existed in the [Demonweb] for a tremendous amount of time, reacting to the images changes what the figure does in the images, always leading to inevitable death by [Lolth]
     -"Its been days, years, weeks, seconds, since I've been trapped in here"
     -"No demon should sustain me like this, what am I?"
     
+++++ 5. Bag of Holding
+    contains [Regdars Radiant Hilt]    
     
+++++ 6. Useless Clockwork Box
+    a small brass box with a single switch, and no way to open it. When the switch is flipped, the box opens, a silver mechanical arm comes out and flips the switch back, then recedes back into the box, locking the box again. This inside is a complex set of bronze gears.
     
+++++ 7. Yarbiri Staff
+    a wooden staff that houses several small insects about the size of your thumb (1d8)
+    when a foe is struck, an insect stings the target for an addition 3d6 poison damage, the creatures die after they sting a target
+    -Yarbiri will nurture and breed the insects slowly, regaining 1 insect per week. 
+    -the insects die within seconds upon being removed from the staff that nutures them.
     
+++++ 8. Loud Box
+    a small wooden cube that has a single button on it. it does not open, feeling like a solid block of wood.
+    When pressed, it lets out a blood curdling screech that tears into the eardrums of all who are nearby.
+    within 10ft - 8d6 damage
+    within 30ft - 1/2 damage
+    within 50ft - 1/4 damage
+    within 2000ft - is audible    
+    
+++++ 9. Plumbus
+    a mechanism made of various flesh and organs stitched and healed together, a faint heartbeat can be heard from it.
+    -an air bladder on one side inflates and defaltes with a slow rythm
+    -an appendage on one side moves in random directions in rythm with the air bladder
+    -an orifice on the opposite side draws in and exhales air in rythm with the air bladder
+    
+++++ Paranoid Circlet
+    a band of living flesh with eyeballs embedded around it.
+    - anyone who wears this has advantage on perception
+    - adds 1 point of madness for every hour it is worn
+    - madness wears off 1 point per day

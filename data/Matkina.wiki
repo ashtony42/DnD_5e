@@ -1,0 +1,41 @@
+﻿++ Matkina
+
+one of the best assassins of [Luthadel] also a follower of [Hadar]
+
+use Assassin pg 343
+
+HP 78 AC 20 (studded leather)
+
+level 5 spellcaster
+
+Loot:
+  - bundle of grasshopper legs
+  - jar with a pickled octopus tentacle
+  - bag of bat fur
+  - piece of coal
+  - a live spider in a jar
+  - 117 gold
+  - 10 plat
+
+Spider Climb
+Jump
+Haste:
+    - 30ft range
+    - +2 AC
+    - advantage of DEX saves
+    - additional action
+
+Arms of Hadar:
+    -10ft range of self
+    -5d6 damage
+    -STR save throw of DC 17
+        -fail: full damage and can't take reactions until Matkina's next turn
+        -success: half damage
+        
+Darkness:
+    - range 60ft, radius 15ft        
+    
+Hunger of Hadar:
+    - 150ft range, 20ft radius
+    - 2d6 cold for starting turn here    
+    - 2d6 acid for ending turn here unless they pass a DC 17 DEX save

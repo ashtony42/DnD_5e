@@ -26,10 +26,6 @@
 [Dungeons]
 
 
-Planes of Existence:
-[Feywild]
-  [Feywild Towns]
-[The Mortal World]
-  [Towns]
-[Demonweb]  
-[Shadowfell]
+[Realms]
+
+[Towns]

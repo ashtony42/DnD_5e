@@ -23,3 +23,17 @@ Desires to leave [Luthadel] with his wife [Korinn] who is strictly held captive 
         -longship - 11,000g
   -black market
         -Order of Steel Warship 20AC 300HP - 30,000g  
+        
+        
+++++Study Books:
+    - The Holy City of Luthadel
+            -founded by ancient Iksar who once ruled the entire continent of [Kunark]
+            -the tribes were united thousands of years ago by [Venril Sathir]
+            -[Kalas] used to be the ancient iksar capital, but has since been abandoned
+    - The Great Age of Peace
+            covers the efforts of ancient iksar lead by [Venril Sathir] that lead to the everlasting peace
+            -the subjugation of the inferior races
+            -the extermination of those who refused to acknowledge the iksar
+                -stubborn dwarves of [Kaladim]
+                -prideful high elves of [Felwithe]
+            

@@ -13,9 +13,15 @@ Lolth's demon children have been trapped here for centuries since ancient times 
 ++++Realm Mechanics
   -the entire realm is dimly lit, such that individuals can see about 30ft around them
   -the walls, the ceiling, the floors are all web, difficult terrain, taking 1 extra foot of movement on foot.
-
+  -exiting is a matter of being "summoned" out, commonly by either a follower of [Hadar] or a follow of [Lolth]
+    -EVIL GROUP WEENIE when exiting via a dark [Hadar] portal, they will appear by [Tessa]/[Quinn] who are fighting in the brawler's ring in [Gorda]
+    -OTHER WEENIE summoned to [Luthadel] by the rogue wizard [Matkina] who is making a getaway from a thieving hiest of [House Stayanoga]
+    -FOLLOWER OF [Lolth] WEENIE the character has a portal open beneath them and are sucked through, companions may follow
+  -attempting to teleport out of this realm will instead cause the caster to teleport to an existing [Hadar] or [Lolth] portal (if any exist)
+    (  
 
 ++++Places of interest
 [Lolths Hoard]
-  deep within the demonweb, lies [Lolth]'s hoard of items from unfortunate beings that end up in her realm and meet thier doom.
+  deep within the demonweb, lies [Lolth]'s hoards of items from unfortunate beings that end up in her realm and meet thier doom. There are multiples of these that have 1d4 oddities within. They appear to wrapped in a thick silk caccoon. (16 AC, 10 HP, or STR check of 16 to tear open)
 
+Skeletons, Skeletons, Skeletons, of many beasts/humanoids/monstrosities
