@@ -4,7 +4,7 @@ Name: Horror Of The Void
 
 SHIPS:
 -Reworked Keelboat from Nowa Huta
-    -Sophia, Lars, Kaylin, [Peiron] + 11 marines
+    -Kaylin
 
 CALENDAR
 XXXXXXX  XXXXXXX
@@ -17,7 +17,7 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
-XXXXXX
+XXXXXXX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -613,7 +613,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     Sailing to [Gorda] - (3 days) XXX
       -taking along [Kaylin] and [Letho]
       -Lander Koll is having a ship built since he's been winning in the Brawler arena without Culliford and Nogg here.
-      -Group goes to the Sage's Cellar, [Kyra] obtains the Sigil of the Teleportation Curcle for backstreet of [Luthadel]   
+      -Group goes to the Sage's Cellar, [Kyra] obtains the Sigil of the Teleportation Cicle for backstreet of [Luthadel]   
         -[Leeran] was informed of the assassin bounty on his head, and that the group are marines
       -[Tessa] seduces [Lander Koll] who was found at the Blooming Orchid
         -Leads Lander to the boat
@@ -625,4 +625,17 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     Sailing to [Dun Morhen] - (5 days) XXXXX
       -party arrives at [Dun Morhen]
       
+++++Session 24
+    The group travels to the ruins in the middle of [Dun Morhen] and converse with the School of the Roc
+    -getting on [Varneth]'s bad side, but [Feronia Vie] still has faith in them
+    -the group convinces them to be able to leave peacfully
+    
+    the group travels back to the boat (being tailed by [Varneth] who watches them closely
+    -found the darkwater pond with rocks/oozes
+    -[Tessa] throws a piece of gold in and makes a with to understand the [Stone of Kord]
+    -[Tessa] + [Kyra] teleport back
+    -[Plosive} + [Quinn] swim  
       
+    the group travels back to the land of [Dun Morhen]  
+    -head back to the ruin but find a new dirt mound from a Bulette and follow it to the scene where they earlier slew 5 bears
+    -3 bear corpses were missing, 2 were heavily consumed
