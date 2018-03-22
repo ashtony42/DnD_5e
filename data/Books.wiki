@@ -2,10 +2,16 @@
 
 [Legend of Regdar]
 [Pantheon of the Dawn War]
-[Holy Tome of the Order of Steel]
 [The Resignation of Kord]
 [Foresake the Gods]
 [Roc Training Notebook]
 [To Kill a Mocking Kenku]
 [Way of the Woad]
 [Strength and Sacrifice]
+
+
+[Venril Sathir] Propoganda Books
+    [Holy Tome of the Order of Steel]
+    [The Holy City of Luthadel]
+    [The Great Age of Peace] 
+    [Kalas the City of Mist]

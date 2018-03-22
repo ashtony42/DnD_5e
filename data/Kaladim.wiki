@@ -6,7 +6,13 @@ Clearing the vines reveals the entrance below the statue.
 
 The inside is littered with broken human arms, the remainder of each respective body is nowhere to be found. Many bricks and other masonry lie about the caves as if they were once part of some previously existing structure.
 
-[Mistwraith] - Purple Worm
+[Mistwraith] - Purple Worm (pg 255)
+500 HP 18 AC
+   Attack: 1 bite
+           1 tail stinger
+           1 claws from the countless arms attached to the Wurm that attack anyone within 5ft (+9 TH, 6D6+9 DMG)
+   Trolls Blood: regain 50HP per round
+   Severed Limbs: 5ft movement, +3 TH, 1d6 DMG        
     -Under Contract by [Venril Sathir] to "protect" the Daughter of the Night, and always consume her arms.
     -Also has hundreds of Human arms
         -claws formed of precious gemstones and metals
@@ -15,7 +21,7 @@ The inside is littered with broken human arms, the remainder of each respective 
             -10 500g gemstone claws
             -156 silver claws
             -312 gold claws
-            -420 copper claws
+            -420 copper claws            
 
 ++++The Dry Well
   Of all the rocky caves, this is the place that most resembles it's original construction, ancient dwarven stonework around what would have been a very deep pool of well water. But instead is now home to the [Daughter of the Night] who screams in agony while futily writing scriptures on the limited wall space with bloody stubbed arms.
@@ -29,4 +35,5 @@ The inside is littered with broken human arms, the remainder of each respective 
 ++++Grogar's Kaladim
     [Gruumsh] has opened up a portal in the depths where some orcs has passed through into the material realm, and have constructed a crude defensive chamber against the [Mistwraith] purple worm until thier commander, [Grogar] sets them free. 
       - the portal leads to a cube in the plane [Acheron] that contains a large segment of Gruumsh's followers
-      - the portal has a red glow coming from beyond it's rocky tunnel 
+      - the portal which is a large Granite cube that has a red glow coming from beyond a rocky tunnel in it
+      - Orcs that came through the portal at first were orcs that got consumed by the [Mistwraith] Wurm, then later used as a dumping zone for prisoners of war from the realm of [Acheron]

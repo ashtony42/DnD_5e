@@ -707,7 +707,7 @@ Teleport back to the cave to the Material Plane
       
     Group rescues the wife of House Stayanoga from the cells in Venril's Palace
     
-    Grogar 
+    [Grogar] 
       -Gains ownership of [Kaladim] via the deck of many things.
       -gets Helm of Brilliance
       -gains 25 2000g jewelry items
@@ -761,7 +761,15 @@ Teleport back to the cave to the Material Plane
     Going to [House Salazar]
      - House Salazar Assassins for EVIL GROUP
      - Grogar kills Lord Salazar
+     - Notes of the highest ranking targets of [House Salazar Assassins]
      
+++++Session 47
+    The group cleans out [House Salazar] and head toward an explosion sound from the North West corner where the emperion of [Gruumsh] has reached the walls. 
+    
+    The group attacks [House Zasheir]
+    8 on balconies w/ cross bows - XXX
+    -5 remaining retreat inside  
+    -battle ended inside the house, (see photo)  
     
     
     

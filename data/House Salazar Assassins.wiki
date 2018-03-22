@@ -16,3 +16,13 @@ Pay rates for tagets:
 Burnt Othur Fumes
     -thrown 80/120
     -puffs out to a 5ft radius immediately and spreads
+    
+Top Targets EVIL GROUP
+    -[Renegade Leader Kelsier] - 500g
+    -"Dalben" [Dallben the Vegetable] - 1200g (SLASHED OUT)
+    -[Vulcan] - 1500g
+    -[Feronia Vie] - 1780g (SLASHED OUT)
+    -[Edan] King Tri-Helm - 2000g
+    -[Croaker] - 3000g
+    -[Krieger] - 4250g
+    
