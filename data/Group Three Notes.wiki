@@ -18,6 +18,7 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
 XXXXXXX
+XXX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -639,3 +640,18 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     the group travels back to the land of [Dun Morhen]  
     -head back to the ruin but find a new dirt mound from a Bulette and follow it to the scene where they earlier slew 5 bears
     -3 bear corpses were missing, 2 were heavily consumed
+    
+++++Session 25
+    follow the bullette tunnels to the bullette den
+      - right tunnel to home area
+      - left toward hunting area   
+      - killed 2 bullettes at the den, credit for killing 3, 5400xp given
+      
+    the group travels carefully back to the ship as to not get the attention of additional bullettes
+      - [Varneth] witnessed all of the battle above, the School of the Roc now knows they are spell casters (particularly [Tessa])
+      
+    [Kaylin] sails the group to [Odus] over the course of 2 days, 6pm arrival
+      - [Tessa] learns to read the [Foresake the Gods]
+      WEENIE FOR NEXT SESSION- a surviving refugee believes the group was actually sent there to save them.
+      
+        
