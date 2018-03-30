@@ -18,3 +18,46 @@ Lead by Lord Zasheir, a crude, tricky person
   -black market
     -dimeritium - 20g per pound (anti-magic properties)
     -etherium - 40g per pound (magic properties)
+    
+Etherium Store room
+    A dimeritium chest that contains 5D4 etherium ingots can be found here, guarded by at least 5 guards
+    Chest has 26AC and can be lockpicked (DC 22)
+    
+Metal Tricket Oddity Room
+    -Bronze lamp that burns darkwater with a dull blue flame
+    -A roll of Gold foil (10lbs)
+    -A Mythril Bell 1ft/1ft, does not produce sound when rung
+    -Brass Needle Cloak 
+      (moving faster than 15ft in a round results in taking 1d6 piercing damage)
+      (unarmed attacks from behind suffer 3d6 piercing damage)
+    -Steam-powered silver dragonfly 
+      (a bit of water and a candle required)  
+    -Scale Model of an [Order of Steel] Warship in a glass bottle
+    -Cast Copper Iksar Skull
+    -Platinum Flute
+    -Jar of ancient Gold coins (200 different pieces)
+    
+Study
+    Caligraphy Tools
+    A map of the [Mines of House Zasheir]   
+    [Holy Tome of the Order of Steel]
+    [The Holy City of Luthadel]
+    [The Great Age of Peace] 
+    [Kalas the City of Mist]
+    
+Bedroom
+    A fanciful king sized bed with Silver columns at each corner.
+    
+    Lord Zashier bing tricky, has a hidden compartment that he utilizes in case of threat to his home. He has avoided many assassinations this way.
+    A wardrobe that from the outside looks like a polished brass wardrobe, but behind clothes toward the back is an etherium inlay enchanted with an effect that makes anyone inside the wardrobe invisible and ethereal. 
+    
+Dining Room
+    8 Chairs - made of Copper
+    1 Table - made of Brass
+    Silver Cutlery
+    A chandelier with three joined dragon heads with maws open, each containing a lit candle
+       - a silver dragon, a bronze dragon, a gold dragon
+
+Kitchen         
+    Iron tools, sharply contrasting to the metal found in the rest of the home. a few Skaa can be found here.
+    

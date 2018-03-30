@@ -14,3 +14,10 @@ Lead be Lord Salazar, high strung, strict, uncompromising
     -hirable [House Salazar Assassins]
 
 
+Armour Room
+    -Traditional Iksar plate mail +2 AC, wearable by dragonkin/lizardfolk/iksar.
+    -Ash Repellant Plate Boots, ash and muck seems to be unable to adhere to them.
+    
+Study
+    -a note with the current high ranking targets of [House Salazar Assassins]    
+    
