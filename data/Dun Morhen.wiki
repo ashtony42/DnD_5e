@@ -30,7 +30,13 @@ Wildlife includes (monster book):
     area of Interest
     [Wyverns Lair]
     
-    
+Darkwater Pond
+    Gray oozes and stones of similar size surround it
+    -radius of about 30ft
+    -about 300ft down, a large red cube (20ft by 20ft) can be found (portal to [Acheron])
+        -inactive so long as the dark water flows over it.
+        -the pond tapers down, such that the red cube looks like a flat red floor.    
+        
 EVIL GROUP NOTE:
     In the ancient elven ruin, is the bloody aftermath of some fierce battle. Seven corpses of elves, humans, and a half orc are about the ground. A large tapestry flies from utop an 10ft iron pole in the center (Luthadel).  
     

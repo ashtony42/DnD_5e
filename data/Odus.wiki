@@ -12,14 +12,19 @@ This escape was made possible by the efforts of the [Renegade Leader Kelsier] wh
 
     The Bonfire Tent
         logs and charcoal 
+        4 people reside in here, and have moved in thier belongings from the surrounding massacred camp
     The mess hall long tent
-        empty barrels         
+        empty barrels 
+        nobody inside         
     Renegade Leader's Tent
-        note on how to contact criminal groups in Luthadel        
+        note on how to contact criminal groups in [Luthadel]        
     Makeshift Docks
         Made from some trees roughly processed.        
     Golden Hand's tent
-        In a bit better shape than the rest of the tents.        
+        In a bit better shape than the rest of the tents.   
+        One surviving member - Jaal (human) (use thug pg 350)
+    Mass Grave
+        a mound with roughly 35 bodies buried maybe a couple of weeks ago (elf/half orc/halfling/human/half elf)         
         
 
 Wildlife:
@@ -27,3 +32,15 @@ Wildlife:
     Hyena (pg 331) CH  0
     Gray Ooze (pg 243) CH 1/2  (found in a central pond)
     Giant Crocodile (pg 324) CH 5
+    
+Darkwater Pond
+    Gray oozes and stones of similar size surround it
+    -radius of about 30ft
+    -about 300ft down, a large red cube (20ft by 20ft) can be found (portal to [Acheron])
+        -inactive so long as the dark water flows over it.
+        -the pond tapers down, such that the red cube looks like a flat red floor.
+        
+Weenie:
+            two young ones still unaccounted for, might have ran
+            -when found, the young girl with be petrified, clutching a knife, barely alive, just skin and bones
+            -nearby, a young boy lies dead, with multiple stab wounds.
