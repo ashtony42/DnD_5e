@@ -33,11 +33,21 @@ several market areas run by skaa
 city square
     -where occasional public executions happen
     -weenie: [Execution of Quaal]
-Temple of the [Order of Steel]   
+++++Temple of the [Order of Steel]   
     -main one by the God King's Palace where [Head Bishop Skarjun] resides
-    -Skaa Temple North
-    -Skaa Temple South
-       -both have 8 [Steel Inquisitor]s and many Brothers from the Order of Steel
+        -underneath the stone slab floor, buried for centuries is a 20ft by 20ft red cube portal to the [Acheron] realm.
+++++Skaa Temple North
+     8 [Steel Inquisitor]s and many Brothers from the [Order of Steel]
+       -holding place of the mortal who ascended to godhood, [Velsharoon]
+       -Velsharoon's skull is shown on display begind dimeritium bars in the main sanctuary, it has an etherium inlay engraved into it. 
+       -The rest of his remains are buried underneath the stone slab of the building.
+       -Placing a ring of spell storage to the skull will infer a charge of the mass suggestion
+           -if [Venril Sathir] is dead, this will only have 3 charges until [Velsharoon] animates
+++++Skaa Temple South
+     8 [Steel Inquisitor]s and many Brothers from the Order of Steel
+       -resting place of the god [Vaprak] who is fused into a 15ft tall by 10ft wide block of dimeritium with abdomen exposed. The block has an etherium inlay all around the abdomen
+       -Placing a ring of spell storage to the abdomen will infer a charge of regeneration
+       -the dimeritium is unbreakable until [Venril Sathir] is slain
 
 -[The God Kings Palace] (use associated dungeon map)
 -[Dallben the Vegetable]'s house   

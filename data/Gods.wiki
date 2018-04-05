@@ -12,9 +12,13 @@
 [Erathis]
 [Tiamat]
 [Bahamut]
-[Corellon]
-[Vecna]
 [Avandra]
-[Kadi]
 [Lolth]
 [Raven Queen] "Death"
+[Vaprak]
+
+Ascended Gods
+[Velsharoon]
+[Vecna]
+[Corellon]
+[Kadi]

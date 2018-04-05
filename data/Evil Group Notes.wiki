@@ -787,3 +787,14 @@ Teleport back to the cave to the Material Plane
     
     the group is traveling to north east [Order of Steel] temple in [Luthadel]
       -the group sees a scene where some iksar guards and brothers are fending off some of the [Koloss]
+      
+++++Session 49
+    POSSIBLE WEENIES:
+        -rogue wizards on the move to protect skaa, after hearing the news of [Venril Sathir]'s death: 
+          [Tara] the apprentice (Evoker)
+          [Matkina] the stealthy (Assassin)
+          [Callistege] the wise (Enchanter)
+          [Leeran] the merchant (Illusionist)
+          [Iggy] the strong (Champion)
+          
+          
