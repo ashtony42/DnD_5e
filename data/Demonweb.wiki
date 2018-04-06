@@ -9,6 +9,7 @@ Lolth's demon children have been trapped here for centuries since ancient times 
 -Lolth's demon children are very... hungry
 
 [Regdars Radiant Hilt] is ensared in the demonweb, summoning it will send tremors along the web of this realm, guiding [Edan].
+  -[Hadar] may be found consuming energies from the sword
 
 ++++Realm Mechanics
   -the entire realm is dimly lit, such that individuals can see about 30ft around them
