@@ -1,31 +1,37 @@
 ﻿++ One Wiki
 
 [AkumaFruits]
-[Characters]
-[Organizations]
-[Gods]
 [Books]
-[Vehicles]
+[Characters]
+[Dungeons]
+[Enchantment]
+[Gods]
 [House Rulings]
-
+[Inspiration Point Usage]
+[Items of Importance]
+[Materials]
+[Organizations]
+[Players]
+[Prisoners]
 [Quests]
+[Realms]
+[Special Creatures]
+[Towns]
+[Vehicles]
+
+
+
 	* WikiSettings
 
 
-[Players]
-[Special Creatures]
-
-[Materials]
-
-[Enchantment]
-
-[Items of Importance]
-
-[Prisoners]
-
-[Dungeons]
 
 
-[Realms]
 
-[Towns]
+
+
+
+
+
+
+
+
