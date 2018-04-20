@@ -18,7 +18,7 @@ XXXXXXX XXXXXXX
 XXXXXXX
 XXXXXXX
 XXXXXXX
-XX<F>XX
+XX<F>XXX
 
 +++FEYWILD CALENDAR
 XXXXX
@@ -806,10 +806,26 @@ Teleport back to the cave to the Material Plane
         -[Grogar] offers sharkbite and eye taker
         
     [Croaker] tells [Cael] to put the back of [Velsharoon] bones into a safe/secure place.
-        -the group earthquakes the North temple of the [Order of Steel]    
+        -[Croaker] earthquakes the North temple of the [Order of Steel]    
         
     The group has traveled to the South temple of the [Order of Steel]
         -discover the dimeritium encased body of [Vaprak]     
         
     the group then flys back to the ship      
         -the 6 skaa from [House Zasheir] made it to the ship
+        -the remainder of [Velsharoon]'s bones were placed in crates on thier ship
+        
+++++Session 50
+    the group is starting at the southern [Luthadel] abandonded dock village
+       -takes a long rest
+       -[Croaker] spends a day working on making a whip into a cat-of-nine-tails (2d4 instead of 1d4)
+       -[Cael] to sail out to the sea a bit away from land, but keep it in sight
+       
+    the group flying back
+       -[Croaker] Scrys to find general location of [Velsharoon]
+       -group finds [Velsharoon]
+       -group fights forces [Velsharoon] back to the [Shadowfell]
+    
+    
+    
+    

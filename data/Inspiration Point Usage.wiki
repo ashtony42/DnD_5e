@@ -6,6 +6,7 @@ Inspiration points are a means by which to go above and beyond and often overrid
 -overcome the bad side effect of something to a degree, [Regdars Radiant Hilt] effects for example
 -automatically pass a difficult skill check
 -change a classes specialization to a different one
+-TODO attunement item add
 
 ++++Spell Related:
 -change out a spell that you normally wouldn't be able to 
