@@ -1,6 +1,7 @@
 ﻿++ Shadowfell
 
-<Luthadel Equivalent City>
-A highly industrious city that trades with the waring factions of [Acheron]
--many smiths
--many ranchers
+[Shadowfell Towns]
+
+
+++++Places of Interest
+[Cess]

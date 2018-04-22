@@ -1,7 +1,6 @@
 ﻿++ Realms
 
 [Feywild]
-  [Feywild Towns]
   
 [The Mortal World]
 

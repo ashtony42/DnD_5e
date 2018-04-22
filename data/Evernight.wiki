@@ -1,0 +1,36 @@
+﻿++ Evernight
+
+the darker reflection of [Luthadel] in the plane of [Shadowfell]
+
+Ruled by the lich [Thargaun]
+
+++places of interest
+
+++++The Black Forge
+    Forge Master [Dar'Shun](M) - undead fire giant
+    A large building with 12 great smoke stacks, 6 on either side billowing smoke from thier respective forges within.
+    Smithing happens swift and rythmicly here, the pounding, quenching, shaping of black steel.
+    Many zombie ogres push around carts of ore and finished product.
+    Thier products are often sold to the Followers of [Kadi] for battle in [Acheron]
+    The 12 great smiths include:
+        -Risdril - Drow(M): snoody
+        -Tard - Ogre(M): sounds a bit more intelligent compared to other ogres
+        -Ravana - Human(M): a vampire
+        
+++++Corpse Market
+    Freshly supplied by those who perished in [Acheron], whether they were once Followers of [Kadi], or other deceased faction members from [Acheron]
+    -Small Corpse: 20g
+    -Medium Corpse: 40g
+    -Large Corpse: 80g
+        
+++++[Lamantha]'s mortuary
+    A place for undead folk to heal themselves, usually supplying the corpse they'd like a limb from, or simply getting some stitching or reattachment done. 
+    -reattach or correct a body part: 10g
+    -replacements: 20g        
+        
+++++Portal to Acheron
+    A large red cube is underground in a temple, and heavily guarded by Fire Giants, the lava river that goes through the city goes down a channel that flows into the cube. On the other side of the cube, is [Kadi]'s strongest bastion in [Acheron]
+        
+++++The Dump
+    bodily remains, chemicals, trash are dumped here to flow into [Cess]
+
