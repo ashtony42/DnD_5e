@@ -16,12 +16,18 @@ Ruled by the lich [Thargaun]
         -Risdril - Drow(M): snoody
         -Tard - Ogre(M): sounds a bit more intelligent compared to other ogres
         -Ravana - Human(M): a vampire
+        -Andre - Goliath(M): old, scarred, humble 
+    Black Steel Items:
+        CURSE: those who are not followers of [Kadi] will have thier movement speed reduced to 5ft and DEX reduced by 8
+        Weapons have +1 DMG
+        Armours add +2 to indimidate rolls
+        (prices are book prices x2)
         
 ++++Corpse Market
     Freshly supplied by those who perished in [Acheron], whether they were once Followers of [Kadi], or other deceased faction members from [Acheron]
-    -Small Corpse: 20g
-    -Medium Corpse: 40g
-    -Large Corpse: 80g
+    -Small Corpse: 20g (goblins/dwarves)
+    -Medium Corpse: 40g (most humanoids)
+    -Large Corpse: 80g (ogres)
         
 ++++[Lamantha]'s mortuary
     A place for undead folk to heal themselves, usually supplying the corpse they'd like a limb from, or simply getting some stitching or reattachment done. 

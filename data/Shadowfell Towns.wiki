@@ -1,4 +1,6 @@
 ﻿++ Shadowfell Towns
 
 [Evernight]
+[Fellhuslyder]
 [Nicosia]
+[Rotting Tower]
