@@ -19,6 +19,7 @@ XXXXXXX  XXXXXXX
 
 XXXXXXX
 XXXXX(August 7th)XX
+XXX
 
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
@@ -657,7 +658,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       
 ++++Session 26
     Docking at the refugee camp at [Odus]
-      -4 rag wearing commoners, Kelsier and the Golden Hand Mercenary are told to get on the ship
+      -4 rag wearing commoners, [Renegade Leader Kelsier] and the [Golden Hand] Mercenary are told to get on the ship
       -the group finds the girl child in the woods that had killed her brother
       -buries the dead brother of the girl at the camp
       -[Tessa] burns two bodies found in a tent
@@ -665,4 +666,29 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     3 days to [Fiore] XXX
       -docks at the east dock
       -500 adventuring experience given 
-    
+   
+++++Session 27 
+   [Kyra] pays a gold to a dockworker dwarf to dock the boat at the East Dock of [Fiore]  (-5s per day)
+   
+   -[Kyra] aquires sharpened sword (+1 DMG for next 10 hits) from [Shirrong Bronzecore] 
+   -[Quinn] [Jaal] and the 5 refugees are taken to the Marine Embassy
+   -[Tessa] returns [Quinn]'s book - obtained [Pantheon of the Dawn War]
+   -[Plosive] getting battle and great axe sharpened by [Shirrong Bronzecore]
+   -[Shirrong Bronzecore] paid 2 gold to experiment on the [Stone of Kord]
+     -after three crits in a row from [Plosive] and [Tessa], the orb vibrates violently and break Shirrong's anvil
+     -Shirrong reccommends Shamil of [Ak'anon] for a new anvil
+     
+   Group heads back to the ship at the East Dock of [Fiore]
+     -sets sail for [Ak'anon] (2 days) XX
+     
+   Group arrives at [Ak'anon]
+      -due to cannons, they demand the gunpowder to be stored during thier visit
+      -[Tessa] meets up with [Shamil] at the Artisan's Enablers and is given a gold to try to identigy the stone of kord
+      -[Tessa] Commissions the best anvil, told to go to [Hemlock] for the skill and [Orla] for the materials
+        -[Orla] says she can get up to 100lbs of dimeritium by next week for 9600gold
+        -[Tessa] wants it shipped to [Hemlock] at [Marine HQ]
+      -[Plosive] goes on a shopping spree at [Namfoodle]s Bamboozlements
+      
+     
+     
+        

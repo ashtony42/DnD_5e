@@ -87,7 +87,7 @@ Places of interest in Mayara:
         -Book [Pantheon of the Dawn War] can be found here
         -[Kerri] is hiding out here from the [Bandits of Deception]
       Market
-        -blacksmith, Shirrong Bronzecore, hearty personality
+        -blacksmith, [Shirrong Bronzecore], hearty personality
             sells/buys all metal based weapons
             sells/buys all metal based armour
             repairs all metal based armour and weapons (costs roughly 10% of the item's value)
@@ -96,7 +96,7 @@ Places of interest in Mayara:
                 -Tempren - 40g
                 -Vectorize - 10g per arrow
                 -Etherium Inlay (7 days) 110g
-            -Sharpening 10g (+1 DMG for the next 5 hits)    
+            -Sharpening 10g (+1 DMG for the next 10 hits)    
         -herbalist, [Harris Flennre] (half-elf), common personality though a bit egotistical
         -exotic food vendor, [Elisha Vanesson] (human)(knows of [AkumaFruits], but tries to be secretive)
             items for sale include bananas, kiwi, cheese, grapes, cave cricket on a stick. (8sp per item (counts as a meal)) 

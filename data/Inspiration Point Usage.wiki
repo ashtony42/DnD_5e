@@ -31,6 +31,7 @@ For a 1 point increase in the following
 -WIS: uninterupted meditation for 3 days
 -INT: 5 days training with a mentor of greater intellect
 -CHA: 5 days of interacting with a large group of people (20+ people?)
+-CRFT:
 
 ++++Spell Related:
 -new spell slot OR additional memorized spell

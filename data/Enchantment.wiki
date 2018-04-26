@@ -42,5 +42,8 @@ Shield/Armour:
 Prestidigitation
     DC 12+  effect lasts for 30minutes
     DC 20+  effect lasts for  1hour
+    
+Dimension Door
+    DC 16+  the item teleports 10ft into the air    
 
 ENCHANTMENT MISSHAP on a 1 pg 140

@@ -9,8 +9,9 @@ Bronze - common - 1g per lb
 Copper - common - 5s per lb
 Glass - uncommon - 1g per lb
 Silver - uncommon - 5g per lb
-Gold - rare
-Dimeritium - very rare, anti-magical properties - soft like hard butter greenish sheen
+Gold - rare - 50g per lb
+Platinum - super rare - 500gp per lb
+Dimeritium - very rare, anti-magical properties - soft like hard butter greenish sheen - 100g per lb 
 Etherium - very rare, magical properties - very hard bluish sheen
 
 Gems and their crushed forms
