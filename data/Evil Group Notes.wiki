@@ -15,7 +15,7 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 
-XXXXXXX
+XXXXXXX XXX
 XXXXXXX
 XXXXXXX
 XX<F>XXX
@@ -826,6 +826,24 @@ Teleport back to the cave to the Material Plane
        -group finds [Velsharoon]
        -group fights forces [Velsharoon] back to the [Shadowfell]
     
+++++Session 51
+    -the group fires off a sunburst on the countless zombies as they leave after forcing [Velsharoon] to the [Shadowfell]
+    -the group flys back to thier ship
+    -the group sets sail eastward around to [Kaladim]
     
+    Stopping at [Kalas]
+      -[Krieger] spending two points of inspiration to master getting in and out of dragon form
+      -kills the 5 [House Salazar Assassins] that were in the shaman king's palace of [Kalas]
+    
+    Returns to the ship and sails for [Kaladim} (2 days) XX
+      -[Croaker] spends an extra day to braid etherium into [Grogar]'s cat of nine tails
+      -the group parks the boat on the west side of [Faydwer]
+    
+    The group sets out to [Kaladim]
+      -defeats the mistwraith purple worm
+      -gets the [Daughter of the Night] from the pit
+      
+    The group goes back to the ship to rest  
+      
     
     
