@@ -1,0 +1,16 @@
+﻿++ Lorian
+
+brother of [Lothric], and is an enourmous brute. Through a combination of the necromancy of [Lothric] and his own cummulative built up constitution from consuming undead who wander into the palace. Lorian is a hulk of an undead.
+
+use Pit Fiend (pg 77)
+
+HP 400 AC 21 (Black Steel Ogre sized armour, helm has no visibility)
+STR 26(+8), DEX 14(+2), CON 28(+9), INT 22(+6), WIS 18(+4), CHA 24(+7)
+
+Movement: 20ft (moves around as needed via Dimension Door from [Lothric])
+
+2 attacks, +10 TH
+  Great Axe - 2d12+9 Slashing
+  Maul - 4d6+9 Blugeoning
+  
+Charge - if moves at least 10ft, require CON 18 save for target to stay standing and take half of 6d6+9  

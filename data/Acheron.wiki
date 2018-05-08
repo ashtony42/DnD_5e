@@ -13,3 +13,15 @@ Factions that are constantly at war:
   
 Archeron is a big cash cow for people of the adjacent realm of [Shadowfell]  
   -food/weapons/armour
+  
+  
+Places of Interest:
+
+Stronghold of [Kadi]
+    -has a direct link to [Evernight], located in the center of the cube.
+    -each of [Kadi]'s soldiers is as strong as a Gladiator (pg 346) and are female
+        -AC 19 of Blacksteel armour
+    -male followers of [Kadi] serve support roles in the war
+        -smiths/stronghold repair and building/tend to the wounded/pray
+        
+    

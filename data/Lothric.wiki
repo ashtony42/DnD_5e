@@ -1,0 +1,19 @@
+﻿++ Lothric
+
+an emaciated necromancer that has no use of his limbs. Was once an experiment of [Velsharoon], and then a personal assistant, but once Lothric gained enough knowledge of necromancy from [Velsharoon], he banished [Velsharoon] to the material realm and assumed rule of [Nicosia]. Occasionally Lothric "hides" to cull some of his population. Hiding entains simply suppressing the [Exanimate Stone] which then allows the hoard of lesser intellect undead to roam and attack at random. 
+
+his withered scalp has 32 eyes all over it, allowing him to see in all directions, keeping him very alert.
+
+A stone embedded in his ribcage is the [Exanimate Stone], a corpse that maintains contact with the stone is granted the intellect it had in life. 
+
+Lothric maintains a Telepathic Bond with his brother [Lorian], and due to his lower intellect, simply instructs him how to move.
+
+
+Use Necromancer (pg 217) HP 100, AC 23 (Lothric favors himself over his brother [Lorian], and will use him as a meat shield.)
+
+INT 22(+6) WIS 18(+4)
+
+
+Spells:
+  Circle of Death - 60ft radius, creatures must beat CON save of 18 or take 10d6 necrotic (or half if they pass)
+  Dimension Door 

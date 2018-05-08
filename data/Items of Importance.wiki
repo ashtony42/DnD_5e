@@ -19,3 +19,8 @@ Spell Scroll of Dark Water Containment
     -Requires to be casted from an establish magic circle, created or prexisting
     -Description:
         This scroll is attuned to the Ash Mount of [Kunark], when used, ash and sludge mixed in the water will be contained from spreading further into waters based on the distance from the caster to the Ash Mount.
+        
+        
+        
+[Shadowfell]
+    -[Exanimate Stone]        

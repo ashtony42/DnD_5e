@@ -18,10 +18,10 @@ Ruled by the lich [Thargaun]
         -Ravana - Human(M): a vampire
         -Andre - Goliath(M): old, scarred, humble 
     Black Steel Items:
-        CURSE: those who are not followers of [Kadi] will have thier movement speed reduced to 5ft and DEX reduced by 8
+        CURSE: those who are not followers of [Kadi] will have thier movement speed reduced to 5ft and DEX reduced by 8 as the weight of the ambient dead bear down on the user/wearer
         Weapons have +1 DMG
-        Armours add +2 to indimidate rolls
-        (prices are book prices x2)
+        Armours +1 AC and add +2 to indimidate rolls
+        (prices are weight of item x10 + 10, due to cost of Black Steel in [Materials])
         
 ++++Corpse Market
     Freshly supplied by those who perished in [Acheron], whether they were once Followers of [Kadi], or other deceased faction members from [Acheron]
@@ -35,7 +35,7 @@ Ruled by the lich [Thargaun]
     -replacements: 20g        
         
 ++++Portal to Acheron
-    A large red cube is underground in a temple, and heavily guarded by Fire Giants, the lava river that goes through the city goes down a channel that flows into the cube. On the other side of the cube, is [Kadi]'s strongest bastion in [Acheron]
+    A large red cube is underground in a temple, and heavily guarded by Fire Giants, the lava river that goes through the city goes down a channel that flows into the cube. On the other side of the cube, is [Kadi]'s strongest bastion in [Acheron]. Fire Giants only speak giant, and are very proud about it
         
 ++++The Dump
     bodily remains, chemicals, trash are dumped here to flow into [Cess]

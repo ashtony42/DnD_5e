@@ -16,3 +16,11 @@ Etherium - very rare, magical properties - very hard bluish sheen
 
 Gems and their crushed forms
 -gem dust value is worth 10% of it's original gem's value
+
+
+
+found in [Shadowfell]
+
+Black Steel - common - 10g per lb         
+        Weapons have +1 DMG
+        Armours +1 AC and add +2 to indimidate rolls
