@@ -6,6 +6,8 @@ Every cube face is habitable, with gravity always being directed towards the cub
 
 The light on Acheron varies between that similar to bright moonlight to that of a dark and cloudy day. The sound of battle resonates around the plane and can always be heard in the distance.
 
+This plane judges those who fight within it. Those whose blood is determined to be the strongest will prove them selves worthy and be propogated by the cubes of this realm. Orcs currently hold this status. A cube devoid of thier precense will not spawn them. Half orcs even have enough orc blood in them to cause the spawning.
+
 Factions that are constantly at war:
   -Followers of [Kadi]
   -The Spawn of [Gruumsh]
@@ -24,4 +26,15 @@ Stronghold of [Kadi]
     -male followers of [Kadi] serve support roles in the war
         -smiths/stronghold repair and building/tend to the wounded/pray
         
+Throne of [Gruumsh]
+    The name of the largest cube in all of Acheron, and even without Gruumsh's precence, is still the most powerful of the three factions of this realm.
+    With thier connection to the mortal realm closed off for so long, they have lost thier supply of weapons and use crude and highly worn out weaponry acquired from the other factions.
+    -Gruumsh's Throne: an enormous series of lesser cubes put together to make a large throne. 
+    -Warchiefs, Eye's of Gruumsh and Orogs populate this cube.     
+    -Whilst in his throne [Gruumsh] is able to actually direct the Throne of Gruumsh cube
+    
+Gruumsh Outpost(on the other side of the portal that leads to [Kaladim])
+    -Lead by orc chief Thokk and Eye of Gruumsh Kansif
+    -If the portal of this cube becomes active through the death of [Venril Sathir], the portal will be used as a means of disposal or interrogation for prisoners
+    
     

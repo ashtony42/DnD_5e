@@ -2,3 +2,6 @@
 
 [Teleportation Circle]
 [Craftsmanship]
+
+Krieger's Dragon Breath
+Recharge by long rest - 2 charges
