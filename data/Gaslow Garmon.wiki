@@ -1,0 +1,23 @@
+﻿++ Gaslow Garmon
+
+human glass blower from [Arabasta]
+
+if reinstated to work at [Arabasta]:
+    -Glass Gauntlets - 200g
+        these thick gauntlets have a geometric cut that form rainbows when the sun hits them
+        also counts as a 1d6 bludgeoning weapon
+    -Sun Orb - 75g
+        A perfectly spherical ball of glass about the size of a bowling ball.
+        When exposed to the sun for at least 30 seconds whilst focused 3ft above a target.
+        1d8+2 fire damage is dealt per round afterward.
+    -Jars - 3c each
+        can close with a good seal!
+    -Decorative Cups - 2s each
+        for the more wealthy folk to drive thier brew from.
+    -Lenses - 50g each
+        sold to tinkers in [Ak'anon] to make telescopes mostly
+    -Colored Glass Rings - 3g each
+        simple, solid colored bands
+    -Glass Elk Bust - 150g
+        a fantastic work of art, that of an elk's head with a 22 point rack, life size!        
+           

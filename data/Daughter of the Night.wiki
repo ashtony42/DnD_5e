@@ -5,3 +5,17 @@
         -+20 HP per round
 
 Is constantly guided by [Kadi]'s hand from another plane of existance to write the 13 books and perform the ritual that will bring her back to this world. Thusly, [Venril Sathir] infused her with ancient trolls blood for near immortality and contracted a Purple Worm [Mistwraith] to guard her so that she will never die or write for as long as she lives. And to prevent any other Daughters of the Night from being born.
+
+When she was young "Diana" was learning to write, and with it discovered that she could do it well. When her elders caught wind of what she was writing, her fame grew quickly, and respectively, [Venril Sathir] had to put an end to it in the most horrific way...
+
+HP 150 AC 18 (natural)
+
+STR 22(+6) CON 22(+6) DEX 12(+1) INT 14(+2) WIS 8(-1) CHA 16(+3)
+Athletics (+9)
+
+3 attacks:
+Unarmedx2  +10 TH, 4d6+7
+Bite       +10 TH, 3d6+7
+
+
+resistant to non-magical physical attacks

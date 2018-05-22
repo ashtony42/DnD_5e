@@ -1,7 +1,10 @@
 ﻿++ Fargrim
 
-Dwarf wizard for 35g who studied at Nowa Huta
+Dwarf wizard for 35g who studied at [Nowa Huta]
 
 
 -ray of frost
 -mage hand
+-levitate
+
+has been tasked with keeping the shores of [3 Helms Deep] safe, and picked up the spell "levitate" by somehow remembering it through muscle memory when a slime nearly got him.

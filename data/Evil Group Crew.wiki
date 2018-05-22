@@ -1,39 +1,37 @@
 ﻿++ Evil Group Crew
 
-14 people
-total food 14
-
-[Dockson]
-[Anton]
-[Taman] - At the 3 Helms Deep Bar/Inn
-[Marta]
-
-[Kerri] - DEAD 
-[Greg] - DEAD
--both thrown overboard at [Dun Morhen]
-
-[Darvin] - Human slave, used to be marine private - Proficient short sword - DEAD
-[Fargrim] - Dwarf Wizard, came from [Nowa Huta]
+"DEAD":
+[Anton] - dissapearing into an orb in the [Demonweb] due to [Lolth's Deck of Many Things]
+[Kerri] & [Greg]
+  -both thrown overboard at [Dun Morhen]
+[Darvin] - Human slave, used to be marine private - Proficient short sword, shot with a cannon by [Anton]
 [Yevelda] - Half orc dockworker - Proficient sailing - DEAD died at [Dun Morhen]
+[Lightning] 
+[Gronk] - the half orc "rogue"
+
+PLACED SOMEWHERE:
+[Taman] - At the 3 Helms Deep Bar/Inn
+[Fargrim] - Dwarf Wizard, came from [Nowa Huta] - defending the shores of [3 Helms Deep]
+3 wolf pups - Left with [Grix]
+
+ON THE SHIP: 24
+[Dockson]
+[Marta] - "Concubine" former servant to [King Jor Doken]
 [Thia] - Wood Elf from [Fiore] - Fisher - DEAD died at [Dun Morhen]
 [Krusk] - Half orc farmer
-
+[Regdar]
+[Mikey B] - [Edan]s loyal companion from [Lolth's Deck of Many Things]
+[Daughter of the Night]
 6 skaa from [House Zasheir]
 
-Cael
-Vulcan
-Croaker
--Jor Doken Flame Skull (pg 134)
-  -"Follow and Protect Me"
-Kreiger
-Lightning
-Grogar
-
+[Cael Caemond]
+[Vulcan]
+[Croaker]
+  -[King Jor Doken] Flame Skull "Murray" (pg 134)
+    -"Follow and Protect Me"
+  -Wyvern, Wicket (3 lbs per day)  
+[Kreiger]
+[Grogar]
 3 baby griffons
-3 pups - Left with Grix
 1 wolf
 
-4 horses  (3 lbs per day) - left at the Menagerie
-1 captured Wyvern, Wicket (3 lbs per day)
-
-2 [Don Kreig] pirate grunts
