@@ -44,6 +44,10 @@ Prestidigitation
     DC 20+  effect lasts for  1hour
     
 Dimension Door
-    DC 16+  the item teleports 10ft into the air    
+    DC 16+  the item teleports 10ft into the air
+    
+Shadow of Moil
+    DC 22+  2d8 necrotic to attacker
+    DC 18+  1d8 necrotic to attacker    
 
 ENCHANTMENT MISSHAP on a 1 pg 140

@@ -14,3 +14,7 @@ Runs a shop in [Ak'anon] called Artisan's Enablers
     -Tinker's Tools - 50g
     -Weaver's Tools - 1g
     -Woodcarver's Tools - 1g
+    -Caligraphy Tools - 10g
+    
+    -paper 2s
+    -parchment 1s

@@ -52,7 +52,10 @@ There are many points of interest in Ak'anon:
 -Alchemist's shop "Potent Portables" (pg 187 of DM book) - [Gimble](M)  
 -Blacksmith "Erky's Small Arms and Armor" - [Erky](M)   
 -Enchanter's shop "Betterific" - [Breena](F)
-
+-Militia Barracks 
+  -Potion Theft at large 
+  -Betterific Theft at large
+  
 
 ++++Underground
 [Ak'anon Mines]        

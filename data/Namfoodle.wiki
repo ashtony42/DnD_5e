@@ -6,7 +6,7 @@ Runs an inventors shop in [Ak'anon] called Namfoodles Bamboozlement
     - glass orb with clockwork fish (wind up) - 10g
     - music box (lacy melody) - 15g
     - brass keyed accordion (+1 CHA when playing music) - 10g
-    - steel lock boxes (25 lb) - 20g
+    - steel lock boxes (25 lb, 1.5ft x 1.5ft) - 20g
     - scale model of Ak'anon, with movable parts! - 15g
     - spyglass - 1000g
     - balista - 500g

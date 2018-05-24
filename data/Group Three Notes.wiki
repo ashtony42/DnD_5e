@@ -19,7 +19,7 @@ XXXXXXX  XXXXXXX
 
 XXXXXXX
 XXXXX(August 7th)XX
-XXXXX
+XXXXXXX
 
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
@@ -667,7 +667,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -docks at the east dock
       -500 adventuring experience given 
    
-++++Session 27 
+++++Session 27
    [Kyra] pays a gold to a dockworker dwarf to dock the boat at the East Dock of [Fiore]  (-5s per day)
    
    -[Kyra] aquires sharpened sword (+1 DMG for next 10 hits) from [Shirrong Bronzecore] 
@@ -689,6 +689,25 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
         -[Tessa] wants it shipped to [Hemlock] at [Marine HQ]
       -[Plosive] goes on a shopping spree at [Namfoodle]s Bamboozlements
       
-     
-     
+++++Session 28
+   [Namfoodle] agreeds to deliver [Plosive]'s flask of dark water to the potion shop in [Ak'anon]
+   [Tessa] interrogates [Kieran]
+     - mask of [Arabasta] acquired by [Tessa]
+     - gets +1 repor with [Warden Tomson Mugroe]
+   [Kyra] "volunteers" at the gnomish militia for 15g
+   
+   Iron Pants placed on the ship, [Quinn] and [Plosive], confused, put the pants on the dock  
+   [Tessa] asks for the report relating to the prisoner that had the mask from [Arabasta]
+   
+   traveling to [Marine HQ] (2 days) XX
+     - quality 21 requisition form made by [Plosive]
         
+    [Tessa] arranges through the office of the [Order of the Gauntlet] to have the dimeritium anvril crafted by [Hemlock]
+     - 1lb dimetrium arcane focus orb
+     (4 more days for the dimeritium order to be filled)
+     XXXX idle days
+     
+    [Hemlock] 2 days for the anvil, 4 days for the dimeritium spell focus 
+     
+     
+     
