@@ -61,4 +61,4 @@ EVIL GROUP NOTE:
             "We need your help, the dark waters have grown stronger, 
             we don't know what's causing this. Please come to the School of the Roc as soon as you can"
     
-    
+    [Crones of Neriak]

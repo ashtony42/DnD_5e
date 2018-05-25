@@ -15,7 +15,7 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 
-XXXXXXX XXX
+XXXXXXX XXXXX
 XXXXXXX
 XXXXXXX
 XX<F>XXX
@@ -854,6 +854,7 @@ Teleport back to the cave to the Material Plane
     -[Krieger] sets the vines around the entrance on fire
     -[Edan] topples the giant dwarf statue that was above the entranceway
     -[Kethra] is found at the mines and forced to join the group as a follower despite there being followers of [Gruumsh] present
+    -[Edan] cursed to sleep
     
     group enters [Acheron], kills all the orcs in the nearby area
     -asks questions to a orc eye of gruumsh
@@ -870,3 +871,18 @@ Teleport back to the cave to the Material Plane
           -[Krusk], [Marta] tending to the baby Gryphons that are getting riled up by the constant shouting. 
         Ultimately, the [Daughter of the Night] forces her opinion upon the others through death threats, and her hulk like strength. The boat reluctantly sails for [3 Helms Deep] for "paper"
         Time Spent Sailing of 3 days needed: X  
+        
+    The group finished the [Mistwraith] by finally disintegrating it, revealing the gems in it's teeth and bones
+      -the group goes back to the ship with [Kethra], to find it missing (the above weenie)
+      -[Kethra] is told to go back to [Acheron] to kill orcs, just as the group teleports back to thier missing ship
+      
+    [Daughter of the Night] informed of a bookshelf of books to write in, the shelf was then places into [Croaker]'s room
+    
+    The group sails to [Dun Morhen] (2 days) XX 
+    
+    [Grogar] crafts some formal documents to [Grix] and the [Augsburg] Mayor 
+      - [Krieger] teleports Vaunea the goliath and 6 rescued skaa from [Luthadel]
+      
+       
+        
+   

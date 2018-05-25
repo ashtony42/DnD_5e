@@ -26,14 +26,14 @@ The inside is littered with broken human arms, the remainder of each respective 
 ++++The Dry Well
   Of all the rocky caves, this is the place that most resembles it's original construction, ancient dwarven stonework around what would have been a very deep pool of well water. But instead is now home to the [Daughter of the Night] who screams in agony while futily writing scriptures on the limited wall space with bloody stubbed arms. 60ft deep.
   
-  Annis Hag - Daughter of the Night
+  Annis Hag - [Daughter of the Night]
     -was given ancient trolls blood to achieve a near immortality
         -+20 HP per round
     -has no arms
     -at the bottom of a large hole
     
 ++++Grogar's Kaladim
-    [Gruumsh] has opened up a portal in the depths where some orcs has passed through into the material realm, and have constructed a crude defensive chamber against the [Mistwraith] purple worm until thier commander, [Grogar] sets them free. 
+    [Gruumsh] has opened up a portal in the depths where some orcs has passed through into the material realm, and have constructed a crude defensive chamber against the [Mistwraith] purple worm until thier commander, [Grogar] sets them free. (100 ft down)
       - the portal leads to a cube in the plane [Acheron] that contains a large segment of Gruumsh's followers
       - the portal which is a large Granite cube that has a red glow coming from beyond a rocky tunnel in it
       - Orcs that came through the portal at first were orcs that got consumed by the [Mistwraith] Wurm, then later used as a dumping zone for prisoners of war from the realm of [Acheron]

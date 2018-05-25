@@ -50,4 +50,9 @@ Shadow of Moil
     DC 22+  2d8 necrotic to attacker
     DC 18+  1d8 necrotic to attacker    
 
+Magic Weapon
+    DC 14+  +1 attack and dmg (magic) for the next 5 hits (10 if etherium)
+    DC 18+  +2 attack and dmg (magic) for the next 5 hits (10 if etherium)
+
 ENCHANTMENT MISSHAP on a 1 pg 140
+

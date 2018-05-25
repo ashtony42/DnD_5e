@@ -6,6 +6,10 @@ Ruled by the lich [Thargaun]
 
 ++places of interest
 
+++++ [Thargaun]'s Mansion
+    Laboratory 
+      - Tome of Stilled Tongue (pg 208 of DM book) (one of a set of five) 
+
 ++++The Black Forge
     Forge Master [Dar'Shun](M) - undead fire giant
     A large building with 12 great smoke stacks, 6 on either side billowing smoke from thier respective forges within.
