@@ -16,5 +16,5 @@ Avatar: Lich (pg 202)
 
 Souls in posession:
   -[Lightning]
-  -[Krieger]
+  -[Krieger] - in the Menageria of the [Rotting Tower]
   -[Robert Culliford]

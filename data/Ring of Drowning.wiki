@@ -1,0 +1,5 @@
+﻿++ Ring of Drowning
+
+This wooden ring has a small teardrop-shaped gem embedded in it. If you put the ring on while underwater, you gain the ability to breathe underwater.
+
+Curse. When you put this ring on while not underwater, your lungs start filling with water. If you need to breathe and can't breathe water, you run out of breath; after a number of rounds equal to your Constitution modifier (minimum 1 round), you drop to 0 hit points and are dying, and can't regain hit points or become stabilized until the ring is removed. A creature must use their action and succeed on a DC 14 Charisma (Arcana) ability in order to remove the ring from you while you are drowning this way.

@@ -70,3 +70,4 @@ THARIZDUN REBORN
 6. Tasty - the user's body has a delectible flavor like a sugary desert, attacts an abnormal amount of bugs and wildlife to them self based on the scent
 7. Stomach of Holding - the user's stomach takes on the traits of the bag of holding, and thusly no longer needs to pass food, but still gets hungry like normal.
 8. Dry - the user's body loses all moisture, turning them into a prune, but this causes no discomfort. Consumed water dissapears. The user does not get thirsty, though they still get hungry as usual.
+9. Portal - the user and a random unfortunate person on the material plane become forever linked by a portal that is now the back side of thier torso. Thier back appears as normal, but anyone or anything can pass through it to the back of the other individual. They cannot pass through thier own portal.

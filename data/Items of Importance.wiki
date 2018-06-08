@@ -24,3 +24,4 @@ Spell Scroll of Dark Water Containment
         
 [Shadowfell]
     -[Exanimate Stone]        
+    -[Vecnas Phylactery]

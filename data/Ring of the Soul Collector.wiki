@@ -1,0 +1,9 @@
+﻿++ Ring of the Soul Collector
+
+All creatures see a dull, black ring that is ice cold to the touch.
+
+For those that are attuned with the ring, it appears to made of a metal that is dark as night and swirls like a galaxy. 
+
+After attuning to the ring, all enemies you slay will have their soul forced into the ring, besides undead and constructs. The ring holds up to 12 charges, and regains 1d4 charges at dusk. As a bonus action, you may spend a charge to force a soul into your weapon, adding 2d6 to your next damage roll from weapons until the start of your next turn, or into your armor, giving you 1d4 additional AC until the start of your next turn.
+
+Curse: When attempting to force the soul of an intelligent(6 Intelligence or more) creature inside an item, you must make a DC 12 Intelligence saving throw, or your own soul will be switched with the creatures, until the greater restoration spell or better is cast on your body. You may avoid this effect by absorbing the soul over a period of one week during which you may not absorb any other creature's souls.

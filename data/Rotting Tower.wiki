@@ -2,11 +2,67 @@
 
 The [Shadowfell] city of [Nowa Huta]
 
-nestled in a region that deteriotates living things within it, it's a city of spirits/ghasts/ghosts
+nestled in a region that deteriotates living things within it, it's a city of spirits/ghasts/ghosts.
 
 This is the home of [Vecna]
 
+AREA EFFECT
+++++Rot 
+For every one hour that time elapses:
+-If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be cursed with rot.
+-If cursed, the target can't regain hit points
+-If cursed, its HP maximum decreases by (3d6) for every 1 hour that elapses.
+
+For every 4 hours while under the curse:
+-add 1 point of Exhaustion (pg 291 of players handbook)
+
+If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. 
+The curse lasts until the target is out of the Rotting Tower's area of effect. (shown on the map) 
+
+++++The Central Tower 
+  50ft x 50ft x 1200ft - each floor is 50ft tall
+This 1200ft tower as seen from afar appears to be in ruin, like it could topple at any moment. A swirling vortex of apiritions surround it revealing thier tormented faces and withered shadows of thier former bodies dragging behind them as they float endlessly. Upon a closer look, the tower appears to be architecturally impossible, and at some points, even levitating. 
+  Traveling through the vortex of souls will grant 1 point of fatigue and 3d6 maximum HP decrease for each pass or round.
+
 Rooms of Interest:
+  [Vecnas Phylactery] Room -
+    
+
+  Menagerie of Souls -
+    This curious room is quiet, and items are laid about this room delicately. Each unique with it's own glimmer. Physically detacted from the floors above and below through a large crack that traces around the perimeter, it is also uncomfortably still.
+    Curated by 15 Wraith (pg 302)
+    Prized souls are stored here, when one is taken by a living being, all others retract into a pocket dimension, from which a respective Wraith emerges. 
+      -[Krieger]: A bronze figurine, one half resembling a human, 
+       the other half that of a dragon with a demon's horn and wing
+      -Sherran: A jagged rusted dagger with a cracked peridot with swirling lights in it's hilt
+       betrayed huband of Jaribdis of the [Crones of Neriak]  
+      -Volothamp Geddarm: A brass telescope that has a bedazzling kaleidoscopic effect when looked through
+       THEE volo, the adventurer, who has learned many things in his travels 
+      -Dack Greyhall: A polished warhammer of sturdy looking make, etched with a long forgotten celetial symbol of Hyragul. The ancient hero that once saved the material plane from an army of demons. 
+      -Yygrool: A miniature taxidermy of an 8 winged water serpent with aquamarine eyes.
+        One of the most powerful troll shapeshifters to have existed.
+    A freed soul will seek out it's body if willing and able, otherwise pass onto the next realm in it's journey.
+
   Laboratory - 
     Tome of Stilled Tongue (pg 208 of DM book) (one of a set of five)
     Tome of Clear Thought (pg 208 of DM book)
+    
+  Staturary Room -
+    Many stone statues of beasts are scattered about this room, including 
+    bears, wolves, falcons, lions, sharks, sloth, boars
+    Investigation 15+ to discover an item.
+    
+    On a claw of a bear standing upright: [Ring of the Soul Collector]  
+    In the beak of a 3ft tall Falcon: [Ring of the Wretched Hag]
+    Pierced through the snout of a Boar: [The Black Ring]
+    Piercing the dorsal fin of a Shark: [Ring of Drowning]
+    
+    the door above appears to be locked, and where would normally be a keyhole, is a grove that could fit a ring. Each ring can open the door.
+    
+  Guarded Layer -
+    No one is allowed past this point, 5 Wraiths (pg 302) see sure of that. This room has seen a bit of battle, and the floor often gives way, DEX save DC 10 when moving around to avoid holes in the floor and from creating new holes.   
+    
+  The Refuse Layer -
+    Sometimes brave individuals make thier way to the Rotting Tower for justice or righteousness, thier dust covers the floor of the first room of the tower. A central spiral staircase with a closed wooden hatch leads to the floor above
+    
+    

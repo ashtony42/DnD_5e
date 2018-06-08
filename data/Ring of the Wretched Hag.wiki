@@ -1,0 +1,7 @@
+﻿++ Ring of the Wretched Hag
+
+A white metalic ring with a pattern that looks crochet'd
+
+This ring changes the owners thinking to hate those younger than them and small defenseless animals. All melee attacks against creatures younger than you deal an additional 1d8 of the corresponding weapon's damage. Any Charisma based checks, except Intimidation which is made at advantage, made against targets younger than the wearer are made at disadvantage regardless of how much younger the creature is. Deception checks made to conceal your hatred of the young are made at advantage. If the age of any target is unknown and not obvious to the wielder, the ring does not function until the information is learned.
+
+Curse. This item is cursed, a fact that is only discernible through the use of an identify spell or through attunement. Once the item is attuned to a creature, the creature cannot remove the ring themselves nor will they communicate in any way the ring is cursed or their desire to be rid of it. Every 24 hours the user wares the ring makes the user's appearance appear thirty years older. Only the use of a greater restoration spell or more powerful magic can revert your appearance.

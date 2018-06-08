@@ -881,7 +881,7 @@ Teleport back to the cave to the Material Plane
     The group sails to [Dun Morhen] (2 days) XX 
     
     [Grogar] crafts some formal documents to [Grix] and the [Augsburg] Mayor 
-      - [Krieger] teleports Vaunea the goliath and 6 rescued skaa from [Luthadel]
+      - [Krieger] teleports Vaunea the goliath and 6 rescued skaa from [Luthadel] to [3 Helms Deep]
       
        
         

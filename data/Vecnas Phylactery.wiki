@@ -1,0 +1,14 @@
+﻿++ Vecnas Phylactery
+
+A deep purple colored glass cube that pulses with a soft glow. 
+
+Attunement:
+-A character in contact with this item is ethereal
+-An attuned character has one additional level 1,2,3,4,5,6,7 spell slots
+-Resistance against Radiant Damage
+-Ability to grapple souls using Wisdom
+-+2 Wisdom
+-20ft fly speed
+
+if [Vecna]'s avatar is slain, it will re-emerge from this Phylactery in 1d10 days
+
