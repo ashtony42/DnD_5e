@@ -5,6 +5,7 @@
 [Wyverns Lair]
 [The God Kings Palace]
 [Cave to Feywild]
+[Cave of Gorda]
 
 [Feywild]
   -[Lantrokixos Lair] 

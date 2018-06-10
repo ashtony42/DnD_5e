@@ -7,8 +7,8 @@ a rather timid layer, currently used as a shelter for wild Draft Horses (pg 321)
 The path inward is blocked by a large boulder (STR 30 check to move)
 
 +LAYER 2
-(lighting is alright, still able to see with the light from the entrance)
-Once removed, a long path that goes downward is behind the boulder. (200ft down, 400ft in, 20ft wide) 
+(lighting is dim, still able to see with the light from the entrance)
+Once removed, a long path that goes downward is behind the boulder. (200ft down, 400ft long, 20ft wide) 
 Mushrooms and other large boulders are found in here.
 When the end is reached, a stone door is found and when touched a loud rumbling will come from where the adventurer's came.
 -Galeb Duhr x5 (pg 139)
@@ -22,17 +22,19 @@ This layer is accessed if the stone door is smashed (HP 50, AC 16)
 (darkvision required to see or other means of light)
 inside is a network of ancient elven ruins 
 
-in a large chamber (40ft by 40ft) will be 5 pedistals with 3 Elven Mummys (pg 228) each, all in a sitting meditation position.
+in a large chamber (50ft by 50ft) will be 5 pedistals with 3 Elven Mummys (pg 228) each, all in a sitting meditation position.
 Another more decorated Elven Mummy Lord (pg 229) sits meditating in the middle of the 5 pedistals
 (15 mummies and 1 lord)
 (use mummy lord lair rules on pg 228-229)
 
 Pedistals have the following finely cut Elemental Gems (pg 167) upon them:
--Blue Sapphire
+-Blue Diamond
 -Yellow Diamond
--Red Corundum
+-Ruby
 -Emerald
--Black Pearl (Black Pudding pg 241)
+-Black Saphire
+
+Removing any one gem will awaken the mummies, who then focus on the person(s) with the stolen gem.
 
 +LAYER 4
 The area of the stone floor where the Mummy Lord sat again bears the Celetial language rune for Tiamat.
