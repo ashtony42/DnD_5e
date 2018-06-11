@@ -41,6 +41,7 @@ East Barracks
             [Giana Yem] - high elf jeweler
             [Tril] (apprentice tailor who lost her master in [Arabasta]) - patchwork tailor that creates new things from old battered items
             [Gaslow Garmon] - human glass blower from [Arabasta] - lacks a workshop to produce wonderful things with, currently makes mosiacs from found broken shards
+            [Fred Funmble Finger] - 
             
     Actor's Theatre
         Lead by Director [Louis Numre] with a crew of 4 other actors

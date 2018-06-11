@@ -23,6 +23,8 @@ Arrows: can enchant an arrow with +2 damage of the type the enchanter can deal
     DC 15+  5ft pushback on next hit
     DC 18+  10ft pushback on next hit
     DC 22+  15ft pushback on next hit
+  Misdirect
+    DC 17+  Next attack against the target has advantage  
 
 Maliabilis
     DC 22+  next 10 hits, cause a cumulative -1 AC to the target, -2 AC if the target is metal
@@ -53,6 +55,9 @@ Shadow of Moil
 Magic Weapon
     DC 14+  +1 attack and dmg (magic) for the next 5 hits (10 if etherium)
     DC 18+  +2 attack and dmg (magic) for the next 5 hits (10 if etherium)
+    
+Spare the Dying
+    DC 19+  target is stabilized when dropped to 0 HP (saps effect from all items worn by the triggering character)    
 
 ENCHANTMENT MISSHAP on a 1 pg 140
 
