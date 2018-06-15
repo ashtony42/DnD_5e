@@ -22,11 +22,20 @@ The curse lasts until the target is out of the Rotting Tower's area of effect. (
 ++++The Central Tower 
   50ft x 50ft x 1200ft - each floor is 50ft tall
 This 1200ft tower as seen from afar appears to be in ruin, like it could topple at any moment. A swirling vortex of apiritions surround it revealing thier tormented faces and withered shadows of thier former bodies dragging behind them as they float endlessly. Upon a closer look, the tower appears to be architecturally impossible, and at some points, even levitating. 
-  Traveling through the vortex of souls will grant 1 point of fatigue and 3d6 maximum HP decrease for each pass or round.
+  Traveling through the vortex of souls will grant 1 point of fatigue(pg 291 player handbook) and 3d6 maximum HP decrease for each pass or round.
 
 Rooms of Interest:
   [Vecnas Phylactery] Room -
     
+  Menagerie of Secrets -
+    Figuring out any of the secrets will cause a point of fatigue
+    (secret monsters from Mordekainens - Allip pg 116)
+      "[Tiamat]'s resting place" (if still resting)
+      "[Regdars Radiant Hilt] resting place" (wherever it may be)
+      "[Bahamut]'s resting place/identity" (whichever is more relevant)
+      "The existence of the [Feywild]" 
+      "The entrapment of [Hadar]"
+      "Sur Rep Ti Tius" password for the warded door to the Phylactery room
 
   Menagerie of Souls -
     This curious room is quiet, and items are laid about this room delicately. Each unique with it's own glimmer. Physically detacted from the floors above and below through a large crack that traces around the perimeter, it is also uncomfortably still.
@@ -46,6 +55,9 @@ Rooms of Interest:
   Laboratory - 
     Tome of Stilled Tongue (pg 208 of DM book) (one of a set of five)
     Tome of Clear Thought (pg 208 of DM book)
+    5 Vials of Wyvern Venom (5 usages each)
+    Empty Spell Book
+    Caligraphy Tools
     
   Staturary Room -
     Many stone statues of beasts are scattered about this room, including 

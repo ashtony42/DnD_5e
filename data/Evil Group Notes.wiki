@@ -15,8 +15,8 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 
-XXXXXXX XXXXX
-XXXXXXX
+XXXXXXX XXXXXXX
+XXXXXXX X
 XXXXXXX
 XX<F>XXX
 
@@ -883,6 +883,31 @@ Teleport back to the cave to the Material Plane
     [Grogar] crafts some formal documents to [Grix] and the [Augsburg] Mayor 
       - [Krieger] teleports Vaunea the goliath and 6 rescued skaa from [Luthadel] to [3 Helms Deep]
       
-       
+    The group goes into the [Wyverns Lair] to slay an old blob monster that bested them, but instead encounter the 
+    [Crones of Neriak] that moved there since the death of [Venril Sathir] to claim some of his [Mistwraith]'s as pets.
+    
+    The group killed all three, thus killing the souls of [Lightning], [Krieger], and [Robert Culliford]
+    
+++++Session 54
+    The group flees the Wyverns Lair and goes back to the ship
+    -[Croaker] loots 3 Wyvern eggs
+    
+    At the Ship after a long rest
+    -the party attempts to ressurect [Krieger] with no success
+    
+    CRONE LOOT
+     -3 glass baubles with a light dancing inside      
+      - Wand of Magic Detection
+      - Ring of resistance necrotic
+      - Amulet of proof against detection and location
+      - 2x Maliabilis Arrows
+     -cleric eye 
         
-   
+    The group retreives a portal to Acheron cube from the dark water pool 
+    -heads back to the ship with it.
+    -attempts to ressurect Kreiger again, failes
+    -releases the three souls that were trapped within the baubles
+    
+    Sails to Fiore (Mohoganny) (2 days) XX    
+    -Croaker Scrys on the way to Mohoganny confirming the survival of [Dockson]'s companions
+    

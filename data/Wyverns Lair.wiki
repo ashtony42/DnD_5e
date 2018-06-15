@@ -38,7 +38,7 @@ EVIL GROUP NOTE:
 +++TOP CHAMBER
 a nest made from clothes,leathers,fur scraps acquired from victims, contains 1D4 Wyvern eggs (10 lbs each)
 
-TOP LEFT CHAMBER
++++TOP LEFT CHAMBER
 a wet chamber with a small pool of opaque black water with wet rocks surrounding it.
         -if the wet rocks are disturbed, Gray Ooze will drop from the ceiling (pg 243)
             -everyone must pass a Dex 13 save or take an opportunity attack and -1 AC corrosion 
