@@ -1,3 +1,6 @@
 ﻿++ Shirrong Bronzecore
 
 Dwarf smith in [Fiore]
+
+keeps his earnings in a Metal box in the pantry
+ - has d100 x10 gold
