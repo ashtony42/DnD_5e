@@ -2,8 +2,15 @@
 
 Weeny:
     Old man Muu is back, and has been non-stop harvesting the new fruits and burning them in large piles outside of town, complaints from towns people about foul smelling smoke.
+    
+    Deformed populace via [AkumaFruits], including:
+      (2)-Speech- Trebble, Gnome M
+      (3)-Jointed- Fyjal, Goliath F, but due to the extra joints being folded over eachother, she appears human sized
+      (4)-Headless- Chip, Human M, frequents the Tavern
+      (8)-Dry- Torrid, Human M, also frequenting the Tavern, ordering an abundant number of drinks, or in the market begging for drink money
+      (12)-You Are What You Eat- Durk, who used to be an ogre over a thousand years ago, now in the human body of Brian, and very confused
 
-Population: 120
+Population: 146
 Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
     -population x2 for low, then x2 that for each higher bracket
 Marine Upkeep: 840g/month   -500G subsidy for Marine Upkeep to offer med taxes
@@ -15,7 +22,7 @@ Treasury: 2527
         
 -East,South,West Gate is reinforced with the stone wall, including a hinged gate.
 -Statue of [Regdar] at the top of the stairs to the noble quarter.
--Husk of Kadi setup at the center of town where the statue of Regdar was.
+-Husk of [Kadi] setup at the center of town where the statue of Regdar was.
 
 Mayor Ubring instructions
 -recruit more citizens, and offer them a halved tax rate for thier first year here
@@ -29,22 +36,24 @@ Populous:
     Nobleman [Garney] - In charge of real estate and establishments
     Servant [Marta] and [Prescilla]
     
-Migrating from Augsburg:
+Migrating from [Augsburg]:
     Mayor Ubring and daughter Anabel
     -Guarded by a [Marines] captain, officer, 8 privates
     
+Refugees from [Luthadel]    
+    -6 skaa women found at a noble house 
     
 -Market Square: Merchants include:  
 	-Farming Supply for tools and hardware supplies. Run by Lenny, a common man.
 		-pitch forks, scythes, tilling tools, seeds, hammers, nails
 	-Pawn Shop for odd items. Run by the weird Mr. Maej, resembling a hunchback. 
         (has an "eye" for the [Crones of Neriak], pg 176 monster book, varnish coated eyeball necklace)
-		-Used swords, Used shields, music boxes, jewelry, rare seashells, luthadel tapestry
+		-Used swords, Used shields, music boxes, jewelry, rare seashells, luthadel tapestry, New [Tharizdun] [AkumaFruits]
 	-Fishing Supply for fishing supplies. Run by Henry, a common man. 
 		-nets, rods, bait, sails, rope. 
 	-News Stand run by a child named Gabe 	
 		
-	-blacksmith, Shirrong Bronzecore, hearty personality
+	-blacksmith, [Shirrong Bronzecore], hearty personality
             sells/buys all metal based weapons
             sells/buys all metal based armour
             repairs all metal based armour and weapons (costs roughly 10% of the item's value)

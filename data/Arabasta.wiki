@@ -45,8 +45,6 @@ Dancer's Stage
     A place where native Arabastan dances are performed. Garb includes a specially carved wood mask with geometric shapes, painted with shades of red/orange/yellow.
     The sandstone slab stays well preserved. 
     -Dancers may have become refugees at [Marine HQ]
-    -Some of them have been known to have affairs with various Nobles for some extra income, which is more accepted in Arabastan culture, but dancers often get in trouble when doing such business in other towns.
-    [Jhaddin] - a fellow who once got in trouble with the [Ak'anon] security when traveling to [Ak'anon] and doing "business" with one of the council member's wives.
 
 ++++Desert Place of Interest
 Buried underneath the sands out in the seeming middle of nowhere of Arabasta is an elven ruin where ancient druids sealed the god [Kord].
@@ -77,3 +75,17 @@ Breaking this stone will open up the ruins where the Stone of Kord can be found.
 ++++Recovered Arabasta
     Places of Interest:
       -[Gaslow Garmon]'s glass shop
+      -Fish Market, very properous, fish being sold for 4cp per lb
+      -Sandstone Masons, newly formed, they are trying to determine who should lead thier guild
+            Shizain (arabastan human), who favors quality regardless of expense and time
+            Jurarralell (arabastan human), who favors productivity to build and expand rapidly, but has no style
+            Targhrey (fioran dwarf mason), who favors dwarven styled imported stone, using experienced methodologies
+      -Dancer's Stage     
+        [Jhaddin] - a fellow who once got in trouble with the [Ak'anon] security when traveling to [Ak'anon] and doing "business" with one of the council member's wives. Saught refuge in [Marine HQ].   
+        Some dancers have been known to have affairs with various Nobles for some extra income, which is more accepted in Arabastan culture, but dancers often get in trouble when doing such business in other towns.  
+      -[Queen Larissa]'s palace
+        A place where many ongoing discussions are happening about how to rebuild [Arabasta]
+        Topics:
+          How to improve defences: hire [Marines]? create a security force like [Ak'anon]?
+            
+            

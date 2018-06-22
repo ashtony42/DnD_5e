@@ -905,7 +905,7 @@ Teleport back to the cave to the Material Plane
         
     The group retreives a portal to Acheron cube from the dark water pool 
     -heads back to the ship with it.
-    -attempts to ressurect Kreiger again, failes
+    -attempts to ressurect Kreiger again, fails
     -releases the three souls that were trapped within the baubles
     
     Sails to Fiore (Mohoganny) (2 days) XX    

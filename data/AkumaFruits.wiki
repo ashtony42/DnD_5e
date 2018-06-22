@@ -60,6 +60,10 @@ PARAMECIA
 15. Unlucky [Redbeard The Unlucky] - bring poor luck to one's self and everyone around them. -1 to all rolls
 16. Projection - the user's body becomes a vegetable that no longer needs to breathe or eat, and instead, the user's presence is now projected by an image (can only interact with magical objects) [Leeran]
 17. Life Storage - the user is able to store thier own or other creature's life forces into objects, with explosive results [Regdar]/[Regdars Radiant Hilt]
+18. Reflection - Damage dealt to others by self     is dealt to self instead
+               - Damage dealt to self by self       is dealt to the thing in front of the character (range applies)
+               - Damage dealt to self by others     is dealt to the other
+               - Damage dealt to others by others   is dealt to self 
 
 THARIZDUN REBORN
 1. Feather - the user nor anything they are in direct contact with weighs anything
@@ -71,3 +75,10 @@ THARIZDUN REBORN
 7. Stomach of Holding - the user's stomach takes on the traits of the bag of holding, and thusly no longer needs to pass food, but still gets hungry like normal.
 8. Dry - the user's body loses all moisture, turning them into a prune, but this causes no discomfort. Consumed water dissapears. The user does not get thirsty, though they still get hungry as usual.
 9. Portal - the user and a random unfortunate person on the material plane become forever linked by a portal that is now the back side of thier torso. Thier back appears as normal, but anyone or anything can pass through it to the back of the other individual. They cannot pass through thier own portal.
+10. Foot Recognition - can't differentiate any person from another unless they are barefoot.
+11. Bean Sprout - accasionally buds magic beans randomly on body (pg 152 DM book)
+12. You Are What You Eat - when the fruit is eaten, the person becomes the last person to have eaten the fruit. 
+                           when the person is eaten, they become the fruit, REPEAT
+13. Upside Down - The consumer's eyes now view the world as if it were upside down (-4 DEX, no longer proficient in Acrobatics)
+                     
+               

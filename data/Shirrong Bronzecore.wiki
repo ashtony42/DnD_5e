@@ -4,3 +4,9 @@ Dwarf smith in [Fiore]
 
 keeps his earnings in a Metal box in the pantry
  - has d100 x10 gold
+ 
+"Secretly" making feathersteel items for the party
+  - For [Kyra]: Feather Steel Knuckles, +1 TH, +1 DMG, (for unarmed strikes) weight 1/4 lbs
+  - For [Tessa]: Feather Steel Amulet, +2 CHA (needs attunement) wieght: negligible
+  - For [Plosive]: Feather Steel great axe +2 TH, D12, Sharpened (+1 DMG for next 5 hits), weight 5 lbs
+ 
