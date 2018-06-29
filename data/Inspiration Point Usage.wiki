@@ -17,6 +17,16 @@ Inspiration points are a means by which to go above and beyond and often overrid
 ++++Feat Related:
 -switch a feat for another anytime
     -on the fly in battle even
+    
+++++Class Level Exchange
+Class levels can be SHIFTED from a high leveled class to a lower leveled class:
+-must meet stat prerequisites for the additional class
+-lose/gain all appropriate traits/skills
+
+Lower class levels can be SPENT to raise a higher leveled class level
+-lose/gain all appropriate traits/skills
+-lose HP equal to the hit die of the lost class and -CON modifier
+-experience is lowered according to the level table in the players handbook respective to the levels being lost
 
 
 

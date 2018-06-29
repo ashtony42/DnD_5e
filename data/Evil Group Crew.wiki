@@ -8,11 +8,13 @@
 [Yevelda] - Half orc dockworker - Proficient sailing - DEAD died at [Dun Morhen]
 [Lightning] 
 [Gronk] - the half orc "rogue"
+[Kreiger]
 
 PLACED SOMEWHERE:
 [Taman] - At the 3 Helms Deep Bar/Inn
 [Fargrim] - Dwarf Wizard, came from [Nowa Huta] - defending the shores of [3 Helms Deep]
 3 wolf pups - Left with [Grix]
+6 skaa from [House Zasheir] - teleported to [3 Helms Deep]
 
 ON THE SHIP: 24
 [Dockson]
@@ -22,7 +24,6 @@ ON THE SHIP: 24
 [Regdar]
 [Mikey B] - [Edan]s loyal companion from [Lolth's Deck of Many Things]
 [Daughter of the Night]
-6 skaa from [House Zasheir]
 
 [Cael Caemond]
 [Vulcan]
@@ -30,8 +31,8 @@ ON THE SHIP: 24
   -[King Jor Doken] Flame Skull "Murray" (pg 134)
     -"Follow and Protect Me"
   -Wyvern, Wicket (3 lbs per day)  
-[Kreiger]
 [Grogar]
 3 baby griffons
 1 wolf
+Brundy - Fire Beetle, incubating 3 Wyvern eggs
 

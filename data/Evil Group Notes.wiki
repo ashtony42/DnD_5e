@@ -16,7 +16,7 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 
 XXXXXXX XXXXXXX
-XXXXXXX X
+XXXXXXX XXX
 XXXXXXX
 XX<F>XXX
 
@@ -908,6 +908,20 @@ Teleport back to the cave to the Material Plane
     -attempts to ressurect Kreiger again, fails
     -releases the three souls that were trapped within the baubles
     
-    Sails to Fiore (Mohoganny) (2 days) XX    
+    Sails to Fiore (Mohoganny) [3 Helms Deep] (2 days) XX    
     -Croaker Scrys on the way to Mohoganny confirming the survival of [Dockson]'s companions
+    
+++++Session 55
+    10lbs of horse meat per day for gryphons + wicket 
+     - extract poison from wicket each day
+     - spend inspiration to gain constitution over 5 days (meditating and cursing himself, causing bleeding from orifices)
+     - wants a gauntlet worth 500g
+       XX
+       
+    Parks the ship at the east dock, travels inland to [3 Helms Deep]   
+     - goes to old man Muu's bonfire of fruits 
+     
+    [Grix] to install the emerald onto the end of [Grogar]'s whip
+    
+    
     
