@@ -82,5 +82,9 @@ Refugees from [Luthadel]
             4 horses
             
 -Northern Fjord
-    -Boat Crane (tested to work easily with keelboats, build for warships, miiight work for metal warships (untested))
-                
+    -Boat Crane (tested to work easily with keelboats, built for warships, miiight work for metal warships (untested))
+        Made with two massive hooks that have many loops of rope.
+        When lowered, a ship can sail through the loops, then pulled up from the waters below.
+        
+        There are three places on the cliff top where a boat can be placed by the crane.
+        Due to lack of space, parking overnight in any of the three spots costs 50g per night, mainly used by marines.
