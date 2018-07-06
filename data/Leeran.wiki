@@ -16,10 +16,12 @@ Items for Sale:
             -[Legend of Regdar] -10g
             -[The Resignation of Kord] -10g
             -[Foresake the Gods] -50g    
-            -[To Kill a Mocking Kenku] -20g      
+            -[To Kill a Mocking Kenku] -20g  
+            -[Holy Tome of the Order of Steel] - 5g    
         -Pearl of Power 300g - pg 184 DM
-        -Etherium Ingot 200g 
+        -Etherium Ingot x 20 200g 
         Gemstones 
+            -3 Diamonds Pink/Yellow/Blue (worth 5000g)
             -10g to 500g valued ones
             -Obsidian Shard - 10g
             -Diamond Dust (worth 300g)
@@ -37,4 +39,5 @@ Items for Sale:
         -lvl 3 Wizard spells: all 300g each scroll
         -Undercommon crafting instructions for Sending Stones - 250g 
         -Quarterstaff Arcane Focus - 5g
-        
+        -Finely Wood Crafted Wardrobe with Etherium inlay
+        -Staff of Fire - 200g

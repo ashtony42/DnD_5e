@@ -59,6 +59,7 @@ Refugees from [Luthadel]
             sells/buys all metal based weapons
             sells/buys all metal based armour
             repairs all metal based armour and weapons (costs roughly 10% of the item's value)
+            20g of value added per day when crafting items + 2g per day
             -Enchantments
                 -Maliabilis - 40g
                 -Tempren - 40g

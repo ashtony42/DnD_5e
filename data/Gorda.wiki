@@ -28,7 +28,7 @@ The Blooming Orchid:
         Rose: is the mistress of the establishment. Elderly woman who knows everyone and everything that happens in Gorda. Wears a red sequin dress. Slick smooth long hair, and a very wrinkly face.
             -Charm Person (Diff 18 Wisdom check) - up to 3 people
         Saffron: wood elf from Kelethin, forced out when she was young. Caters to gentle customers. (20g)
-        Magnolia: half orc, born and raised in Gorda, proud daughter of Rose. Caters to the roughest of customers. (40g)
+        [Magnolia]: half orc, born and raised in Gorda, proud daughter of Rose. Caters to the roughest of customers. (40g)
         Dandelion: human, former slave of [Don Kreig]'s men. Beautiful singing voice. (40g)
             https://www.youtube.com/watch?v=2bSk-8C76dc
         Lavender: halfling, former fisherman in [Fiore] who seeked a more thrilling life. Caters to small customers. (20g)

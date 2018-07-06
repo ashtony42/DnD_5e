@@ -5,3 +5,16 @@ Half Orc Monk who joined the party during the battle of mayara.
 consumed Dodo and Wood Fruits (wood type pine)
 
 Consumed the Portal fruit, Grogar's back is now connected to Magnolia's in [Gorda]
+
+
+Wood Bulk Form
+  - 18 +2 AC from DEX modifiers
+  - -10ft Movement
+  - disadvantage to stealth
+  - -2 DMG
+  
+Buckler Form
+  - +1 AC
+  - -1 DMG with chosen arm
+  
+    

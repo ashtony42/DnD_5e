@@ -1,0 +1,29 @@
+﻿++ Perihelion
+
+Lead by Mechanist [Kalevala] a woman who also is a construct, made purely of gold.
+
+With no living thing existing in Perihelion, there is no source of food or water here, and is purely optimized for it's construct inhabitants.
+-Modrons make up the populous of the Perihelion, they came here long ago with [Kalevala] when she ordered them to. They have sense defected to have wills of thier own.
+-Cadaver Collectors (pg 122 of Mordekainen's) - work mainly in [Acheron] collecting corpses and broken Archeron Iron chunks
+-Steel Predators (pg 239 of Mordekainen's) - act as security within the city, very easily provoked. (INTERNAL TO THE CITY)
+-Retreiver (pg 222 of Mordekainen's) - act as security outside of the city, chasing down criminals/enemies. (EXTERNAL TO THE CITY)
+-Other: Iron Golems, Gorgons
+
+
+Places of Interest:
+  The Acheron Machine:
+    [Kalevala] has constructed a machine that can rip open portals to [Acheron] for the purpose of collecting corpses for the [Shadowfell] corpse market.
+    Powered by Acheron Iron from cube fragments collected from Acheron. Occasionally they aren't sufficient to keep the portal powered, so it is used carefully.
+    
+  The Grand Workshop
+    A room that is a mess of ropes, cranes, tools and large equipment used for constructing the inhabitants of Perihelion. [Kalevala] spends most of her time here.
+    Iron is provided mostly by the decomposition of Acheron Iron.
+    
+  The Oilery    
+    A "bar" of sorts for constructs to acquire oil for thier gears and parts
+    The structure itself is an oil rig that extracts oil from below the establishment.
+    1 gallon of oil: 3 silver
+    
+  The Scrapyard
+    Where spare parts, fallen inhabitants and other mechanical waste are put, often rummaged through by the Modron inhabitants  
+ 

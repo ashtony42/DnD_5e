@@ -24,3 +24,7 @@ found in [Shadowfell]
 Black Steel - common - 10g per lb         
         Weapons have +1 DMG
         Armours +1 AC and add +2 to indimidate rolls
+        
+found in [Acheron]
+
+Acheron Iron - the material the cubes of the plane of made of, while in Acheron, they posess magical qualities, but dimished over time when removed from Acheron, reverting to ordinary iron.        
