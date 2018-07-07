@@ -23,7 +23,7 @@ Frequent Visitors:
     
 Areas of Interest:
 
-The Blooming Orchid:
+++The Blooming Orchid:
         A brothel/bar/inn that's a very boisterous place.
         Rose: is the mistress of the establishment. Elderly woman who knows everyone and everything that happens in Gorda. Wears a red sequin dress. Slick smooth long hair, and a very wrinkly face.
             -Charm Person (Diff 18 Wisdom check) - up to 3 people
@@ -38,7 +38,7 @@ The Blooming Orchid:
         -3sp for a meal
         -2sp for common wine or ale
      
-Brawler's Ring
+++Brawler's Ring
         An area that has been used for brawling competition that the central circle area has worn into a decent sized trench. Gambling and brawling tournaments happen here. Use the following tiers if anyone enters the competition:
         Announcer and organizer: David Coppercap, human
           -Ron Schnopps(human) [Don Kreig] grunt- Guard pg 347
@@ -54,26 +54,31 @@ Brawler's Ring
         Arena: a 25ft by 25ft square 
         Reward: 300g, a free night at the Blooming Orchid  
           
-Shipwright drydocks
+++Shipwright drydocks
         An area where people barter ship lumber, hardware and supplies with each other to improve their vessels.
         Occasionally a ship building festival is held. A person or group may arrive with a bounty of ship materials that all who wish to participate gather together to build a grand ship with great character. The majority of the people in town are journeyman ship builders because of this festival.
         Decker(human) - an incredibly buff, irritable man who is the best shipwright in town.
         
-Boat Docks
+++Boat Docks
         An area where many varieties of ruffians have parked their vessels, guarded by members of their respective crews:
         -[Robert Culliford]
         -2 boats of [Don Kreig]'s fleet
         -a wrecked empty ship
         -2 normal trade vessels
         
-The Sage's Cellar
+++The Sage's Cellar
         A black market for magical items run by wizards. A ward guards the shop, lowering people's strength to 8 when they pass into the shop, as well as concealing the interior from being sensed magically. Items have enchantments on them that won't allow them to pass out of the warded space unless a respective sum of currency is bonded to with with another enchantment (by the store clerk), allowing the item to leave, but the currency to not, as if pressed against a wall. 
         Shopkeep: [Leeran], who only ever appears at the shop as an illusion.
         Mage Teleportation Circle: on the second floor of the building above the Sage's Cellar
 
-[Kyra Usagi] and [Jack the Slumberjack]'s [Cave of Gorda]
+++[Kyra Usagi] and [Jack the Slumberjack]'s [Cave of Gorda]
         Kyra and Jack like a solitary life ever since the imprisonment of thier unstable companion [Kieran Maon]
         -Kyra has befriended 2 of the wild horses for thier personal use when her and Jack need.
+        
+++Cult House of [Asmodeus]
+        Looks like any other drunk's home, poorly furnished. The building has no windows other than the two by the front door. Acts has a resting point sometimes for [House Salazar Assassins]
+        EVIL GROUP NOTES
+        By drawing the card for having a demon become his enemy, [Edan] has caused the Cultists here to have a successful ritual finally! Catching them by a bit of surprise. Ultimately resulting in a devil posessing the body of [Rhogar] of [House Salazar Assassins], enhancing his desire to kill [Edan], and also being more favorable toward the cultists for once.
         
         
 

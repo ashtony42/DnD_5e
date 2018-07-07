@@ -946,7 +946,7 @@ Teleport back to the cave to the Material Plane
     The party long rests at the palace  
       -interrupted at 1am by 'The night of the gentle caress', an arm reaching through [Magnolia] and caresses [Grogar]
       -[Croaker],[Edan],[Smoke] pass through [Grogar] to [Magnolia]/[Gorda]
-      -Another assassination attempt as the group travels through town
+      -Another assassination attempt as the group travels through town by the [House Salazar Assassins]
       -[Edan] buys a room for 10g after being upcharged to 1g at the Blooming Orchid
       -[Croaker] buys a room for 5s with [Smoke]'s body
       -[Vulcan] and [Grogar] rest at the palace

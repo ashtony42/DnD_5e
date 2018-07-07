@@ -4,7 +4,7 @@ Iksar assassins hired out by [House Salazar] on thier 'black market'
 They primarily live at a secret hideout in [Kalas]
 
 These assassins are all children of Lord Salazar
-  -Rhogar (M), Kava (F), Perra (M), Donaar (M), Patrin (F)    
+  -[Rhogar] (M), Kava (F), Perra (M), Donaar (M), Patrin (F)    
 
 use assassin (pg 343)
 
@@ -25,4 +25,5 @@ Top Targets EVIL GROUP
     -[Edan] King Tri-Helm - 2000g
     -[Croaker] - 3000g
     -[Krieger] - 4250g
+    
     
