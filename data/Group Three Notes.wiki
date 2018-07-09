@@ -17,7 +17,7 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
-XXXXXXX
+XXXXXXX  X
 XXXXX(August 7th)XX
 XXXXXXX
 XXXXXXX
@@ -759,11 +759,33 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
             
     The group makes it to [Kunark] to [Jit] guides them up the channel to [Luthadel]'s dock 
     
+++++Session 31
+    [Renegade Leader Kelsier] departs the ship along the channel    
     
+    [Jit] talks with the dockworker about thier purpose for being here
+      -pays 5g docking fee
+      
+    [Plosive],[Jit],[Kyra] explore the southern temple
+      -Kyra turns into a mouse
+      
+    [Tessa] drops 10lbs of gyphon meat at the butcher on the east side of town
+      -sneaks away from the group to go to [Kalas]
+      -encounters two [Koloss] carrying a giant hyena
+      -polymorphs one into a fish and leaves it smelling like a cooked steak
+      
+    [Plosive],[Jit] go to speak with lord of [House Salazar]  
+      -acquire fine clothes to visit house salazar
+      -arrange to trade the [Stone of Kord] for the assitance of [House Salazar Assassins]
+      
+    [Kyra] and [Plosive] rest at the Skaa market west
+    [Tessa] rests at the swamp around [Kalas]  
     
-    
-    
-     
+      
+    [Jit] to stay in town
+    [Quinn] [Kyra] and [Plosive] head to the volcano on [Kunark]
+    [Tessa] continues to [Kalas]
+      
+    [Tessa] stealths into the palace at [Kalas] alone and encounters [House Salazar Assassins] and nearly dies from poison 
      
      
      

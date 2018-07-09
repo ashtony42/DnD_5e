@@ -9,7 +9,7 @@ Desires to leave [Luthadel] with his wife [Korinn] who is strictly held captive 
     -crocodile skin - 1g each
     -all non-metal "trade goods" (pg 157) (price x2)
     -horses
-        -giant hyena 60g
+        -giant hyena (3) 60g  (eat 3lbs per day)
         -warhorse 500g
         -draft 60g
         -riding 90g
