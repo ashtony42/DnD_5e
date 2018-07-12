@@ -1,0 +1,13 @@
+﻿++ Ashmadai
+
+A hidden cult devoted to [Asmodeus]
+
+lead by the dwarven priest [Favria]
+
+the cult has about a meager 10 members, and have not had any successful contact with [Asmodeus] although not due to a lack of trying.
+
+Members have a minor boon:
+
+++++Sense Devils: 
+    (Can sense the presence of devils within 500ft, though not the location)
+    Advantage on Perception rolls for Devils

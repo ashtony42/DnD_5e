@@ -52,7 +52,7 @@ a wet chamber with a small pool of opaque black water with wet rocks surrounding
 +++BOTTOM CHAMBER
         A hallway that curves around, leading to a ruined carved stone entryway 40ftx40ft that has a solid stone wall behind it. The stones are carved with patterns that do not flow, spirals and lumps, holes and spikes
         Abbysal writing on the side columns say: 
-            -LEFT "Tear way to Nessus." 
+            -LEFT "Tear way to [Nessus]." 
             -RIGHT "All fear [Asmodeus]."
             -TOP scratched out and is no longer legible
         -a waykeeper must attune to the stone entryway, and paint the entirety of the stones with their own blood to activate. 
