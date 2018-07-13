@@ -10,7 +10,7 @@ Weeny:
       (8)-Dry- Torrid, Human M, also frequenting the Tavern, ordering an abundant number of drinks, or in the market begging for drink money
       (12)-You Are What You Eat- Durk, who used to be an ogre over a thousand years ago, now in the human body of Brian, and very confused
 
-Population: 151
+Population: 149
 Taxes: 240g/month (low) 480g/month (med) 960g/month (high)
     -population x2 for low, then x2 that for each higher bracket
 Marine Upkeep: 840g/month   -500G subsidy for Marine Upkeep to offer med taxes

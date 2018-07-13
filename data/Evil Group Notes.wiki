@@ -20,8 +20,9 @@ XXXXXXX XXX
 XXXXXXX
 XX<F>XXX
 
-+++FEYWILD CALENDAR
-XXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXX
+[Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
+      - wood woad from a commoner (3 days) XXX
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -31,7 +32,7 @@ XXXXX
 
 Griffon eggs hatch in 15 days - incubates by Brundy the fire beetle
 
-Carpenter's Oak Longbow x2, 100g, 4 days - one done
+Carpenter's Oak Longbow x2, 100g, 4 days -DONE
 
 ++++Evil Session 2 Notes:
 The crew had supplied food to tide over the refugee camp for a few days before they persuaded the [Marines] to let them join along when they departed.
@@ -923,10 +924,10 @@ Teleport back to the cave to the Material Plane
      
     [Royal Armoror Grix] to install the emerald onto the end of [Grogar]'s whip, (2 days to complete) X
     
-++++Session 56
+++++Session 56 Night of the Gentle Caress
     Weenie: [Grogar] wakes up with a human arm sticking out of his back, giving him a caress (from [Magnolia] in [Gorda])
     
-    [Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) X
+    [Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days)
     -deters the woman away from dealing with [Smoke] the tabaxi
     -uses mass suggestion from a ring of spell storage to gather people to the palace
     -[Croaker] loots the house of the noble who recently withdrew gold from thier safe
@@ -941,7 +942,8 @@ Teleport back to the cave to the Material Plane
     [Croaker] passes out goodberries to the people in front of the palace
     
     [Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
-      - the wood woad will have the fruit sprout from it's head (which will turn the next consumer into a mohoganny tree)
+      - the wood woad will have the fruit sprout from it's head (which will turn the next consumer into a mohoganny tree) (3 days)
+      - vulcan takes the drunk that came through the portal on [Grogar]'s back to also turn into a wood woad (3 days)
       
     The party long rests at the palace  
       -interrupted at 1am by 'The night of the gentle caress', an arm reaching through [Magnolia] and caresses [Grogar]
@@ -951,4 +953,36 @@ Teleport back to the cave to the Material Plane
       -[Croaker] buys a room for 5s with [Smoke]'s body
       -[Vulcan] and [Grogar] rest at the palace
       
+++++Session 57      
+      
         Weenie: once established, the Eye of Gruumsh, [Lok'Nar] from [Kaladim] will send word to [Grogar] that the area is fortified and ready for his command through a sending spell.
+        
+        [Croaker] [Edan] and [Smoke] interrogate the [House Salazar Assassins] iksar, revealing the location of the cult of [Ashmadai]
+        -then go back through [Magnolia] to [Grogar]
+        
+        [Vulcan] gives the orders to his two new wood woads "Protect [Vulcan], protect us and protect our realm"
+        -starts the ritual for another wood woad
+        XXXX
+        
+        [Grogar] receives the sending message from the eye of [Gruumsh], [Lok'Nar] in [Kaladim]
+        -stock the armorory with high quality armor and weapons and whips
+        -prospect and mine for diamonds
+        
+        [Daughter of the Night] writes more books in the palace of [3 Helms Deep]
+        
+        [Vulcan] has now created three wood woads!
+        
+        Mayor Ubring gets documents from [Grogar]
+        -Shipwrite + 7 laborors + Architect B'zawn tranfered to [Grogar]'s kingdom of [Kaladim] signed by lord of [House Stayanoga]
+        -Forged document created by [Grogar] transferring the ownership of all of lord Stayanoga's assets
+        
+        [Liciria] [Thia] lead the group through [Acheron] to the [Shadowfell]
+        -[Croaker],[Smoke],[Grogar],[Vulcan],[Liciria],[Thia],[Edan]
+        
+        forces of [Vaprak] encounter:
+        6 Ogre Bolt Launchers (wielding crude balistas)
+        1 dire troll
+        10 Ogre
+        3 chain ogres
+        150ft per round
+        
