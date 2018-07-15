@@ -20,8 +20,8 @@ If the curse reduces the target's hit point maximum to 0, the target dies, and i
 The curse lasts until the target is out of the Rotting Tower's area of effect. (shown on the map) 
 
 ++++The Central Tower 
-  50ft x 50ft x 1200ft - each floor is 50ft tall
-This 1200ft tower as seen from afar appears to be in ruin, like it could topple at any moment. A swirling vortex of apiritions surround it revealing thier tormented faces and withered shadows of thier former bodies dragging behind them as they float endlessly. Upon a closer look, the tower appears to be architecturally impossible, and at some points, even levitating. 
+  50ft x 50ft x 500ft - each floor is 50ft tall
+This 500ft tower as seen from afar appears to be in ruin, like it could topple at any moment. A swirling vortex of apiritions surround it revealing thier tormented faces and withered shadows of thier former bodies dragging behind them as they float endlessly. Upon a closer look, the tower appears to be architecturally impossible, and at some points, even levitating. 
   Traveling through the vortex of souls will grant 1 point of fatigue(pg 291 player handbook) and 3d6 maximum HP decrease for each pass or round.
 
 Rooms of Interest:
@@ -43,7 +43,7 @@ Rooms of Interest:
     Prized souls are stored here, when one is taken by a living being, all others retract into a pocket dimension, from which a respective Wraith emerges. 
       -[Krieger]: A bronze figurine, one half resembling a human, 
        the other half that of a dragon with a demon's horn and wing
-      -Sherran: A jagged rusted dagger with a cracked peridot with swirling lights in it's hilt
+      -Sherran: A jagged rusted dagger with a cracked peridot swirling lights in it's hilt
        betrayed huband of Jaribdis of the [Crones of Neriak]  
       -Volothamp Geddarm: A brass telescope that has a bedazzling kaleidoscopic effect when looked through
        THEE volo, the adventurer, who has learned many things in his travels 

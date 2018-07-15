@@ -59,6 +59,6 @@ Explanation for loss of intellect:
 (you know, like when you remember the lyrics to every song from the 70's, but forget basic algebra, mental strain)
 
 ++++Feat Related:
--new stat consumed depending on nature of the feat (using a trait that seems similar or benefits the feat)
+-stat consumed depending on nature of the feat (using a trait that seems similar or benefits the feat)
     -2 points of a Trait (STR/DEX/CON/INT/WIS/CHA/CRT)
     

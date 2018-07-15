@@ -16,13 +16,13 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 
 XXXXXXX XXXXXXX
-XXXXXXX XXX
+XXXXXXX XXXX
 XXXXXXX
 XX<F>XXX
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXX
 [Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
-      - wood woad from a commoner (3 days) XXX
+      - wood woad from a commoner (3 days) XXX DONE
 
 250g given to Shirrong for doing an etherium inlay, silvering and Maliabilis enchantment to Grogar's Carpenter's Sharktooth Quarterstaff
 -20 days - 18 days crafting - 2 days enchanting - DONE
@@ -985,4 +985,23 @@ Teleport back to the cave to the Material Plane
         10 Ogre
         3 chain ogres
         150ft per round
+        
+++++Session 58
+        Arrives at [Evernight] in the [Shadowfell] after passing through a cube in the [Acheron] that was a [Kadi] stronghold
+        -Croaker commissions a black steel tuning fork worth 250g (6 days) X       
+        -kills a group of 10 wretched by the outlet water canal that leads to [Cess]
+        
+        the group choses to rest at [Lamantha]'s Mortuary
+        
+        800miles from [Evernight] to the edge of the rot lands
+        -traveled by mist form
+        -[Liciria] goes back to [Acheron]
+        -long resting outside of the Rot Lands
+        
+        The group raids the tower working thier way up from the bottom.
+        -learn the secrets of [Feywild], [Bahamut] and [Regdars Radiant Hilt]
+        -obtain the various souls from the Menagerie
+        -slay [Vecna] and [Vecnas Phylactery]
+        -loots a Vorpal longsword, +2 armor with necrotic resistance, cloak of invisiblity
+        
         
