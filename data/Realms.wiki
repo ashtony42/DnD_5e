@@ -1,13 +1,12 @@
 ﻿++ Realms
 
-[Feywild]
-  
+[Prime Realm]
+
 [The Mortal World]
+  [Feywild]
+    [SummerOak]
+  [Shadowfell]
+    [Demonweb]  
+    [Abyss]
+    [Acheron]
 
-[Demonweb]  
-
-[Shadowfell]
-
-[Abyss]
-
-[Acheron]

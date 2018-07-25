@@ -13,6 +13,7 @@ Druidic Library:
     -[Coloca Farming Techniques]
     -[Vegepygmy Cookbook]
     -[Materials of Legendary Craftsmen]
+    -[The Endless Woods]
      
 Druid Shop
     -Focuses:

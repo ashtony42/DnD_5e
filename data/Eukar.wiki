@@ -1,8 +1,9 @@
 ﻿++ Eukar
 
-(Neriak), home of the Vegepygmies, small plant people 
+(Neriak), home of the Vegepygmies, small plant people, within the [Feywild] 
 
 Eukar has a lot of short vegetation and very sunny skies with lots of rain (yes, rain with no clouds, whuuuut)
+There is no central city, but its as if the forest island itself IS the city, and the places of interest are just greatly spread accross the land.
 
 Vegepygmy - (pg 196)
 have no leader, and work in harmony together
@@ -11,3 +12,10 @@ have no leader, and work in harmony together
 
 Mushroom Merchant - Vinir
     -2s per lb of Mushrooms imported from [Otis]
+    
+The Great Oak
+    A central place of festivities for the Vegepygmies
+    Can be activated by Vegepymy druids to open a portal to the realm of [SummerOak]
+      -5 Vegepymy druids of different woods must separately bless water, and water the roots of the [SummerOak].
+      -A hole will open in the side of the tree while the root remain wet with this water
+      -During the genocide done by Neogi, the Vegepymies no longer have thier Mohoganny family to complete the ritual

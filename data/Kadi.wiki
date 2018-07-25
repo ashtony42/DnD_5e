@@ -23,5 +23,15 @@ When released by the Year of the Skulls ritual
   A captain of Kadi's forces in [Archeron] (Champion Volos)      
   Summoned to show a way to the [Rotting Tower] for the EVIL GROUP
   
+  
+  
+Kadi's Boon: God Sense allows a character's Perception skill to sense a god's presence within 100ft    
     
-        
+Use Emperion (from DnD monster manual)    
+  -kadi cannot be disarmed, stunned
+    
+Kadi's Touch: Any weapon wielded or armour worn will have Kadi's touch
+    Similar to the effect of the Black Steel forged by the Black Forge in [Evernight], but highly amplified
+    Weapons: when wielded by a non-follower of kadi, will have thier hit points reduced to 0
+             likewise, being stabbed by kadi will engulf a non-follower with red lightning, reducing hit points to 0
+    Armour: when worn by a non-follower of kadi, they become petrified as a black steel statue.         

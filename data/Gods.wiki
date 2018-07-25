@@ -3,6 +3,14 @@
 
 (can grant Epic Boons (pg 232), +4 Trait Increases (can go above 20))
 
++++Prime Gods
+  All of everything is thier collective creation, they live in the [Prime Realm]
+[Loam] - Matter
+[Ka] - Energy
+[Ur] - Time
+
++++Dominate Gods
+  Gods that have overcome others to persist through the ages
 [Tharizdun]
 [Pelor]
 [Melora]
@@ -16,9 +24,14 @@
 [Lolth]
 [Raven Queen] "Death"
 [Vaprak]
+[Silvanus]
 
-Ascended Gods
++++Lesser Gods (deceased)
+[Hyragul]
+
++++Ascended Gods
 [Velsharoon]
 [Vecna]
 [Corellon]
 [Kadi]
+
