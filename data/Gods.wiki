@@ -25,13 +25,15 @@
 [Raven Queen] "Death"
 [Vaprak]
 [Silvanus]
+[Kadi]
 
-+++Lesser Gods (deceased)
-[Hyragul]
++++Lesser Gods 
+[Hyragul] (deceased)
+[Ahl]
 
 +++Ascended Gods
 [Velsharoon]
 [Vecna]
 [Corellon]
-[Kadi]
+
 

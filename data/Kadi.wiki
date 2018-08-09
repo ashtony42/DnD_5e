@@ -1,15 +1,32 @@
 ﻿++ Kadi
 
-A God of war whose husk is at [Felwithe] awaiting the [Daughter of Night] to awaken her.
+A God of war whose husk is at [Felwithe] awaiting the [Daughter of the Night] to awaken her.
 Realm [Acheron]
+
+[Kadi] was turned into a black steel statue by [Venril Sathir] when he managed to lodge the god [Ahl] down her throught, turning her armour against her as it rejected the will of [Ahl]
 
 She has cold Blue eyes, pale white skin, but her flesh is covered in thousands of scars from her battles. She has Jet black hair that flows like fire over her shoulders. As this avatar, She always wears black metal armor adorned by metal skulls. She has a single skull on her right hip.
 
 Year of the Skulls ritual:
-    -Once the [Daughter of the Night] has written the 13 books guided by [Kadi]'s hand, she must perform the ritual at her husk in [Felwithe]. Each day for 365 consecutive days, a freshly acquired skull must be placed nearby and attuned to the husk by the [Daughter of the Night]. On the 365th day, the skulls will come to life and seek out those who do not follow [Kadi] 
+    -Once the [Daughter of the Night] has written the 13 books guided by Kadi's hand, she must perform the ritual at her husk in [Felwithe]. Each day for 365 consecutive days, a freshly acquired skull must be placed nearby and attuned to the husk by the [Daughter of the Night]. On the 365th day, the skulls will come to life and seek out those who do not follow Kadi 
 
 When released by the Year of the Skulls ritual
     -will begin converting all of her followers into flameskulls and transcend them to her plane of existence
+    
+    Books:
+  DONE-1. Acheron Forever (A description of [Acheron], the cubes, the war) 
+  DONE-2. Birthing Rights of the Dominate (the crude birth cycle of orcs and ogres from Acheron iron cubes)
+      -3. [Gruumsh]'s Fury (A description of death and descruction of Gruumsh unchecked)
+      -4. [Vaprak]'s Gluttony (A description of the monstrosities of near immortal troll grafters)
+      -5. The Right of Steel (Smithing instructions of how to craft the armours and weapons of Kadi's followers
+      -6. Guide of Bone (describes the ritual for a follower of Kadi to create a flameskull companion)
+      -7. The Daughter of the Night (describes the "immortal" entity, that is, Kadi's daughter, and how she is always reborn anew when killed)
+      -8. A Soldier's Directive (Loyalty to your commander, those who are not loyal to Kadi are enemies, no mercy to your enemies)
+      -9. Power of the Meek (A long lecture about not underestimating foes who appear small or weak, or even sentient)
+      -10. Kadi's Blessing (Describing an ancient follower of Kadi, Yilnyane who was blessed with the ability to sense Gruumsh, Vaprak, and other gods)
+      -11. The Prime Stategist (enforces the idea that a good strategy will always prevail over might or skill.) 
+      -12. Kadi's Will (describing the ritual to embolden Kadi's will)
+      -13. Year of The Skulls (describing the end of days brought by Kadi)
     
 ++++Minion
   Chain Devil - pg 72

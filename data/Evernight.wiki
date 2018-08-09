@@ -37,7 +37,8 @@ Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 r
     -Medium Corpse: 40g (most humanoids)
     -Large Corpse: 80g (ogres)
     -Bodily Fluids
-      -Stomach Acid, Blood, 
+      -Stomach Acid 1s per vial
+      -Blood 5c per gallon 
     -Bones
         
 ++++[Lamantha]'s mortuary

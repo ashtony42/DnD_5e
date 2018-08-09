@@ -47,7 +47,7 @@ PARAMECIA
 2. Resurrection - guarantees the user a second chance at life. User respawns as ghost in random location in world upon death.
 3. Sight - allows user to see ALL spectrums of light. Thus night is perfectly lit up due to cosmic lights for example.
 4. Pillow - The user's body can absorb any and all blunt force.
-5. Spin - All joints of the users body can rotate as if on an axel. 
+5. God Creator - The user sometimes turns inanimate objects into gods that speak to them, and no one else.
 6. Nutritious - The user no longer needs to eat or drink to live. Can also bestow nutritious properties to any object/material as well as cleansing toxic ingredients or chemicals. Immune to food poisoning. (consumed by [Junarth Quon])
 7. Smelly - The user can assume any scent of whatever potency desired, or spread this scent onto other objects. (consumed by [Kieran Maon])
 8. Rough - The user can make their skin extremely rough, much like sandpaper.
@@ -67,18 +67,18 @@ PARAMECIA
 
 THARIZDUN REBORN
 1. Feather - the user nor anything they are in direct contact with weighs anything
-2. Speech - the user's voice becomes a loud booming voice that can be heard for up to a mile away, every time they speak, roll CON DC 18 or be deafened (pg 290 of players handbook)
-3. Jointed - has an additional 2 elbows and an additional 2 knees along the length of thier arms and legs respectively
-4. Headless - the users's head sinks into thier shoulders and down to thier chest, unable to wear headgear anymore, and armor hinders vision if it previously covered the chest
+2. Speech - the user's voice becomes a loud booming voice that can be heard for up to a mile away, every time they speak, roll CON DC 18 or be deafened (pg 290 of players handbook) [3 Helms Deep]
+3. Jointed - has an additional 2 elbows and an additional 2 knees along the length of thier arms and legs respectively [3 Helms Deep]
+4. Headless - the users's head sinks into thier shoulders and down to thier chest, unable to wear headgear anymore, and armor hinders vision if it previously covered the chest [3 Helms Deep]
 5. Metal Allergenist - Iron/Steel causes a rash, Platinum causes muscle spasms, Gold causes sneezing, Silver causes nausia, Copper causes hiccups, Dimeritium causes nothing, Etherium causes a blackout
 6. Tasty - the user's body has a delectible flavor like a sugary desert, attacts an abnormal amount of bugs and wildlife to them self based on the scent
 7. Stomach of Holding - the user's stomach takes on the traits of the bag of holding, and thusly no longer needs to pass food, but still gets hungry like normal.
-8. Dry - the user's body loses all moisture, turning them into a prune, but this causes no discomfort. Consumed water dissapears. The user does not get thirsty, though they still get hungry as usual.
+8. Dry - the user's body loses all moisture, turning them into a prune, but this causes no discomfort. Consumed water dissapears. The user does not get thirsty, though they still get hungry as usual. [3 Helms Deep]
 9. Portal [Grogar]- the user and a random unfortunate person on the material plane become forever linked by a portal that is now the back side of thier torso. Thier back appears as normal, but anyone or anything can pass through it to the back of the other individual. They cannot pass through thier own portal.
 10. Foot Recognition - can't differentiate any person from another unless they are barefoot.
 11. Bean Sprout - accasionally buds magic beans randomly on body (pg 152 DM book)
 12. You Are What You Eat - when the fruit is eaten, the person becomes the last person to have eaten the fruit. 
-                           when the person is eaten, they become the fruit, REPEAT
+                           when the person is eaten, they become the fruit, REPEAT [3 Helms Deep]
 13. Upside Down - The consumer's eyes now view the world as if it were upside down (-4 DEX, no longer proficient in Acrobatics)
-                     
-               
+14. Spin - All joints of the users body can rotate as if on an axel.                      
+15. Self Puppet - the consumer is forced out of thier body into the deep ethereal plane and cannot re-enter thier body. They can however grab it and move it manually while thier body is still alive.               
