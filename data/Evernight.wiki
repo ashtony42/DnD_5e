@@ -40,6 +40,8 @@ Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 r
       -Stomach Acid 1s per vial
       -Blood 5c per gallon 
     -Bones
+      -skull 5s each
+      -other bone 1s each 
         
 ++++[Lamantha]'s mortuary
     A place for undead folk to heal themselves, usually supplying the corpse they'd like a limb from, or simply getting some stitching or reattachment done. 

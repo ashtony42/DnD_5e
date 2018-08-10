@@ -16,11 +16,12 @@ XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
 
 XXXXXXX XXXXXXX
-XXXXXXX XXXX
-XXXXXXX
+XXXXXXX XXXXXXX
+XXXXXXX X
 XX<F>XXX
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXX
+Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
 [Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
       - wood woad from a commoner (3 days) XXX DONE
 
@@ -988,12 +989,12 @@ Teleport back to the cave to the Material Plane
         
 ++++Session 58
         Arrives at [Evernight] in the [Shadowfell] after passing through a cube in the [Acheron] that was a [Kadi] stronghold
-        -Croaker commissions a black steel tuning fork worth 250g (6 days) X       
+        -Croaker commissions a black steel tuning fork worth 250g (6 days) XX       
         -kills a group of 10 wretched by the outlet water canal that leads to [Cess]
         
         the group choses to rest at [Lamantha]'s Mortuary
         
-        800miles from [Evernight] to the edge of the rot lands
+        800miles from [Evernight] to the edge of the rot lands (20 hours by gaseous form)
         -traveled by mist form
         -[Liciria] goes back to [Acheron]
         -long resting outside of the Rot Lands
@@ -1002,6 +1003,33 @@ Teleport back to the cave to the Material Plane
         -learn the secrets of [Feywild], [Bahamut] and [Regdars Radiant Hilt]
         -obtain the various souls from the Menagerie
         -slay [Vecna] and [Vecnas Phylactery]
-        -loots a Vorpal longsword, +2 armor with necrotic resistance, cloak of invisiblity
+        -loots a Vorpal longsword, +2 black armour armor with necrotic resistance, cloak of invisiblity
         
+++++Session 59
+        Starting at the top of the [Rotting Tower]        
+        -it previously took 2 hours by gaseous form to the tower
         
+        4 giant eagles summoned by [Vulcan] to escape for [Edan],[Croaker],[Thia]
+        [Grogar] sends [Smoke] through his back to [Magnolia] with a note to not worry them about his near-death condition
+        
+        The group uses windwalk at 600ft 2hours
+          Grogar would be by foot 160ft 7hours
+          Eagles would be by air 160ft 7hours
+        
+        The group makes it out of the rot lands after two more rounds of Constitution saves
+        
+        [Croaker] is sent back through [Grogar] to retreive [Smoke], but is caught in an ambush by the drunks, [Thia] then enters too to sort things out and comes back with both. The group is asked politely to stop going through [Magnolia]
+        
+        Vulcan's curse lasts for 50 hours (50 so far)
+        Edan's curse lasts for 70 hours (70 so far)
+        Smoke curse lasts for 90 hours (90 so far)
+        
+        [Grogar] to get the Vorpal long sword crafted into short sword at The Black Forge at [Evernight] for 50g
+        
+        Group spends 4 days to wait for Croaker's Tuning Fork to complete XXXX
+          -[Smoke] communes with the serpent taxidermy to discover the identity of it's inhabitant. Yygrool
+          
+        Group recalled the group back to [Croaker]'s designated santuary in [3 Helms Deep]
+          -travel to your ship
+          -ressurection of [Krieger] achieved!
+          
