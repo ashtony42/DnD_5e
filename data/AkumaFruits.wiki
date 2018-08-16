@@ -13,7 +13,7 @@ Characters who have consumed an akuma fruit are no longer able to swim, and are 
 LOGIA
 1. Fire element
 2. Gas element
-3. Lightning element
+3. Lightning element [Kanishk] at the [Tharizdun Cultist Camp] in the [Shadowfell]
 4. Sludge element [Letho]
 5. Iron element [Eglath Kalagiano]
 6. Glass element [Robert Culliford] - Killed in Evil group
@@ -41,6 +41,8 @@ ZOAN
 10. Human - Triggered by social
 11. Turtle - Triggered by defensive (consumed by Kharl, a [Don Kreig] Leutenant)
 12. Dragon - Triggered by rage - (consumed by [Krieger]) (use young bronze dragon pg 108 in monster book)
+13. Dog - Triggered by following orders
+14. Cat - Triggered by thinking less of others
 
 PARAMECIA
 1. Yesterday - The things that happen to the consumer will occur to their body 24 hours from the time they occur.  - [Queen Kallista Damaia]

@@ -10,3 +10,4 @@ Wandering Weenies:
 ++++Places of Interest
 [Cess]
 [Vargouille Cave]
+[Tharizdun Cultist Camp] EVIL GROUP (or if [Vecna] defeated)
