@@ -4,3 +4,9 @@ An ancient shape shifting troll, only really considers [Vaprak] his superior.
 
 Most common form is that of a giant river serpent
 
+
+Troll Magic:
+  Troll Breath - CON 18 save for target to prevent incapacitation
+  Enchantment/Curses are an easy task
+  Control over elements, primary: water
+  Detect magic as a 6th sense

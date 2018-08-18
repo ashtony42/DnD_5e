@@ -47,7 +47,7 @@ For a 1 point increase in the following
 -new spell slot OR additional memorized spell
     -lvl 1: gem worth 10g+, -5 HP
     -lvl 2: gem worth 50g+, -5 HP
-    -lvl 3: gem worth 100g+, -5 CON
+    -lvl 3: gem worth 100g+, -1 CON
     -lvl 4: gem worth 500g+, -2 CON
     -lvl 5: gem worth 1000g+, -2 CON
     -lvl 6: 2 gems worth 1000g+, -2 CON

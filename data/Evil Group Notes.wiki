@@ -20,7 +20,8 @@ XXXXXXX XXXXXXX
 XXXXXXX X
 XX<F>XXX
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXXX
+  -afterward Gold Scicle costing 108g (4days)
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
 [Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
       - wood woad from a commoner (3 days) XXX DONE
@@ -1027,9 +1028,31 @@ Teleport back to the cave to the Material Plane
         [Grogar] to get the Vorpal long sword crafted into short sword at The Black Forge at [Evernight] for 50g
         
         Group spends 4 days to wait for Croaker's Tuning Fork to complete XXXX
-          -[Smoke] communes with the serpent taxidermy to discover the identity of it's inhabitant. Yygrool
+          -[Smoke] communes with the serpent taxidermy to discover the identity of it's inhabitant. [Yygrool]
           
         Group recalled the group back to [Croaker]'s designated santuary in [3 Helms Deep]
           -travel to your ship
           -ressurection of [Krieger] achieved!
+          
+++++Session 60
+        [Croaker] communes with [Kadi] about what to do with the serpent and choses to not release [Yygrool] in secret          
+        
+        [Grogar], [Krieger] and [Edan] go to confront old man muu ([Bahamut])
+          -after [Edan] easily kills Muu (again), [Grogar] and [Croaker] betray [Edan], slaying him. 
+          
+        [Croaker] comissions Gold Scicle costing 108g (4days) from [Shirrong Bronzecore]
+        
+        [Croaker] and [Vulcan] find the wood woads attacking a Crab/Firebeetle Mistwraith
+          -then hunt down elk
+          -bringing meat and fat back to the ship
+          
+        Krieger and Grogar bring back the corpse of Edan and convince Vulcan and Croaker that old man Muu killed him.
+          -when Mikey B and Regdar come to their defence, they were forced to be killed as well.
+            
+        [Vulcan] makes 2 wood woads from Regdar and Mikey B
+        
+        [Croaker] identifies rings    
+          -gives the invisibility one to [Dockson] (9 days)
+          -dockson attunes to ring
+          
           

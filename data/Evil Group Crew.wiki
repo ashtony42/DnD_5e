@@ -8,7 +8,9 @@
 [Yevelda] - Half orc dockworker - Proficient sailing - DEAD died at [Dun Morhen]
 [Lightning] 
 [Gronk] - the half orc "rogue"
-[Kreiger]
+[Edan]
+[Mikey B] - [Edan]s loyal companion from [Lolth's Deck of Many Things]
+[Regdar]
 
 PLACED SOMEWHERE:
 [Taman] - At the 3 Helms Deep Bar/Inn
@@ -21,8 +23,6 @@ ON THE SHIP: 24
 [Marta] - "Concubine" former servant to [King Jor Doken]
 [Thia] - Wood Elf from [Fiore] - Fisher - DEAD died at [Dun Morhen]
 [Krusk] - Half orc farmer
-[Regdar]
-[Mikey B] - [Edan]s loyal companion from [Lolth's Deck of Many Things]
 [Daughter of the Night]
 
 [Cael Caemond]
@@ -35,4 +35,4 @@ ON THE SHIP: 24
 3 baby griffons
 1 wolf
 Brundy - Fire Beetle, incubating 3 Wyvern eggs
-
+[Kreiger]
