@@ -7,3 +7,4 @@ Plantlife:
   Magic Beans (pg 152 on DM) (random effect when eaten)
   
  1st layer: [Pazunia] 
+ 17th layer: [Pleroma]
