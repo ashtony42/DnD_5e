@@ -64,7 +64,14 @@ The inside is littered with broken human arms, the remainder of each respective 
         Torture is a form of entertainment for bored orcs!
         2 soldiers of [Kadi] and an ogre are in here.
         -one being roticeried over a fire (cooked for the boars if she doesn't speak, win-win!)
-        -digits being cut off of the other Kadi soldier
+        -digits being cut off of the other Kadi soldier ([Kethra]) 
         -the ogre is tied down to the floor, with a boulder being gradually lowered on his torso by ropes. Being crushed into an ogre donut.
         
-            
+      Orc Forges:
+        Lit and running by the order [Grogar] sent to [Lok'Nar]
+        A large crate of weapons and armor are inside
+        -shields, swords, whips
+        
+      Mines:
+        Iron Copper and Gold are being mined, as well as a small number of gems  
+        

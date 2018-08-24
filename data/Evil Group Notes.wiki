@@ -17,10 +17,10 @@ XXXXXXX XXXXXXX
 
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
-XXXXXXX X
+XXXXXXX XX
 XX<F>XXX
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXXXX
   -afterward Gold Scicle costing 108g (4days)
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
 [Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
@@ -1055,4 +1055,23 @@ Teleport back to the cave to the Material Plane
           -gives the invisibility one to [Dockson] (9 days)
           -dockson attunes to ring
           
+++++Session 61
+        -[Krieger]'s cover up for the death of [Edan]
+          -assemble the townsfolk
+          -[Krieger] casts Seeming on [Grogar] to pose as [Edan]
+          -[Krieger] uses minor illusion to mimic [Edan]'s voice
+             "i'm stepping down", "god king is dead, agents in Mohoganny have been dealt with"
+             "enacting ruling council consisting of: Mayor Uubring, Grix, Krieger, Head of Agriculture"          
+             
+        -using [Grogar]'s emerald, [Krieger] is able to teleport the group to [Kaladim]
+          INCLUDING: Grogar, Krieger, Vulcan
+          Grogar speaks with [Lok'Nar] about plans for attacking [Ak'anon], claiming that they are followers of [Kadi]
+          -prioritizing attacking [Marine HQ] who will get in the way of [Ak'anon]
+          -ordered to build ships to get there
+          -avoid mohoganny vessels
+          -given crude but accurate map of where to go
           
+          
+        -[Croaker] teleports to [Shadowfell] for his "other tasks"  
+        
+           
