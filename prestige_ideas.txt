@@ -19,6 +19,7 @@
 -Beast Master https://www.dandwiki.com/wiki/Beast_Master_(3.5e_Prestige_Class)
 -*Dread Fighter https://www.dandwiki.com/wiki/Dread_Fighter_(5e_Class)
 
+for custom markdown: http://homebrewery.naturalcrit.com/
 
 Hybrid
 2 Classes at least 5th level
