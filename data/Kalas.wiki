@@ -21,7 +21,7 @@ Areas of interest:
 
 
     -[House Salazar Assassins]'s Hideout, 2nd floor
-        in what would be the king's quarters, is now the main room for Iksar Assassins.
+        in what would be the king's quarters, is now the main room for Iksar Assassins. Has a back window.
         the room has 2 Fire-Breathing Statue traps outside of it, DC 15 perception to spot the pressure plate
             -30 foot cones, DC 13 DEX save to take half of 4d10 damage
         -5 Iksar assassins (pg 343) inside that will have Light Crossbows pointed at the adventurer's    
