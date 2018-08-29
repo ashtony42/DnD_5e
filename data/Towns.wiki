@@ -21,7 +21,7 @@
       - [Kalas]
     [Faydwer]
       - [Felwithe] (ruins)
-      - [Kaladim] (ruins)
+      - [Kaladim] (ruins) [Grogars Kaladim]
       - [Kelethin] (ruins)
       - [Oggok]
       

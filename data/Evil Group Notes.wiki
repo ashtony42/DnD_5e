@@ -20,8 +20,12 @@ XXXXXXX XXXXXXX
 XXXXXXX XX
 XX<F>XXX
 
+[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days)
+
 [Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXXXX
   -afterward Gold Scicle costing 108g (4days)
+  
+  
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
 [Vulcan] performs the wood woad ritual with the drunk who consumed the You are what you eat
       - wood woad from a commoner (3 days) XXX DONE
@@ -1072,6 +1076,8 @@ Teleport back to the cave to the Material Plane
           -given crude but accurate map of where to go
           
           
-        -[Croaker] teleports to [Shadowfell] for his "other tasks"  
-        
+        -[Croaker] plane shifts to [Shadowfell] with Murray and [Thia] for his "other tasks" 
+          -obtains black steel rapier in [Evernight] 260g
+          -asks about the whereabouts of [Velsharoon]
            
+        

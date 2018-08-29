@@ -11,8 +11,22 @@ Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 r
 ++places of interest
 
 ++++ [Thargaun]'s Mansion
-    Laboratory 
+    Thargaun has many rooms to house his massive collection of oddities and treasure, all of which are illusions
+    
+    Taxidermy Room
+     the main room complete with a fire place that is always fed, a single stone chair faces it at an angle.
+      - An inanimate Corpse Collector from [Acheron] painted a glossy blue
+      - Articulated Ogre Skeleton
+      - Live Vargouille in a 4ft tall Bird Cage
+    Armoury
+      - Brass Armor of Gleaming (never gets dirty)
+      - Black Steel Cast-Off Platemail Armour (can doff it as an action, has many intricate hinges)
+      - Shield of Expression, a shield that has a stretched out human face over it that you can use an action changes it's expression to your expression.
+      - Fire Giant chain (Must be large sized to wear, +3 AC, immune to fire, can walk on lava, requires attune)
+    Small Items Room 
       - Tome of Stilled Tongue (pg 208 of DM book) (one of a set of five) 
+      - Deck of Illusions (pg 161) (sitting utop a wooden pedastal)
+      - Amulet of Health (+30 Max HP, requires attune) a ruby cut in the shape of a heart organ on a silver chain
 
 ++++The Black Forge
     Forge Master [Dar'Shun](M) - undead fire giant
