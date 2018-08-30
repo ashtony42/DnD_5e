@@ -1079,5 +1079,6 @@ Teleport back to the cave to the Material Plane
         -[Croaker] plane shifts to [Shadowfell] with Murray and [Thia] for his "other tasks" 
           -obtains black steel rapier in [Evernight] 260g
           -asks about the whereabouts of [Velsharoon]
+          -becomes followed by a Skulk
            
         

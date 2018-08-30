@@ -9,9 +9,20 @@ a realm of windswept barrens and jagged tors flickering with swarms of winged de
 An oppressive red sun, heavy with infinite age, bathes the layer in sweltering heat and harsh light. 
 Angry shadows curtain the plains in places
 
+[Krieger]'s Attunement:
+    If krieger teleports himself and/or others vaguely to this realm, they will appear at the top of the platau between the Pit to Hollow's Heart and the Shullen-Gat
 
 Features:
 huge pits in the earth (that lead to other layers of the [Abyss])
-great iron strongholds 
-  -[Aldinach]'s Egg
-the River Styx.
+great iron strongholds
+
+++Places of Interest 
+  [Aldinachs Egg] - owned by the Lady of Change [Aldinach]
+  The River Styx.
+  [Shullen-Gat] - owned by the Demon General [Baltazo]
+  
+  Pit to [Hollows Heart]
+  Pit to [Spirac]
+  Pit to [Zionym]
+  Pit to [Gaping Maw]
+  Pit to [Shendilavri]
