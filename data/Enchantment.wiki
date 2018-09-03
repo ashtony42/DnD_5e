@@ -49,8 +49,8 @@ Dimension Door
     DC 16+  the item teleports 10ft into the air
     
 Shadow of Moil
-    DC 22+  2d8 necrotic to attacker
-    DC 18+  1d8 necrotic to attacker    
+    DC 22+  2d8 necrotic to attacker (10f)
+    DC 18+  1d8 necrotic to attacker (10f)   
 
 Magic Weapon
     DC 14+  +1 attack and dmg (magic) for the next 5 hits (10 if etherium)

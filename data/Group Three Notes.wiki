@@ -17,7 +17,7 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
-XXXXXXX  X
+XXXXXXX  XX
 XXXXX(August 7th)XX
 XXXXXXX
 XXXXXXX
@@ -806,4 +806,21 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Plosive],[Quinn],[Kyra] arrive back to [Luthadel] after a long rest in the woods
       -they follow [Tessa]'s tracks to the Palace in [Kalas]
     
+++++Session 33
+    the group reconvenes in the assassin room and kills them all, and apprehends the injured [Rhogar] Salazar at [Kalas]
     
+    does a long rest in the assassin room
+
+    the next day they travel back to [Luthadel]
+      -[Tessa] attempts to commune with his unicorn patron and goes insane trying to do so
+      -gag and put [Rhogar] in a bedroll
+      -[Kyra] brings [Rhogar] to the ship, informs [Kaylin]
+        -"He's a very important prisoner that you can't kill or release"
+      -[Tessa] attempts to go to the boats after the docks are closed and gets taken away to [House Salazar]
+      -[Thia Siannodel] slides a note under [Plosive]'s door
+        -Informing them that someone observed where thier friend ([Tessa]) was taken "And the moon watches over you"  
+      -[Thia Siannodel] slides a note under [Jit]'s door
+        -that she's a moon elf and have information about their friend, a dwarf who was suffering from some sort of mania
+      -[Kyra] and [Jit] talk about [Thia Siannodel] who broke into the room and told about [Tessa]  
+        
+      
