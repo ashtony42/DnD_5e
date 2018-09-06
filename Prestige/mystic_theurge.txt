@@ -70,7 +70,7 @@ At 3rd level, when you use your action to cast a spell, you can use your bonus a
 \page
 
 ### Empowered Spell Master
-At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the follow applies to spells known through the Mystic Theurge class.
+At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the following applies to spells known through the Mystic Theurge class.
 
 <div class='wide'>
 |Count| Evil | Good | Chaotic | Lawful | Neutral | 
