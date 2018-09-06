@@ -1,0 +1,95 @@
+# Mystic Theurge
+Blurring the line between divine and arcane, mystic theurges draw power from divine sources and musty tomes alike. While most spellcasters choose one path to magical power, mystic theurges walk two roads at once.
+
+Mystic theurges have unparalleled diversity of spells. In time, a mystic theurge can cast almost any spell. Mystic theurges are often obsessed with magical lore, traveling to the ends of the earth to learn some new arcane secret or divine insight.
+
+Mystic theurges tend to be fascinated with magic in whatever form it takes. They’re always on the hunt for powerful magic items and new arcane spells. Those mystic theurges who worship a deity use the power of their spellcasting to further their deity’s agenda.
+
+### Prerequisites
+* Proficiency with **Arcana** and **Religion**
+* Intelligence **14**
+* Wisdom **14**
+* Charisma **14**
+* Able to cast 3rd-level spells from a divine spellcasting class:<br>
+  Druid, Paladin, Ranger, Cleric, Scorcerer(Favored Soul) 
+* Able to cast 3rd-level spells from an arcane spellcasting class:<br>
+  Bard, Warlock, Wizard, Fighter(Eldrich), Rogue(Tricker), Scorcerer(All except Favored Soul)
+* Must obtain an arcane focus worth at least 500g
+
+### Advancement
+For each level, including the first, a mystic theurge will require the essence of a god to be added to thier arcane focus mentioned above. Some gods may offer it willingly to a loyal and devout follower, others may require *persuasion*. The essence of gods vary wildly, and likewise thier methods of obtaining.
+<br><br>
+Whenever you gain experience, you may choose to add it to your prestige experience instead of your normal experience. If you do, this experience will be quartered, for example, gaining 2000 normal experience could be 500 experience instead. 
+##### Experience Required
+| Level | Experience |
+|:----:|:-------------|
+| 1  |   30,000|
+| 2  | 60,000 |
+| 3 | 100,000 |
+| 4 | 140,000 |
+| 5 | 200,000 |
+|
+|
+
+<br><br><br>
+
+<div class='classTable'>
+| Level | Proficiency Bonus | Features | 
+|:---:|:---:|:---|
+| 1st | +1 | Invoke Essence, Detect Alignment |
+| 2nd | +1 | Theurge Lore, Ability Score Improvement | 
+| 3rd | +1 | Spell Synthesis |
+| 4th | +1 | Ability Score Improvement |
+| 5th | +2 | Empowered Spell Master |
+</div>
+
+### Class Features
+**Hit Dice** 1d6
+
+### Detect Alignment
+At 1st level, you may as a free action detect the alignment of any one target within 50ft of you. 
+
+### Invoke Essence
+At 1st level, you may invoke the essence of the gods from within your arcane focus as an action on your turn. Energies of the gods manifest and strike your foes. The count of the respective alignments of the gods within your focus affect the outcome of the invocation. This does not consume any spell slots.
+
+|Count| Evil | Good | Chaotic | Lawful | Neutral | 
+|:----:|:-------------|
+|0 | +2 Dmg   |+4 TH | 1d6 | 1 target | 40ft range |
+|1 | +6 Dmg   |+6 TH | 3d6 | 3 targets | 100ft range |
+|2 | +8 Dmg   |+7 TH | 4d6 | 4 targets | 130ft range |
+|3 | +10 Dmg  |+8 TH | 5d6 | 5 targets | 160ft range |
+|4 | +12 Dmg  |+9 TH | 6d6 | 6 targets | 190ft range |
+|5 | +16 Dmg  |+11 TH| 8d6 | 8 targets | 250ft range |
+
+### Theurge Lore
+At 2nd level, your proficiency bonus is doubled for any ability check you make that uses **Arcana** or **Religion**.
+
+### Spell Synthesis
+At 3rd level, when you use your action to cast a spell, you can use your bonus action to cast a second spell. One spell must be from the spell list of an arcane spellcasting class and the other spell must be from the spell list of a divine spellcasting class. 
+
+\page
+
+### Empowered Spell Master
+At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the follow applies to spells known through the Mystic Theurge class.
+
+<div class='wide'>
+|Count| Evil | Good | Chaotic | Lawful | Neutral | 
+|:----:|:-------------
+| 0 |+2 Dmg|+2 Heal|extra 1d6|two 7th level slots|+30 range|
+| 1 |+6 Dmg|+6 Heal|extra 3d6|two 7th, one 8th level slots|+60 range|
+| 2 |+8 Dmg|+8 Heal|extra 4d6|three 7th, two 8th level slots|+90 range|
+| 3 |+10 Dmg|+10 Heal|extra 5d6|three, 7th, two 8th, one 9th level slots| +120 range
+| 4 |+12 Dmg|+12 Heal|extra 6d6|four 7th, three 8th, one 9th level slots| +150 range 
+| 5 |+16 Dmg|+16 Heal|extra 8d6|four 7th, three 8th, two 9th level slots| +180 range
+</div>
+
+* **Evil**: This applies to any damage dealt by a spell using an Empowered Spell Master slot.
+* **Good**: This applies an additional amount healed to any healing spell using an Empowered Spell master slot.
+* **Chaotic**: Roll the number of extra dice if applicable to improve the damage or healing of any spell using an Empowered Spell Master slot.
+* **Lawful**: These slots may be used to cast any spell whether memorized by any of the character's classes.
+* **Neutral**: Increases the range of a spell using an Empowered Spell master slot, excluding touch range spells.
+
+
+
+
+
