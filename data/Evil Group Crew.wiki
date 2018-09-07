@@ -17,15 +17,15 @@ PLACED SOMEWHERE:
 [Fargrim] - Dwarf Wizard, came from [Nowa Huta] - defending the shores of [3 Helms Deep]
 3 wolf pups - Left with [Grix]
 6 skaa from [House Zasheir] - teleported to [3 Helms Deep]
+[Daughter of the Night] - placed in the palace
 
 ON THE SHIP: 24
 [Dockson]
 [Marta] - "Concubine" former servant to [King Jor Doken]
 [Thia] - Wood Elf from [Fiore] - Fisher - DEAD died at [Dun Morhen]
 [Krusk] - Half orc farmer
-[Daughter of the Night]
-
 [Cael Caemond]
+
 [Vulcan]
 [Croaker]
   -[King Jor Doken] Flame Skull "Murray" (pg 134)
@@ -35,4 +35,4 @@ ON THE SHIP: 24
 3 baby griffons
 1 wolf
 Brundy - Fire Beetle, incubating 3 Wyvern eggs
-[Kreiger]
+[Krieger]

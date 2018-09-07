@@ -7,6 +7,8 @@ Arabasta, known for it's wealth became a prime target [Don Kreig], who raided it
 The wilderness of Arabasta is dry, hot, and without something to drink, an adventurer must make a constitution save of DC 10 each day or gain a point of exaustion.
 Monstrous skeletons of ancient creatures can occasionally be found in the desert. Sometimes creatures turn them into their shelters.
 
+Traveling on food, a person could probably cross [Arabasta] in 12 hours
+
 Wildlife:
   Camel  (pg 320)
   Flying Snake (pg 322)

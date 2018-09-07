@@ -17,13 +17,18 @@ XXXXXXX XXXXXXX
 
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
-XXXXXXX XX
+XXXXXXX XXXXXX
 XX<F>XXX
 
-[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days)
+Moon Phases (30 days in a cycle, day 1 is a full moon)
+(10)
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXXXXX
+[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXX
+
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXX
   -afterward Gold Scicle costing 108g (4days)
+  
+[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days)   
   
   
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
@@ -1053,7 +1058,7 @@ Teleport back to the cave to the Material Plane
         Krieger and Grogar bring back the corpse of Edan and convince Vulcan and Croaker that old man Muu killed him.
           -when Mikey B and Regdar come to their defence, they were forced to be killed as well.
             
-        [Vulcan] makes 2 wood woads from Regdar and Mikey B
+        [Vulcan] makes 2 wood woads from Regdar and Mikey B X
         
         [Croaker] identifies rings    
           -gives the invisibility one to [Dockson] (9 days)
@@ -1081,4 +1086,25 @@ Teleport back to the cave to the Material Plane
           -becomes followed by a Skulk
            
 ++++Session 62
-        
+        [Thia] offers to continue asking around [Evernight] about [Velsharoon]
+          -[Croaker] agrees and recalls back to the statue of [Kadi]
+          -[Croaker] prays to [Kadi] for [Thia] to return, AND SUCCEEDS
+          -the chain devil that has been controlling [Thia] is expelled, leaving the original [Thia] alone and confused in [Evernight]
+
+        [Kreiger] [Vulcan] [Grogar] teleport back to [Fiore] though a teleportation circle on the boat
+          -[Grogar] and [Croaker] summon familiars
+          -[Grogar] tells [Royal Armoror Grix] to work on smelting the ore from [Kaladim]
+          
+        The group long rests at the palace of [3 Helms Deep]
+          -heads to the ship on the next day
+          -sees a plume of smoke again and goes over to converse with Old Man Muu [Bahamut]  
+          -the group goes to the ship
+          
+        travels to [Arabasta] (2 days) XX
+          -converses with a fisherman about the whereabouts of the stone of kord
+          -travels into the desert and follows some flying snakes to the north to a group of bones that lead to an oasis that was actually giant scorpions
+          -extracts 1 dose of scorpion poison
+          -travels south and finds a grove of cacti that appeared to some as a grove of trees.
+          -returns back to the ship at the docks of [Arabasta]
+          
+          
