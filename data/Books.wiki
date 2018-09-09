@@ -9,7 +9,7 @@
 [Way of the Woad]
 [Strength and Sacrifice]
 [Lexicon of the Hells]
-
+[Etherium, The Most Malleable Metal]
 
 [Venril Sathir] Propoganda Books
     [Holy Tome of the Order of Steel]

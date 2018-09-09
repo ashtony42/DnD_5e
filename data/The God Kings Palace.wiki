@@ -60,4 +60,6 @@ H. The Dungeon
     -A. Wife of Lord Stayanoga, Korinn is held here, to ensure Stayanoga doesn't find motivation to leave [Luthadel]
     -3 [Steel Inquisitor]s keep guard in here
     -Iksar bones found in one of the cells
+    -A table with the remains of destroyed magical items, most of the rubbish is in a crate next to the table.
+        -splintered wood, shattered crystals, shredded books 
     
