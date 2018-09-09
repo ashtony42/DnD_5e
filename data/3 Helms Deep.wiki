@@ -72,6 +72,7 @@ Refugees from [Luthadel]
             cinnamon (2g per lb)
             saffron (15g per lb)
             nightshade (15g per lb) (poisonous)
+            sage (5s per lb)
     -Carpenters Jerrod Louverre and 2 fellow carpenters still run the carpenter's guild        
             
 -Temple to [Kadi] (formerly temple of Elysium)
