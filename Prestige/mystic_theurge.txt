@@ -14,7 +14,7 @@ Mystic theurges tend to be fascinated with magic in whatever form it takes. They
   Druid, Paladin, Ranger, Cleric, Scorcerer(Favored Soul) 
 * Able to cast 3rd-level spells from an arcane spellcasting class:<br>
   Bard, Warlock, Wizard, Fighter(Eldrich), Rogue(Tricker), Scorcerer(All except Favored Soul)
-* Must obtain an arcane focus worth at least 500g
+* Must obtain an arcane focus worth at least 500g infused with the essence of a god.
 
 ### Advancement
 For each level, including the first, a mystic theurge will require the essence of a god to be added to thier arcane focus mentioned above. Some gods may offer it willingly to a loyal and devout follower, others may require *persuasion*. The essence of gods vary wildly, and likewise thier methods of obtaining.

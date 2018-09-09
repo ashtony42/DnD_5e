@@ -1,0 +1,66 @@
+# Fiend Binder
+Demons and devils are often known to operate through contracts. A fiend binder has become proficient in the way of forging these contracts through various means. Not all contracts are in paper, some are created by circumstance, verbal agreements, and sometimes involuntarily. For someone who is not proficient in this type of business with fiends, the individual may unknownly lose things dear to them nearly every time as the contracts are almost never in their favor. 
+
+### prerequisites
+* Proficiency with **Persuasion** and **Deception**
+* Proficiency with **Caligrapher's Tools**
+* Be of any **Evil** alignment
+* Intelligence **16**
+* Charisma **16**
+* Must be at least a 5th level in any class
+* You must enter into a contract with a willing fiend.  
+
+### advancement
+For each level, including the first, you must enter into a contract with a new type of willing fiend. Thus expanding your portfolio, and respective powers with them.
+<br><br>
+Whenever you gain experience, you may choose to add it to your prestige experience instead of your normal experience. if you do, this experience will be quartered, for example, gaining 2000 normal experience could be 500 experience instead. 
+##### experience required
+| level | experience |
+|:----:|:-------------|
+| 1  |   30,000|
+| 2  | 60,000 |
+| 3 | 100,000 |
+| 4 | 140,000 |
+| 5 | 200,000 |
+
+### Class Features
+**hit dice** 1d8
+
+<div style='margin-top:140'></div>
+
+<div class='classTable'>
+| level | proficiency bonus | features | 
+|:---:|:---:|:---|
+| 1st | +1 | Infernal Diplomat, Bind Fiend |
+| 2nd | +1 | Clear Mind, ability score improvement | 
+| 3rd | +1 | Involuntary Binding |
+| 4th | +1 | Contract Lawyer, ability score improvement |
+| 5th | +2 | Abyssal Court |
+</div>
+
+### Infernal Diplomat
+At 1st level, the writing of contracts is a careful task, and you know how to word your documents carefully when it comes to working with demons and devils. Your proficiency bonus is doubled for **Caligrapher's Tools**, **Persuasion** and **Deception** checks against fiends. 
+
+### Bind Fiend
+At 1st level, you may invoke a contract to bind a fiend you have signed with. You may perform a variety of actions with this ability.
+
+* Bind a Fiend to a Item: The item becomes intelligent, however no magical abilities are granted to the item. The item can still use any spell-like abilities. This ability is used to seal fiends.
+* Bind a Fiend to themself: If you desire, you can bind a fiend to yourself. If a fiend being used in this way is unwilling, they will attempt to domoniate you. You may suppress the fiend by passing a WIS save, DC 10 + Fiend Challenge Rating. If you fail, the fiend will dominate your body for one day. While you have a fiend bound to you, your appearance will change to have features that resemble the fiend you have bound, your skills are raised to match any of the skills the fiend has that are higher than your own. You may also use any of its Spell-Like abilities using the fiend's limits. You may bind a number of fiends to yourself equal to your current Fiend Binder level.
+
+### Clear Mind
+At 2nd level, you strengthen your mind to defend yourself from manipulation. You have advange on saving throws against being charmed or maddened. You also have advantage on WIS saves.
+
+### Involuntary Binding
+At 3rd level, you learn how to make contracts with unwilling fiends. You gain the ability to cast **Planar Binding** once per day to bind a fiend. The fiend must be helpless, the fiend binder must make a circle (30 minutes) and perform a ceremony. The DC for the Binding is 6 + your Fiend Binder Level + your WIS modifier + your CHA modifier.
+
+### Contract Lawyer
+At 4th level, you have established yourself as an authority with contracts and have the ability to evaluate contracts between other fiends. If you would want to modify or nullify a contract that you don't see fit, between one of your own fiends or a contract not directly involving you, you can cast **Charm Person** to attempt to force a fiend to modify or nullify their contract. If the charm is successful, you must then succeed a WIS check of DC 10 + Fiend Challenge Rating to have the fiend affect it's contract, on a failed attempt, the fiend breaks the charm and is immune to being charmed for the next 24 hours.
+  
+\page  
+
+### Abyssal Court
+At 5th level, you have the ability to sue fiends and send them to the pocket dimension known as the Abyssal Court. A court that only the most experienced fiend contractors use, due to it's verdicts that seem unpredictable to many. Once a day, you can use **Banishment** to send yourself and a defendant fiend to the Abyssal Court, you will require something that you consider "evidence" for your claim that you intend to make. Your claim can be anything you are displeased with about the defendant. This room appears to be made of flesh, and has gaping maws surrounding this single room, each capable of speaking a different language. You and the summoned defender will appear in this realm, restrained within a pillar of flesh afixed to the floor that supresses movement and use of magic. You and the defendant remain in this realm contesting your cases with **Persuasion** and/or **Deception** until the Abyssal Court is convinced on who it should consume, and who it should return, ejecting them from the court. Only one person ever comes out of each session of Abyssal Court alive.
+
+
+
+

@@ -1,0 +1,74 @@
+# Fey Warden
+Fey wardens learn the secrets of ancient faerie magic, guarded zealously by powerful fey. It is said that the first fey wardens were elves, but members of many other races can learn the secrets.
+The fey rarely share the secrets of the fey warden. When they do, they demand that supplicants perform difficult tasks in their name, though once an individual proves themselves worthy, the fey accept the newly minted fey warden into their ranks, supporting them as long as the warden supports the fey.
+
+### prerequisites
+* proficiency with **nature**
+* know the **Sylvan** language
+* wisdom **16**
+* charisma **16**
+* must be at least a 5th level **Druid**
+* You must perform a task for a powerful fey being who then accepts to teach you the essentials of the power of the fey warden. You might have to perform additional tasks before the fey will teach you more.
+
+### advancement
+For each level, including the first, you must perform a task for a powerful fey being. You might have to perform additional tasks before the fey will teach you more.
+<br><br>
+Whenever you gain experience, you may choose to add it to your prestige experience instead of your normal experience. if you do, this experience will be quartered, for example, gaining 2000 normal experience could be 500 experience instead. 
+##### experience required
+| level | experience |
+|:----:|:-------------|
+| 1  |   30,000|
+| 2  | 60,000 |
+| 3 | 100,000 |
+| 4 | 140,000 |
+| 5 | 200,000 |
+|
+|
+
+<br><br><br>
+
+<div class='classTable'>
+| level | proficiency bonus | features | 
+|:---:|:---:|:---|
+| 1st | +1 | Fey Affinity, Feywild Traveler |
+| 2nd | +1 | Naturalist, ability score improvement | 
+| 3rd | +1 | Fey Shape |
+| 4th | +1 | Nature Walk, ability score improvement |
+| 5th | +2 | Nature's Might |
+</div>
+
+### Class Features
+**hit dice** 1d8
+
+### Fey Affinity
+At 1st level, whenever you make a check when socially interacting with fey, your proficiency bonus is doubled if it applies to the check. Additionally, you can invoke your status as a fey warden, and lesser fey will aid you and your companions. Fey will not attack you unless you attack them first, unless they are given a compelling reason to do so. Lesser fey are defined as having a Challenge Rating less than your Fey Warden level.
+
+### Feywild Traveler
+At 1st level, you are no longer affected by the memory loss effects of entering and exiting the Feywild. Additionally, you may now cast **Transport Via Plants** as a ritual without prior memorization, the destination target can now include the Feywild, the location of which is chosen at random by your DM each time the ritual is cast.
+
+### Naturalist
+At 2nd level, your proficiency bonus is doubled for any ability check you make that uses **Nature**.
+
+### Fey Shape
+At 3rd level, your druidic wild shape ability is enhanced to include beasts and fey, and your maximum Challenge Rating for these forms is increase by 1. Additionally, if your new form is capable of casting spells, you may cast spells that you know in this new form. 
+  
+\page  
+  
+### Nature Walk
+At 4th level, you begin passively having an effect on the wildlife around you. Depending on your alignment, the following effects can be observed.
+* **Good**: Plants and beasts around you become more vibrant and lively. Flowers slowly bloom, leaves become greener, and you get the admiration of tiny beasts like birds and rodents. Good aligned plants and beasts within a 30ft radius of you may recover 2d4 Hp at the begining of each of your turns.
+* **Neutral**: All life in the area you walk is encouraged to flourish whatever way nature intended it to. Neutral aligned plants and beasts within a 30ft radius of you may recover 2d4 Hp at the begining of each of your turns.
+* **Evil**: Fungi and insects around you become more vibrant and lively. Mushroom tops puff up, green leaves fade to autumn colors, and insects emerge to chirp and crawl. Evil aligned plants and beasts within a 30ft radius of you may recover 2d4 Hp at the begining of each of your turns. 
+
+### Nature's Might
+At 5th level, your druidic magic has a much easier time affecting the world and creatures around you as it comes to you naturally. You gain an additional druid spell slot of each spell level that you currently have slots for, and may have one additional spell memorized for each of those respective spell levels.
+
+Your druid Spellcasting Abilities now use the following:
+* **Spellcasting Ability**:<br> 2 + Proficiency + WIS modifier + CHA modifier
+* **Spell Save DC**:<br> 10 + Proficiency + WIS modifier + CHA modifier
+
+You may also conjure fey energies regardless of which plane of existence you are on to cast any memorized druid spell as a ritual.
+
+
+
+
