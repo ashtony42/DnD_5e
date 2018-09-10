@@ -19,5 +19,6 @@ Armour Room
     -Ash Repellant Plate Boots, ash and muck seems to be unable to adhere to them.
     
 Study
-    -a note with the current high ranking targets of [House Salazar Assassins]    
+    -a note with the current high ranking targets of [House Salazar Assassins] 
+    -many [Books]   
     
