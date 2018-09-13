@@ -1,0 +1,83 @@
+# Rider
+A rider and their mount together are a forced to be reckoned with. Rider's have trained, often even from birth, their animal companions to best serve them, and they treat their animals with the utmost care and respect. They are more comfortable while mounted, as if their animal is merely an extension of their own body, both working together to pull off feats that neither could do alone.
+
+### prerequisites
+* Proficiency with **Animal Handling**
+* Proficiency with **Leatherworker's Tools**
+* Dexterity **16**
+* Must be at least a 5th level in any class
+* You must tame a beast, dragon, or other wild ridable animal of Challenge Rating 5 or higher.  
+
+### advancement
+For each level, including the first, you must tame a beast, dragon, or other wild ridable animal of Challenge Rating 5 or higher. Raising an animal from birth is often an easy way to make any creature amiable towards you, but they must be of age to ride to count toward your advancement as a Rider.
+<br><br>
+Whenever you gain experience, you may choose to add it to your prestige experience instead of your normal experience. if you do, this experience will be quartered, for example, gaining 2000 normal experience could be 500 experience instead. 
+##### experience required
+| level | experience |
+|:----:|:-------------|
+| 1  |   30,000|
+| 2  | 60,000 |
+| 3 | 100,000 |
+| 4 | 140,000 |
+| 5 | 200,000 |
+
+### Class Features
+**hit dice** 1d8
+
+<div style='margin-top:140'></div>
+
+<div class='classTable'>
+| level | proficiency bonus | features | 
+|:---:|:---:|:---|
+| 1st | +1 | Animal Husbandry, Mounted Combatant |
+| 2nd | +1 | Exotic Barding, ability score improvement | 
+| 3rd | +1 | Banding |
+| 4th | +1 | Rider's Harmony, ability score improvement |
+| 5th | +2 | Astral Stables |
+</div>
+
+### Animal Husbandry
+At 1st level, caring for your animals is one of your highest priorities. Your knowledge and experience of how to cater to thier needs is impressive. You are able to carry yourself in such a way that, if you want, you can convey that you do not mean wild beasts any harm. Wild **Beasts** will not consider you a threat and not attack you willingly. Additionally, you have advantage when attempting to tame wild creatures with a Challenge Rating less than your Rider level.   
+
+### Mounted Combatant
+At 1st level, you've becoming so good at riding animals that normal walking feels clumsy compared to how stable and poised you are whilst mounted. Your **Animal Handling** skill proficiency bonus is doubled. Your mount may now attack in the same turn that you do while mounted. Such as a Giant Wolf could bite the target in front of you, or a Wyvern could use it's stinger. If your mount attacks in this way, you must pass an **Animal Handling** save of 8 + the animal's Challenge Rating, you will be bucked off your mount on a failed save. 
+
+### Exotic Barding
+At 2nd level, you know the importance of keeping your animals safe and craft the approriate equipment for them with care, performing impressive techniques and skills in your work. You have double the proficiency when using **Leather Worker's Tools**. You also have the following benefits for barding and saddles that you craft.
+<br>
+<br>Barding you craft:
+* offers an additional +2 AC
+
+<br>Saddles you craft:
+* increase the **Run** speed of your mount by 10ft
+* increase the **Fly** speed of your mount by 20ft (if applicable)
+* increase the **Climb** and/or **Burrow** speed of your mount by 10ft (if applciable)
+* prevent the loss of speed when mounting and dismounting
+
+### Banding
+At 3rd level, you have trained your animals well, and can control them with ease. Along with your current mount, during your turn you may direct the actions of an additional number of animals equal to your Rider level instead of them acting independently. 
+
+\page 
+
+### Rider's Harmony
+At 4th level, you now fight significantly better while mounted and have adapted your style of combat specificaly for it. 
+<br>While Mounted:
+* Your Ranged and Melee attacks have an additional +2 TH.
+* You roll an additional 1d12 for Ranged and Melee damage.
+* Add the Challenge Rating, rounding up, of your mount to your Ranged and Melee attack damage.
+
+<br>While Dismounted:
+* Your Ranged and Melee attacks have -2 TH.
+* Subtract 1d12 from your Ranged and Melee damage. 
+
+### Astral Stables
+At 5th level, keeping any caring for so many animals can be a burden, but your efforts have not gone unnoticed. A god grants you a pocket dimension in the Astral Sea where you may stable your animals. To gain access to it, you must obtain a silver horse shoe, and perform a 10 minute ritual. At the conclusion of the ritual, the silver horse shoe enlarges and forms a portal to fit your largest animal companions. Only you and any animal amiable toward you may enter and exit this pocket dimension. Inside is a huge transluscent structure that is illuminated by the lights of the cosmos. You may only dismiss the portal from outside the Astral Stables, using another 10 minute ritual, causing the silver horse shoe to shrink to it's original size. If you die, the Astral Stables are destroyed, and all creatures within are expelled in to the area immediately around you.
+The Astral Stables have the following properties:
+* up to 20 tamed creatures can be stabled here at once
+* magical troughs supply food for each respective animal
+* the souls of your deceased animal companions move here for 30 days before passing on
+* dimensions are 300ft by 300ft with a 100ft tall ceiling.
+
+
+
+
