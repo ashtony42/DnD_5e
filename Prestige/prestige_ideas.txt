@@ -3,17 +3,13 @@
 -there being 5 levels of advancement
 -there needing to be experience and action requirements for advancement
 -+2 to trait requirements from combined classes
-
 -requiring proficiencies or alignments?
--contract conveyance (transfer?) (demonologist?)
-  -take control of a Tharizdun power as if the character themself owned the contract
--Mystic Theurge (god magicicians!) http://forgottenrealms.wikia.com/wiki/Mystic_theurge
+
 -Chi Master (Master Monk)
 -Rider
 -Death Knight
 -Orc War Master https://www.dandwiki.com/wiki/Orc_War_Master_(3.5e_Prestige_Class)
 -Arcanist
--Fey Warden https://www.dandwiki.com/wiki/Fey_Warden_(5e_Class)  
 -Orkish Blood Warrior (vaprak) https://www.dandwiki.com/wiki/Orcish_Blood_Warrior_(3.5e_Prestige_Class)
 -Beast Within https://www.dandwiki.com/wiki/Beast_Within_(3.5e_Prestige_Class)
 -Beast Master https://www.dandwiki.com/wiki/Beast_Master_(3.5e_Prestige_Class)
@@ -36,19 +32,5 @@ Monk-Fighter
 Monk-Ranger
 -requires DEX 17, WIS 17
 
-
-
-Pure Bred
-1 Class at least 8th level
-
-Cleric
-Monk
-Fighter
-Druid
-Ranger
-Sorcerer
-
-experience
-50 60 60 70 70
 
 

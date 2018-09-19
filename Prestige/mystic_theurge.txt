@@ -70,7 +70,7 @@ At 3rd level, when you use your action to cast a spell, you can use your bonus a
 \page
 
 ### Empowered Spell Master
-At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the following applies to spells known through the Mystic Theurge class.
+At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the following applies allowing you to cast additional spells through the Mystic Theurge class.
 
 <div class='wide'>
 |Count| Evil | Good | Chaotic | Lawful | Neutral | 
@@ -86,7 +86,7 @@ At 5th level, you have obtained enough essence that the way in blends and swirls
 * **Evil**: This applies to any damage dealt by a spell using an Empowered Spell Master slot.
 * **Good**: This applies an additional amount healed to any healing spell using an Empowered Spell master slot.
 * **Chaotic**: Roll the number of extra dice if applicable to improve the damage or healing of any spell using an Empowered Spell Master slot.
-* **Lawful**: These slots may be used to cast any spell whether memorized by any of the character's classes.
+* **Lawful**: These slots may be used to cast any spell regardless of being memorized.
 * **Neutral**: Increases the range of a spell using an Empowered Spell master slot, excluding touch range spells.
 
 

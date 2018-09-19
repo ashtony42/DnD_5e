@@ -42,16 +42,16 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 At 1st level, the writing of contracts is a careful task, and you know how to word your documents carefully when it comes to working with demons and devils. Your proficiency bonus is doubled for **Caligrapher's Tools**, **Persuasion** and **Deception** checks against fiends. 
 
 ### Bind Fiend
-At 1st level, you may invoke a contract to bind a fiend you have signed with. You may perform a variety of actions with this ability.
+At 1st level, you may invoke a contract to bind a fiend you have signed with. You may perform a the following actions with this ability.
 
 * Bind a Fiend to a Item: The item becomes intelligent, however no magical abilities are granted to the item. The item can still use any spell-like abilities. This ability is used to seal fiends.
-* Bind a Fiend to themself: If you desire, you can bind a fiend to yourself. If a fiend being used in this way is unwilling, they will attempt to domoniate you. You may suppress the fiend by passing a WIS save, DC 10 + Fiend Challenge Rating. If you fail, the fiend will dominate your body for one day. While you have a fiend bound to you, your appearance will change to have features that resemble the fiend you have bound, your skills are raised to match any of the skills the fiend has that are higher than your own. You may also use any of its Spell-Like abilities using the fiend's limits. You may bind a number of fiends to yourself equal to your current Fiend Binder level.
+* Bind a Fiend to themself: If you desire, you can bind a sealed fiend to yourself. If a fiend being used in this way is unwilling, they will attempt to domoniate you. You may suppress the fiend by passing a WIS save, DC 10 + Fiend Challenge Rating. If you fail, the fiend will dominate your body for one day. While you have a fiend bound to you, your appearance will change to have features that resemble the fiend you have bound, if the fiend has any skills higher than your own, you may raise a respective skill by a maximum of 3, but no higher than the fiend's. Skills increased in this way may go beyond 20. You may also use any of its Spell-Like abilities using the fiend's limits. You may bind a number of fiends to yourself equal to your current Fiend Binder level.
 
 ### Clear Mind
 At 2nd level, you strengthen your mind to defend yourself from manipulation. You have advange on saving throws against being charmed or maddened. You also have advantage on WIS saves.
 
 ### Involuntary Binding
-At 3rd level, you learn how to make contracts with unwilling fiends. You gain the ability to cast **Planar Binding** once per day to bind a fiend. The fiend must be helpless, the fiend binder must make a circle (30 minutes) and perform a ceremony. The DC for the Binding is 6 + your Fiend Binder Level + your WIS modifier + your CHA modifier.
+At 3rd level, you learn how to make contracts with unwilling fiends. You gain the ability to cast **Planar Binding** once per day to bind a fiend. The fiend must be helpless, the fiend binder must make a circle (30 minutes) and perform a ceremony. The DC for the **Planar Binding** is 6 + your Fiend Binder Level + your WIS modifier + your CHA modifier.
 
 ### Contract Lawyer
 At 4th level, you have established yourself as an authority with contracts and have the ability to evaluate contracts between other fiends. If you would want to modify or nullify a contract that you don't see fit, between one of your own fiends or a contract not directly involving you, you can cast **Charm Person** to attempt to force a fiend to modify or nullify their contract. If the charm is successful, you must then succeed a WIS check of DC 10 + Fiend Challenge Rating to have the fiend affect it's contract, on a failed attempt, the fiend breaks the charm and is immune to being charmed for the next 24 hours.
