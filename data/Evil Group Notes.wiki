@@ -21,14 +21,14 @@ XXXXXXX XXXXXX
 XX<F>XXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
-(10)
+(11)
 
-[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXX
+[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXXX
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXXX
   -afterward Gold Scicle costing 108g (4days)
   
-[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days)   
+[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days) X  
   
   
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
@@ -1106,5 +1106,16 @@ Teleport back to the cave to the Material Plane
           -extracts 1 dose of scorpion poison
           -travels south and finds a grove of cacti that appeared to some as a grove of trees.
           -returns back to the ship at the docks of [Arabasta]
+          
+++++Session 63
+        Group attemtps to find the stone of kord again in the desert of [Arabasta]
+          -the group combs the desert using gaseous form to find the entrance to [Kord]'s cave
+        
+        [Krieger] conjures the Marvelous Mansion
+          -[Grogar] cleans the layers of bodily fluid from the purple worm off of himself
+          
+        The group obtains the [Stone of Kord]
+          - Takes it outside and [Grogar] attempts rigorously to break it.
+          
           
           
