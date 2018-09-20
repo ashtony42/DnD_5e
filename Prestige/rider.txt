@@ -4,7 +4,8 @@ A rider and their mount together are a forced to be reckoned with. Rider's have 
 ### prerequisites
 * Proficiency with **Animal Handling**
 * Proficiency with **Leatherworker's Tools**
-* Dexterity **16**
+* Strength **14**
+* Dexterity **14**
 * Must be at least a 5th level in any class
 * You must tame a beast, dragon, or other wild ridable animal of Challenge Rating 5 or higher.  
 
@@ -26,7 +27,11 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 
 <div style='margin-top:140'></div>
 
+```
+```
+
 <div class='classTable'>
+#### Rider
 | level | proficiency bonus | features | 
 |:---:|:---:|:---|
 | 1st | +1 | Animal Husbandry, Mounted Combatant |
@@ -42,6 +47,8 @@ At 1st level, caring for your animals is one of your highest priorities. Your kn
 ### Mounted Combatant
 At 1st level, you've becoming so good at riding animals that normal walking feels clumsy compared to how stable and poised you are whilst mounted. Your **Animal Handling** skill proficiency bonus is doubled. Your mount may now attack in the same turn that you do while mounted. Such as a Giant Wolf could bite the target in front of you, or a Wyvern could use it's stinger. If your mount attacks in this way, you must pass an **Animal Handling** save of 8 + the animal's Challenge Rating, on a failed save you will be bucked off your mount. 
 
+\page
+
 ### Exotic Barding
 At 2nd level, you know the importance of keeping your animals safe and craft the approriate equipment for them with care, performing impressive techniques and skills in your work. You have double the proficiency when using **Leather Worker's Tools**. You also have the following benefits for barding and saddles that you craft.
 <br>
@@ -55,9 +62,7 @@ At 2nd level, you know the importance of keeping your animals safe and craft the
 * prevent the loss of speed when mounting and dismounting
 
 ### Banding
-At 3rd level, you have trained your animals well, and can control them with ease. Along with your current mount, during your turn you may direct the actions of an additional number of animals equal to your Rider level instead of them acting independently. 
-
-\page 
+At 3rd level, you have trained your animals well, and can control them with ease. Along with your current mount, during your turn you may direct the actions of an additional number of tamed animals equal to your Rider level instead of them acting independently. 
 
 ### Rider's Harmony
 At 4th level, you now fight significantly better while mounted and have adapted your style of combat specificaly for it. 
@@ -70,6 +75,9 @@ At 4th level, you now fight significantly better while mounted and have adapted 
 * Your Ranged and Melee attacks have -2 TH.
 * Subtract 1d12 from your Ranged and Melee damage. 
 
+```
+```
+
 ### Astral Stables
 At 5th level, keeping any caring for so many animals can be a burden, but your efforts have not gone unnoticed. A god grants you a pocket dimension in the Astral Sea where you may stable your animals. To gain access to it, you must obtain a silver horse shoe, and perform a 10 minute ritual. At the conclusion of the ritual, the silver horse shoe enlarges and forms a portal to fit your largest animal companions. Only you and any animal amiable toward you may enter and exit this pocket dimension. Inside is a huge transluscent structure that is illuminated by the lights of the cosmos. You may only dismiss the portal from outside the Astral Stables, using another 10 minute ritual, causing the silver horse shoe to shrink to it's original size. If you die, the Astral Stables are destroyed, and all creatures within are expelled in to the area immediately around you.
 The Astral Stables have the following properties:
@@ -78,6 +86,16 @@ The Astral Stables have the following properties:
 * the souls of your deceased animal companions move here for 30 days before passing on
 * dimensions are 300ft by 300ft with a 100ft tall ceiling.
 
-
-
-
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+<style>
+    .phb .classTable {
+        border-image-repeat: stretch;
+    }
+    .phb .descriptive {
+        border-image-repeat: stretch;
+    }
+</style>

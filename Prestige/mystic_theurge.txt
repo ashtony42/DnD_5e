@@ -28,10 +28,9 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 | 3 | 100,000 |
 | 4 | 140,000 |
 | 5 | 200,000 |
-|
-|
 
-<br><br><br>
+```
+```
 
 <div class='classTable'>
 | Level | Proficiency Bonus | Features | 
@@ -70,8 +69,7 @@ At 3rd level, when you use your action to cast a spell, you can use your bonus a
 \page
 
 ### Empowered Spell Master
-At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the following applies allowing you to cast additional spells through the Mystic Theurge class.
-
+<br><br>
 <div class='wide'>
 |Count| Evil | Good | Chaotic | Lawful | Neutral | 
 |:----:|:-------------
@@ -83,6 +81,8 @@ At 5th level, you have obtained enough essence that the way in blends and swirls
 | 5 |+16 Dmg|+16 Heal|extra 8d6|four 7th, three 8th, two 9th level slots| +180 range
 </div>
 
+At 5th level, you have obtained enough essence that the way in blends and swirls within your arcane focus allows you to cast most any spell known in this world. Depending on the respective alignments of your god essences, the following applies allowing you to cast additional spells through the Mystic Theurge class.
+
 * **Evil**: This applies to any damage dealt by a spell using an Empowered Spell Master slot.
 * **Good**: This applies an additional amount healed to any healing spell using an Empowered Spell master slot.
 * **Chaotic**: Roll the number of extra dice if applicable to improve the damage or healing of any spell using an Empowered Spell Master slot.
@@ -90,6 +90,18 @@ At 5th level, you have obtained enough essence that the way in blends and swirls
 * **Neutral**: Increases the range of a spell using an Empowered Spell master slot, excluding touch range spells.
 
 
-
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+<style>
+    .phb .classTable {
+        border-image-repeat: stretch;
+    }
+    .phb .descriptive {
+        border-image-repeat: stretch;
+    }
+</style>
 
 

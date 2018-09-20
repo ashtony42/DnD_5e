@@ -3,10 +3,10 @@ Fey wardens learn the secrets of ancient faerie magic, guarded zealously by powe
 The fey rarely share the secrets of the fey warden. When they do, they demand that supplicants perform difficult tasks in their name, though once an individual proves themselves worthy, the fey accept the newly minted fey warden into their ranks, supporting them as long as the warden supports the fey.
 
 ### prerequisites
-* proficiency with **nature**
+* proficiency with **Nature**
 * know the **Sylvan** language
-* wisdom **16**
-* charisma **16**
+* wisdom **14**
+* charisma **14**
 * must be at least a 5th level **Druid**
 * You must perform a task for a powerful fey being who then accepts to teach you the essentials of the power of the fey warden. You might have to perform additional tasks before the fey will teach you more.
 
@@ -22,10 +22,12 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 | 3 | 100,000 |
 | 4 | 140,000 |
 | 5 | 200,000 |
-|
-|
 
-<br><br><br>
+### Class Features
+**hit dice** 1d8
+
+```
+```
 
 <div class='classTable'>
 | level | proficiency bonus | features | 
@@ -36,9 +38,6 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 | 4th | +1 | Nature Walk, ability score improvement |
 | 5th | +2 | Nature's Might |
 </div>
-
-### Class Features
-**hit dice** 1d8
 
 ### Fey Affinity
 At 1st level, whenever you make a check when socially interacting with fey, your proficiency bonus is doubled if it applies to the check. Additionally, you can invoke your status as a fey warden, and lesser fey will aid you and your companions. Fey will not attack you unless you attack them first, unless they are given a compelling reason to do so. Lesser fey are defined as having a Challenge Rating less than your Fey Warden level.
@@ -69,6 +68,17 @@ Your druid Spellcasting Abilities now use the following:
 
 You may also conjure fey energies regardless of which plane of existence you are on to cast any memorized druid spell as a ritual.
 
-
-
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+<style>
+    .phb .classTable {
+        border-image-repeat: stretch;
+    }
+    .phb .descriptive {
+        border-image-repeat: stretch;
+    }
+</style>
 

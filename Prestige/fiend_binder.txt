@@ -5,8 +5,8 @@ Demons and devils are often known to operate through contracts. A fiend binder h
 * Proficiency with **Persuasion** and **Deception**
 * Proficiency with **Caligrapher's Tools**
 * Be of any **Evil** alignment
-* Intelligence **16**
-* Charisma **16**
+* Intelligence **14**
+* Charisma **14**
 * Must be at least a 5th level in any class
 * You must enter into a contract with a willing fiend.  
 
@@ -26,7 +26,12 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 ### Class Features
 **hit dice** 1d8
 
+```
+```
+
 <div style='margin-top:140'></div>
+
+<br>
 
 <div class='classTable'>
 | level | proficiency bonus | features | 
@@ -49,18 +54,30 @@ At 1st level, you may invoke a contract to bind a fiend you have signed with. Yo
 
 ### Clear Mind
 At 2nd level, you strengthen your mind to defend yourself from manipulation. You have advange on saving throws against being charmed or maddened. You also have advantage on WIS saves.
+  
+\page  
 
 ### Involuntary Binding
 At 3rd level, you learn how to make contracts with unwilling fiends. You gain the ability to cast **Planar Binding** once per day to bind a fiend. The fiend must be helpless, the fiend binder must make a circle (30 minutes) and perform a ceremony. The DC for the **Planar Binding** is 6 + your Fiend Binder Level + your WIS modifier + your CHA modifier.
 
 ### Contract Lawyer
 At 4th level, you have established yourself as an authority with contracts and have the ability to evaluate contracts between other fiends. If you would want to modify or nullify a contract that you don't see fit, between one of your own fiends or a contract not directly involving you, you can cast **Charm Person** to attempt to force a fiend to modify or nullify their contract. If the charm is successful, you must then succeed a WIS check of DC 10 + Fiend Challenge Rating to have the fiend affect it's contract, on a failed attempt, the fiend breaks the charm and is immune to being charmed for the next 24 hours.
-  
-\page  
 
 ### Abyssal Court
 At 5th level, you have the ability to sue fiends and send them to the pocket dimension known as the Abyssal Court. A court that only the most experienced fiend contractors use, due to it's verdicts that seem unpredictable to many. Once a day, you can use **Banishment** to send yourself and a defendant fiend to the Abyssal Court, you will require something that you consider "evidence" for your claim that you intend to make. Your claim can be anything you are displeased with about the defendant. This room appears to be made of flesh, and has gaping maws surrounding this single room, each capable of speaking a different language. You and the summoned defender will appear in this realm, restrained within a pillar of flesh afixed to the floor that supresses movement and use of magic. You and the defendant remain in this realm contesting your cases with **Persuasion** and/or **Deception** until the Abyssal Court is convinced on who it should consume, and who it should return, ejecting them from the court. Only one person ever comes out of each session of Abyssal Court alive.
 
 
-
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+<style>
+    .phb .classTable {
+        border-image-repeat: stretch;
+    }
+    .phb .descriptive {
+        border-image-repeat: stretch;
+    }
+</style>
 
