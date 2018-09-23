@@ -831,7 +831,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       nat 20 result for [Thia Siannodel] investigation in the House Salazar Armour room to resolve
       
 ++++Session 35
-    Ball happening 4 days from now, that [Doot] has been allowed to perform at.        
+    Ball happening 4 days from now at [House Stayanoga], that [Doot] has been allowed to perform at.        
     
     The group finishes killing everyone at [House Salazar]
       -including lord salazar
@@ -841,4 +841,24 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     
     The group heads back to the boat for a long rest
     
-      
+++++ Session 36
+    Weenie: The [House Stayanoga] ball in (4 days)
+        -attended by [House Zolis], [House Stayanoga], [House Zasheir]
+           all respective lords are present
+        -There are 4 members of the [Order of Steel] present
+           including [Head Bishop Skarjun] who has 4 [Steel Inquisitor]s who follow him
+        -opening act: [Doot]
+        -main entertainment: The Grand [Luthadel] Orchestra, members comprised of 13 iksar playing instruments like:
+          violin, bass, drum, xylophone. 2 vocalists, male/female. 
+      Many iksar will be conversing about the recently deceased Lord Salazar, news travels fast, and how this will improve or hurt their well being.
+        -2 steel inquisitors stand inside by the door, keeping a watchful eye
+        
+        Toast, before the banquet buffet:
+          Opening words from Lord Stayanoga:
+            "Welcome to this wonderous occasion! I hope you all have been enjoying yourself. I Lord Stayanoga would like to take a moment before opening out buffet to thank The Grand [Luthadel] Orchestra for providing music for tonight. Also to [Head Bishop Skarjun] for both your precense and added security to ensure everyone feels safe. I know you have all have probably heard about Lord Salazar by now. I offer my condolences to his family, and to his staff who have worked so hard to keep [Luthadel] safe. Also, before we eat, a word from [Head Bishop Skarjun]."
+          Closing words from [Head Bishop Skarjun]:
+            "Whenever we have reached out lowest lows, always remember, that our one and only God King [Venril Sathir] is there for us. He has been there for us. Our parents. Their parents. And many generations of the past and yet to come. These miscreants who think they should wield magic, what comes of it but the death and misery of those around them? Magic is a force that no one can understand but our one and only God King [Venril Sathir]. Brothers at the [Order of Steel] and our inquisitors will not rest until all mages come to justice. All praise our one and only God King [Venril Sathir]."          
+
+        [Thia Siannodel]'s result 20 item:
+        Salazar Family Heirloom:
+          Black Steel Rapier (+2 DMG) Engraved with the celetial symbol for "[Kadi]"
