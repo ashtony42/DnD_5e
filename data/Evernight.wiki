@@ -41,6 +41,7 @@ Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 r
         -Andre - Goliath(M): old, scarred, humble 
     Black Steel Items:
         CURSE: those who are not followers of [Kadi] will have thier movement speed reduced to 5ft and DEX reduced by 8 as the weight of the ambient dead bear down on the user/wearer
+        CURSE: weapons reduce move speed by 10ft while wielded
         Weapons have +1 DMG
         Armours +1 AC and add +2 to indimidate rolls
         (prices are weight of item x10 + 10, due to cost of Black Steel in [Materials])

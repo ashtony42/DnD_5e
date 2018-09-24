@@ -59,5 +59,11 @@ Magic Weapon
 Spare the Dying
     DC 19+  target is stabilized when dropped to 0 HP (saps effect from all items worn by the triggering character)    
 
+Investiture of Wind
+    DC 17+  when a target is hit with the enchanted item, a whirlwind in a 15 foot cube appears centered on the item
+            1d10 blugeoning 5ft pushback
+    DC 22+  when a target is hit with the enchanted item, a whirlwind in a 15 foot cube appears centered on the item
+            2d10 blugeoning 5ft pushback
+    
 ENCHANTMENT MISSHAP on a 1 pg 140
 

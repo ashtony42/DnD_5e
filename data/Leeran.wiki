@@ -37,7 +37,7 @@ Items for Sale:
         -lvl 1 Wizard spells: all 100g each scroll
         -lvl 2 Wizard spells: all 200g each scroll
         -lvl 3 Wizard spells: all 300g each scroll
-        -Undercommon crafting instructions for Sending Stones - 250g 
+        -Undercommon crafting instructions for Sending Stones - 200g 
         -Quarterstaff Arcane Focus - 5g
-        -Finely Wood Crafted Wardrobe with Etherium inlay
+        -Finely Crafted Wood Wardrobe with Etherium inlay - 125g
         -Staff of Fire - 200g
