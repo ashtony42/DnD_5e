@@ -2,6 +2,8 @@
 
 [Teleportation Circle]
 [Craftsmanship]
+[Poison Crafting]
+
 
 Krieger's Dragon Breath
 Recharge by long rest - 2 charges

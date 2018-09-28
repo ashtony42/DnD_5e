@@ -21,14 +21,14 @@ XXXXXXX XXXXXX
 XX<F>XXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
-(11)
+(14)
 
-[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXXX
+[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXXXXXX
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXXXXXX
   -afterward Gold Scicle costing 108g (4days)
   
-[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days) X  
+[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days) XXXX  
   
   
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
@@ -1117,5 +1117,18 @@ Teleport back to the cave to the Material Plane
         The group obtains the [Stone of Kord]
           - Takes it outside and [Grogar] attempts rigorously to break it.
           
-          
-          
+++++Session 64
+        [Krieger] teleports the group back to the ship at the [Arabasta] dock
+        
+        Group travels 3 days to [Ak'anon]
+          -[Croaker] animates 9 skeletons to guard the ship and listen to [Cael]
+          -[Croaker] conceals a dagger with results 19 incase he is searched
+          -[Nyx] 200yrs old. the gnome escorts the group to the council        
+          -[Zana] [Tana], [Werryn] [Wrenn] gnomish guards escort the group around [Ak'anon]
+            -[Werryn], humilliated by the group, gaslighted about the half orc claim
+            -[Grogar] steals from Potent Potables, Namfoodles 
+            -[Croaker] orders 300g worth of diamond dust 2 days
+            -[Croaker] and group goes to the Giant's Peak and harass the iksar order of steel members there
+               -almost causing them to use violence
+               -[Breena] stops by as agreed
+               -[Croaker] summons [Thia] to play the flute for everyone.
