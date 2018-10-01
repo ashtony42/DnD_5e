@@ -1,6 +1,6 @@
 ﻿++ Steel Inquisitor
 
-have undergone a transformation to make them more dragonlike by the [Order of Steel]. They are lawful evil and are responsible for keeping order and apprehending mages in [Luthadel]. Can sense metal and usage of magic.
+have undergone a transformation to make them more dragonlike by the [Order of Steel]. They are lawful evil and are responsible for keeping order and apprehending mages in [Luthadel]. Can sense usage of magic.
 (use half-dragon veteran ph 180 of monster handbook)
 130HP
 resistance: fire
