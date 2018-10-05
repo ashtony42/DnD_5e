@@ -17,18 +17,18 @@ XXXXXXX XXXXXXX
 
 XXXXXXX XXXXXXX
 XXXXXXX XXXXXXX
-XXXXXXX XXXXXX
-XX<F>XXX
+XXXXXXX XXXXXXX
+XX<F>XXX XXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
-(14)
+(18)
 
-[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXXXXXX
+[Grogar] orders the orcs of [Kaladim] to build boats to attack [Marine HQ] (50 days) XXXXXXXXXX X
 
-[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXXXXXX
+[Croaker] commissions a Gold gauntlet worth 500g from [Shirrong Bronzecore] (25 days) XXXXXXXXXX XXXXXXXXXX XXXX
   -afterward Gold Scicle costing 108g (4days)
   
-[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days) XXXX  
+[Royal Armoror Grix] smelting ore from [Kaladim] (10 lbs copper, 3 lbs silver, 1 lb gold) (5 days) XXXXX (DONE, needs to be collected)  
   
   
 Croaker commissions a black steel tuning fork worth 250g (6 days) XXXXXX DONE
@@ -1120,8 +1120,8 @@ Teleport back to the cave to the Material Plane
 ++++Session 64
         [Krieger] teleports the group back to the ship at the [Arabasta] dock
         
-        Group travels 3 days to [Ak'anon]
-          -[Croaker] animates 9 skeletons to guard the ship and listen to [Cael]
+        Group travels 3 days to [Ak'anon] XXX
+          -[Croaker] animates 9 skeletons to guard the ship and listen to [Cael] 
           -[Croaker] conceals a dagger with results 19 incase he is searched
           -[Nyx] 200yrs old. the gnome escorts the group to the council        
           -[Zana] [Tana], [Werryn] [Wrenn] gnomish guards escort the group around [Ak'anon]
@@ -1132,3 +1132,21 @@ Teleport back to the cave to the Material Plane
                -almost causing them to use violence
                -[Breena] stops by as agreed
                -[Croaker] summons [Thia] to play the flute for everyone.
+               
+++++Session 65
+    Weenie: [Dockson]'s necrotic arm from [The Black Ring] 
+    
+    The group ends their conflict at the Giants Peek with the murder of two of the Iksar [Order of Steel] Brothers 
+      -they are escorted back to their ship by [Zana] and [Tana] while [Wrenn] deals with the Iksar "murder" via [Grogar] the duck  
+    
+    [Smoke] after communing once with [Yygrool], he has stolen the taxidermy from the group and is contemplating letting the ancient troll loose in exchange for the power it offers. Has been staying at a room in the [3 Helms Deep] inn/bar
+     
+    [Grogar] tests his reaction to salt water again, and it knocked unconcious.
+    
+    The group long rests upon the ship
+    -waits a day for the next night to sneak onto the 2 iksar vessels
+    -using great stealth, the sneak onto the ships, kill a few iksar, but then with a firestorm spell, trigger the cannons to fire.
+    -in a panic, an earthquake spell is used to destroy 1/2 of the [Ak'anon] gate, now in the bay at a 45% angle
+    -[Krieger] sneaks onto the other ship and sets off the other set of cannons
+    
+             
