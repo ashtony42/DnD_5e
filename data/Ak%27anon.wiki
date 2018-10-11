@@ -53,8 +53,13 @@ There are many points of interest in Ak'anon:
 -Blacksmith "Erky's Small Arms and Armor" - [Erky](M)   
 -Enchanter's shop "Betterific" - [Breena](F)
 -Militia Barracks 
+  -Guard Members: [Zana] [Tana], [Werryn] [Wrenn]
   -Potion Theft at large 
   -Betterific Theft at large
+-Ak'Anon Council Building
+  A building with a tall roof to accomodate non-gnomish folk for hearings and trials.
+  [Nyx] works as a secretary in a front room with the council chamber behind
+  The council chamber has 7 seats along a curved desk on the far side used by the council members, and a few large and small ones available for others
   
 
 ++++Underground

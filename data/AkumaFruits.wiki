@@ -8,9 +8,17 @@ When Acquiring a new akuma fruit, the type of fruit is the result of a D6 roll b
 1-3 Zoan
 Then choose random fruit type from the respective list using any appropriate method (usually dice roll)
 
++++NEGATIVE EFFECTS
 Characters who have consumed an akuma fruit are no longer able to swim, and are weak to sea-stone weapons and objects
+-1 fruit: paralysis in water, and -30 movement speed when soaked, characters sink in water at 15ft per round
+-2 fruit: unconcious in water needing a long rest to wake up, paralyzed when soaked, sink in water at 25ft per round
+-3 fruit: drop to 0 hitpoints and begin making death saves in water, unconcious when soaked, sink in water at 35ft per round
+-4 fruit: actively pulled toward the closest body of salt water, STR DC 20 check per round to move against the pull at 1/2 speed. Player can move with the pull at 2x speed, all 3-fruit effects apply
+-5 fruit: target flies through the air at 70ft per round to the closest salt water
 
-LOGIA
+Characters who die by drowning when under the effect of an Akuma Fruit will go to the afterlife in the first layer of the [Abyss], [Pazunia] as a Rutterkin (see mordekainen's)
+
+++LOGIA
 1. Fire element
 2. Gas element
 3. Lightning element [Kanishk] at the [Tharizdun Cultist Camp] in the [Shadowfell]
@@ -28,7 +36,7 @@ LOGIA
 15. Ethereal (exists in material and Ethereal plane simultaneously)
 16. Alternate Reality Attunement [Callistege] 
 
-ZOAN
+++ZOAN
 1. Bear - Triggered by anger - (consumed by [Croaker]) (use pg 208 in monster book)
 2. Ginko - Triggered by sloth
 3. Blue Footed Dodo - Triggered by hilarity (consumed by [Grogar] )
@@ -44,7 +52,7 @@ ZOAN
 13. Dog - Triggered by following orders
 14. Cat - Triggered by thinking less of others
 
-PARAMECIA
+++PARAMECIA
 1. Yesterday - The things that happen to the consumer will occur to their body 24 hours from the time they occur.  - [Queen Kallista Damaia]
 2. Resurrection - guarantees the user a second chance at life. User respawns as ghost in random location in world upon death.
 3. Sight - allows user to see ALL spectrums of light. Thus night is perfectly lit up due to cosmic lights for example.
@@ -67,7 +75,7 @@ PARAMECIA
                - Damage dealt to self by others     is dealt to the other
                - Damage dealt to others by others   is dealt to self 
 
-THARIZDUN REBORN
+++THARIZDUN REBORN
 1. Feather - the user nor anything they are in direct contact with weighs anything
 2. Speech - the user's voice becomes a loud booming voice that can be heard for up to a mile away, every time they speak, roll CON DC 18 or be deafened (pg 290 of players handbook) [3 Helms Deep]
 3. Jointed - has an additional 2 elbows and an additional 2 knees along the length of thier arms and legs respectively [3 Helms Deep]
@@ -83,4 +91,6 @@ THARIZDUN REBORN
                            when the person is eaten, they become the fruit, REPEAT [3 Helms Deep]
 13. Upside Down - The consumer's eyes now view the world as if it were upside down (-4 DEX, no longer proficient in Acrobatics)
 14. Spin - All joints of the users body can rotate as if on an axel.                      
-15. Self Puppet - the consumer is forced out of thier body into the deep ethereal plane and cannot re-enter thier body. They can however grab it and move it manually while thier body is still alive.               
+15. Self Puppet - the consumer is forced out of thier body into the deep ethereal plane and cannot re-enter thier body. They can however grab it and move it manually while thier body is still alive.   
+16. Periferal Invisibility - Rosie in [3 Helms Deep] target is invisible when people look directly at them, but visible when viewed from thier periferal vision.  
+17. Reverse Digestion - [Ruvyn] target craves feces when hungry, and normal food tastes putrid while feces is delectable. They will later excrimit the food in it's fresh state after digestion.          
