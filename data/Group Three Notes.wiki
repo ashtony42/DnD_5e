@@ -17,11 +17,12 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
-XXXXXXX  XXX
+XXXXXXX  XXXXX
 XXXXX(August 7th)XX
 XXXXXXX
 XXXXXXX
 
+[Callistege] 5 days to craft sending stones XX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -878,7 +879,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
             
     [Thia] meets with [Callistege]
       -[Matkina] can be found by [House Zashier] at midnight tonight 
-      -100g and 5 days to craft sending stones
+      -100g and 5 days to craft sending stones X
       -offer instructions
       
     THE BALL
@@ -887,5 +888,25 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Kyra] rummages through some of the rooms and acquires some books
     [Tessa] distrupts the event with a blast of phsycic damage, causing screams 
     
+++++Session 38
+    [Tessa] converses with [Jit], and convinces his to be patient for 2 more days.    
     
-        
+    [Thia Sianodell] visits the magic shop in [Luthadel]
+      -orders 18lbs of ginger from [Leeran]
+    
+    [Kyra], [Plosive], [Tessa] head over to [Renegade Leader Kelsier]'s
+    -[Kyra] makes it into Kelsier's hideout
+      -makes the plan for [Rhogar] to be rescued in 5 days from now from now on their ship
+      -layout of the ship is given
+      
+    [Thia] meets with [Callistege]
+    
+    [Tessa] continues to travel west and interacts with a Mistwraith
+      
+    [Plosive],[Doot],Thia and [Kyra] stealth into [House Zolis]
+      -slay the 1st born brother and hasty brother
+      -make demands of the hard working brother to end the brothel business to live
+      -offers the group lots of loot for his survival - Ring of Mind Shielding - Oil of Slipperiness - Periapt of Health
+      -puts out the fire
+      -tells him not to drink the wine  
+      

@@ -3,6 +3,7 @@
 [Teleportation Circle]
 [Craftsmanship]
 [Poison Crafting]
+[Healing Potion]
 
 
 Krieger's Dragon Breath

@@ -1,0 +1,6 @@
+﻿++ Healing Potion
+
+2d4+1 common = 100g worth    1lb of herbs
+4d4+4 uncommon = 500g worth  5lb of herbs
+8d4+8 rare = 5000g worth    50lbs of herbs
+
