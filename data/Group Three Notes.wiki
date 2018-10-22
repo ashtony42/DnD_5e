@@ -22,7 +22,7 @@ XXXXX(August 7th)XX
 XXXXXXX
 XXXXXXX
 
-[Callistege] 5 days to craft sending stones XX
+[Callistege] 5 days to craft sending stones XXX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -909,4 +909,13 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -offers the group lots of loot for his survival - Ring of Mind Shielding - Oil of Slipperiness - Periapt of Health
       -puts out the fire
       -tells him not to drink the wine  
+    
+++++Session 39
+    [Tessa] attacks the northern [Order of Steel] temple  
+      - 10,600 exp earned by the group getting revenge for [Tessa]'s death
+      -the group rests on the ship
       
+    TODO: 
+      - write in story points for Alas  
+      - prestige classes (non-int needing)  
+    
