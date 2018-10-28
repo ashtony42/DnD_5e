@@ -41,3 +41,10 @@ Sticks and Twigs
 Mushroom Farm caves x5
     Blue mushrooms are farmed underground in small dug out caves
         -they grow in excremit, which once grown upon, loses it's smell
+        
+Cursed Obelisks 
+    - A stone fence surrounds the obelisks and has signs warning to not enter the area and absolutely do not touch the obelisks. 
+    - one for each of the following languages in the center of [Otis] that state "Beware the wraith of Kadi"
+        -Draconic, Elvish, Celestial, Orcish, Common, Undercommon, Primordial, Infernal
+    -statues of [Kadi] and [Edan] Trihelm(seductively!) at the end of the lines of obelisks (well done)
+    -[Croaker] casts a curse on [Kadi] statue (Power Word Kill effect that kills creatures with less than 100hp)

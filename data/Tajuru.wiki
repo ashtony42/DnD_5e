@@ -6,6 +6,8 @@ the city has fine elven stonework with towers/archers
 20ft tall with towers
 
 Lead by the Archmage [King Hazzan]
+-Lead by [Eladian] 
+  - Half-Elf descendent of [Edan], has an abrasive personality and strange looks. 
 
 ++++Weeny
 Great Treant encounter (Mahogany)
@@ -20,8 +22,6 @@ Great Treant encounter (Mahogany)
   -Rem
   -Gillant
   -Frellian
-  
-[Eladian] - Half-Elf son of [Edan], can be found in the outskirts of [Tajuru] due to being ridiculed for his abrasive personality and strange looks. Been living in the wilderness for a long time.
 
 ++++Areas of Interest
 

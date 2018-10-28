@@ -916,6 +916,15 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -the group rests on the ship
       
     TODO: 
-      - write in story points for Alas  
+      - write in story points for [Alas] 
       - prestige classes (non-int needing)  
+      
+++++Sesssion 40
+    Weenies:
+      - [Thia Sianodell] gets a vision of a ship that is arriving the next day, a wooden make one
+      - [Alas] had woken up a few days earlier in [Augsburg] with burns on the palm of his right hand. 
+        Had made friends with [Dockson] who was there that day.
+        The ship has 6 crew members + [Alas] and [Dockson] who manage to stow away in a crate following dockson's lead. The crate will be delivered to a butcher shop on the far side of town. 
+        A day of idle tasks on the ship sailing to [Luthadel] (as can be done from inside a crate).
+        [Alas] will be invited to join in the "Rescue" of [Rhogar] from the party's ship
     
