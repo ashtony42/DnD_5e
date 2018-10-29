@@ -17,12 +17,12 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
-XXXXXXX  XXXXX
+XXXXXXX  XXXXXX
 XXXXX(August 7th)XX
 XXXXXXX
 XXXXXXX
 
-[Callistege] 5 days to craft sending stones XXX
+[Callistege] 5 days to craft sending stones XXXX
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -927,4 +927,20 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
         The ship has 6 crew members + [Alas] and [Dockson] who manage to stow away in a crate following dockson's lead. The crate will be delivered to a butcher shop on the far side of town. 
         A day of idle tasks on the ship sailing to [Luthadel] (as can be done from inside a crate).
         [Alas] will be invited to join in the "Rescue" of [Rhogar] from the party's ship
+    
+    [Kyra] attempts to sneak into [Venril Sathir]'s palace, but fails and gets her soul stolen by from body.
+    -informs [Venril Sathir] that her group has the [Stone of Kord], making [Venril Sathir] furious, and needing to take an immediate trip to the [Crones of Neriak] to extract [Kyra]'s secrets
+    -[Thia Sianodell] gets a vision of the crones
+    -escape and long rest on the ship
+    
+    [Thia Sianodell] 
+      -goes to [Leeran]'s and buys [Pantheon of the Dawn War]
+    contacts [Matkina] for a poisoner and thieves tools
+    
+    The Heist to "Rescue" [Rhogar] happens
+     -[Alas] is knocked out and left on the ship as it leaves [Luthadel]
+     -the rest of [Renegade Leader Kelsier]'s crew run off with [Rhogar]
+    
+    TODO - content for Cescent moon god
+    
     

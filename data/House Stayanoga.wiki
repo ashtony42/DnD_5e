@@ -23,6 +23,7 @@ Desires to leave [Luthadel] with his wife [Korinn] who is strictly held captive 
         -longship - 11,000g
   -black market
         -Order of Steel Warship 20AC 300HP - 30,000g  
+        -knowledge of Order of Steel Warship operation - 20p
         
         
 ++++Study Books:

@@ -1,5 +1,7 @@
 ﻿++ Pantheon of the Dawn War
 
+common
+
 BOOK, contains general knowledge of the dieties of the Dawn War (pg 10 of DM handbook)
 
 can be studied for 21 days to gain proficiency in Religion

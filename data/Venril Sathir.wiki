@@ -8,6 +8,9 @@ etherium existence to both extend his own life as well as power the seal.
 STR 20, DEX 20, CON 20, WIS 20, INT 20, CHA 18      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
     +5      +5      +5      +5      +5      +4                 20                   20                   +11
 
+To Hit
+    +10
+
 300hp
 AC 18+3 God King's Etherium Inlayed Platemail (req str 18)
 Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook) dull grey stone circles
@@ -19,13 +22,18 @@ Four Etherium Inlayed Rapiers 1d8+5(+11 to hit)
 Actions: 3 per round
 Bonus Actions: 2 per round
 
-Spells: 
+++Spells: 
 Fireball: 8d6 damage to all creatures in a 20ft radius of target
 Detect Magic
 Dispell Magic (pg 234 player handbook)
 Dispell Good
 Speak with Dead
 Mass Suggestion
+
+Abosorbed from [Kyra]
+ - Water Whip
+ - Mist Stance
+ - Flames of Phoenix
 
 Abilities:
 Ethereal vision, can see into the ethereal plane.
@@ -54,4 +62,5 @@ Upon defeat:
     "Ancient gods will destroy this world!"
     "They will not make their mistakes twice"
     The Ash Mount of [Kunark] will violently erupt as [Gruumsh] is freed. A wave of energy calls out/empowers his followers (if any remain)
+    
     
