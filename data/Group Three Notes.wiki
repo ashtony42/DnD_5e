@@ -17,12 +17,12 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
-XXXXXXX  XXXXXX
-XXXXX(August 7th)XX
+XXXXXXX  XXXXXXX
+XXXXX(August 7th)XX XXX
 XXXXXXX
 XXXXXXX
 
-[Callistege] 5 days to craft sending stones XXXX
+[Callistege] 5 days to craft sending stones - DONE
 
 [Kyra] orders a bronze barding for her wolf Vin from Erky at [Ak'anon]
   -7 days to make -DONE
@@ -940,7 +940,40 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     The Heist to "Rescue" [Rhogar] happens
      -[Alas] is knocked out and left on the ship as it leaves [Luthadel]
      -the rest of [Renegade Leader Kelsier]'s crew run off with [Rhogar]
+     
+    [Thia Sianodell] had gotten a vision of [Kyra]'s [Crones of Neriak] weenie 
     
-    TODO - content for Cescent moon god
+++++Session 41
+    [Briar] was lead by a Vegepygmie, [Tuber] (a potato with root legs/arms, and about 5 'eyes', can't speak)
+       - [Tuber] sensed something wrong with the soil, which lead them out of the [Feywild] and to the wilderness of [Kunark]
+       - arrive by Caloca leaf, which seemed to die shortly after arriving.
+       - [Tuber] has gone ill as well, and is no longer able to move it's root-like limbs, making it appear as a normal potato
+    
+    1-day Weenie: 
+       -[Venril Sathir] sneaks out from the harbor in a thick fog upon a metal [Order of Steel] warship   
+    3-day from now Weenie:
+       - the extraction of secrets from [Kyra] at the [Crones of Neriak] via use of [Vecna]'s help
+          secrets: 
+            - "I know of the [Stone of Kord]" the people who know of it, where it came from, where it traveled
+            - "I know who murdered the Iksar lords"
+            - "I know about the thieves of [Luthadel]"    
+    [Venril Sathir] obtains the secret about the [Stone of Kord], who has it, who has had it, what it looks like, how it reacts    
+       - [Kyra] sent to [Vecna]'s soul and secret menagerie with the two secrets of murdered lords and thieves of luthadl    
+            
+    The group sails to [Fiore] 4 days XXXX  
+       - docks at the west dock which is now in dark water
+       - [Thia Sianodell] follows [Jit] to the palace in [Fiore]
+          - [King Jor Doken] to hire a stronger [Marines] presence
+       - [Doot] [Alas] and [Plosive] take [Kyra] and [Vin] to the temple of elysium
+          - [Kyra], [Vin] and the [Stone of Kord] are left with [Martin Terratio] for safe keeping
+       
+    Thia heads back to the boat  
+    
+    [Doot], [Alas], [Plosive] investigate Trebble and his loud voice
+
+    [Doot], [Alas], [Plosive] rest at Taman's Taps    
+    [Briar] rests at their camp
+    [Thia Sianodell] resting at the boat
     
     
+               

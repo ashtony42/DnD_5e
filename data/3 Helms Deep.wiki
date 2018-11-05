@@ -1,7 +1,7 @@
 ﻿++ 3 Helms Deep
     
     Deformed populace via [AkumaFruits], including:
-      (2)-Speech- Trebble, Gnome M
+      (2)-Speech- Trebble, Gnome M, Carpenter
       (3)-Jointed- Fyjal, Goliath F, but due to the extra joints being folded over eachother, she appears human sized
       (4)-Headless- Chip, Human M, frequents the Tavern
       (8)-Dry- Torrid, Human M, also frequenting the Tavern, ordering an abundant number of drinks, or in the market begging for drink money

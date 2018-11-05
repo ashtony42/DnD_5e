@@ -26,6 +26,7 @@
 [Vaprak]
 [Silvanus]
 [Kadi]
+[Sehanine]
 
 +++Lesser Gods 
 [Hyragul] (deceased)
