@@ -1,0 +1,94 @@
+# Behemoth
+A Behemoth, a person of great strength and fortitude who has proven themself by training with the mightiest of giants. Few ever persue this training, and even fewer are able to survive it. The rigorous sparring an individual undergoes with their giant trainer will often result with broken bones and scars. 
+<br><br>
+However, bones heal back stronger, muscles will grow larger, and what training doesn't kill a Behemoth only makes them greater. A Behemoth's training is known to be complete when they are able to take on the Form of the Behemoth, earning themselves a place in the afterworld amungst the greatest giants ever known and making themself a legend.
+
+### Prerequisites
+* Proficiency with **Atheletics** and **Intimidate**
+* Strength **18**
+* Height greater than **7ft**
+* Must be at least a 5th level in any class
+* You must train by sparring with a giant until you are able to win at least 10 sparring matches as determined by your trainer.
+
+### Advancement
+For each level, including the first, a Behemoth will need to win at least 10 sparring matches with a giant trainer. Subsequent trainers for each level must to be stronger than the previous.
+<br><br>
+Whenever you gain experience, you may choose to add it to your prestige experience instead of your normal experience. If you do, this experience will be quartered, for example, gaining 2000 normal experience could be 500 experience instead. 
+##### Experience Required
+| Level | Experience |
+|:----:|:-------------|
+| 1  |   30,000|
+| 2  | 60,000 |
+| 3 | 100,000 |
+| 4 | 140,000 |
+| 5 | 200,000 |
+
+```
+```
+
+<div class='classTable'>
+| Level | Proficiency Bonus | Features | 
+|:---:|:---:|:---|
+| 1st | +1 | Towering Presence, Giant Warrior, Ability Score Improvement |
+| 2nd | +1 | Giant's Fortitude, Ability Score Improvement | 
+| 3rd | +1 | Giant's Resilience, Ability Score Improvement |
+| 4th | +1 | Living Ram, Ability Score Improvement |
+| 5th | +2 | Form of the Behemoth, Ability Score Improvement |
+</div>
+
+### Class Features
+**Hit Dice** 1d12
+
+* Ability Score Improvements may be used to go beyond the cap of 20
+* Ability Score Improvements gained through the Behemoth class may only be used for **Strength**, **Dexterity**, **Constitution** and **Charisma**
+
+### Towering Presence
+At 1st level, the training you have gone through has made you stronger and even more indimidating to those around you. Your proficiency bonus is doubled for **Atheltics** and **Indimidation**
+
+### Giant Warrior
+At 1st level, your weapons haven't changed, but yet they feel lighter. 
+* You may wield **Two Handed** weapons in one hand.
+* You may wield **Heavy** weapons as though they are normal.
+* You may wield normal weapons as though they are **Light**.
+* **Versatile** weapons wielded in one hand use their two-handed damage dice.
+
+### Giant's Fortitude
+At 2nd level, you become resistant to most effects that would harm your health. You may roll with advantage to protect yourself from any effect that would incur **Fatigued**, **Stunned**, **Restrained**, **Prone**, **Grappled**, **Frightened**.
+
+\page
+
+### Giant's Resilience
+At 3rd level, there are some attacks against you that you simply are unable to feel anymore. You need to be struck rather hard to even feel pain. Damage you receive from all attacks is reduced by **3**. This increases at Behemoth level 4 to **6**, and again at Behemoth level 5 to **9**.
+
+### Living Ram
+At 4th level, your size and strength leave little to get in your way, doors seem to be more of a courtesy to use, as walls don't seem to hinder you. If you move at least 10ft during your movement toward a wall, you may attempt to ram through wall as a part of your movement, creating an opening equal to your height.
+* Wood walls less than 1ft thick: **Athletics** DC 25
+* Stone walls less than 1ft thick: **Athletics** DC 30
+* Metal walls less than 1ft thick: **Athletics** DC 35
+
+### Form of the Behemoth
+At 5th level, you have become something greater than what your training has produced, you can feel it in every inch of your body, and then some. You are able to expand your body beyond it's natural frame when you focus your muscles. As a bonus action, you may take on the Form of the Behemoth. This effect can be used once per long rest, and lasts up to 30 minutes. 
+<br><br>
+Form of the Behemoth Effects:
+* you become one size larger. (IE: Medium becomes Large, Large becomes Huge)
+* your **Strength** score is doubled
+* you gain 50 temporary hit points
+* **AC** increased by 2
+* **Living Ram** can be performed against walls up to 5ft thick.
+* Disadvantage on all **Stealth** rolls
+
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+<style>
+    .phb .classTable {
+        border-image-repeat: stretch;
+    }
+    .phb .descriptive {
+        border-image-repeat: stretch;
+    }
+</style>
+
+
