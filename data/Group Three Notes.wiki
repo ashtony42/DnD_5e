@@ -18,9 +18,15 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
-XXXXX(August 7th)XX XXX
+XXXXX(August 7th)XX XXXX
 XXXXXXX
 XXXXXXX
+
+[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive
+
+Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XX
+-50 marines
+-2 officers
 
 [Callistege] 5 days to craft sending stones - DONE
 
@@ -963,7 +969,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     The group sails to [Fiore] 4 days XXXX  
        - docks at the west dock which is now in dark water
        - [Thia Sianodell] follows [Jit] to the palace in [Fiore]
-          - [King Jor Doken] to hire a stronger [Marines] presence
+          - [King Jor Doken] to hire a stronger [Marines] presence (more arrive in 6 days)
        - [Doot] [Alas] and [Plosive] take [Kyra] and [Vin] to the temple of elysium
           - [Kyra], [Vin] and the [Stone of Kord] are left with [Martin Terratio] for safe keeping
        
@@ -975,5 +981,32 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Briar] rests at their camp
     [Thia Sianodell] resting at the boat
     
+++++Session 42
+    [Doot], [Alas], [Plosive] go to [Trebble]'s house
+      - the party breaks Trebble's front door
+      - [Alas] consumes the God Creation [AkumaFruits] via [Pelor]'s intervention
+      - [Alas] accidentally turns his shield into a god [Ethield]
+     
+    [Plosive] escorts [Trebble] to his house
+      - gives him a glass gnome
+    [Alas] and [Briar] go to find a bear before traveling back to town  
+      - goes to the Temple of Elysium
+      - [Briar] speaks with [Vin] and asks vin to meet them at the ship tommorrowt
     
+    The group all meetup on the boat
+      - [Briar] supplies goodberries for everyone
+      - [Plosive] updates all new party members with what is known about [Venril Sathir]
+      - [Alas] sneaks to the north dock and sends a message to [Dockson]
+        - "In [Fiore], doing well, trying to get back, I can hear shield now, do you speak celetial? I can't - Alas"
+        - changing [Ak'anon] label on a crate to [Luthadel] (taking 7 days to arrive)
+      
+    -1800 exp adventuring experience
+    
+    [Thia Sianodell] vision: 2 [Marine] vessels  
+      
+    Note: [Cael Caemond] has the head of [Tharizdun] and has joined up with the Cult of [Asmodeus], [Ashmadai], in [Gorda]
+      - causing a few more fruits to grow than normal.
+    
+       
+        
                
