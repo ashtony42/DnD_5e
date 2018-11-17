@@ -13,6 +13,7 @@ Gold - rare - 50g per lb
 Platinum - super rare - 500gp per lb
 Dimeritium - very rare, anti-magical properties - soft like hard butter greenish sheen - 100g per lb 
 Etherium - very rare, magical properties - very hard bluish sheen
+Mithril - very rare, magical properties - light weight, makes little sound, grayish silvery sheen (see DM handbook)
 
 Gems and their crushed forms
 -gem dust value is worth 10% of it's original gem's value
