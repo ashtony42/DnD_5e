@@ -19,3 +19,4 @@ Bard Colleges
     
     Weeny: [Bol'Shoy]
     Weeny: [Sonique the Satyr]
+    Weeny: [Giant Yellow Yam]
