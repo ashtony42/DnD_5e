@@ -1,5 +1,7 @@
 ﻿++ Chief Blue Aboleth
 
+Resides south of [Pumanath], and north of [Tajuru]
+
 An Aboleth that only exists when observed by someone who has consumed flesh of a [Giant Yellow Yam]
 
 Chief Blue Aboleth seeks to destroy the bard colleges that torment his thoughts with their inscencent music and festivities like [Bol'Shoy]

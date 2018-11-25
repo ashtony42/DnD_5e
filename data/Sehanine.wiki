@@ -2,7 +2,7 @@
 
 God of the moon
 True Neutral
-Oversees ___
+Oversees: The Moon?
 Symbol: Crescent moon
 Home Realm:  Arvandor, the Verdant Isles, in the Astral Sea
 
@@ -15,6 +15,6 @@ Omens sent to followers (who are proficient in religion):
 - An archer's arrow turns to silver (good omen, marks a bringer of justice);
 - A candle's flame glows with silvery light during prayer (good omen, marks a heard prayer)
 
-At bay by:
+At bay by: Companion god of [Corellon] being contained
 
-When Released:
+When Released: 
