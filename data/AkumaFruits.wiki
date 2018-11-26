@@ -30,7 +30,7 @@ Characters who die by drowning when under the effect of an Akuma Fruit will go t
 9. Gold element
 10. Wood element [Grogar] - vulnerable to fire, resistance to blugeoning, (oak/mohoganny/pine/maple/walnut)
 11. Glue element
-12. Crystal element
+12. Crystal element - [Doot]
 13. Shadow element 
 14. Etherium element [Venril Sathir]
 15. Ethereal (exists in material and Ethereal plane simultaneously)
@@ -74,6 +74,7 @@ Characters who die by drowning when under the effect of an Akuma Fruit will go t
                - Damage dealt to self by self       is dealt to the thing in front of the character (range applies)
                - Damage dealt to self by others     is dealt to the other
                - Damage dealt to others by others   is dealt to self 
+    - consumed by [Thia Sianodell]           
 
 ++THARIZDUN REBORN
 1. Feather - the user nor anything they are in direct contact with weighs anything

@@ -18,17 +18,20 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
-XXXXX(August 7th)XX XXXX
+XXXXX(August 7th)XX XXXXX
 XXXXXXX
 XXXXXXX
 
-[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive
+[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive X
 
-Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XX
+Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XXX
 -50 marines
 -2 officers
 
-[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord]
+[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] X
+
+Moon Phases (30 days in a cycle, day 1 is a full moon)
+(11)
 
 [Callistege] 5 days to craft sending stones - DONE
 
@@ -1009,6 +1012,26 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     Note: [Cael Caemond] has the head of [Tharizdun] and has joined up with the Cult of [Asmodeus], [Ashmadai], in [Gorda]
       - causing a few more fruits to grow than normal.
     
-       
+++++Session 43
+    [Alas] detects items to obtain another [AkumaFruit] and keeps it for later
+    
+    The group awakes on the boat the next day at the east dock
+      -[Alas] allows [Doot] to eat his newly found fruit, [Doot] obtains the Crystal [AkumaFruits] power
+      -[Thia Sianodell] ate the Reflection [AkumaFruit] upon searching the woods for a fruit using detect item
+      -[Briar] and [Alas] locate object to acquire another [AkumaFruits] and keep it for later
+      
+    [Thia Sianodell] goes to Temple of Elysium
+      - [Martin Terratio] gives religious supplies to thia
+      - Thia donates 2plat to the church
+      - Listens to Martin to practice religion, becoming proficient!
+      
+    [Briar] and [Alas] go to town  
+      - [Briar] and [Alas] mend [Trebble]'s front door that was broken earlier  
+      
+    [Briar] and [Alas] go back to the boat
+      -[Briar] practices wood carving 
+      
+    [Thia Sianodell] prays to [Sehanine] asking for a good day tomorrow
+          
         
                
