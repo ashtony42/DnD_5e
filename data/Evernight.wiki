@@ -64,6 +64,9 @@ Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 r
     -replacements: 20g   
     -a room to rest/fix one's self: 5s per night per person     
         
+++++Kenku Nest
+    A building that looks worn down like any other from the outside serves as a hub for Kenku in the city. It has a deep and expanded basement that the Kenku of town. Kenku here will be apprehensive of visitors, if they think the visitor is weak, they will often be hostile, but if they are intimidated (DC 12), they will be more friendly.        
+        
 ++++Portal to Acheron
     A large red cube is underground in a temple, and heavily guarded by Fire Giants, the lava river that goes through the city goes down a channel that flows into the cube. On the other side of the cube, is [Kadi]'s strongest bastion in [Acheron]. Fire Giants only speak giant, and are very proud about it
         Stairs built for giants, 3ft tall

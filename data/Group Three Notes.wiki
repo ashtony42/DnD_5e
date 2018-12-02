@@ -1017,7 +1017,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     
     The group awakes on the boat the next day at the east dock
       -[Alas] allows [Doot] to eat his newly found fruit, [Doot] obtains the Crystal [AkumaFruits] power
-      -[Thia Sianodell] ate the Reflection [AkumaFruit] upon searching the woods for a fruit using detect item
+      -[Thia Sianodell] ate the Reflection [AkumaFruits] upon searching the woods for a fruit using detect item
       -[Briar] and [Alas] locate object to acquire another [AkumaFruits] and keep it for later
       
     [Thia Sianodell] goes to Temple of Elysium
@@ -1033,5 +1033,9 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       
     [Thia Sianodell] prays to [Sehanine] asking for a good day tomorrow
           
+++++Session 44
+    Weenie of the next night for [Thia Sianodell]
+        -BLUE MOON OMEN, with the aligned bright stars twinkling, pointing toward [Nowa Huta]
+        
         
                

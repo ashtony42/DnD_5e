@@ -5,10 +5,13 @@
 the city has fine elven stonework with towers/archers
 20ft tall with towers
 
-Lead by the Archmage [King Hazzan]
--Lead by [Eladian] 
+++++Leadership
+Lead by the Archmage [King Hazzan] during the beginning of the great Neogi war
+Lead by [Eladian] who ended the great Neogi war and had a tyrannical ruling afterwards
   - Half-Elf descendent of [Edan], has an abrasive personality and strange looks. 
-
+Lead by [Edonzan] the half elf, when traveled to again, after embracing peace for a while  
+  - Half-Elf descendent of [Eladian], descendent of [Edan]
+  
 ++++Weeny
 Great Treant encounter (Mahogany)
   -surrounded by a grove of 20 Treants (pg 289) and 15 Dryad (pg 121)
@@ -95,3 +98,7 @@ Corellon's Grace Inn - Garron (Elf M)
     1g per meal
     10g for a bottle of fine Tajuru wine
     1g for a glass
+    
+Neogi War Graveyard:
+    -Includes gravestones for [Alas]'s family
+    -Includes gravestones for [Thia Sianodell]'s family    

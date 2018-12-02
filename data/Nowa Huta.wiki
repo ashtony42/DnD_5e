@@ -24,7 +24,7 @@ Wildlife:
   Boar (pg 319 CH 1/4)
   Giant Boar(pg 323 CH 2)
 
-Points of interest:
+++++Points of interest:
 
   Queen's House - [Queen Kallista Damaia] lives humbly with the people here, and likewise does not have a significantly different home.
     -basement: a cave-like stone room that has charred/cracked walls and blood stained floors that have stains so deep that the visible attempts at cleaning just barely make it tolerable to look at. (this is where the Queen goes when she has to die and reincarnate)
@@ -47,6 +47,7 @@ Points of interest:
     Priests: Bellophanie (Diviner), Lyneria (Evoker), Frasca (Illusionist) (See Volos)
       There is a large circular hole in the middle of the roof of the temple for viewing the moon at night, beneath it, a pool of shallow water with a small drainage canal for overflow that leads into a well outside the temple.
       There are candles lining the pool, used for prayer and omens.     
+      -Divination magic done by followers of [Sehanine] here are done with advantage
         
   Fairgrounds
     Annual Festival occurrs here (5 days after an adventurer group arrives) to celebrate the arrival of the newcomers
@@ -78,9 +79,17 @@ Points of interest:
     Brewers - [Corbin McLougin] - Halfling(M) - (Brother of Yanny from [Fiore]) 
         -beer, wine, ale, mead, cider  
         
-    Hunting Supplies - Nanerdar - Elf(M) (formerly from [Kelethin])
+    Hunting Supplies - Nanerdar - Elf(M) and wife [Serana] (formerly from [Kelethin])
         -Short-bows, Long-bows, arrows  
         -Polished Long-bow +1 TH
+        
+    Glass Maker - [Robert Culliford] - Glass Human (former pirate)
+        -Glass Bottles 
+        -Glassblower's Tools
+        -Hourglass
+        -Magnifying Glass
+        -Spyglass   
+        -Glass Orb Arcane Focus 
         
 Wizard's School of Corellon
     Many classrooms with many apprentices, classes taught by:
@@ -93,4 +102,5 @@ Wizard's School of Corellon
         Captrips: Blade Ward, Friends, Light, Mending
         Level 1: Alarm, Comprehend Languages, Feather Fall, Jump, 
         Level 2: Levitate, Darkvision, Locate Object
+        (other higher level spells up to 5 that do not deal damage)
              
