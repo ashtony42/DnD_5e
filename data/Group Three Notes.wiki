@@ -18,20 +18,20 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
-XXXXX(August 7th)XX XXXXX
-XXXXXXX
+XXXXX(August 7th)XX XXXXXXX
+XXXXXXX  X
 XXXXXXX
 
-[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive X
+[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXX
 
-Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XXX
+Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XXXXXX
 -50 marines
 -2 officers
 
-[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] X
+[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] XXXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
-(11)
+(14)
 
 [Callistege] 5 days to craft sending stones - DONE
 
@@ -1036,6 +1036,26 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
 ++++Session 44
     Weenie of the next night for [Thia Sianodell]
         -BLUE MOON OMEN, with the aligned bright stars twinkling, pointing toward [Nowa Huta]
+                     
+    [Plosive] retrieves feather steel items from [Shirrong Bronzecore] who is sad to hear about Kyra and Tessa who have died                 
+                     
+    Traveling to [Gorda] from the east side of [Fiore] - 3days XXX
+        -on the first night, Thia has a critical omen of the blue moon with the hint to travel to [Nowa Huta]                 
+        -[Alas] critically fails at fishing and loses his whip to the sea
+        -Pass through the barrier around [Notwa Huta] 
+        
+    Arrived at [Nowa Huta]
+        -[Thia Sianodell] remembers her time at [Nowa Huta] and her old home, where she recovers some of the spell books she left behind
+        -[Plosive] Quinn and Kaylin go to see [Serana] and [Nanderdar]
+        -[Alas] gets a tour of town from Head Cleric Namaine
+        -[Thia Sianodell] goes to the temple of [Sehanine] to pray
+          -[Alas], [Briar], and [Doot] meet up there 
+        -[Briar] and [Thia Sianadell] rest at Thia's home
+        -[Alas] and [Doot] will be resting at Head Cleric Namaine's
+        
+++++Session 45
+    Continuing from last session: 
+      [Serana] arrives home to [Nanderdar] to find [Quinn] [Plosive] and [Kaylin]
+      [Alas] and [Doot] go to investigate the Wizard School of Corellon 
         
         
-               

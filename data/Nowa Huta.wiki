@@ -9,6 +9,7 @@ Lead by [Queen Kallista Damaia] (Tiefling F)
 Surrounded by farm lands, that then again are surrounded by a lush forest. 
 
 Those to pass through the field that surrounds the island will have their memories wiped to some degree. (about 300ft out from the shore)
+less than 5 INT = no damage! less than 10 INT = 1D6 psychic, less than 15 INT = 2D6 psychic, less than 20 = 3D6 Psychic 
 Maps also become flushed blank parchment.
 If the tree of [Corellon] is killed, all people who have ever had or lost memories due to it will regain them. 
 

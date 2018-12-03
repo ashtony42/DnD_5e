@@ -1,5 +1,12 @@
 ﻿++ Poison Crafting
 
+++++USE WORK DAYS INSTEAD OF WORK WEEKS
+
+Burnt Othur Fumes
+500gold value
+/50 = 10 work days
+
+
 Nightshade 
   - to craft: DC 15 1/10lb = 1 dose
   - DC 13 CON

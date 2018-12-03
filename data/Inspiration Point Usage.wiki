@@ -38,7 +38,7 @@ For a 1 point increase in the following
 -STR: 5 days "training montage" with appropriate equipment
 -DEX: 5 days "training montage" with appropriate equipment
 -CON: taking on a debuff of some sort for 5 days
--WIS: uninterupted meditation for 3 days
+-WIS: uninterupted meditation for 3 days - (8 days a day)
 -INT: 5 days training with a mentor of greater intellect
 -CHA: 5 days of interacting with a large group of people (20+ people?)
 -CRFT:
