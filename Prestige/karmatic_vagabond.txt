@@ -1,0 +1,81 @@
+# Karmatic Vagabond
+
+### prerequisites
+* Proficiency with **Persuasion**
+* Proficiency with **Insight**
+* Charisma **18**
+* Must be at least a 5th level in any class
+* You must have at least +1 Repor with at least 5 characters.  
+
+### advancement
+For each level, including the first, you must gain +1 Repor with at least 5 new different characters.
+<br><br>
+Whenever you gain experience, you may choose to add it to your prestige experience instead of your normal experience. if you do, this experience will be quartered, for example, gaining 2000 normal experience could be 500 experience instead. 
+##### experience required
+| level | experience |
+|:----:|:-------------|
+| 1  |   30,000|
+| 2  | 60,000 |
+| 3 | 100,000 |
+| 4 | 140,000 |
+| 5 | 200,000 |
+
+### Class Features
+**hit dice** 1d8
+
+<div style='margin-top:140'></div>
+
+```
+```
+
+<div class='classTable'>
+#### Rider
+| level | proficiency bonus | features | 
+|:---:|:---:|:---|
+| 1st | +1 | Stored Karma |
+| 2nd | +1 | Socialite, ability score improvement | 
+| 3rd | +1 | Karmatic Preservation |
+| 4th | +1 | Rebirth, ability score improvement |
+| 5th | +2 | Karmatic Bomb |
+</div>
+
+### Stored Karma
+At 1st level, you discover how to tap into the karma you have earned through your interactions with the world and others. The karmatic energies of your friends can manifest in numerous ways. You gain a number of **Karma Dice** equal to the combined repor you have with characters. The **Karma Dice** is a D6 that can be added as a free action to any attack roll, saving throw, or ability check that you make. You may only add one **Karma Dice** per roll. You regain spent **Karma Dice** at the end of a long rest.
+
+### Socialite
+At 2nd level, the world is a rough place, and it's even more difficult when you're alone. Having friends in many parts of the world has been a gift you do not take for granted, and through our empathy have learned how to show your appretiation in return. Your proficiency bonus is doubled for **Persuasion**, **Insight** and **Deception** rolls made against characters that you have at least 1 repor with.    
+
+### Karmatic Preservation
+At 3nd level, you have learned how to use your karma to revitalize your self and others. You may use a **Karma Dice** as a free action to heal hitpoints of any target, or cure a target of being blinded, deafened, paralyzed, or poisoned. Additionally, if you fall to 0 hitpoints and aren't instantly killed, you may spend three of your **Karma Dice** to become stabilized.
+
+\page
+
+### Rebirth
+At 4th level, you have earned yourself multiple chances at life. In the case that you die, you may be reborn after a week's time in a location respective to where you have a high amount of repor with characters. Your previous body will vanish and any belongings that were on your body will appear with you at your new location. You may only be reborn in this way if you have at least 20 combined repor. If you are reborn in this way, you must reduce your total combined repor by 20, you must choose which characters this repor comes from. These characters will no longer remember who you are or the deeds you have done for them, but you may earn repor with them again as normal.  
+
+```
+```
+
+### Karmatic Bomb
+At 5th level, you become able to telepathically call upon all of your friends at once when in dire need to form a Karmatic Bomb. This is cast as a ritual and uses any number of **Karma Dice** up to the amount that you currently have available. Once the ritual completes, the Karmatic Bomb is formed, and although not having any mass, a character may grasp their hand where the Karmatic Bomb is to hold it. The bomb glows with energy that emits bright light in a 60ft radius, and dim light 15ft beyond that. The bomb's energies will release explosively if thrown at a target, or dissapear gently into space after 8 hours. **Karma Dice** spent forming Karmatic Bombs do not come back after a long rest, they can only be regained by visiting each of the characters whose dice was used for 1 hour for each **Karma Dice** used.
+<br><br>
+If thrown at a target:
+* Range 120ft
+* The attack is done with advantage
+* On hit, roll a number of **D6** equal to the number of **Karma Dice** spent on forming the Karmatic Bomb
+* Blast Radius is 0, and increases by 5 for every 5 **Karma Dice** spent on forming the Karmatic Bomb
+
+
+<style>
+  .phb{ background : white;}
+  .phb img{ display : none;}
+  .phb hr+blockquote{background : white;}
+</style>
+<style>
+    .phb .classTable {
+        border-image-repeat: stretch;
+    }
+    .phb .descriptive {
+        border-image-repeat: stretch;
+    }
+</style>
