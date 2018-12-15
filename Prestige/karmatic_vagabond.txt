@@ -1,4 +1,5 @@
 # Karmatic Vagabond
+A Karmatic Vagabond believes that every good deed will be paid back in due time. By taking care of the people close to you and forming new friendships, you continue to build up good karma. Unlike normal folk who may reap the reward of their good deeds at unknown moments in unpredictable ways, you have learned to tap into your own earned karma for when you need it most.
 
 ### prerequisites
 * Proficiency with **Persuasion**
@@ -29,7 +30,7 @@ Whenever you gain experience, you may choose to add it to your prestige experien
 ```
 
 <div class='classTable'>
-#### Rider
+#### Karmatic Vagabond
 | level | proficiency bonus | features | 
 |:---:|:---:|:---|
 | 1st | +1 | Stored Karma |
@@ -46,7 +47,7 @@ At 1st level, you discover how to tap into the karma you have earned through you
 At 2nd level, the world is a rough place, and it's even more difficult when you're alone. Having friends in many parts of the world has been a gift you do not take for granted, and through our empathy have learned how to show your appretiation in return. Your proficiency bonus is doubled for **Persuasion**, **Insight** and **Deception** rolls made against characters that you have at least 1 repor with.    
 
 ### Karmatic Preservation
-At 3nd level, you have learned how to use your karma to revitalize your self and others. You may use a **Karma Dice** as a free action to heal hitpoints of any target, or cure a target of being blinded, deafened, paralyzed, or poisoned. Additionally, if you fall to 0 hitpoints and aren't instantly killed, you may spend three of your **Karma Dice** to become stabilized.
+At 3rd level, you have learned how to use your karma to revitalize your self and others. You may use a **Karma Dice** as a free action to heal hitpoints of any target, or cure a target of being blinded, deafened, paralyzed, or poisoned. Additionally, if you fall to 0 hitpoints and aren't instantly killed, you may spend three of your **Karma Dice** to become stabilized.
 
 \page
 
