@@ -8,7 +8,7 @@ Runs the Alchemist shop in [Ak'anon] called Potent Portables
     -Potion of Gnomification (reduce to gnome size for 1d4 hours) 20g   
     -Potion of Healing 
         -Weak   2d4+2 20g
-        -Medium 4d4+4 40g
-        -Strong 8d4+8 80g
+        -Medium 4d4+4 50g
+        -Strong 8d4+8 100g
     -Potion of Heroism (+10 Temp HP) 40g
     -Potion of Water Breathing (1 hour) 20g 
