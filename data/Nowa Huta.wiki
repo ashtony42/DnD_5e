@@ -72,6 +72,7 @@ Wildlife:
     Carpenters - Berea - Elf(F) (formerly from [Fiore])
         -craft, repair and sell furnature mostly
         -Wife of Jerrod Louverre, the carpenter Guild Master in [Fiore] - 75yr marriage
+          -"Jerrod has been gone on a delivery for 40+ years"
         -Quotes 4 days to add +1TH to a bow (cost 1 chicken)
         
     Masons - Geral - Dwarf(M) (formerly from [Fiore])   
@@ -104,4 +105,7 @@ Wizard's School of Corellon
         Level 1: Alarm, Comprehend Languages, Feather Fall, Jump, 
         Level 2: Levitate, Darkvision, Locate Object
         (other higher level spells up to 5 that do not deal damage)
+        
+    Mizooti, - gnome student  
+    Clarence, - student who doesn't like going to class 
              

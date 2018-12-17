@@ -19,19 +19,19 @@ XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
 XXXXX(August 7th)XX XXXXXXX
-XXXXXXX  X
+XXXXXXX  XX
 XXXXXXX
 
-[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXX
+[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXX
 
 Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XXXXXX
 -50 marines
 -2 officers
 
-[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] XXXX
+[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] XXXXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
-(14)
+(15)
 
 [Callistege] 5 days to craft sending stones - DONE
 
@@ -1057,5 +1057,20 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     Continuing from last session: 
       [Serana] arrives home to [Nanderdar] to find [Quinn] [Plosive] and [Kaylin]
       [Alas] and [Doot] go to investigate the Wizard School of Corellon 
+        
+    [Plosive] wanders into the woods to draw 5 sleeping deer
+    [Alas] meditates for the night in a classroom
+    -[Doot] sleeps next to [Alas] in the same classroom
+      -wakes up the next morning and gets snatched by a professor who think's he's Clarence trying to skip class again
+    
+    THE NEXT DAY
+    
+    [Briar] learns wood carving from [Berea]
+    [Alas] explores the cave to the feywild in the woods alone, posts a sign by the stalagmites stating that [Alas] has been here and has gone further in
+    -captures a dark mantle from the cave and brings it to town
+    -after bringing it to [Briar] who was unable to tame it, it was left out in the woods.
+    
+    -[Doot] plants the Major Illusion spellbook on [Thia Sianodell]'s table
+    
         
         
