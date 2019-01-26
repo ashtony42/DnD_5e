@@ -11,6 +11,14 @@ Coloca an enormous tree with leaves the size of buildings, when severed from the
 
 [Feywild Towns]
 
+Portal Destinations:
+    When passing through the portal on [Nowa Huta] to the [Feywild], there a number of possible locations a group may appear.
+    The portal closes each time, opening in a different location.
+    -[Korro Kurro] during the day
+    -[Eukar] (if the druid Mohoganny family is restored)
+    -[Formicid] at night, appearing via a "dream" from the Beholder down below in the Neogi tunnels
+    
+
 Bard Colleges
     [Doss Bard College]  -  [Korro Kurro]
     [Anstruth Bard College]  -  [Tajuru]

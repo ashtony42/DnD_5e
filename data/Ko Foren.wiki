@@ -4,6 +4,12 @@ Weeny:
     -Shambling Mound attack! (pg 270)
       much of the island is highly vegetated, and shambling mounds lay dormant waiting for creatures to pass over to engulf (Grapple +4)
 
+3 Hunters (Archers pg 210 of Volos) found in the woods hunting at [Ko Foren]. Thier gryphon mounts perched in the branches of a large tree on the island.
+  [The Thuben Brothers]
+  -Rem
+  -Gillant
+  -Frellian
+
 Wildlife:
     -Giant Apes (pg 323)
     -Roc (pg 260)

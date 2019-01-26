@@ -20,7 +20,7 @@ Great Treant encounter (Mahogany)
    +12 TH, 5d6+6 Melee, 6d10+6 100/240 Range (Rocks)
 
 3 Hunters (Archers pg 210 of Volos) come home from [Ko Foren] gloriously on thier Gryphon mounts
-  Bringing a Bullette cleaved into three chunks
+  Bringing a Bullette cleaved into three chunks  
   The Thuben Brothers
   -Rem
   -Gillant
@@ -59,7 +59,7 @@ Woodsman's Lodge
     -the best carpenters of the world work here. It is a notable honor to do so, and the craftsman are ranked amonst the nobility of Tajuru
     -Masters: Kendil, Nasir, Corym, Lusatra, Urilen
         
-Viscous Solutions - Jihan, Elf M
+Viscous Solutions - Jihan, Half-Elf M
     -Potion of Animal Friendship (able to cast animal friendship once) 20g  
     -Potion of Healing 
         -Weak   2d4+2 20g
@@ -75,9 +75,10 @@ Viscous Solutions - Jihan, Elf M
 Noble's Library
     -Skill books that when studied can reduce the training needed to gain proficienty with a toolset by 5 days
         -20g per toolset book
-    -[Manual of Galebs] - 75g   
+    -[Manual of Galebs] - 75g  
+    -reffer to DM's guild books for more options  
     
-Leather Armoury - Freyra (Elf F)
+Leather Armoury - Freyra (Half-Elf F)
     "Sell Your Exotic Leathers Here!"
     A place frequented by hunters that hunt at [Ko Foren]
     -Slippers of Spider Climbing 40 plat
@@ -93,7 +94,7 @@ Stable - Canna (Tabaxi F)
       -Draft Horses 70gp - 40ft - 540 lbs
       -Riding Horses 100gp - 60ft - 480lbs
 
-Corellon's Grace Inn - Garron (Elf M) 
+Corellon's Grace Inn - Garron (Half-Elf M) 
     Wealthy lifestyle provided - 4gp per night
     1g per meal
     10g for a bottle of fine Tajuru wine

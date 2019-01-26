@@ -43,7 +43,7 @@ Mushroom Farm caves x5
         -they grow in excremit, which once grown upon, loses it's smell
         
 Cursed Obelisks 
-    - A stone fence surrounds the obelisks and has signs warning to not enter the area and absolutely do not touch the obelisks. 
+    - A stone fence surrounds the obelisks and has signs warning to not enter the area and absolutely do not touch the obelisks. About 20 dead birds lay dead around the satue of [Kadi] (that have landed on it, and been subject to the Power Word Kill effect)
     - one for each of the following languages in the center of [Otis] that state "Beware the wraith of Kadi"
         -Draconic, Elvish, Celestial, Orcish, Common, Undercommon, Primordial, Infernal
     -statues of [Kadi] and [Edan] Trihelm(seductively!) at the end of the lines of obelisks (well done)

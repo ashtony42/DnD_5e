@@ -26,3 +26,4 @@
   [Kyra]
   [Thia Sianodell]
   [Alas]
+  [Briar]
