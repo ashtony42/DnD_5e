@@ -1085,5 +1085,12 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -the group ended after defeating the gelatinous cube in the cave, containing many woodland creatures and the corpse of [Daniel Milborne]
       KILL COUNT SO FAR: 6 Darkmantles, 1 Gelatinous Cube
     
-    
+++++Session 47
+    -[Alas] loots the body of [Daniel Milborne] and takes his private badge
+    - [Briar] is polymorphed into a shark to swim to the flumph room, and being of good alignment, makes instant friends.
+      - finds out he can communicate with the flumphs via the sending stones
+      - takes the green vine bath and returns to the group
+    - The group wants to make thier own vine bath
+      
+          
         
