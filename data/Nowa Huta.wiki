@@ -93,6 +93,13 @@ Wildlife:
         -Spyglass   
         -Glass Orb Arcane Focus 
         
+    Fishermen - [Klien], [Jim], [Hewey] - humans - humble fellows
+        -usually one is present at the market while the other two fish, they have three row boats amungst the three of them
+        - there are a couple of times that they've helped to build bigger boats
+        -Fish (worth 2 copper each)
+        -Sea Shells (worth 1 silver each)
+        -Crab (worth 5 copper each)        
+        
 Wizard's School of Corellon
     Many classrooms with many apprentices, classes taught by:
        Kibalf - High Elf(M) - snoody (formerly from [Felwithe])
@@ -108,4 +115,4 @@ Wizard's School of Corellon
         
     Mizooti, - gnome student  
     Clarence, - student who doesn't like going to class 
-             
+           

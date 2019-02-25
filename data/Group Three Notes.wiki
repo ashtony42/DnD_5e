@@ -19,16 +19,16 @@ XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
 XXXXX(August 7th)XX XXXXXXX
-XXXXXXX  XX
+XXXXXXX  XXX
 XXXXXXX
 
-[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXX
+[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
 
 Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XXXXXX
 -50 marines
 -2 officers
 
-[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] XXXXX
+[Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] XXXXXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
 (15)
@@ -1042,7 +1042,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     Traveling to [Gorda] from the east side of [Fiore] - 3days XXX
         -on the first night, Thia has a critical omen of the blue moon with the hint to travel to [Nowa Huta]                 
         -[Alas] critically fails at fishing and loses his whip to the sea
-        -Pass through the barrier around [Notwa Huta] 
+        -Pass through the barrier around [Nowa Huta] 
         
     Arrived at [Nowa Huta]
         -[Thia Sianodell] remembers her time at [Nowa Huta] and her old home, where she recovers some of the spell books she left behind
@@ -1092,5 +1092,64 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       - takes the green vine bath and returns to the group
     - The group wants to make thier own vine bath
       
-          
+++++Session 48
+    The group leaves the cave after encounter 
+    - [Briar], [Alas], [Doot]. [Quinn] and [Plosive] to the ship to get a barrel      
+    - [Thia] heads to town to tell people about [Daniel Milborne]
+       - Shows private badge to [Head Cleric Namaine]
+    -[Quinn] leaves his non-combat related items on the boat  
+    
+    Using the sending stones, the group coordinates to get a barrel to the feywild cave to acquire samples of the glowing vine plant
+      - group goes to town to find a rowboat
         
+++++Session 49
+    the group travels to [Nowa Huta]   
+    
+    [Doot]/[Alas] go to the fisherman's stall in the market and gamble with a dice game to try to get a rowboat, lose, and need to do 3 days of fishing work in order to get the rowboat.
+    
+    [Plosive]/[Quinn] buy a boat with 165 lbs of meat for a row boat from the carpenters
+      - agree to start making the rowboat now and acquire the meat from them later 
+      - two days of crafting
+    
+    [Hewey] to take over at the stall, then [Klien] and [Doot] will go to his rowboat at the south to learn [Doot] how to fish.
+      - 3 days XX
+      
+    [Briar] and [Thia] fly the barrel with vines/dirt back to the ship once they get to the shore
+      - [Thia] then heads back to town
+    
+    [Alas] makes it to the boat, and with the help of [Kaylin] and [Briar], is able to make it aboard
+    
+    [Doot] fishes with [Klien] as agreed at the south side of the island, until sundown and rests at the fisherman's stall at the market 
+     
+    [Plosive] and [Quinn] rest at serana and nanderdar's 
+    
+    NEXT DAY
+    
+    [Thia] heads back to the boat
+      -then back to town
+    
+    Queen Kalista uses shrink (50%) on [Plosive]'s feather steel axe (9am ish)
+    
+    FESTIVAL WEENIE
+    
+    [Alas]/[Briar] heads back to town a bit after [Thia]
+      - [Alas]/[Briar]/[Doot] go to the festival
+      - [Thia] meditates by the tree of Corellon then eventually goes to the festival
+    
+    [Quinn] and [Plosive] go hutning and find 6 boars 1 giant boar
+      - they arrive after the festival has started, but take the time to drop off the boar carcases at Nanderdar/Serana's house
+      
+    [Doot] joins [Klien] again for fishing
+    
+    [Thia] joins with her friends to the temple of Sehanine
+    
+    [Briar]/[Alas] go to Nanerdar's in regards to performing a wedding ceremony
+      - Nanderdar says he will ask the big question later tonight, being brave
+      - they then go to [Thia]'s house
+      
+    [Plosive] helps cleanup the fairground and then goes to [Thia]'s house afterwards, taking some leftover festival food
+    
+    [Briar]/[Alas]/[Doot]/[Plosive] are at [Thia]'s for the night
+    
+    [Thia] joins in the clairvoyance ritual with her friends at the temple of Sehanine and see the Aboleth within the feywild cave. 
+    
