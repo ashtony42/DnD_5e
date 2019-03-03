@@ -114,5 +114,5 @@ Wizard's School of Corellon
         (other higher level spells up to 5 that do not deal damage)
         
     Mizooti, - gnome student  
-    Clarence, - student who doesn't like going to class 
+    [Clarence], - student who doesn't like going to class 
            
