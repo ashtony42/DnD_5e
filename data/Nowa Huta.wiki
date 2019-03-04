@@ -38,7 +38,7 @@ Wildlife:
           Druid (pg 346)
 
   Temple of the Forgotten
-    Ancient elvish stone temple adorned with an 8 pointed star at the top of it's highest point.
+    Ancient elvish stone temple adorned with an 8 pointed star at the top of it's highest point. 6ft deep
     A place for people who newly arrive to aquaint themselves. The center is a large pool filled with a dazzling amount of gold/silver/copper coins where people have surrendered their now useless currency of their past.
         Maintained by Head Cleric Namaine - human(M) - (Born & Raised)  
         

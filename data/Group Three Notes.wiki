@@ -19,7 +19,7 @@ XXXXXXX  XXXXXXX
 
 XXXXXXX  XXXXXXX
 XXXXX(August 7th)XX XXXXXXX
-XXXXXXX  XXX
+XXXXXXX  XXXXXX
 XXXXXXX
 
 [Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
@@ -1153,3 +1153,25 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     
     [Thia] joins in the clairvoyance ritual with her friends at the temple of Sehanine and see the Aboleth within the feywild cave. 
     
++++Session 50
+    NEXT DAY
+
+    [Plosive] and [Briar] take the completed rowboat to the ship
+    [Alas] studies religion with [Thia]
+    
+    [Doot] completes his fishing duty and brings an additional rowboat to the main ship
+    
+    NEXT DAY    
+    
+    [Quinn] suggests to [Doot] that the two of them should steal some gold
+      -steal sucessfully 12k gold from the temple of the forgotten
+      -[Doot] breaks off his right leg trying to remove swollowed gold from his stomach (nat 1)
+      
+    NEXT DAY  
+    
+    [Thia] and [Alas] head to the boat after being messaged by [Plosive] via sending stones in order to talk a bath in the vine slime
+      -Everyone takes a green vine bath
+      -Heads to the Cave of the Feywild
+      
+    The group traverses back in into the cave and goes into the Aboleth's pool
+    BATTLE ENSUES ON THE NEXT EPISODE
