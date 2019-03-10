@@ -1,4 +1,5 @@
 ﻿++ Canaith Bard College
+Bard College of [Bright Cliffs] 
 
 Lead by Master Picker Jouri (F)
 
@@ -8,6 +9,7 @@ Instruments can be purchased at the College's shop
     -Lute - 35g
     -Lyre - 30g
     -Viol - 2g
+    -Harp - 35g
     
 Graduates are given a Canaith Lyre, Instrument of The Bards - pg 176  
     -learn stringed instrument proficiency within the first 21 days     

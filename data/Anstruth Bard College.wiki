@@ -1,4 +1,5 @@
 ﻿++ Anstruth Bard College
+Bard College of [Tajuru]
 
 Lead by Virtuoso Viarmo
 
@@ -8,6 +9,7 @@ Instruments can be purchased at the College's shop
     -Lute - 35g
     -Lyre - 30g
     -Viol - 2g
+    -Harp - 45g
     
 Graduates are given a Anstruth Harp, Instrument of The Bards - pg 176
     -must train 62 days at the college and become proficient with 3 (new) instruments

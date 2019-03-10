@@ -3,27 +3,46 @@
 A festival where all colleges of the land come to compete, and ultimately entertain the masses, takes places at towns that have bard colleges.
 
 Weenies:
-    -Divination! just 1g to have your fortune told! What does your future hold? 5 Cards tell everything!
+    -Agrabah Half-Elf(M): Divination! just 1g to have your fortune told! What does your future hold? 5 Cards tell everything!
         -Reading [Krieger]: "Spirit", "Void", "Exchange", "Restoration", "Ancestor"
         -Reading [Croaker]: "Death", "Hunt", "Festival", "Death", "Birth"
         -Reading [Vulcan]: "Freindship", "Betrayal", "Knowledge", "Festival", "Nature"
         -Reading [Edan]: "Ambition", "Royalty", "Strength", "Honour", "Death"
         -Reading [Grogar]: "Joker", "Restoration", "Spirit", "Exchange", "Death"
         -Reading [Lightning]: "Greed", "Short", "Death", "Moon", "Festival"
-        
+                
+        -Reading [Alas]: "War", "Past", "Love", "Future", "Peril"
+        -Reading [Thia]: "Exchange", "Wealth", "Future", "Enlightenment", "Confusion"
+            "... what... this is my fortune!"
+            (tries again)
+                         "Confusion", "Discouragement", "Abandon", "Festival", .....
+            "uhg, I must be going, my cards seem to be defective today"             
+        -Reading [Plosive]: "Leadership", "Honour", "Strength", "Protection", "Friendship" 
+        -Reading [Quinn]: "Ambition", "Honour", "War", "Friendship", "Death" 
+        -Reading [Doot]: "Void", "Disease", "Festival", "Entertainment", "Enlightment"
+        -Reading [Briar]: "Nature", "Restoration", "Friendship", "God", "Death"         
+                
     -Gold Painted Wooden crowns! Be ready for the golden dusting! 3g each
-        -Royal people seem to blend in better due to these sales (Edan)
-        
+    
     -Drinks! A Satyr selling ale and wine 1g per drink (festival prices)
+    
+    -Trinkets! Kermite Grung(M)
+       - 20g A vase that keeps any flowers placed in it from wilting.
+       - 30g An etched Mithril coin holy symbol of [Corellon] that you can activate once per day to gain 1d4 to an initiative roll.
+       - 10g An acorn that prevents you from being hit by natural lightning. "No one's been hit yet! it must work!"
+       - 10g A comb made of bone that causes your hair to grow 1 inch for every minute you brush it. Your hair stops growing when it is as long as you are tall.
+       - 5g A fish mask that lets you hold your breath twice as long as normal.
+       - 15g An egg sized stone that grows wet, cold, hot, or dry depending on the weather in 24 hours. If hung from a string the rock swings or hangs depending on the wind in 24 hours.
+       - 20g A pea sized crystal and a compass that always points toward the crystal.
 
-Guzhen(M) from [Bright Cliffs] [Canaith Bard College]
-Rjorn(M) from [Korro Kurro] [Doss Bard College]
-Pantea(F) from [Nahiri] [Ollamh Bard College]
-[Ehlonna](F) from [Tajuru] [Anstruth Bard College]
+Guzhen(M) Tabaxi from [Bright Cliffs] [Canaith Bard College]
+Rjorn(M) Korred from [Korro Kurro] [Doss Bard College]
+Pantea(F) Kor from [Nahiri] [Ollamh Bard College]
+[Ehlonna](F) Elf from [Tajuru] [Anstruth Bard College]
 
 At the peak of a successful Bol'Shoy festival, a Ki-Rin (pg 163 of Volos) will be summoned from another plane, and it will fly overhead, sprinkling down a glitter of gold for all to behold. A truely awesome sight.
 
-For those with Evil alignments, they'll be a bit repulsed by the specticle.
+For those with Evil alignments, they'll be a bit repulsed by the spectacle.
 
 Festival:
 https://www.youtube.com/watch?v=gZgnwVAss8M

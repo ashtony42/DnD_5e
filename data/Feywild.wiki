@@ -23,7 +23,8 @@ Bard Colleges
     [Doss Bard College]  -  [Korro Kurro]
     [Anstruth Bard College]  -  [Tajuru]
     [Ollamh Bard College]  -  [Nahiri]
-    [Canaith Bard College]  -  [Bright Cliffs]  
+    [Canaith Bard College]  -  [Bright Cliffs] 
+    [Fochlucan Bard College] - [Taipan]
     
     Weeny: [Bol'Shoy]
     Weeny: [Sonique the Satyr]
