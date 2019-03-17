@@ -18,8 +18,9 @@ On days where he can get away with it, he will escape his studies at school to g
 
 
 ++++Clarence's hideout: 
-  To the north of the town of [Nowa Huta] (only about 15 minutes out) is an abandonded ground hog tunnel that has dense vines that have grown over the entrance.
+  To the north of the town of [Nowa Huta] (only about 15 minutes out) is an abandonded ground hog tunnel that has dense vines that have been placed over the entrance.
   The tunnel has a Tiny opening, that Clarence can crawl through since he is Small.
+  Nature or Perception DC 18 to spot the hidden entrance
   
   Inside the main room of the burrow is a 20ft x 20ft room that has notes posted all around as well as a collection of strange items
   -Note 1: THE TREES CAN HEAR AND SEE, DON'T DO OR SAY ANYTHING SUSPICIOUS AROUND THEM

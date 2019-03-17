@@ -1,0 +1,56 @@
+﻿++ Trail of the Mighty Skunk Bear
+
+The Hunter [Nanerdar] of [Nowa Huta] has recently caught the scent of a new bear in the woods he calls the Skunk Bear
+
+He imagined at first that the bear had gotten a hefty dose from a run in with a skunk, but those smells tend to clear up after a couple of weeks.
+
+It's paws have left the largest bear tracks he's ever seen!
+
+The group could be pointed to the north where [Nanerdar] has been smelling the bear
+
+While traveling and tracking around this area of the woods, they have the possibility of running into [Clarence]'s hideout.
+-Nature or Perception DC 18 to spot the entrance
+
+
+
+[Letho] - The Giant Bear
+Huge beast
+
+Armor Class 14 (natural armour)
+Hit Points 126 
+Speed 50, climb 30, swim 30
+
+STR	    DEX	    CON	    INT	    WIS	    CHA
+23 (+6)	10 (+0)	21 (+5)	8 (-1)	14 (+2)	10 (+0)
+Skills Perception +6
+Senses passive Perception 16 
+Challenge 9 (5,000 XP)
+Keen Smell. The bear has advantage on Wisdom (Perception) checks that rely on smell.
+
+Immune:  Piercing/Bludgeoning/Slashing/Poison
+
+Vulnerable: Fire
+
+++++ACTIONS
+Multiattack. The bear makes three attacks: one with its bite and two with its claws.
+
+Bite. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) piercing damage.
+
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 19 (3d8 + 6) slashing damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be knocked prone.
+
+++++Sludge Actions
+(when cut, sludge comes out and instinctively attacks with it)
+Sludge Throw - 2D6 Acid, +8 TH, 1 per turn, 40/80ft range, -1 AC on hit
+Sludge Wave - 20ft radius is difficult terrain (2 additional steps), -1 AC per turn in it
+Sludge Grapple -10ft reach, 2d6+3 Acid per turn while grappled, -1 AC per turn while grapped 
+
+
+
+++Story if [Letho]'s True Polymorph is dispelled
+
+Uhg, I hate people.
+And I hate that Dwarf!
+And I hate that horned witch!
+AAAHG!
+(nearby dryads will attempt to charm Letho to calm him, rant will continue if letho passes the check)
+(whispers in the wind can be heard of the dryads trying to inform [Queen Kallista Damaia] Perception DC 15)

@@ -84,6 +84,7 @@ Wildlife:
     Hunting Supplies - Nanerdar - Elf(M) and wife [Serana] (formerly from [Kelethin])
         -Short-bows, Long-bows, arrows  
         -Polished Long-bow +1 TH
+        Weenie: [Trail of the Mighty Skunk Bear]
         
     Glass Maker - [Robert Culliford] - Glass Human (former pirate)
         -Glass Bottles 

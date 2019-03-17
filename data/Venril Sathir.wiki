@@ -6,7 +6,7 @@ His very existence is for perpetuating the seal he has on the god [Gruumsh] thro
 etherium existence to both extend his own life as well as power the seal.
 
 STR 20, DEX 20, CON 20, WIS 20, INT 20, CHA 18      SPELL SAVE DC   SPELL CAST ABILITY    SPELL ATTACK BONUS 
-    +5      +5      +5      +5      +5      +4                 20                   20                   +11
+    +5      +5      +5      +5      +5      +4                 20               +5 MOD                   +11
 
 To Hit
     +10
