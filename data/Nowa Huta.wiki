@@ -116,4 +116,5 @@ Wizard's School of Corellon
         
     Mizooti, - gnome student  
     [Clarence], - student who doesn't like going to class 
+    
            

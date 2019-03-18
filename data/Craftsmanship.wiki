@@ -1,5 +1,9 @@
 ﻿++ Craftsmanship
 
+Base Gold Increments:
+  - 5g value per day for normal items
+  - 25g value per day for magic items
+
 A skill that determines how well a character is at crafting.
 The ability modifier of a character's craftmanship skill would have the following effects:
 -for every 1 point above
