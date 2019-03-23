@@ -345,7 +345,7 @@ Quinn reads the book [To Kill a Mocking Kenku]
 
 [Plosive] buys [Foresake the Gods] from The Sages Cellar in [Gorda]
 
-[Quinn] runs into Landerdar Velselthin and sends him away with two damaging arrow hits
+[Quinn] runs into Lanerdar Velselthin and sends him away with two damaging arrow hits
 
 [Tessa] seduces [Robert Culliford] and gains a repor, and compensation by the Blooming Orchid for providing services
 
@@ -1194,7 +1194,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     
     Briar goes to the carpenters around 9am to work on chairs for the wizard school
     
-    Thia gets a permenant +1 to her daily diviation rolls
+    Thia gets a permenant +1 to her daily divination rolls
     
     [Alas] listens to High Cleric Namaine about religion to gain a tick
     
@@ -1227,4 +1227,11 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
          
       -[Alas] wants to buy the pink diamond and haggles him down to investigate if the diamond is actually a rose quarts   
          
-           
+++++Session 53
+    Weenie: the sale of [Doot]
+        being a fine crystaline bird man statue, the locals are eager to buy him, and he was already by a man at the docks for 15 silver!
+        -this man plans to bring [Doot] to the Blooming Orchid in exchange for the time of his life.
+        -Hooded figure wearing a necklace with a symbol of [Asmodeus]
+            -Three inverted triangles arranged in a long triangle
+        -Sells [Doot] and the cart to the man for 20 platinum - "WOO HOO!"
+        -The Culstist Fanatic carries [Doot] off to the other cultists of [Ashmadai]               

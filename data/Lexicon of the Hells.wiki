@@ -11,3 +11,10 @@ Includes a ritual to open a portal to the first layer of the hells
 A waykeeper must attune to a stone entryway,
 then paint the entirety of the stones with their own blood to activate. 
 (Unfortunately for the members of [Ashmadai] this only works on the existing portal in [Dun Morhen]'s [Wyverns Lair])
+
+++++The portal is described as such:
+        A carved stone entryway 40ftx40ft that has a solid stone wall behind it. The stones are carved with patterns that do not flow, spirals and lumps, holes and spikes
+        Abbysal writing on the side columns say: 
+            -LEFT "Tear way to [Nessus]." 
+            -RIGHT "All fear [Asmodeus]."
+            -TOP "Bind the worlds with blood."

@@ -41,12 +41,16 @@ Areas of Interest:
 ++Brawler's Ring
         An area that has been used for brawling competition that the central circle area has worn into a decent sized trench. Gambling and brawling tournaments happen here. Use the following tiers if anyone enters the competition:
         Announcer and organizer: David Coppercap, human
-          -Ron Schnopps(human) [Don Kreig] grunt- Guard pg 347
-          -Grom Mallamoog(half orc) orcish trash - Thug pg 350
-          -Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344 - friend of Ron Schnopps
+        
+        Weenie: "We need 4 more contestants to fill the roster!"
+        
+          -Ron Schnopps(human) [Don Kreig] grunt- Thug pg 347
+          -Grom Mallamoog(half orc) orcish trash - Orog pg 350
           -Lanerdar Velselthin(drow elf) good looking ladies man - Veteran pg 350 - [House Salazar Assassins] from [Kalas]
-          -[Nogg](half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
-          -[Robert Culliford] (if in town)
+          -[Jack the Slumberjack] (dwarf) - Berzerker - fighting to earn supplies for him and [Kyra Usagi] 
+          -DEAD - Lander Koll(dwarf) dock worker with grudge against [Don Kreig] - Berserker pg 344 - friend of Ron Schnopps
+          -DEAD - [Nogg](half koloss) a blood brother of [Rex The Smasher] - Gladiator pg 346
+          -AT [Nowa Huta] - [Robert Culliford] (if in town)
         If gambling, 
           -guessing the winning contestant will earn 10x what they wager
           -guessing the runner up will earn 5x what they wager
@@ -80,8 +84,15 @@ Areas of Interest:
         Lead by [Favria]
         Through a trapdoor to the basement, is a crudely carved "Portal" used by the cult to hopefully some day open thier way to the hells.
         Loot: [Lexicon of the Hells], [The Summoner's Grimoire]
-        EVIL GROUP NOTES
-        By drawing the card for having a demon become his enemy, [Edan] has caused the Cultists here to have a successful ritual finally! Catching them by a bit of surprise. Ultimately resulting in a devil posessing the body of [Rhogar] of [House Salazar Assassins], enhancing his desire to kill [Edan], and also being more favorable toward the cultists for once.
         
+        Weenie (when arriving at night)
+          -a flickering red light glows from a large board on the floor (the trapdoor leading to the basement)
+          -the cultists will be performing their ritual with [Tharizdun]'s head as a catalyst, spilling thier blood upon the portal and the head of Tharizdun
+          -if the group does not act in a timely manner to interrupt it, a Nalfeshnee will be summoned from the [Abyss]
+            Cultist: "it worked! please! guide us to Asmodeus!"
+            Nalfeshnee: (Abyssal) "Come here... I will need something from you" *rips off cultists arm and eats it*
+            Cultist: "AAAAAHg"
+            Other cultists accept it and praise the Nalfeshnee
+            Satisfied, the Nalfeshnee will attack the party, and the cultists and [Cael Caemond] join in
         
 

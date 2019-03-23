@@ -7,6 +7,6 @@ Loot: [Lexicon of the Hells]
 ++++Staff of False Life
   used in the rituals to prevent cult members from dying when they spill thier blood on their stone "portal"
   -Must attune(by a spell caster), has 3 charges
-  -Can use an action to grant a target 1d10 + the sum of all spell caster levels Temporary Hitpoints
+  -Can use an action to grant a target 1d10 + the sum of all spell caster class levels Temporary Hitpoints
   -Temporary Hitpoints fade after a long rest
   -Staff gains 1d4 charges each dawn
