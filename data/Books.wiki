@@ -35,3 +35,6 @@
     [Vegepygmy Cookbook]
     [Materials of Legendary Craftsmen]
     [The Endless Woods]
+    
+[Fiore]
+    [Ivasaar's Exotic Encounters] - [Tharizdun] dungeon    

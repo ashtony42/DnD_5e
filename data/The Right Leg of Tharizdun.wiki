@@ -1,0 +1,90 @@
+﻿++ The Right Leg of Tharizdun
+
+use "The Right Leg of Tharizdun.jpg" map (created via https://donjon.bin.sh/d20/dungeon/)
+
+This is an ancient elven tomb where the mummified right leg of [Tharizdun] is located
+
+this dungeon can be found if adventurers search the outer islands around [Fiore]
+
+    At the entrance:
+      -druids will instantly see glowing druidic text of "Leave, do not cleave that which has been cleaved"
+      -there is a stone with a counter clockwise jagged spiral pattern on it
+      behind it is room 10 from "The Right Leg of Tharizdun.jpg" map
+      
+      
++++Rooms
+1.  Leshen - https://www.dndbeyond.com/monsters/73232-leshen
+      -animals that have not been slain in the rest of the dungeon can be summoned by the Leshen to this room
+
+    Hallway behind Leshen room:
+      -Intracately carved wooden box with the symbol of [Tharizdun] carved upon it. That contains the Right Leg of Tharizdun
+      -100 platinum
+      -Roll d6: An elk antler decoratively carved with flowers
+         -Is a Druid Spell Scroll for: "Foresight", "Planeshift"
+       OR
+      -A rolled up spell scroll written in elvish
+         -Is a Spell Scroll for: "Power Word Stun", "Dominate Monster", "Forcecage", "Holy Aura"   
+      -Roll d6: Diamond (one of the following: pink, yellow, blue, brown, white) or Emerald   
+      -Roll d6: Magic Item (one of the following: Bag of Holding, 
+                                                  Bag of Beans, 
+                                                  Bracers of Defence,
+                                                  Belt of Giant Strength (21),
+                                                  Vicious Weapon(a bronze metal disc that can be added to an existing weapon by a smith, bears the symbol of [Kord])
+      
+2.  This room's floor is covered with mushrooms, some at tall as 4 feet!
+     -the myconid will attack if they are hurt or the totem is tampered with.
+       (3 Myconid Sovereign, 4 Myconid adults,6 Myconid, 10 Myconid Sprouts)  
+    This room has a totem with an elk skull mounted on top of a 3ft tall log wrapped in wolf fur.
+     - if touched, the Leshen awakens and attacks
+     
+3. This room has mushrooms growing from the floor and walls (23 total)
+     - they can be harvested with a Nature (15) roll to prevent spores from releasing, else it releases Myconid Rapport Spores. These mushrooms turn into Myconid Sprouts if the adventurers attack adult or soveriegn myconids
+    
+   There are 2 sarcophagi along the east wall, child sized
+     -Names in elvish carved into the stone: "Aiwin Bryna", "Lorsan Miazumin"
+     -Aiwin's contains a book called [Ivasaar's Exotic Encounters] 
+     -Lorsan's contains an ancient sling shot (ranged 30ft, 1d4 damage on hit, breaks after 5 shots)
+
+4. 8 sarcophagi with the fallen hunting companion wolves. 
+   these animate into undead dire wolf skeletons if the Leshen summons creatures to help it.
+   
+   The back room to the west has a totem with an elk skull mounted on top of a 3ft tall log wrapped in wolf fur.
+     - if touched, the Leshen awakens and attacks
+     
+5. This room is setup with several rows of stone chairs that face the north, where there is a stone podium. The walls have mounts for candles, but are empty. 
+ 
+   This room has mushrooms growing from the floor and walls (30 total)
+     - they can be harvested with a Nature (15) roll to prevent spores from releasing, else it releases Myconid Rapport Spores. These mushrooms turn into Myconid Sprouts if the adventurers attack adult or soveriegn myconids
+   
+   In front of the stone podium is a totem with an elk skull mounted on top of a 3ft tall log wrapped in wolf fur.
+     - if touched, the Leshen awakens and attacks
+     
+6. There are 3 sarcophagi along the east wall, 
+     -Names in elvish carved into the stone: "Darthoridan Aejor", "Naesala Valnelis", "Llewel Ilidove"
+     -Each one contains a Swarm of Spiders (see monster manual)
+     -The first one opened will cause the Swarm of Spiders to attack, jumping onto the victim
+     -Spider Swarms will then take a turn emerging from cracks in the other 2 sarcophagi
+     -6 giant spiders on the ceiling will initially cast web on each member of the party before jumping down
+
+7. There are 4 sarcophagi: Vulmon Rorel, Nindrol Shagwyn, Orrian Phisalor, Gorred Rowynn
+   
+   in the north-weat corner, there is a shrine to [Corellon], Good aligned characters that touch the shrine gain sudden knowledge of the island [Nowa Huta] and the ancient elven city upon it (as it existed in ancient times, without the enormous tree in the middle), Neutral or Evil aligned characters that touch the shrine take 5d6 phycic damage as strange psychadelic images flash through their mind. 
+
+8. When entered, 12 Swarms of Bats (see monster manual) will fly down from the ceiling of the 15ft tall room and attack 
+   There are 2 sarcophagi on the north side of the room. 
+     -Names in elvish carved into the stone: "Ivasaar Erfaren", "Avourel Erfaren"
+     -Inside: Ancient Elven Longbow (+1 dmg, breaks after 5 shots)
+              Ancient Rusted elven curved longsword (+1 dmg, breaks after 5 hits)
+     
+9. Elder Oblex
+   This room has 5 sarcophagi, each one has the bottom dug out, filled with the red ooze body of a single Elder Oblex that is connected beneath the floor.
+   The Oblex has a tethers to 7 elves within the room that are either leaning or sitting on the sarcophagi. The tether isn't visible unless they move away from a sarcophagi. When they speak, they kind of speak in broken unison. They wield elvish ancient bows and rusted swords (+1's) and fight with the block of a Veteran. If not interacted with immediately, they can be heard having a conversation about hunting in elvish.
+   
+   Perception check DC 15 to smell the fail sulfur smell from the "elves" 
+   
+   Elf names: Durlan Morydark, Flardryn Virjeon, Rolim Daethyra, Filverel Adqirelle, Saleh Yelmoira, Ivasaar Erfaren
+Avourel Erfaren
+
+10. Entrance      
+      
+      

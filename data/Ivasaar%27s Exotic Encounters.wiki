@@ -1,0 +1,16 @@
+﻿++ Ivasaar's Exotic Encounters
+
+This book appears to be a catalog of beasts encountered long ago by an elven ranger named Ivasaar, she has imagry and descriptions of the beasts she's hunted. 
+
+The descriptions and images are detailed enough that a druid can have these as beasts they've seen.
+
+The caveat being that it appears a child has owned this book too, and has colored in the pictures, so the transformations will have the respective bright colorings.
+
+Beasts include:
+  - Plesiosaurus
+  - Axe Beak
+  - Giant Centipede
+  - Fire Beetle
+  - Giant Sea Horse
+  - Giant Weasel
+  - Rhinoceros

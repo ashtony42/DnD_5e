@@ -9,3 +9,10 @@
 
 [Feywild]
   -[Lantrokixos Lair] 
+  
+[The Head of Tharizdun]
+[The Right Leg of Tharizdun]
+[The Left Leg of Tharizdun]
+[The Right Arm of Tharizdun]
+[The Left Arm of Tharizdun]
+[The Torso of Tharizdun]  

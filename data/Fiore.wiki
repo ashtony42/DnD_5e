@@ -16,8 +16,14 @@ Lush green vegetation covers the large hill of an island. The sounds of all kind
     Each outer island, if explored has a chance to stumble upon a hidden acient elven ruin can happen. (diff 20, diff 15 if [Legend of Regdar] has been read)
       -history check of 15 can identify the ruins as elven made
       -druid will instantly see glowing druidic text of "Leave, do not cleave that which has been cleaved"
-      -there is a stone with a counter clockwise jagged spiral pattern on it, behind it of which is a mummified piece of Tharizdun
+      -there is a stone with a counter clockwise jagged spiral pattern on it
         if 6 pieces are collected (head,torso,arm,arm,leg,leg) Tharizdun will be reborn
+        [The Head of Tharizdun]
+        [The Right Leg of Tharizdun]
+        [The Left Leg of Tharizdun]
+        [The Right Arm of Tharizdun]
+        [The Left Arm of Tharizdun]
+        [The Torso of Tharizdun] 
          
     One of the outer islands has a griffon roost (pg 174 of monster manual) home to one griffon.     
        
