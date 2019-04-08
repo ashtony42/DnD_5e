@@ -20,7 +20,9 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXX(August 7th)XX XXXXXXX
 XXXXXXX  XXXXXXX
-XXXXXXX  XXXXX 
+XXXXXXX  XXXXXXX 
+
+X
 
 [Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
 
@@ -1293,8 +1295,47 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     Doot and Alas go to [Leeran]'s
       -[Alas] buys a pink diamond for 5000g
       -[Doot], [Plosive] purchases health potions
+        -[Doot] buys the obsidian dog
          
     The group heads back to the boat    
       -long rest
       -[Alas] learned celetial and can now understand [Ethield] and (amulet)  
-            
+
+++++Session 55
+    [Doot] and [Briar] choose to progress onward to [Arabasta] - 2 day trip
+      -[Cael Caemond] 
+      
+    [Plosive] adds some aboleth teeth to [Doot]'s armor another day needed to complete
+    [Briar] reads the The Magic of the Flames
+    [Alas] reads for one day from the works of Jever Blackgear
+    
+    Day 2 of traveling to [Arabasta]
+      - [Doot] intimidates [Cael Caemond] for practice!
+      
+      The Group + Cael goes to the [Arabasta] palace     
+
+    Rest for the next day
+      
+    The group visits [Queen Larissa] and asks many quesitons about the state of things 
+    
+    [Gaslow Garmon] works on kenku bird face on the back - 30g          
+      -deep red eyes
+      -done by tomorrow evening
+      
+    [Doot] finished the job [Plosive] started and attaches 10 aboleth teeth to his leather armor
+      - granting 1d6 damage to attackers who roll a nat 1 when attacking them.
+      
+    [Briar] and [Quinn]  
+      - encounter a poisoned scavenger by giant scorpions
+      -[Briar] transforms into a riding horse, returning with the poisoned individual
+      -2 bouts of cure wounds from [Briar] to keep the man alive
+      -they take the man to [Luize Walker] the poison specialist doctor in [Arabasta] to be cured
+    
+    [Briar] and [Quinn] return to the cactus grove,  vultures eating at the remains of the camel
+      -[Briar] casts plant growth in 1/2 mile radius to cause the cacti to yield twice the prickly pear fruit
+      -[Briar] and [Quinn] rest at the grove
+      
+    [Doot] and [Plosive] rest in front of [Gaslow Garmon]'s
+    
+    [Briar] and [Quinn] return to town from the desert, each still with 1 level of exhaustion  
+          

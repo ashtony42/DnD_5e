@@ -77,7 +77,7 @@ Breaking this stone will open up the ruins where the Stone of Kord can be found.
 ++++Recovered Arabasta
     Places of Interest:
       -[Gaslow Garmon]'s glass shop
-      -Fish Market, very properous, fish being sold for 4cp per lb
+      -Fish Market, turned into a warehouse for building materials due to the darkwater creeping up to Arabasta
       -Sandstone Masons, newly formed, they are trying to determine who should lead thier guild
             Shizain (arabastan human), who favors quality regardless of expense and time
             Jurarralell (arabastan human), who favors productivity to build and expand rapidly, but has no style
@@ -89,5 +89,13 @@ Breaking this stone will open up the ruins where the Stone of Kord can be found.
         A place where many ongoing discussions are happening about how to rebuild [Arabasta]
         Topics:
           How to improve defences: hire [Marines]? create a security force like [Ak'anon]?
+      -[Luize Walker] doctor who specialized in poisons from wild animals and curing them
+        (serums are 1/2 price of poison cost]
+         - snake venom serum - 100g
+         - scorpion venom serum - 100g
+        (treatment is 1/4 of poison cost
+         - snake venom treatmen 50g
+         - scorpion 50g
+         
             
             
