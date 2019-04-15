@@ -13,7 +13,9 @@ Nightshade
       poisoned effect
       3d6
       
-Extract Poison requires DC 20 nature check
+Extract Poison requires DC 20 nature check (see DM's manual)
 
 Wyvern Poison - 1200g  - 12lb of a poisonous substance
    7d6 DC 15       
+   
+   

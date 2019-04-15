@@ -6,6 +6,9 @@ SHIPS:
 -Reworked Keelboat from Nowa Huta
     -Kaylin
 
+Cael mercenary charges
+XXXX
+
 CALENDAR
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX
@@ -22,7 +25,7 @@ XXXXX(August 7th)XX XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX 
 
-X
+XX
 
 [Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
 
@@ -1325,7 +1328,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Doot] finished the job [Plosive] started and attaches 10 aboleth teeth to his leather armor
       - granting 1d6 damage to attackers who roll a nat 1 when attacking them.
       
-    [Briar] and [Quinn]  
+    [Briar] and [Quinn] after talking with the queen head out to the cactus grove 
       - encounter a poisoned scavenger by giant scorpions
       -[Briar] transforms into a riding horse, returning with the poisoned individual
       -2 bouts of cure wounds from [Briar] to keep the man alive
@@ -1338,4 +1341,43 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Doot] and [Plosive] rest in front of [Gaslow Garmon]'s
     
     [Briar] and [Quinn] return to town from the desert, each still with 1 level of exhaustion  
+     
+++++Session 56
+    [Alas] reads the last day of The Works of Jever Blackgear's 
+      -manages to comprehend it with [Briar]'s guidance and [Doot]'s inspiration
+    
+    [Doot] goes to receive his crafted head from [Gaslow Garmon]
+      -doot pays the 30g
+      -does not have a receipt    
+      
+    [Doot] and [Alas] reccomend going to [Luthadel]
+      -[Doot] extracts venom from [Briar] in snake form
+      -[Doot] crafts some [Iksar] disquises from a giant crocodile skin
+      -[Plosive] reads the magic of the flames and succeeds comprehension
+      
+    LONG REST ON BOAT  
+      
+    the next morning a trade vessel from [Fiore] arrives
+      -[Alas] helps the traders transport crates
+      -discovers that they are transporting vegetables and meat
+        
+    Traveling to [Luthadel] (4 days)
+      stopping by [Dun Morhen] on the way (2 days) X
+        -[Doot] crafts another iksar disquise
+        -[Alas] awakens another god within his pink diamond named Pink (now Etheild, Amuletta and diamond)  
+          -awakens another within Henry the sentient rock named "Dwayne"
+          -awakens another within [Doot]'s ioun stone named Navi
+        -[Briar] works on woodcarving
+      day 2
+        [Briar] practices woodcarving
+        [Doot] makes a 3rd iksar disquise
+
+      [Doot],[Alas],[Briar],[Plosive],[Quinn]
+        -the group follows [Quinn]'s lead to the center ruins of [Dun Morhen]
+        -the encounter 4 bulettes that attack, the group slays all 4
+        -[Alas] attempts to fear one away, but does not succeed to indimidate it away
+        
+    EXPERIENCE EARNED TO GIVE: 4 Bulettes were slain              
+        
+          
           

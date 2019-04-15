@@ -12,8 +12,6 @@ The School of the Roc is an ancient elven ruin inhabited by the students of the 
 [Marren] (Human)
 [Grund] (Half Orc)
 [Varneth] (Drow)
-[Martin Terratio] (Human)
-[Letho] (Human)
 
 Wildlife includes (monster book):
     Griffon (pg 174)
