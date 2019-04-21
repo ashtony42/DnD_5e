@@ -35,12 +35,9 @@ Darkwater Pond
         -inactive so long as the dark water flows over it.
         -the pond tapers down, such that the red cube looks like a flat red floor.    
         
-EVIL GROUP NOTE:
++++AFTER-LUTHADEL ATTACK NOTE:
     In the ancient elven ruin, is the bloody aftermath of some fierce battle. Seven corpses of elves, humans, and a half orc are about the ground. A large tapestry flies from utop an 10ft iron pole in the center (Luthadel).  
     
-    Letho-Head is recognizable but looks as if his body melted into a black thick goo burnt solid.
-        -[Order of the Gauntlet] badge
-        -Dimeritium LongSword
     Marren-Intense burns and charred flesh
         -Great Sword
         -[Roc Training Notebook] on the training requirements for the School of the Roc            
@@ -49,11 +46,23 @@ EVIL GROUP NOTE:
     Ferionia Vie-stabbed in the abdomen in a bush
         -7th level Spell that can contain dark waters [Items of Importance]
         -Quarter Staff
+        -Still clinging to the world, her spirit is still present and has not passed on, feelings of regret that she was unable to save this world from the dark waters, nor her own people.
+            knowledge to offer:
+              -the Spell Scroll of Dark Water Containment (and it's futility)
+              -the eruptions from the volcano in [Kunark], decades of accumulated ash and muck in the waters dissapating quickly
+              -School of the rock
+              -Companions
+              -The golden times of [Felwithe] 
     Nifle Vanhivener- claw marks accross the back
         -Quarter Staff    
     Varneth-Intense burns and charred flesh
-        -Jolly roger flag of the Nightwraith pirates
+        -Jolly roger flag of the Nightwraith pirates (ghoulish woman's face with hair extending to the edges of the flag)
         -Long Bow
+
++++EVIL GROUP VARIATION:
+    Letho-Head is recognizable but looks as if his body melted into a black thick goo burnt solid.
+        -[Order of the Gauntlet] badge
+        -Dimeritium LongSword
     Martin Terratio-claw marks accross the chest
         -A letter from Ferionia Vie
             "We need your help, the dark waters have grown stronger, 
