@@ -59,6 +59,9 @@ city square
     -5 Metal [Order of Steel] warships are docked here, each one has up to 5 [Steel Inquisitor]'s aboard
     -administered by a order of steel brother that works from a nearby building.
     -2ish skaa per ship are responsible for keeping the boats wiped down and clean.
+    -keeping a boat at the dock cost: 
+       Iksar- 2s per day
+       Skaa- 5s per day
 
 Luthadel Black Market merchants:
   -Iggy, half-orc F (strong woman able to carry wares to sell)
@@ -67,7 +70,7 @@ Luthadel Black Market merchants:
      -Platinum - 600g (1 lb ingots)
   -[Emmik], old human, M (poor wizard that can summon loafs of bread)
   -[Quaal]'s Feather Tokens (Human, M)
-  -[Leeran] human, his shop is similarly located in a back alley that slopes down, a similar ward is in place, as well as permenant invisibility to any creature that has a hint of Iksar blood in them.
+  -[Leeran] human, his shop is similarly located in a back alley that slopes down, a similar ward is in place, as well as permenant invisibility to any creature that has a hint of Iksar blood in them. (near the south/east market)
   -[Callistege] human jeweler (f), makes items on requests, never carries any with her.
   -[Matkina] rogue mage to makes a living stealing from nobles, a follower of [Hadar]
 
@@ -78,6 +81,10 @@ Other members of this group include: (use DnD thug pg 350)
     -[Ham] half-orc fighter
     -[Dockson] halfling smuggler rogue
     -[Breeze] elf, a weak wizard who can quel emotion
+
+    -[Tom]
 To be contacted, one must go to the butcher's shop at the southern skaa market, and ask for a "Hunk of beef" while tapping a pattern on the counter:   - - - - <pause> - - - - <pause> 
 then you'll be told it won't be ready for a while but you can wait inside. Proceed, and you will be concealed and allowed access to go inside and head to the sewers through the far-side cupboard. Leading to the group's hideout.
 
+new delapidated house hideout words "have you heard of our savior Venril Sathir?"
+-the child [Tom] resides here

@@ -15,6 +15,9 @@ Lead by Lord Zasheir, a crude, tricky person
     -brass - 2g per pound
     -mithril - 100g per pound
     -platinum - 500g per pound
+  -gems 1/2 price
+    -unrefined 
+    -does have white diamonds!
   -black market
     -dimeritium - 20g per pound (anti-magic properties)
     -etherium - 40g per pound (magic properties)

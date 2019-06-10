@@ -2,12 +2,14 @@
 
 Name: [Horror Of The Void Crew]
 
+Wyvern eggs hatching time: 15days left
+
 SHIPS:
 -Reworked Keelboat from Nowa Huta
     -Kaylin
 
 Cael mercenary charges
-XXXX
+XXXXX
 
 CALENDAR
 XXXXXXX  XXXXXXX
@@ -25,7 +27,7 @@ XXXXX(August 7th)XX XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX 
 
-XX
+XXXX
 
 [Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
 
@@ -1421,9 +1423,56 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     the group heads off to [Luthadel] (2 days) X
       -granting 4500 experience for the wyvern encounter
       
-      [Briar] does a sending spell to [Silvanus], offering a wooden wolf sculpture, responding: "Holding back one's anger is unhealthy, you must guide the man in the mountain to his home where he may express himself, and his path is through his captor."
+      [Briar] does a divination spell to [Silvanus], offering a wooden wolf sculpture, responding: "Holding back one's anger is unhealthy, you must guide the man in the mountain to his home where he may express himself, and his path is through his captor."
       
+++++SESSION 59
+    Day 2 of traveling to [Luthadel]
+    
+    [Doot] begins crafting poison taking 5 days
+    [Alas] attempts to practice animal handling with all the animals on the ship and fails each time  
+    
+    Prior to docking
+    -Alas, Doot, Briar, and Plosive put on Doot's Iksar disquises
+    -Quinn does not have a disquise
+       
+    LUTHADEL WEENIE      
+    The ships are orderly lined up, and just now setting out to [Fiore] to find the [Stone of Kord] by any means necessary
+    6 metal warships, on each:
+      -5 inquisitors
+      -3 brothers
+      -20 Iksar Soldiers
+      -8 Skaa  
       
+    [Alas] commands an adolecent skaa to fetch him a map of luthadel from the west side of town, saying to return at this market.  
+      -the child steals one from a noble on the west side of town (tied with a golden string)
+      -[Alas] then heads to the boat to get a Giant Hyena to ride  
+    
+    [Briar],[Quinn] and [Plosive] go to [Leeran]'s and ask for him to cast Sending to [King Jor Doken]  
+      -there are 6 ships headed to [Fiore] that will be there in about 5 days, they are after the god stone that is at the temple.
+      
+    [Doot] acquires a jewelers kit and a map of [Luthadel]
+    
+    [Doot],[Briar],[Quinn] and [Plosive] all head to [House Zasheir] from their respective parts of the city looking for gems
+       -the group buys 3 300g valued unrefined diamonds
+    
+    The group heads back to the ship
+       -they pay the dockmaster 1 gold for 5 days of parking their boat.   
+       -the group does a long rest
+       
+    [Alas] goes with Breeze Clubs and Ham to a dilapidated building after chasing [Tom] through the sewers
+       -acquires 20 doses of wyvern poison from Breeze/Clubs/Ham from their new friend [Rhogar]
+       -joins up at the boat later to also do a long rest
+       
+    NEXT DAY   
+    [Alas] heads to [Venril Sathir]'s via a giant hyena (Ed)     
+       
+    The group setups up outside the walls of [Luthadel] and performs magic to lure inquisitors from the city   
+      -stealth 19 for doot hiding behind a tree       
+      
+    The group slew 3 inquisitors
+    GIVE EXPERIENCE 2000 AT NEXT LONG REST
+    -the group then falls back instead of attacking the guards who are calling for help "MAGES ON THE OTHER SIDE OF THE WALL!"
+    -goes to rest on the boat  
     
       
       
