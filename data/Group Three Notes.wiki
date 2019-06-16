@@ -1474,7 +1474,16 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     -the group then falls back instead of attacking the guards who are calling for help "MAGES ON THE OTHER SIDE OF THE WALL!"
     -goes to rest on the boat  
     
-      
+++++ Session 60
+    WEENIE [Venril Sathir] encounter
+      -should the party face venril sathir, the thief crew will join in, having been informed by [Spook]
+      -they will appear at an opportune time or slightly after the battle has begun, each of their melee weapons have a dose of Wyvern poison applied to them.
+           -[Renegade Leader Kelsier] (assassin pg 343)
+           -[Clubs] (thug pg 350, can only cast Non-Detection)
+           -[Spook] (spy pg 349)
+           -[Ham] (knight pg 347)
+           -[Dockson] (spy pg 349)
+           -[Breeze] (cult fanatic pg 345)     
       
       
         
