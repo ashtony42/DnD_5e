@@ -16,7 +16,7 @@ AC 18+3 God King's Etherium Inlayed Platemail (req str 18)
 Ring of Spell Storing x5 (one spell each) (pg 192 DM handbook) dull grey stone circles
 Ring of Telekinesis (pg 280 player handbook) silver with two hands grasping a yellow gem
 Ring of Regeneration (pg 191 DM handbook) +1d6 HP per 10 minutes, body parts can regrow after a few days, wooden with a vine engraved in it
-Ring of Jumping silver with two feet grasping a blue gem
+Ring of Jumping silver with two feet grasping a blue gem (3x jump distance (90ft long, 21ft high)
 Four Etherium Inlayed Rapiers 1d8+5(+11 to hit)
 
 Actions: 3 per round
@@ -29,6 +29,7 @@ Dispell Magic (pg 234 player handbook)
 Dispell Good
 Speak with Dead
 Mass Suggestion
+Fly (60ft)
 
 Abosorbed from [Kyra]
  - Water Whip

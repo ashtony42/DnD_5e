@@ -27,7 +27,7 @@ XXXXX(August 7th)XX XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX 
 
-XXXX
+XXXXX
 
 [Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
 
@@ -1485,5 +1485,21 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
            -[Dockson] (spy pg 349)
            -[Breeze] (cult fanatic pg 345)     
       
+    [Alas] arrives at [Venril Sathir]'s and mentioning that he knows something about "the man in the mountain", the guards inform the inquisitors who inform venril sathir who then sends the inquisitors to bring [Alas] inside.
+    [Alas] attempts to get venril sathirs aid about the dark water, but it quickly turns around into an interrogation about hearing a voice of [Sylvanus] and trying to find other followers, which [Alas] does not rat out his friends.
+    Venril Sathir eventually forces [Alas] into an etherium ingot to then bring over to the [Crones of Neriak] for interrogation via [Vecna]
+    
+    [Quinn], [Plosive], [Briar], [Doot] return back to the ship after their attack on the inquisitors
+      -being still in disquise as iksar (except for quinn), they were easily able to return
       
+    [Plosive] & [Briar] in disquise as iksars
+      - Quinn as a normal skaa
+      - head over to venril sathirs to ask about someone in the likeness of [Alas] in iksar disquise was here
+        -he was but did not return
+        
+    [Plosive], [Briar], [Quinn] riding 2 hyenas to the north side of [Luthadel] on their way to [House Zasheir]      
+      -[Briar] concentrates on the air elemental spell to lure out inquisitors while they are fewer to lower the population.
+      -[Maleah] comes onto the scene while supposedly iksar are attacking inquisitors and chooses it smart to NOT join the crew because they are clearly going to die soon by doing what they're doing
+      
+        
         
