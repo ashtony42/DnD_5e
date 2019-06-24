@@ -1470,7 +1470,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -stealth 19 for doot hiding behind a tree       
       
     The group slew 3 inquisitors
-    GIVE EXPERIENCE 2000 AT NEXT LONG REST
+    GIVE EXPERIENCE 2000 AT NEXT LONG REST (GIVEN)
     -the group then falls back instead of attacking the guards who are calling for help "MAGES ON THE OTHER SIDE OF THE WALL!"
     -goes to rest on the boat  
     
@@ -1501,5 +1501,13 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -[Briar] concentrates on the air elemental spell to lure out inquisitors while they are fewer to lower the population.
       -[Maleah] comes onto the scene while supposedly iksar are attacking inquisitors and chooses it smart to NOT join the crew because they are clearly going to die soon by doing what they're doing
       
-        
+++++Session 61
+    WEENIE: 2 days for Venril Sathir to reach Neriak
+    
+    Sending stones used to contact [Doot] to join [Quinn],[Briar],[Plosive] by the gate north of [House Zasheir]
+      -after dispatching 2 rounds of inquisitors that came to the north gate, the group moves in to attack [House Zasheir]
+      -[Doot] goes on a rampage trying to find [Alas] whilst hearing his voice via the message spell from [Maleah]
+         -ends up killing 2 innocent skaa
+      -[Maleah] prepares a crate for hauling the ingots from the locked room of [House Zasheir]   
+            
         

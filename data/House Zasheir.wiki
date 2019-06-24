@@ -1,6 +1,7 @@
 ﻿++ House Zasheir
 
-Lead by Lord Zasheir, a crude, tricky person
+Lead by Lord Zasheir, a crude, tricky person (DEAD at the Stayanoga Ball)
+-Now lead by the crude mannered son, [Khazzit] (thug)
 -Wants the most extravagant palace in [Luthadel] owned by [House Salazar]
 
 (rich, mining mithril and "other" metals with hundreds of skaa)
@@ -25,8 +26,11 @@ Lead by Lord Zasheir, a crude, tricky person
 Etherium Store room
     A dimeritium chest that contains 5D4 etherium ingots can be found here, guarded by at least 5 guards
     Chest has 26AC and can be lockpicked (DC 22)
+    -10 feathersteel ingots
+    -10 ehterium
+    -10 dimeritium
     
-Metal Tricket Oddity Room
+Metal Trinket Oddity Room
     -Bronze lamp that burns darkwater with a dull blue flame
     -A roll of Gold foil (10lbs)
     -A Mythril Bell 1ft/1ft, does not produce sound when rung
