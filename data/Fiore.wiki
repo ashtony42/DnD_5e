@@ -125,4 +125,30 @@ Places of interest in Mayara:
         The Mason's Guild is ran by the master mason [Dirk Dagson], a stern disciplined dwarf who thinks good craftsmanship comes from colaborative learning and working with your peers. Lessons at the Mason's guild are passed down from master to students. Thinks poorly of the Carpenter's Guild. 
         
 A very happy pleasant fellow named [Geth] is a cartographer who has lived in the town for a long time and is quick to spot newcomers to sell is town maps to.
-    2 silver for a map!        
+    2 silver for a map!  
+    
+++ATTACK ON FRIORE WEENIE  
+  [Venril Sathir] ordered an attack on [Fiore] to acquire the [Stone of Kord] from [Martin Terratio] at the Temple of Elysium.
+  The group however was able to use Sending via [Leeran] to inform [King Jor Doken] that the attack was on its way 
+  (with 3 days until their arrival)
+    6 metal warships, on each:
+      -5 inquisitors
+      -3 brothers
+      -20 Iksar Soldiers
+      -8 Skaa         
+      
+  2 warships attack each port of [Fiore], the east, south and west ports to ensure no one escapes. 
+  
+  [Martin Terratio] however had already taken a ship with the body of [Kyra], the [Stone of Kord], [Vin] and fishermen of the outer dockers to head to [Marine HQ] for safety (Crew of 80 fisherman)
+  
+  Upon easily destroying the outer docks with cannon fire, the troops embark, each ship leaves the 8 skaa and 2 soldiers behind as the rest of the crew move in to attack [Fiore] from three sides.
+    Totals: 30 inquisitors, 18 brothers, 114 soldiers
+    -without interference, the battle will claim the lives of:
+      -5 inquisitors
+      -3 brothers
+      -60 iksar soldiers
+      -65 civilians
+      -40 (of 50) [Fiore] town guard
+      -45 (of 50) [Marines]
+      -1  (of 4) [Marines] officers (survivor is [Artin Torbera] (dwarf F))
+      -any named NPC has a chance of survival DC 18 luck
