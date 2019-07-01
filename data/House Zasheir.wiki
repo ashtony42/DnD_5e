@@ -24,6 +24,9 @@ Lead by Lord Zasheir, a crude, tricky person (DEAD at the Stayanoga Ball)
     -etherium - 40g per pound (magic properties)
     
 Etherium Store room
+    crates of ingots:
+      50 1lb ingots of (gold, silver, copper, platinum, mythril)
+
     A dimeritium chest that contains 5D4 etherium ingots can be found here, guarded by at least 5 guards
     Chest has 26AC and can be lockpicked (DC 22)
     -10 feathersteel ingots

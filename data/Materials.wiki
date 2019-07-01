@@ -15,9 +15,12 @@ Dimeritium - very rare, anti-magical properties - soft like hard butter greenish
 Etherium - very rare, magical properties - very hard bluish sheen
 Mithril - very rare, magical properties - light weight, makes little sound, grayish silvery sheen (see DM handbook)
 
-Gems and their crushed forms
--gem dust value is worth 10% of it's original gem's value
-
+++Gems and their dusted forms
+-raw gem yields valued dust in a 1 to 1 ratio
+-REFINING A GEM
+   -doubles the value of the raw gem
+   -yields 20% of the raw gem's value as dust
+   -dusting a refined gem yields 80% of the raw gem's value 
 
 
 found in [Shadowfell]

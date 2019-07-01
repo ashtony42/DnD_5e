@@ -9,7 +9,7 @@ SHIPS:
     -Kaylin
 
 Cael mercenary charges
-XXXXX
+XXXXXX
 
 CALENDAR
 XXXXXXX  XXXXXXX
@@ -27,9 +27,9 @@ XXXXX(August 7th)XX XXXXXXX
 XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX 
 
-XXXXX
+XXXXXX
 
-[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXX
+[Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXXX
 
 Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being informed of possible conflict with [Luthadel] XXXXXX
 -50 marines
@@ -38,7 +38,7 @@ Marines ariving to [Mayara] in [Fiore] in 6 days upon [King Jor Doken] being inf
 [Venril Sathir] sends 6 [Steel Inquisitor]s, 6 Brothers of the [Order of Steel] in a metal warship to hunt down [Plosive] and [Jit] for the [Stone of Kord] XXXXXX
 
 Moon Phases (30 days in a cycle, day 1 is a full moon)
-(15)
+(17)
 
 [Callistege] 5 days to craft sending stones - DONE
 
@@ -57,8 +57,6 @@ Payment given for crafting to Shirrong Bronzecore
 
 KEELBOAT WORK (of 20) - DONE
 [Geth] Making Map of Known World - DONE
-
-Ship parking coverage-OVERDUE XXXXXXXXXXXXX (moved to marine HQ)
 
 The group finds themselves marooned on an unknown island. Waking up after a terrible storm.
 Thier supply vessel had 3 other crewmates who are now washed ashore with them. Only these three managed to survive.
@@ -1502,12 +1500,36 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -[Maleah] comes onto the scene while supposedly iksar are attacking inquisitors and chooses it smart to NOT join the crew because they are clearly going to die soon by doing what they're doing
       
 ++++Session 61
-    WEENIE: 2 days for Venril Sathir to reach Neriak
-    
-    Sending stones used to contact [Doot] to join [Quinn],[Briar],[Plosive] by the gate north of [House Zasheir]
+        WEENIE: 2 days for Venril Sathir to reach Neriak
+
+    The group attacks [House Zasheir]
+      -[Doot] who was receiving messages from [Maleah] claiming to be [Alas] was sent into a rage to attempt to rescue his friend who was supposedly within
+      -[Doot] killed many guards including 2 of the three innocent skaa from the kitchen
+ 
+     Sending stones used to contact [Doot] to join [Quinn],[Briar],[Plosive] by the gate north of [House Zasheir]
       -after dispatching 2 rounds of inquisitors that came to the north gate, the group moves in to attack [House Zasheir]
       -[Doot] goes on a rampage trying to find [Alas] whilst hearing his voice via the message spell from [Maleah]
          -ends up killing 2 innocent skaa
-      -[Maleah] prepares a crate for hauling the ingots from the locked room of [House Zasheir]   
-            
+      -[Maleah] begins preparing a crate for hauling the ingots from the locked room of [House Zasheir]   
+
+      -one guard was knocked out by Drow Poison from [Doot]
+      
+++++Session 62
+    Everyone joins together to slay the last inquisitor by striking at the same time.
+    
+    [Maleah] only trusts [Briar]
+       
+    the group takes the 50 ingots of gold/platinum/mythril (too the boat)
+      -and the chest with 10 ingots of ehterium/dimeritium/feathersteel ([Briar] and [Maleah] going to [Leeran]'s)
+      
+    [Maleah] trades 300g worth of fabricated diamond dust for the level3 spell of tiny servant
+
+    [Briar] and [Maleah] head back to the boat with the chest
+      -[Maleah] uses mordekainen's private sanctum on the interior of the boat
+      -[Maleah] works on writing Tiny Servant into her spellbook
+      -[Maleah] fabricates the 50 platinum ingots into 2500 platinum coins
+      
+    Long rest for 6000xp (4 inquisitors, 1 brother, 10 guards)  
+       
+              
         
