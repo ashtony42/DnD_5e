@@ -1500,7 +1500,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       -[Maleah] comes onto the scene while supposedly iksar are attacking inquisitors and chooses it smart to NOT join the crew because they are clearly going to die soon by doing what they're doing
       
 ++++Session 61
-        WEENIE: 2 days for Venril Sathir to reach Neriak
+        WEENIE: 2 days for Venril Sathir to reach Neriak X
 
     The group attacks [House Zasheir]
       -[Doot] who was receiving messages from [Maleah] claiming to be [Alas] was sent into a rage to attempt to rescue his friend who was supposedly within
@@ -1520,7 +1520,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Maleah] only trusts [Briar]
        
     the group takes the 50 ingots of gold/platinum/mythril (too the boat)
-      -and the chest with 10 ingots of ehterium/dimeritium/feathersteel ([Briar] and [Maleah] going to [Leeran]'s)
+      -and the chest with 10 ingots of etherium/dimeritium/feathersteel ([Briar] and [Maleah] going to [Leeran]'s)
       
     [Maleah] trades 300g worth of fabricated diamond dust for the level3 spell of tiny servant
 
@@ -1531,5 +1531,33 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
       
     Long rest for 6000xp (4 inquisitors, 1 brother, 10 guards)  
        
-              
+++++Session 63
+    [Maleah] tells her tiny servant to go to the ship's hold to find the most valuable thing it can find.
+                  
+    The group heads to the west side of [Luthadel] outside the walls to lure out more [Steel Inquisitor] to slay them
+      -[Maleah] uses message to persuade [Doot] into rushing in to join this effort
+      -2 inquisitors arrive and are slain
+      -doot follows guards to the southern temple
+        -upon tricking the brothers into thinking that the 2 guards are mages, he loots gold and a crudely drawn picture of the iksar mage that has been causing trouble in the recent days.
+        -the brothers take the guards to be "corrected" by inquisitors
+      -the single inquisitor from the southern temple arrives via the woods to the group and attacks
+     
+    the group heads to the southern order of steel temple
+      -2 brothers had already taken away the 2 held guards from earlier (off to primary temple in the center of the town)
+      -the group then attacks the remaining 6 brothers, uncovering the entrance to where [Vaprak] is held underneath.
+      -the battle ends up revealing the secret cooridor that leads below.
+      -[Maleah], using fabricate several times on the etherium and dimeritium that's down below ends up excavating [Vaprak]
+      
+    [Maleah] obtains the blessing of [Vaprak] (permenant "regeneration" spell effect)
+      -[Vaprak] proceeds to rampage through [Luthadel] attempting to find [Venril Sathir] and destroy him
+      
+++++Session 64
+    Weenie: after destroying the homes of Venril Sathir, Zolis, Stayanoga and Salazar, finally [Venril Sathir] himself will come back, shooting accross the ocean once he feels his restraining grip on [Vaprak] be dispelled. Makes a dynamic entrance by propelling himself at [Vaprak] and using a potent fireball to blast part of him away. Though the fight is intense, Venril Sathir will lose if unaided, releasing in this order: [Gruumsh] (volcanic eruption), 
+               [Velsharoon] (who takes advantage of all of the corpses in [Luthadel])      
         
+      
+      
+        
+        
+      
+          

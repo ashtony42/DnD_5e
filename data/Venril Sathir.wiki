@@ -64,4 +64,5 @@ Upon defeat:
     "They will not make their mistakes twice"
     The Ash Mount of [Kunark] will violently erupt as [Gruumsh] is freed. A wave of energy calls out/empowers his followers (if any remain)
     
+7th level magic is used to contain [Vaprak] and [Velsharoon]    
     
