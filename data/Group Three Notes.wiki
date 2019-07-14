@@ -1568,7 +1568,7 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Callistege] teleports the group to [Gorda]
       -the group rests at the Blooming Orchid  
       
-        
+    TODO: 2 teleportiation locations for [Maleah]    
         
       
           
