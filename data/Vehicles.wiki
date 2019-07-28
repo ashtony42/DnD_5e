@@ -1,9 +1,0 @@
-﻿++ Vehicles
-
-keelboat ~3 mph
-
-sailing ship ~6 mph
-warship ~6 mph
-
-[Order of Steel] warship ~8 mph
-
