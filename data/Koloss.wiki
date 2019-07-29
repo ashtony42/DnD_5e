@@ -2,7 +2,7 @@
 
 Young Koloss:
 use Orog (pg 247 of monster manual)
-AC 14 - HP 42
+AC 14 - HP 42 
 6+ to hit - 2 attacks
 1d12 + 4 damage - longsword
 

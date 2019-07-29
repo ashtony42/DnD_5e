@@ -2,7 +2,7 @@
 
 Name: [Horror Of The Void Crew]
 
-Wyvern eggs hatching time: 15days left
+Wyvern eggs hatching time: 15days left XXX
 
 SHIPS:
 -Reworked Keelboat from Nowa Huta
@@ -1568,6 +1568,16 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Callistege] teleports the group to [Gorda]
       -the group rests at the Blooming Orchid  
         
-        
+++++Session 65
+    [Callistege] agrees to teleport the group back to [Luthadel] 
+      -[Briar] convinces her with [Doot]'s assistance
+    
+    -Grom Mallamoog and Ron Schnapps are pursuaded to come back to the Blooming Orchid
+     -[Maleah] uses Venril Sathir's Mass Suggestion ring to gather folk to go to [Luthadel]
+      -Matkina,Ron Schnapps, Grom Malamoog, All-Blooming Orchid Staff, 73 drunks
+      -Not Lanerdar, Jack the Slumberjack
       
+    -The group teleports to Luthadel after pursuading [Callistege] to teleport everyone to [Luthadel]
+      -upon going to [Luthadel], the group heads toward the orange glow through the smoke in the north/west portion of town 
+        ([Gruumsh]'s path toward the portal cube to [Acheron], which is on fire from volcano lava)
           

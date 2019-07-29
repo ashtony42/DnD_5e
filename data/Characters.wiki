@@ -23,6 +23,8 @@ Legendary Heroes:
 [Luthadel]
     [Venril Sathir]
     [Quaal]
+    [Callistege]
+    [Matkina]
 
 [Dun Morhen]:
     [Feronia Vie]
