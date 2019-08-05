@@ -8,6 +8,8 @@ The light on Acheron varies between that similar to bright moonlight to that of 
 
 This plane judges those who fight within it. Those whose blood is determined to be the strongest will prove them selves worthy and be propogated by the cubes of this realm. Orcs currently hold this status. A cube devoid of thier precense will not spawn them. Half orcs even have enough orc blood in them to cause the spawning.
 
+The Gravity of a cube extends 30ft from each cube
+
 Factions that are constantly at war:
   -Followers of [Kadi]
   -The Spawn of [Gruumsh]
