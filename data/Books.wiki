@@ -36,5 +36,9 @@
     [Materials of Legendary Craftsmen]
     [The Endless Woods]
     
+[Shadowfell]
+  [Evernight]
+    [Life and Limb]    
+    
 [Fiore]
     [Ivasaar's Exotic Encounters] - [Tharizdun] dungeon    

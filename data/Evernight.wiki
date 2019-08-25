@@ -6,7 +6,8 @@ Ruled by the lich [Thargaun]
 
 Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 rummaging through body dumpsters
          - lonely (from Mordekeinen's) just slumped against a wall, crying, but attacks if given attention
-          
+         - [Jake Dawson] a snake oil salesmen who has a raspy voice but a handson face stitched to his head.
+               has a large trench coat to display his wares.  
 
 ++places of interest
 
@@ -45,6 +46,14 @@ Weenies: - alley wreches(from Mordekeinen's) wandering in packs of about 15-20 r
         Weapons have +1 DMG
         Armours +1 AC and add +2 to indimidate rolls
         (prices are weight of item x10 + 10, due to cost of Black Steel in [Materials])
+    
+++++Fortress of Night
+    A temple ran by the followers of [Kadi] within the [Shadowfell], many lost souls wander here seeking purpose again in the void of the [Shadowfell], but they have high standards for their new followers. 
+    Requirements:
+      -STR 14 or more
+      -DEX 12 or more
+      -must be proficient in religion (particularly [Gruumsh],[Vaprak],[Kadi])
+      If the requirements are met, they are then sent to the Black Forge to forge their own set of Black steel armor and a black steel weapon, which if it passes inspection (craftmanship check 20+), they will be an official follower of [Kadi] and are allowed access to knowledge of [Acheron] cube logistics, 4 days of studying to learn to decipher cube maps and know key routes, as well as +2 repor with followers of [Kadi]        
         
 ++++Corpse Market
     Freshly supplied by those who perished in [Acheron], whether they were once Followers of [Kadi], or other deceased faction members from [Acheron]

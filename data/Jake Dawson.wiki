@@ -1,0 +1,13 @@
+﻿++ Jake Dawson
+
+Undead human in the [Shadowfell] town of [Evernight] who sells various strange wares from his large trenchcoat
+He has three eyes, a small left eye, a normal sized right eye, and darker colored eye in his forehead
+
+-5g per lb: Embalming fluid, has 3 lbs
+-30g Book: [Life and Limb] a book about amputations and reattachments by Jonathan Letterman
+-100g: Bile Worm: A wriggling worm in a jar of stomach acid. If the worm is ingested, it feeds off of ambient darkness and excretes edible mass, preventing the host from needing to eat or drink. Note: if the host is in sunlight, it will resort to eating it's host from the inside instead. Dealing 3d6 piercing damage every hour or until the host returns to a dark area, but the host still does not need to eat or drink.
+-200g: A prestine severed hand with long slender nimble fingers that belonged to a master jeweler, and still retains much of the previous muscle memory. If attached to oneself, it will grant a +30g crafting benefit for jewelcraft
+-5g each: a jar of eyes that belonged to humanoids with dark vision (grant 60ft dark vision)
+-50g each: a jar of Dark Elf and Duergar eyes (grant 120ft dark vision, Sunlight Sensitivity: disadvantage on attack and perception rolls based on sight)
+-1g each: children eyes that are smaller in size (less than 10yrs old and are able to detect Skulks)
+

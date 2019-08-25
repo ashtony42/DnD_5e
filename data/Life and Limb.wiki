@@ -1,0 +1,8 @@
+﻿++ Life and Limb
+
+a book about amputations and reattachments by Jonathan Letterman
+
+The book contains detailed diagrams and instructions regarding the amputation and reattachment of limbs and appendages of many races and creatures.
+
+Anyone who is proficient with Medicine that spends at least 8 hours reading this book gains advantage on medicine rolls 
+involving amputation and bodily reattachments.
