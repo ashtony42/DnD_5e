@@ -2,7 +2,8 @@
 
 Name: [Horror Of The Void Crew]
 
-Wyvern eggs hatching time: 15days left XXX
+Wyvern eggs hatching time: 15days left XXXXXXX
+Black Steel Embelished Armor: 3 days XX
 
 SHIPS:
 -Reworked Keelboat from Nowa Huta
@@ -28,6 +29,7 @@ XXXXXXX  XXXXXXX
 XXXXXXX  XXXXXXX 
 
 XXXXXXX
+XX
 
 [Alas] sends a crate to [Dockson] at [Luthadel] taking 7 days to arrive XXXXXXX
 
@@ -1633,3 +1635,51 @@ Vin tracks down [Letho] and ask him to join for the attack on [Arabasta]
     [Doot] and [Plosive] make it to the Black Forge in the [Shadowfell]  
       -escorted by 4 followers of [Kadi]  
      
+++++Session 68
+    Maleah copying spells to her spellbook while waiting for [Kaylin] and [Cael Caemond] to arrive (about 1 day)
+    [Briar] creates a batch of goodberrys in preparation for [Kaylin]'s arrival
+      -peforms 8 hour ritual to improve the plants of [Dun Morhen]
+      -and to help Tuber
+      
+    Followers of [Kadi] put in the order for the Black Forge to make a set of embelished platemail armour with gold decorations
+    
+    [Doot] steals 2 childrens eye from a shady alley merchant and gets them "installed" at the mortuary in [Evernight]
+      
+    the find [Mara] by the entrance to the fortress of night pleading that she's worthy for the follows of [Kadi]
+      -[Doot] gives her a copper after defeating her with Plosive's armor
+      -Captain Leciria is convinced that Doot is the daughter of night with a little apprehension
+      -[Plosive] is looking through book materials at the Fortress of Night for an understanding of their surroundings
+      
+    MEANWHILE:
+        Boat arrives at Dun Morhen
+        200 people, 100 skaa 100 iksar
+        120 people pass through a portal to Luthadel opened by Maleah after convincing the groups by charming the Luthadel Dock Master and doing a skywrite that appears to be from Venril Sathir claiming that Luthadel is safe to return to.
+          -iksar were given precidence over skaa, 
+        80 skaa remain on the ship that didn't make it through
+          -they are teleported by maleah to [Gorda]
+        
+        Stolen Items by folks who are taking some, but not enough to be suspicious:
+        -800 gold coins
+        -50 platinum coins
+        -2 etherium & 2 dimeritium
+
+        [Briar] finds some safes to store valuables (does not know the combinations, plosive would have the combinations)
+        [Maleah] fabricates many of the ingots into weapons and armors
+        [Briar] and [Maleah] converse and attempt to identify [Briar]'s ghosty condition
+        -They set sail back to [Fiore] (2 days) XX
+        
+        [Plosive] and [Doot] at the Fortress of Night:
+          -write their own book content that the follows of Kadi are expecting, rewriting history, insisting Doot should be leader of [Evernight] book 14, using caligraphy skills
+          -Overhear the followers of Kadi talking about the need to gather skulls for the ritual: [Doot] insists not to kill greater than 365 victims
+          
+        [Maleah] does some communication with [Doot]/[Venril Sathir] to ask about the Daughter of the Night
+        
+      Doot/Plosive  
+        -15 heads acquired by the next day by the followers of [Kadi]
+        -Doot will evaluate new followers of Kadi
+        -13 skulls from unworthy followers of kadi
+        -2 buff worthy
+        -5 who were able to pay 10g to be followers of kadi
+            
+++++Session 69
+    Weenie beginning: Briar and Maleah will arrive at Fiore          
