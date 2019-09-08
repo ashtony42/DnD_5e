@@ -142,13 +142,12 @@ A very happy pleasant fellow named [Geth] is a cartographer who has lived in the
   [Martin Terratio] however had already taken a ship with the body of [Kyra], the [Stone of Kord], [Vin] and fishermen of the outer dockers to head to [Marine HQ] for safety (Crew of 80 fisherman)
   
   Upon easily destroying the outer docks with cannon fire, the troops embark, each ship leaves the 8 skaa and 2 soldiers behind as the rest of the crew move in to attack [Fiore] from three sides.
-    Totals: 30 inquisitors, 18 brothers, 114 soldiers
+    Totals: 30 inquisitors, 18 brothers, 120 soldiers
     -without interference, the battle will claim the lives of:
       -5 inquisitors
       -3 brothers
       -60 iksar soldiers
       -65 civilians
-      -40 (of 50) [Fiore] town guard
-      -45 (of 50) [Marines]
+      -40 [Fiore] town guard
+      -60 [Marines]
       -1  (of 4) [Marines] officers (survivor is [Artin Torbera] (dwarf F))
-      -any named NPC has a chance of survival DC 18 luck
